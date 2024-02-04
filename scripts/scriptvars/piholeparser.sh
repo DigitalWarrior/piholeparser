@@ -20,7 +20,7 @@ git_cred_email=""
 ## Repo Information
 ## Repo
 git_repo_name=piholeparser
-git_repo_owner=deathbybandaid
+git_repo_owner=DigitalWarrior
 git_repo_branch=master
 git_repo_url_a="github.com/$git_repo_owner/$git_repo_name.git"
 git_repo_url_b="https://github.com/$git_repo_owner/$git_repo_name.git"

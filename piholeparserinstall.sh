@@ -10,7 +10,7 @@
 
 ## Install Variables
 git_repo_name=piholeparser
-git_repo_owner=deathbybandaid
+git_repo_owner=DigitalWarrior
 git_repo_url_b="https://github.com/$git_repo_owner/$git_repo_name.git"
 git_local_repo_path=/etc/"$git_repo_name"
 OUTSIDEDIRVARS=/etc/"$git_repo_name".sh
