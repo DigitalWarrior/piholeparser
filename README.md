@@ -6,11 +6,11 @@ THIS PROJECT IS DEAD.
 
 * Script Started Sat Dec 26 00:20:17 UTC 2020
 * Script Ended Sat Dec 26 00:34:39 UTC 2020
-* [Script Took 14 Minutes To Filter 132 Lists. See Log Here.](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+* [Script Took 14 Minutes To Filter 132 Lists. See Log Here.](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 * The Edited AllParsed File is 42 MB And Contains 2077699 Domains.
 * Average Parsing Of 37149.8 lines in 4 BlackLists was 25.75 Seconds.
 * 1752 Valid Top Level Domains. No New TLD's.
-* [6 Lists That Do NOT Use https](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/20-Identifying-Lists-Without-https.md)
+* [6 Lists That Do NOT Use https](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/20-Identifying-Lists-Without-https.md)
 
 ### This Project Aims To Universally take ANY Blacklist, and ensure that it is formatted to be compatible with [Pi-hole(tm)](https://pi-hole.net/)
 
@@ -57,13 +57,13 @@ Simply copy the RAW format url for the list and add them.
 
 Just add
 
-    https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CombinedBlacklists/CombinedBlackLists.txt
+    https://raw.githubusercontent.com/DigitalWarrior/piholeparser/master/Subscribable-Lists/CombinedBlacklists/CombinedBlackLists.txt
 
 ###### I also have a list that is driven by the userbase.
 
 * To request a list to be whitelisted or blacklisted, please submit an issue containing WHY it should be added or removed.
 
-    https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CombinedBlacklists/DeathbybandaidList.txt
+    https://raw.githubusercontent.com/DigitalWarrior/piholeparser/master/Subscribable-Lists/CombinedBlacklists/DeathbybandaidList.txt
 
 _______________________________________________________________________________________________________________________
 
@@ -88,7 +88,7 @@ This will allow me to query the individual parsed files for a specific domain.
 
 ## Log
 
-There is a [Log Available](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+There is a [Log Available](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 
 This should provide some insights as to what lists are dead, empty, or too large for github.
 
