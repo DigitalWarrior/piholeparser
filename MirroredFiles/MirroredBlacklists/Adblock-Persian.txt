@@ -4,6 +4,8 @@
 ! ---------- Generic Blocking Rules ----------
 .ir/baner
 /banner.js
+*/redirect/ads*
+redirect/ads
 images/banner*.gif
 *CornerBanner*
 banner-group.gif
@@ -156,6 +158,7 @@ _vps-banner*.gif
 ||digiato.com/*afranet.jpg
 ||digiato.com/*Banner*
 ||digiato.com/*800-80.gif
+||click.digiato.com/
 ||donya-e-eqtesad.com*.gif
 ||donya-e-eqtesad.com*BannerFile*
 ||e-estekhdam.com*.swf
@@ -177,6 +180,8 @@ _vps-banner*.gif
 ||funpatogh.com/images/*
 ||forum.persiantools.com/*.swf
 ||forums.mihandownload.com/uploaded/*
+||khabaronline.ir/*/ads*
+||khabaronline.ir/*gif*
 ||forum.mobilestan.net/*/tablighat/*
 ||forum.persiantools.com/images/bm/*
 ||footiran.com/images2/SlideShow_Banner/*
@@ -184,6 +189,7 @@ _vps-banner*.gif
 ||freeshare.ir/images/5iqs4ck8nq9h3zouvwan.gif
 ||film2movie.*.gif
 ||namnak.com/*.gif
+||gamefa.com/wp-content/*.gif
 ||gamefa.com/*baner*
 ||gamefa.com/*bener*
 ||gamefa.com/*banner*
@@ -242,6 +248,7 @@ _vps-banner*.gif
 ||khabaremruz.com/*banner*
 ||khabarpu.com/banner/*
 ||kamyabonline.com/picture/Pic/*
+||khabaronline.ir/*/ads/*
 ||kamyabonline.com/picture/*
 ||kocholo.*/img/images/*
 ||image.kocholo.*/logo/*
@@ -283,6 +290,7 @@ _vps-banner*.gif
 ||ofoghnews.ir/*.swf
 ||patoghu.com*Banner*
 ||pixna.ir/webshoper/other
+||pishkhan.com/*.gif
 ||persian-singers.com/peel/small.swf?ico=/peel/small.jpg
 ||persianmob.net/imgb/*
 ||pic1.iran-forum.ir^
@@ -294,6 +302,7 @@ _vps-banner*.gif
 ||parsianfun.com/upload/images/*
 ||parsianfun.com/pic/gardanband/*
 ||pcnetwork.ir/*.swf
+||par30games.net/*.gif
 ||persian-star.net/template/*
 ||persian-star.*/shop/*
 ||persian-star.*/fal/*
@@ -310,6 +319,7 @@ _vps-banner*.gif
 ||p30day.com/images/shop/
 ||p30world.com/tablighat*/
 ||p30world.com/images/link2english/*
+||patoghu.com/new/*.gif
 ||pnu-club.com/up/images/*
 ||rasashop.com/
 ||shahrsakhtafzar.com*/*.swf
@@ -330,6 +340,7 @@ _vps-banner*.gif
 ||softgozar.com/Image/Base/Banner/t_01.png
 ||softwarefreedomday.org*banner*
 ||soft98.ir/buy*.gif
+||file.soft98.ir/*.gif
 ||soft98.ir*.swf
 ||soft98.ir/android*.jpg
 ||sekehfa.com/*.swf
@@ -368,10 +379,13 @@ _vps-banner*.gif
 ||yekmobile.com/banner/*
 ||yasdl.com/image/*
 ||uploadboy.com/banner*
+||utopclick.com/banner*
+||utopclick.com/ad*
 !
 ! ---------- 3rd party blocking rules ----------
 !
 ||adweb.ir^$third-party
+||static1.farakav.com/$third-party
 ||alborzdownload.com^$third-party
 ||avaserver.com^$third-party
 ||ashiyane.org^$third-party
@@ -454,9 +468,17 @@ _vps-banner*.gif
 ||nextag.com^$domain=head-fi.org
 ||vbfarsi.net^$domain=mobilestan.net
 ||dropboxusercontent.com^$domain=ieclub.ir
+||picofile.com^$domain=utopclick.com
+----------Mobile Tracker---------
+*web&utm_campaign
+*utm_medium
+*utm_source
+*Mobile&utm_medium
+*Mobile&utm_medium=DisplayWeb&utm
 !---------- Trackers ------------
 !
 ||ad.adtube.ir^
+||azki.com^
 ||eshopcomp.com^
 ||adnegah.net$third-party
 ||kaprila.com^
@@ -483,6 +505,7 @@ _vps-banner*.gif
 /counter.$domain=~cnbeta.com|~dl.pconline.com.cn|~shooter.cn
 /stat.$~script,domain=~ameba.jp|~ameblo.jp|~zcool.com.cn
 ||melatstat.com^
+||mediaad.org^
 ||clickyab.com^
 //tracking.$third-party
 ||adpersia.com^$third-party
@@ -1007,6 +1030,7 @@ generaleshop.com###reklam01
 generaleshop.com##.ggoogle
 gooyait.com##.content-ads2
 gooyait.com###top-left
+gamefa.com###ad_bb1
 !
 gsm.ir###MainAd
 ###ad2_inline
@@ -1070,6 +1094,7 @@ syria.liveuamap.com###modalWrapA
 liveuamap.com##.passby
 mahdaviat.org###theLayer
 makki.ir##IMG[src="http://m...content-available-to-author-only...i.ir/pic/1.jpg"]
+mehrnews.com###ads-container
 mihandownload.com##DIV[style="border: 1px solid rgb(255, 172, 145); padding: 3px; font-size: 8pt; color: rgb(0, 0, 0); font-family: Tahoma; background-color: rgb(251, 234, 234); text-align: right;"]
 mihandownload.com###entry-24620
 mihandownload.com###entry-24736
@@ -1179,6 +1204,12 @@ softgozar.com##TABLE[style="background-color: #FEFF49; color: #03215D; text-alig
 softgozar.com##.desc_add_text
 softgozar.com##.adv_text_ttl
 softgozar.com##li[style="font-size: 9pt;"]
+soft98.ir,~forum.soft98.ir#@#:xpath(/html/body/div/div/div/div/div/ul/li[3])
+soft98.ir,~forum.soft98.ir#@#a[href*="linkdoni.soft98.ir"]:upward(div)
+soft98.ir,~forum.soft98.ir#@#:xpath(/html/body/div/div/div[3])
+soft98.ir,~forum.soft98.ir#@#^:xpath(/html/body/div/div/div/div/div/ul/li[3])
+soft98.ir,~forum.soft98.ir#@#^a[href*="linkdoni.soft98.ir"]:upward(div)
+soft98.ir,~forum.soft98.ir#@#^:xpath(/html/body/div/div/div[3])
 sibdownload.com###120-240
 sibdownload.com###amazon_scroller2
 sibdownload.com##.amazon_scroller
@@ -1192,23 +1223,9 @@ softgozar.com###ctl00_dtlAdvertiseRightPan
 softgozar.com###backgray-layout
 softgozar.com##[href="http://w...content-available-to-author-only...e.ir"] > IMG
 softgozar.com###dtlAdvertiseBan
-soft98.ir##.ss_topwhite[style="padding:10px 2px 10px 5px"]
-soft98.ir##.shad
-soft98.ir##.block_h_1.block_f_t
-soft98.ir##[style="width:195px"] > *
-soft98.ir##TABLE[style="width: 100%"]
-soft98.ir##TABLE[style="width: 100%;"]
-soft98.ir##P[align="center"]
-soft98.ir##P[style="font-family:Tahoma;font-size:11px"]
-soft98.ir##.block_h_1.block_f_t
-soft98.ir##.elan.boxi + * + * > .block_asli
-soft98.ir##.elan.boxi
-soft98.ir###left > .elan.boxi + * > .block_asli
-soft98.ir##.shad2
-soft98.ir##.shad2.tinrnmnyveoccoyxgxpw
-soft98.ir##.block_h_1.block_f_t
-soft98.ir##:first-child + .block_h_1.block_f_t + * + DIV.block_asli
-soft98.ir##:first-child > .block_h_1.block_f_t + * + .block_asli + * + * + DIV
+soft98.ir##.adx-image
+soft98.ir###toast
+soft98.ir###tooltip650625
 shop.mobilestan.net##.lProLayer
 takhfifan.com##DIV[class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-resizable"]
 takhfifan.com##DIV[class="ui-widget-overlay"]
@@ -1225,6 +1242,7 @@ taksong.ir##P[style="text-align: center;"]
 trainbit.com##A[style="  border: 1px solid #AAAAAA;display: block;margin: 0 auto;width: 700px;"]
 taksong.ir##DIV[align="center"]:first-child
 tabnak.ir##[class^="txt_adv_"]
+tabnak.ir##DIV[id="adv8"][class="adv_logo"]
 tabnak.ir##.visible-xs.hidden-lg.hidden-md.hidden-sm.hidden-ms.adv_fixed_bottom + * + * IFRAME
 tooptarinha.com##DIV[style="position: fixed; right: 0px; bottom: 0px; z-index: 1000;"]
 tooptarinha.com###topbar

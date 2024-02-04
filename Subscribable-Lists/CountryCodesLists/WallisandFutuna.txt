@@ -2,5 +2,7 @@
 bin.wf
 edu.wf
 io1.wf
+lekcje.wf
 vm1195891.kvm.had.wf
 vm948040.had.wf
+www.lekcje.wf

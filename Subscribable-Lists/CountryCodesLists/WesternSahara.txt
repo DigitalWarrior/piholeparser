@@ -1,5 +1,3 @@
-adsl-62-48-192-81.adsl.iam.net.ma
-adsl-66-101-192-81.adsl2.iam.net.ma
 alhiraf.ma
 altituderh.ma
 andbank.me.ma
@@ -32,7 +30,6 @@ diarselborj.ma
 e-loterie.ma
 enmx.cu.ma
 enovasante.ma
-eu.ma
 expansion360.ma
 facearabe.ma
 fbook.com-18898247.logintek.ma
@@ -41,7 +38,6 @@ fedgoo.cu.ma
 fondation-aboubakrelkadiri.ma
 fondationabdelhadiboutaleb.ma
 foods.ma
-fr.ma
 giac-tertiaire.ma
 gold-shipping.ma
 greentic.univcasa.ma
@@ -54,7 +50,6 @@ interfacerh.ma
 ipmes.ma
 irrigare.ma
 jazmany.cu.ma
-jeux.co.ma
 justart.ma
 khalij.ma
 labocentral.ma
@@ -75,6 +70,7 @@ nodets-ykqtmtqjkd.cikaperformance.ma
 officeon.ch.ma
 originalone.ma
 paypal.ariaprint.ma
+perso.menara.ma
 pisciniste.ma
 pneumorek.ma
 poly-tech.ma
@@ -88,7 +84,6 @@ royalair.koom.ma
 scolarite-fssm.uca.ma
 secure-apphalifaxupdate-verification-online.tgf.ma
 siri.ma
-six.ma
 sportech.ma
 sushistore.ma
 taalim.ma
@@ -96,7 +91,6 @@ tonsite.ma
 triangle.ma
 venteexpress.ma
 vgs.ma
-vip.ma
 www.e-loterie.ma
 www.loterie.ma
 youssef-amrani.ma

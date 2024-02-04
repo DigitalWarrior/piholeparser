@@ -1,3 +1,4 @@
+about.marve.com.do
 alquila.com.do
 analytics.any.do
 apunte.com.do
@@ -10,6 +11,7 @@ chase.bank.active.balance.elian.do
 cidrd.com.do
 construlok.com.do
 debuguean.do
+delivery-waiting.do
 dok.do
 duranbello.com.do
 fcd.org.do
@@ -24,10 +26,13 @@ link.do
 lmc.com.do
 maunaloa.com.do
 megasol.com.do
+my-upstracking.com.do
 panastore.com.do
 paypalaccount.dulcessuenos.com.do
 pe.com.do
 po.do
+pornhub.com.do
+privacy-policy-case-3088553121.do
 raquelguzman.com.do
 search.snap.do
 segurnet.com.do
@@ -36,4 +41,9 @@ toner.com.do
 voce.com.do
 webmail.lmv.com.do
 welcome.do
+www.about.marve.com.do
+www.delivery-waiting.do
+www.my-upstracking.com.do
+www.pornhub.com.do
+www.privacy-policy-case-3088553121.do
 zsi7.destinia.do

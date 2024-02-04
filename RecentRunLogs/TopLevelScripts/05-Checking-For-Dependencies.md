@@ -1,18 +1,19 @@
-[Return To Repository](https://github.com/deathbybandaid/piholeparser/)
-[Return To Main](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
 # 
-## curl Sat Dec 26 00:20:16 UTC 2020
-curl Already Installed Sat Dec 26 00:20:16 UTC 2020
-## gawk Sat Dec 26 00:20:16 UTC 2020
-gawk Already Installed Sat Dec 26 00:20:16 UTC 2020
-## idn Sat Dec 26 00:20:16 UTC 2020
-idn Already Installed Sat Dec 26 00:20:16 UTC 2020
-## p7zip Sat Dec 26 00:20:16 UTC 2020
-p7zip Already Installed Sat Dec 26 00:20:16 UTC 2020
-## sed Sat Dec 26 00:20:16 UTC 2020
-sed Already Installed Sat Dec 26 00:20:16 UTC 2020
-## tar Sat Dec 26 00:20:16 UTC 2020
-tar Already Installed Sat Dec 26 00:20:16 UTC 2020
-## wget Sat Dec 26 00:20:16 UTC 2020
-wget Already Installed Sat Dec 26 00:20:16 UTC 2020
+## curl Sun Feb  4 14:50:33 MST 2024
+curl Already Installed Sun Feb  4 14:50:33 MST 2024
+## gawk Sun Feb  4 14:50:33 MST 2024
+gawk Already Installed Sun Feb  4 14:50:33 MST 2024
+## idn Sun Feb  4 14:50:33 MST 2024
+idn Already Installed Sun Feb  4 14:50:33 MST 2024
+## p7zip Sun Feb  4 14:50:33 MST 2024
+Installing p7zip Sun Feb  4 14:50:33 MST 2024
+Error Installing p7zip Sun Feb  4 14:50:33 MST 2024
+## sed Sun Feb  4 14:50:33 MST 2024
+sed Already Installed Sun Feb  4 14:50:33 MST 2024
+## tar Sun Feb  4 14:50:33 MST 2024
+tar Already Installed Sun Feb  4 14:50:33 MST 2024
+## wget Sun Feb  4 14:50:33 MST 2024
+wget Already Installed Sun Feb  4 14:50:33 MST 2024

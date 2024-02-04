@@ -93,7 +93,6 @@ krabi.go.th
 kstm.or.th
 labstory.in.th
 learn.vru.ac.th
-leogroup.co.th
 library.bsru.ac.th
 lmc.co.th
 ln.ac.th
@@ -117,7 +116,6 @@ mrtrecycling.co.th
 nfc-sukhothai.or.th
 nhc13.kku.ac.th
 nhongteennok.go.th
-nirvana.co.th
 nkedu1.go.th
 nmp.ac.th
 nptedu.go.th
@@ -140,6 +138,7 @@ phayamengrai.chiangrai.doae.go.th
 phitsanulok1.go.th
 phy.sci.lru.ac.th
 playboy.co.th
+pn.ac.th
 polybond.co.th
 powerbee.co.th
 prmsd.msdbangkok.go.th
@@ -148,7 +147,6 @@ prowin.co.th
 qsds.go.th
 qualityprint.in.th
 r2r.npru.ac.th
-resam.or.th
 resveratrol.co.th
 rightman.co.th
 rmutcon2018.rmutsv.ac.th
@@ -161,10 +159,12 @@ sanyai-love.rmu.ac.th
 scglobal.co.th
 school.obec.go.th
 secondary36.obec.go.th
+server.easysalepage.in.th
 server3.sourcecode.co.th
 siamimplement.co.th
 siriwat.co.th
 smejump.co.th
+smetrics.frontline.co.th
 smilingfish.co.th
 smtasia.co.th
 solutioncontrol.co.th
@@ -213,6 +213,7 @@ ws-adv.ais.co.th
 www.art.cmru.ac.th
 www.n2plus.co.th
 www.playboy.co.th
+www.pn.ac.th
 www.scglobal.co.th
 www.signal49.dev.dusit.ac.th
 www.stats.in.th

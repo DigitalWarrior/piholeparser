@@ -7,13 +7,11 @@ desenvolupament.ad
 files.native.ad
 halal.ad
 id.google.ad
-miner.ad
 nugg.ad
 partners.content.ad
 publi.forum.ad
 rtb-px.content.ad
 spider.ad
 token.ad
-www.miner.ad
 wwww.token.ad
 xena.ad

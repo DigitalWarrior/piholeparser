@@ -1,8 +1,9 @@
 ! Title: uBlock Indo
-! Last modified: 22 December 2020, 10:57:17 WIB
-! Expires: 31 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
+! Last modified: 16 December 2023, 00:38:30 WIB
+! Expires: 180 days (Stable Release) or Every time uBlock Indo is updated on GitHub (Beta Release)
 ! To find out how to do a manual update, visit https://ublockfiltersindonesia.blogspot.com/2018/04/ubindo.html
 ! Function: Block annoying ads, want to request ? Visit https://github.com/Hakame-kun/uBlock-Filters-Indonesia/issues
+! If you want to support your favorite website, try turning off uBlock for that, it will help web admins for their websites
 
 ! ========== URL List ==========
 
@@ -15,12 +16,14 @@
 ||35.188.147.160$popup,3p
 ||4youtds.com$popup,3p
 ||6c37f8a12dede103bf7.com$3p
+||7moor.com$3p
 ||8ixrxa2tnr.com$popup,3p
 ||8lhf65dy.com$3p
 ! ------------------------------
 ||a.admp.io$3p
 ||a.props.$3p
 ||aa24h.com$3p
+||absoluteroute.com$3p
 ||acefile.club/asset/rev
 ||ad.a-ads.com$3p
 ||ad.plus$3p
@@ -33,27 +36,29 @@
 ||adsafelink.com/js/webscript.js$3p
 ||adtival.*$3p,script
 ||advideo.ru$3p
+||alexametrics.com$3p
 ||allcoins.pw$3p
 ||allsync.com/img/ad$3p
 ||alphamrkt.com$3p
 ||anews.today$3p
+||androidmodapk.cc$inline-script
 ||androidrepublic.org/js/siropu/chat
 ||anibatch.me*gif
 ||animebatch.web.id*gif
 ||animelist.pw$inline-script
 ||app.pegel.pw/wp-content/uploads
 ||apps.drakor.id/images/yu/2.jpg
+||arc.io$3p
 ||arenabetting.cc$3p
 ||areyouahuman.com$3p
 ||assapebat.club$3p
 ||asiatoday.online$3p
 ||aud3g.com$3p
 ||auplod.com$3p
+||avtub.click$3p
 ||backlinkr.net/img/adblock-
 ||ban-host.ru$3p
 ||batsdivannab.com$3p
-||bercara.com/download*.png
-||bercara.com*.png
 ||bioskopgue.net/wp-content/uploads*gif
 ||bisabuka.net/?utm_source=$popup,3p
 ||bitcoinad.pro$3p
@@ -63,8 +68,8 @@
 ||bolaoke.club/wp-content/uploads*.jpg
 ||bonusbitcoin.co$3p
 ||boudja.com$3p
-||bp.blogspot.com$3p,domain=drakorindo.cc|elsfile.org|kazefuri.me|samehadaku.vip
-||bp.blogspot.com*gif$3p,domain=acefile.co|aceservice.club|awsubstv.com|cinemakv21.com|drakorindofilms.tv|inidramaku.com|juragan-anime.net|kawanfilm21.online|komiku.net|korenlovers.co|lebahmovie.com|lk21id.com|neonime.org|netnot21.com|oujanime.com|senimovie.co|treasurebits.net
+||bp.blogspot.com$3p,domain=drakorindo.cc|elsfile.org|kazefuri.me
+||bp.blogspot.com*gif$3p,domain=acefile.co|aceservice.club|awsubstv.com|cinemakv21.com|drakorindofilms.tv|inidramaku.com|juragan-anime.net|kawanfilm21.online|komiku.net|korenlovers.co|lebahmovie.com|lk21id.com|nekopoi.care|neonime.org|netnot21.com|oploverz.bz|oujanime.com|senimovie.co|treasurebits.net
 ||brainbux.com$3p
 ||btcmedia.co$3p
 ||bucket.id*gif$3p,domain=idfl.me
@@ -83,6 +88,7 @@
 ||clearonclick.com$popunder
 ||clk.press/js/pop.php
 ||clksite.com$3p
+||cloudfront.net$3p,domain=hakie.net
 ||cointiply.com/api/ads*all$important
 ||cointiply.com/api/userads$important
 ||cointiply.com/arrowchat$important
@@ -99,6 +105,7 @@
 ||crypto-loot.com$3p
 ||cryptobrowser.site$3p
 ||cryptofarmer.com$3p
+||ctengine.io$3p
 ||cusok.ru$3p
 ||d162nnmwf9bggr.cloudfront.net$3p
 ||d1nmxiiewlx627.cloudfront.net$3p
@@ -123,12 +130,13 @@
 ||dramaindo.me$3p
 ||dwindly.io$3p
 ||easyhits4u.com/service-worker.js$important
-||easyhits4u.com*gif$important
 ||easyhits4u.com/user/banners$important
+||eexupeer.net$3p
 ||elevenday.me$3p
 ||elexies.info$3p
 ||elfsight.com$3p
 ||elthamely.com$3p
+||embed.js$3p
 ||emeraldbux.com$3p
 ||enrilov.info$3p
 ||estoopsi.com$3p
@@ -154,6 +162,7 @@
 ||freeproxy.io$3p
 ||fresh-video.com$3p
 ||ganool.*gif
+||gather.network$3p
 ||gdriveplayer.*ads.
 ||genderfluidsupport.com
 ||genieessp.com$3p
@@ -182,10 +191,12 @@
 ||i.imgur.com$3p,domain=acefile.co|aceservice.club|awsubstv.com|bitcolife.ru|dunia21.men|mangaindo.net|nanime.tv|treasurebits.net
 ||ibb.co$3p,domain=kazefuri.me
 ||ibb.co*gif$3p,domain=idfl.me|ojooo.com
+||icoawhou.com$3p
 ||idfl.*/fancy
 ||idsly.com$3p
 ||iframedogecoin.com$3p
 ||iframedogecoin.xyz$3p
+||iili.io$3p
 ||imageshack.host$3p
 ||img.akubebas.com/images*gif
 ||img.kotak*casa*gif
@@ -224,8 +235,7 @@
 ||madplypie.club$3p
 ||mediafire.com/dynamic/track_adblock
 ||miningpoolstats.stream*gif$1p
-||miningpoolstats.stream/img*.$1p
-||miningpoolstats.stream/referral
+||miningpoolstats.stream/img$1p
 ||mirrorace.com/themes/ace/assets/img/Jk
 ||misslk.com$3p
 ||ml314.com$3p
@@ -238,25 +248,26 @@
 ||moonliteco.in$3p
 ||movieon21.*/wp-content/uploads*gif
 ||moviesave.net$3p
+||mrgreekroad.com$3p
 ||my188bet.com$3p
+||nekopoi.care/wp-content/uploads/*ads*.$image
 ||nekopoi.care/wp-content/uploads*gif
-||news-tech.xyz/download3.png
 ||newsofworld.club$3p
 ||nikitapoker.net$popup,3p
 ||nobza.com$3p
 ||nolix.ru$3p
-||nontondrakor.*.gif
 ||nt1.co$3p
-||ojooo.com/img/*.gif
 ||oukruque.com$3p
 ||onesignal.com$3p
 ||onlyhgames.com/balo
+||onnnxftprfvm.xyz$3p
 ||onsafelink.com$3p
 ||orbisbux.com$3p
 ||oujanime.com*gif
 ||ouo.io$3p,script
 ||ouo.io/images/b1.png
 ||ouo.io/images/b2.png
+||ouphoarg.com$3p
 ||oupushee.com$popup,3p
 ||paripartners55.com$3p
 ||pc2ads.com$3p
@@ -296,11 +307,13 @@
 ||shortpixel.ai*gif$3p
 ||sibautomation.com$3p
 ||sillyscrew.com$3p
+||siwhausy.net$3p
 ||smartphoneslist.com$popunder
 ||smartphoneslist.com$popup,3p
 ||sparechange.io$3p
 ||steadfastsystem.com$3p
 ||stream-me.com
+||streetuptowind.com$3p
 ||tagbucket.cc$3p
 ||talysu.info$3p
 ||tango-deg.com$popunder
@@ -309,6 +322,7 @@
 ||tcheats.com$inline-script
 ||tharbadir.com$3p
 ||thetreuntalle.pro$3p
+||tikstok.fun$3p
 ||tinypic.com$3p,domain=idfl.biz|idfl.info|idfl.me|idfl.my.id
 ||tobys.dk$inline-script
 ||top4top.net$3p
@@ -336,17 +350,22 @@
 ||vkaofq64zz.com$3p,popup
 ||vktarget.ru$3p
 ||vouceeco.com$3p
+||vpnrice.com$3p
 ||wad.ojooo.com/images/banners
 ||wanhealth.me*soralink
 ||waxpigbaa.com$3p
 ||webminepool.com$3p
+||whos.amung.us$3p
+||whouledu.com$3p
 ||wi.cr/bn.png$image
-||wistia.com$3p
 ||wowjogsot.com$3p
 ||wp.com*gif$domain=conan.id|idxxi.top|lebahmovie.com|nonton.drakor-id.com|pusatfilm21.com
 ||wp.com*gif$important,domain=awsubstv.com
+||www.googletagmanjs$3p
 ||x.kinja-static.com/assets/packaged-js/dollars.
+||xsusmtvgvxp.xyz$3p
 ||y-image.com$3p
+||yepsawomen.com$3p
 ||yhig.info$3p
 ||yonashbin.com$3p
 ||zonawibu.me/data/no-ads.
@@ -454,9 +473,9 @@
 *$3p,domain=melovin.site
 *$3p,domain=mirrored.to
 *$3p,domain=mm1.ink
-*$3p,domain=nekopoi.care
 *$3p,domain=neobux.com
 *$3p,domain=newwaysurf.com
+*$3p,domain=nozomi.la
 *$3p,domain=ouo.io
 *$3p,domain=ownbitcoins.net
 *$3p,domain=owllink.net
@@ -466,6 +485,7 @@
 *$3p,domain=ptcwall.com
 *$3p,domain=queenfaucet.website
 *$3p,domain=randomsatoshi.win
+*$3p,domain=samehadaku.*
 *$3p,domain=semawur.com
 *$3p,domain=sendit.cloud
 *$3p,domain=sharelink.club
@@ -475,6 +495,7 @@
 *$3p,domain=siherp.com
 *$3p,domain=siotong.com
 *$3p,domain=startxchange.com
+*$3p,domain=srek.net
 *$3p,domain=techcraze.online
 *$3p,domain=telondasmu.com
 *$3p,domain=topadnetworks.net
@@ -487,6 +508,7 @@
 *$3p,domain=uproxy.to
 *$3p,domain=urle.io
 *$3p,domain=ventax.net
+*$3p,domain=vidlox.me
 *$3p,domain=vipshort.com
 *$3p,domain=vivads.net
 *$3p,domain=vivebtc.win
@@ -511,17 +533,18 @@
 *$popup,3p,domain=clik.pw
 *$popup,3p,domain=desserttips.me
 *$popup,3p,domain=drakorindofilms.net|inidramaku.com|korenlovers.co
-*$popup,3p,domain=dutchycorp.ovh
 *$popup,3p,domain=get4link.xyz|p4link.com
 *$popup,3p,domain=imgbaron.com
 *$popup,3p,domain=imgfile.net|imgsky.net
 *$popup,3p,domain=kabarviral.blog
 *$popup,3p,domain=lewat.club
 *$popup,3p,domain=linktor.io
+*$popup,3p,domain=mitedrive.my.id
 *$popup,3p,domain=ouo.io
 *$popup,3p,domain=picbaron.com
 *$popup,3p,domain=pyrin.org
 *$popup,3p,domain=techcraze.online
+*$popup,3p,domain=teknosimple.com
 *$popup,3p,domain=topadnetworks.net
 *$popup,3p,domain=urle.io
 *$popup,3p,domain=voxc.org
@@ -534,14 +557,9 @@
 -728x90.
 -728-x-90.
 /?ga_action=googleanalytics_get_script
-/296467_712a70a8-97e6-11e4-9eb1-ca992523fab8.jpg
 /2pop$domain=claimcoin24.com
-/32207792_1901717173172364_6279682588403564544_n.png
-/7811552/250x250.gif
-/7813650/paxful.gif
 /abd.interstitial.preroll$script,3p
 /ad-overlay-anything
-/adaqq160x600.gif
 /adnetwork.js$script,3p
 /ads$domain=vinaurl.in
 /analytics/track.png?q
@@ -556,9 +574,7 @@
 /check.js
 /download$domain=idsly.org|jelajahinternet.me|muhammadyoga.me|safelinku.net
 /hitomi/nutaku/
-/HOKI365.gif
 /hoyajackpot-slider-
-/iklan*.gif$domain=nekopoi.care
 /iklan/728
 /includes/left_list-ad.php
 /index.php?ajax/ad-action
@@ -574,11 +590,9 @@
 /layarkaca21/js/lk21ads.js
 /levelmaxblock.js
 /LkdTwv6o7OAfOMlx2k764u22OX7TgeiSACLcB/s1600/Adblock.
-/LRfun88.jpg
 /log?format=
 /logo/*.$domain=nwanime.tv
 /looping.js$domain=mikanime.com
-/lwD7KBhIT4oZcCJNrUbx5MV2BbSfS8sDQCLcBGAs/s1600/DOKU%2BBOLA.gif
 /meongvpn.js$domain=kuyhaa.me
 /mining.js$domain=faucethub.io
 /mts_ad_sense/js
@@ -586,14 +600,12 @@
 /neko/data/*ads*png
 /neko/data/*iklan
 /news*/cait.js
-/noadblock.js
 /nontonanime.org/js/ads.js
 /ouo2018$script,3p
 /pops.js
 /popupad$script,3p
 /ppu.js
 /reJS*/4404
-/RTwuo4KqfSU0AYIDF9g5Bz8VfSJpXJi7gCLcB/s1600/1.jpg
 /safe.js$domain=ad4msan.com
 /safelink$script,3p
 /safelink-indolinker
@@ -613,7 +625,6 @@
 /widgets/www.hiqqu$3p
 /win728x90_2x.
 /wp-adblock-
-/wp-content/themes/animeindo/images/blacktr.png
 /wp-content/themes/animeku/iklan/
 /wp-content/uploads*gif$domain=dunia21s.fun
 /wp-content/uploads/iklan/
@@ -627,6 +638,8 @@
 .adskom.com$3p
 .cc/_Incapsula_Resource?
 .com/*.html?q$popunder
+.gif$1p,domain=95.111.195.241|144.126.148.112|185.99.135.234|194.163.183.129|kazefuri.net|indoxxi.*|nontondrakor.*|ojooo.com|samehadaku.*
+.gif$3p,domain=95.111.195.241|144.126.148.112|185.99.135.234|194.163.183.129|kazefuri.net|indoxxi.*|nontondrakor.*|ojooo.com|samehadaku.*
 .org/lube
 
 ! ========== Unblocked URL List ==========
@@ -686,23 +699,26 @@
 @@bercara.com$generichide
 @@bitsfree.net$generichide
 @@dogemate.com$domain=bitlinks.pw
+@@b-cdn.net
 @@bitmedia.io$1p
 @@bitsroll.com$generichide
 @@blitzcoiner.com$generichide
 @@blockadblock.com/js/colorpicker$1p
+@@blogger.com/video$3p,domain=samehadaku.*
 @@bolaoke.club$popup,domain=awsubstv.com
 @@bootstrapcdn.com
 @@bp.blogspot.com*png$domain=awsubstv.com|kuyhaa.me
 @@btcsafari.com$generichide
 @@cashcrate.com$1p
 @@cdn.datatables.net
-@@cdn.jsdelivr.net
-@@cdn.rawgit.com$domain=1idsly.com|idsly.net|in11.site|infosehatku.club|safelinku.net|semawur.com
+@@cdn.perfops.net$3p,domain=dnsperf.com
+@@cdn.playerserve.com/v1/placements$3p
+@@cdn.rawgit.com$domain=1idsly.com|idsly.net|in11.site|infosehatku.club|safelinku.net|semawur.com|vidlox.me
 @@cdnjs.cloudflare.com/ajax/libs*css
-@@cdnjs.cloudflare.com/ajax/libs*js$domain=faucethub.io
+@@cdnjs.cloudflare.com/ajax/libs*js$domain=acefile.co|faucethub.io|vidlox.me
 @@cdnjs.cloudflare.com/ajax/libs/font-awesome
 @@cdnjs.cloudflare.com/ajax/libs/jquery
-@@cdnjs.cloudflare.com/ajax/libs/materialize$domain=firefaucet.win
+@@cdnjs.cloudflare.com/ajax/libs/materialize$domain=dutchycorp.space|firefaucet.win
 @@cdnjs.cloudflare.com/ajax/libs/sceditor
 @@cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap
 @@claimbits.net$generichide
@@ -715,6 +731,7 @@
 @@clickbits.io$generichide
 @@clicknupload.org$generichide
 @@cloudflare.com$domain=adbtc.top
+@@code.ionicframework.com$domain=vidlox.me
 @@code.jquery.com
 @@coinmarketcap.com$domain=bytecoin.money|miningpoolstats.stream
 @@cointiply.com$generichide
@@ -728,7 +745,10 @@
 @@csstatic.com$domain=clixsense.com
 @@d.bloggerku.com/safelink$domain=vozdesportiva.com
 @@dc4in.com$generichide
+@@ddos*.*/check.js$script,3p
 @@disingkat.in/js/advertisement.js$script,1p
+@@disqus.com*embed$3p,domain=samehadaku.*
+@@disquscdn.com*embed$3p,domain=samehadaku.*
 @@doge-bitsfree.net$generichide
 @@dogemate.com$generichide
 @@drive.ad4msan.win$generichide
@@ -736,12 +756,13 @@
 @@dutchycorp.ovh$generichide
 @@easyhits4u.com$1p
 @@easyhits4u.com$generichide
+@@ethereum-pocket.com$3p,domain=stakecube.net
+@@facebook.com$3p,domain=samehadaku.*
 @@faucetfly.com$generichide
 @@faucetworld.in$generichide
 @@faucetspro.com$generichide
 @@febbit.com$generichide
 @@firefaucet.win$generichide
-@@fontawesome.com$domain=kickasstraffic.com
 @@fonts.gstatic.com
 @@fonts.googleapis.com
 @@fontawesome.com
@@ -752,14 +773,15 @@
 @@gamehouse.com$1p
 @@ganzoffen.de
 @@googleapis.com/drive$domain=acefile.co
+@@googleoptimize.com$3p
 @@googleusercontent.com$domain=acefile.co
 @@googleusercontent.com$image,domain=a2zapk.com
+@@gplinks.in$3p,domain=gplinks.co|jabigetjob.com
 @@grabmylink.xyz$generichide
 @@gstatic.com/charts$domain=ojooo.com
 @@hcaptcha.com
 @@hit4hit.org$1p
 @@hitlink.com$1p
-@@igg-games.com$1p
 @@idsly.net$generichide
 @@idsly.org$generichide
 @@idzone.site$generichide
@@ -767,7 +789,6 @@
 @@imgdrive.net$image,1p
 @@imgrock.net$domain=imgrock.pw
 @@imgtown.net$image,domain=imgtown.pw
-@@i.imgur.com/*.png$image,domain=topadnetworks.net
 @@inboxdollars.com$1p
 @@ipeenk.com$generichide
 @@jsdelivr.net
@@ -779,7 +800,7 @@
 @@linkbucksmedia.com$1p
 @@live.sekindo.com
 @@marocclickers.network$generichide
-@@maxcdn.bootstrapcdn.com
+@@maxmind.com$3p,domain=easyhits4u.com
 @@media.net$1p
 @@mellowads.com$1p
 @@members.popcash.net$1p
@@ -788,6 +809,7 @@
 @@nsimg.net$domain=pornhubpremium.com
 @@ouo.io/css/bootstrap.css
 @@pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+@@pixiv.net/cdn-cgi/bm/cv$1p
 @@plyr.io
 @@popads.net$1p
 @@popcash.net$1p
@@ -798,16 +820,18 @@
 @@queenfaucet.website$generichide
 @@raincaptcha.com/base.js
 @@raincaptcha.com*frame
+@@raw.githack.com/safelinkwebid$3p
 @@recaptcha.net
+@@rubyfortune.com$1p
 @@satoshisera.com$generichide
 @@semawur.com$generichide
 @@seo-stat.info$generichide
 @@shareaholic.com$1p
 @@sharethis.com$1p
 @@shorte.st$1p
-@@stackpath.bootstrapcdn.com/bootstrap
 @@starcoins.ws$generichide
 @@statically.io$domain=siherp.com
+@@stream.playerserve.com/stream$3p
 @@sturl.pw$generichide
 @@superrewards-offers.com$domain=hit4hit.org
 @@systweak.com$1p
@@ -820,6 +844,8 @@
 @@unpkg.com
 @@userscloud.com/assets/library/jquery/jquery.
 @@userscloud.com/js/vendor/core/bootstrap.js
+@@videobin.co/imgs
+@@vidlox.me/bootstrap.js
 @@vizury.com$domain=jd.id
 @@vjs.zencdn.net$domain=sendit.cloud
 @@vozdesportiva.com$generichide
@@ -828,7 +854,7 @@
 @@wegner.tech$generichide
 @@wicr.in$generichide
 @@wl.jd.com
-@@wp.com$domain=samehadaku.vip
+@@wp.com$domain=samehadaku.*
 @@yllix.com$1p
 @@zdassets.com
 @@zendesk.com
@@ -863,6 +889,7 @@
 ##a[href*="z6naousb.com"]
 ! -------------------------------------
 ##iframe[src*="/widget.html"]
+##iframe[src*="agacelebir.com"]
 ##iframe[src*="servlet/redirect.srv"]
 ! Unblock Elements --------------------
 drive.ad4msan.win#@#p
@@ -873,37 +900,33 @@ aospextended.com,drive.ad4msan.win,redv.co#@#.adsbygoogle
 cointiply.com#@#.ad-panel
 cointiply.com#@#.adsbox
 cryptofxflash.com#@#.banner-728x90
+galaxyfirmware.com#@#.textad
+megaup.net#@#.metaRedirectWrapperBottomAds > div > a:style(position: relative !important; left: -10000px !important; pointer-events: none !important;)
 ptcwall.com#@#.ad-block
 
 cinemaindo21.org#@##topad
 faucethero.com#@##top-ads
 
 ! ========== blockAdBlock & AdBlockDetected List ==========
-freebitcoin.vip,webmonetiser.com##+js(aopr, adBlockDetected)
+freebitcoin.vip,oolean.id,webmonetiser.com##+js(aopr, adBlockDetected)
 
-000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,bitsurf.club,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,crypto-flash.com,cryptobite.site,cryptcoin.online,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,dutchybig.ovh,emcsautoexpress.com,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freebitcoin.win,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,indiamartoffers.com,karimunbits.net,kiminime.com,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,nekopoi.*,ownbitcoins.net,pastelinku.net,platinmods.com,platinmods.download,potcoin-faucet.com,randomsatoshi.win,reevown.com,satoshikingdom.com,satoshilabs.net,sharelink.club,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com,xiaomifirmwareupdater.com##+js(nobab)
-
-! ========== Iframe & Annoying Ads List ==========
-birdurls.com##[href*="9eb10b7a3d04a.com"]
-birdurls.com##body > div:nth-of-type(4)
+000webhostapp.com,ad-doge.com,adwerty.com,allcoins.pw,blogspot.com,bestbitcoinfaucets.net,bitcoinker.com,bitearns.com,bitsurf.club,blockadblock.com,btcmines.club,btcnewz.com,ceksite.com,claimbits.io,claimfreecoins.io,clickers.info,coindice.win,coinmads.com,coinpou.com,coinrotation.com,corvusrom.com,crypto-flash.com,cryptobite.site,cryptcoin.online,cryptofights.com,cryptofun.space,dash-faucet.com,doge-coin.top,doge-faucet.com,dogecoins.top,drive.ad4msan.win,emcsautoexpress.com,ethereum-faucet.org,expresscrypto.io,expressfaucet.com,faucet.gold,faucethero.com,faucetwhite.com,firefaucet.win,freevipservers.net,freebitcoin.win,getexploits.com,gomentod.com,gr8.cc,grabmylink.xyz,gwei.win,icucu.icu,imostafayt.com,indiamartoffers.com,karimunbits.net,kiminime.com,linkpoi.me,luckybitco.in,luckybits.io,melovin.site,mtofficial.com,ownbitcoins.net,pastelinku.net,platinmods.com,platinmods.download,potcoin-faucet.com,randomsatoshi.win,reevown.com,ryos.best,sakpot.com,satoshikingdom.com,satoshilabs.net,sharelink.club,shortit.pw,sitowebinfo.com,sivitechno.com,speedup-faucet.com,starcoins.ws,sturl.pw,theseotools.net,topbtc.club,want2crypto.com,weebly.com,xiaomifirmwareupdater.com##+js(nobab)
 
 ! ========== Shortlink Bypass Force Disable AdBlock and Count the Timer List ==========
-100count.net,4cash.me,adsbtc.org,ashort1a.xyz,bitconews.net,bitearns.com,bitlinks.pw,cashurl.in,cryptobite.site,cryptcoin.online,cryptocut.org,cryptofxflash.com,cute2w.in,ganarpastafacil.com,getpronews.com,gpmojo.co,grabmylink.xyz,link-ad.com,rshrt.com,urle.io,vipshort.com,zapme.top##+js(aopr, app_vars.force_disable_adblock)
+100count.net,4cash.me,adsbtc.org,ashort1a.xyz,bitconews.net,bitearns.com,bitlinks.pw,cashurl.in,cryptobite.site,cryptcoin.online,cryptocut.org,cryptofxflash.com,cute2w.in,ganarpastafacil.com,getpronews.com,gpmojo.co,grabmylink.xyz,link-ad.com,linkpoi.me,rshrt.com,urle.io,vipshort.com,zapme.top##+js(aopr, app_vars.force_disable_adblock)
 
-100count.net,4cash.me,ac-mo.com,adsbtc.org,adshort.tech,adsrt.org,ashort1a.xyz,altilly.com,bercara.com,birdurls.com,bitconews.net,bitearns.com,bitlinks.pw,btcleets.xyz,cashurl.in,coinmarketwaves.com,cryptcoin.online,cryptocut.org,cryptofxflash.com,cute2w.in,desserttips.me,dutchycorp.space,ebesucher.com,exe.io,express-cut.ovh,fc.lc,ganarpastafacil.com,get4link.xyz,getpronews.com,gpmojo.co,grabmylink.xyz,in11.site,infosehatku.club,lewat.club,link-ad.com,mawataki.com,mm1.ink,newwaysurf.com,oko.sh,owllink.net,pantauterus.me,pingit.im,rshrt.com,semawur.com,shorten.sh,shrtwin.com,sportif.id,techsapparel.com,topadnetworks.net,urle.io,ventax.net,vipshort.com,voxc.org,wad.ojooo.com,wealthh.xyz,xz2.xyz,zapme.top##+js(set, blurred, false)
+100count.net,10khits.com,4cash.me,ac-mo.com,adsbtc.org,adshort.tech,adsrt.org,ashort1a.xyz,altilly.com,bercara.com,birdurls.com,bitconews.net,bitearns.com,bitlinks.pw,btcleets.xyz,cashurl.in,coinmarketwaves.com,cryptcoin.online,cryptocut.org,cryptofxflash.com,cute2w.in,desserttips.me,dutchycorp.space,easyhits4u.com,ebesucher.com,exe.io,express-cut.ovh,fc.lc,ganarpastafacil.com,get4link.xyz,getpronews.com,gpmojo.co,grabmylink.xyz,in11.site,infosehatku.club,lewat.club,link-ad.com,linkpoi.me,manyhit.com,mawataki.com,mm1.ink,newwaysurf.com,oko.sh,owllink.net,pantauterus.me,pingit.im,rshrt.com,semawur.com,shorten.sh,shrtwin.com,sportif.id,techsapparel.com,topadnetworks.net,urle.io,ventax.net,vipshort.com,voxc.org,wad.ojooo.com,wealthh.xyz,xz2.xyz,zapme.top##+js(set, blurred, false)
 
-10khits.com,247autohits.com,bitearns.com,manyhit.com##+js(set)
+247autohits.com,bitearns.com##+js(set)
 
 ! ========== Make Countdown Faster List ==========
-123link.pw,1idsly.com,a2zupload.com,ad-doge.com,adwerty.com,agoodprofit.ru,anjay.info,bercara.com,beti.club,bitcoinfaucet.fun,bittube.me,bolaoke.club,closetopic.site,coindice.win,cryptoprofits.in.ua,designmyhomee.com,doge-coin.top,dogecoins.top,duit.cc,dynamicssh.com,elsfile.org,faucet.gold,faucetcrypto.com,faucetwhite.com,forthtrade.com,freebitcoin.vip,freebitcoin.win,fstore.biz,goldenfreesatoshi.ru,goodfaucet.ru,haxhits.com,hexafile.net,hikarinoakariost.info,hokiciki.org,hubcoins.xyz,idsly.*,imgsky.net,in11.site,infosehatku.club,infotrendy.me,jelajahinternet.me,lenov.ru,linkduit.net,luckybits.io,mawataki.com,mediakita.blog,merdekaid.online,muhammadyoga.me,multimining.website,naturalhealthy.xyz,news-tech.xyz,newsjizz.in,ockles.com,oploverzhome.com,ouo.io,pantauterus.me,platinmods.download,sfile.mobi,shortit.pw,speedtest.net,startxchange.com,suarankri.me,technoresults.xyz,treasurebits.net,updatetribun.org,vozdesportiva.com,wadooo.com,wicr.in,wikitrik.com##+js(nano-sib)
+123link.pw,1idsly.com,a2zupload.com,ad-doge.com,adwerty.com,agoodprofit.ru,anjay.info,bercara.com,beti.club,bitcoinfaucet.fun,bittube.me,bolaoke.club,closetopic.site,coindice.win,cryptoprofits.in.ua,designmyhomee.com,doge-coin.top,dogecoins.top,duit.cc,dynamicssh.com,elsfile.org,faucet.gold,faucetcrypto.com,faucetwhite.com,forthtrade.com,freebitcoin.vip,freebitcoin.win,fstore.biz,goldenfreesatoshi.ru,goodfaucet.ru,haxhits.com,hexafile.net,hikarinoakariost.info,hokiciki.org,hubcoins.xyz,idsly.*,imgsky.net,in11.site,infosehatku.club,infotrendy.me,jelajahinternet.me,lenov.ru,linkduit.net,luckybits.io,mawataki.com,mediakita.blog,merdekaid.online,muhammadyoga.me,multimining.website,naturalhealthy.xyz,news-tech.xyz,newsjizz.in,ockles.com,oploverzhome.com,ouo.io,pantauterus.me,platinmods.download,racaty.net,sfile.mobi,shortit.pw,speedtest.net,startxchange.com,suarankri.me,technoresults.xyz,treasurebits.net,updatetribun.org,vozdesportiva.com,wadooo.com,wicr.in,wikitrik.com##+js(nano-sib)
 
 xubster.com##+js(nano-stb, , , 0.01)
 
 ! ========== Unblock Element Fix Error ==========
 queenfaucet.website#@#+js(aeld, click, trigger)
-
-nekopoi.*#@#+js(aeld, , adsense)
-nekopoi.*#@#+js(acis, atob, tabunder)
+pastebin.com#@#.adsbyvli:upward(1)
 
 ! ========== Other ## List ==========
 10khits.com##cloudflare-app
@@ -915,7 +938,7 @@ anichin.my.id##tr
 anichin.my.id,kazefuri.me##+js(aeld, /^(?:click|mousedown|touchstart)$/, pop)
 awsubstv.com##div.section.widget_text:nth-of-type(2)
 bercara.com##p
-birdurls.com,bitearns.com,btcleets.xyz,dutchycorp.ovh,dutchycorp.space,mm1.ink,urle.io##[id*="ScriptRoot"]
+birdurls.com,bitearns.com,btcleets.xyz,mm1.ink,urle.io##[id*="ScriptRoot"]
 btc.ms##div.col-md-12:nth-of-type(1)
 bucin.net,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com##h2
 bucin.net##p
@@ -928,7 +951,7 @@ cowner.net,fiaharam.net##+js(adfly-defuser)
 damimage.com##body > div:nth-of-type(5)
 elsfile.org##+js(aopr, h237)
 faucetworld.in##div.hide-on-med-and-down.l3.col
-filecloud.io##+js(aopr, FuckAdBlock)
+filecloud.io,maxfaucet.com,pyrin.org,sova.network,xcolander.com##+js(aopr, FuckAdBlock)
 hexafile.net##center > h3
 hexafile.net##center:nth-of-type(2) > center > .row
 hexafile.net##center:nth-of-type(2) > center > div:nth-of-type(1)
@@ -946,24 +969,20 @@ justlikeyojna.com##center:nth-of-type(1) > strong
 kabarviral.blog##center:nth-of-type(2)
 kazefuri.me##div.section:nth-of-type(5)
 kvador.com##+js(aeld, /^(?:click|mousedown|touchstart)$/, pop)
-linkpoi.*##+js(abort-current-inline-script, addEventListener)
 lk21c.fun##table:nth-of-type(3)
-maxfaucet.com##+js(aopr, FuckAdBlock)
 mediakita.blog##center:nth-of-type(2)
 mediakita.blog##div.col-lg-4:nth-of-type(2) > center
-oploverz.in##s
-oploverz.in##u
+miningpoolstats.stream##button.btn-default.btn:nth-of-type(3)
+miningpoolstats.stream##button.btn-default.btn:nth-of-type(4)
 pantauterus.me##figure.wp-block-image
 pantauterus.me##h2:nth-of-type(n)
 picbaron.com##+js(aeld, /^(?:click|mousedown|touchstart)$/, pop)
 premierexxi.*##center
 premierexxi.*##div.extend
-pyrin.org##+js(aopr, FuckAdBlock)
 short.awsubs.co##center:nth-of-type(2)
 short.awsubs.co##h1
 short.awsubs.co##hr
 short.awsubs.co##p
-sova.network##+js(aopr, FuckAdBlock)
 speedup-faucet.com##td:nth-of-type(3) > center:nth-of-type(2)
 speedup-faucet.com##td:nth-of-type(5)
 speedup-faucet.com##tr:nth-of-type(3) > td > table
@@ -975,11 +994,9 @@ voxc.org##h4
 vozdesportiva.com##div.iklan
 wadooo.com##ol
 wikitrik.com##p:nth-of-type(n)
-xcolander.com##+js(aopr, FuckAdBlock)
 ! -------------------------------------
 ##.__b-popup1__.b-modal
 ##.ablkAlert
-##.adblockInfo
 ##.adBtn
 ##.adlink2
 ##.adsbyadop
@@ -1000,6 +1017,8 @@ xcolander.com##+js(aopr, FuckAdBlock)
 ##.hads
 ##.hitomi-anintager
 ##.idmuvi-socialicon-share
+##.idmuvi-topbanner
+##.idmuvi-topbanner-aftermenu
 ##.in_up_ad-area
 ##.js.cwv3_dialog
 ##.ke2b2b-hide
@@ -1016,16 +1035,15 @@ xcolander.com##+js(aopr, FuckAdBlock)
 21moviemania.club,cinemaindo.co,lebahmovie.com##.mfp-ready.mfp-with-zoom.mfp-no-margins.mfp-img-mobile.mfp-auto-cursor.mfp-close-btn-in.mfp-wrap
 46.166.167.16,semprot.com,semprotku.com##.semprotnenenmontok_2
 46.166.167.16,semprot.com,semprotku.com##.warning
-ad4msan.win##.adsbygoogle
 ahexa.com##.c-message > div:nth-of-type(2)
 ahexa.com##.disclaimer
+alternative.me##.container > div.block
 anjay.info##.adseast
 anjay.info##.mh-wrapper
 anjay.info##.mh-copyright-wrap
 anjay.info##.mh-header
 anjay.info##.mh-preheader
 anjay.info##.mh-subheader
-apkmodif.com##.adsbygoogle
 awsubstv.com##.fb-comments
 awsubstv.com##.fb_iframe_widget.fb-like
 awsubstv.com##.kln
@@ -1033,13 +1051,13 @@ awsubstv.com##.minipusat
 awsubstv.com##.pusat728
 batch.id##.klan300
 beermoneyforum.com##.samBackgroundItem
-bercara.com,semawur.com##.adsbygoogle
 bercara.com##.col-lg-8.col-md-12 > div:nth-of-type(1)
 bercara.com##.col-md-6
 bercara.com##.color-ccc
 bercara.com##.float-left-right
 bercara.com##.mt-30 > b
 bercara.com##.mtb-15.list-li-mr-20
+bestanime3.xyz,domdom.stream##.comment-panel
 bestbitcoinfaucets.net##.modal-body > center
 beti.club##.blue-text
 beti.club##.post-body
@@ -1048,6 +1066,8 @@ bolaoke.club##.mh-wrapper
 btcleets.xyz,coin.mg,techcraze.online##.banner-captcha.banner
 bucin.net,coeg.in,siherp.com,siotong.com,telondasmu.com##.c-message > div:nth-of-type(1)
 bucin.net,coeg.in,greget.space,siherp.com,siotong.com,telondasmu.com##.disclaimer
+bunda.co.id##.sgpb-popup-dialog-main-div-wrapper
+bunda.co.id##.sgpb-popup-overlay
 ceklink.co##.banner-captcha.banner
 ceklink.co##.blog-item
 citpekalongan.com##.section.header-right
@@ -1069,6 +1089,7 @@ coingecko.com##.sponsored
 coingecko.com##.text-secondary:nth-of-type(1)
 coingecko.com##.top-header
 coingecko.com##.topfooter
+coingecko.com##tr.sponsored-v2
 coinmarketcap.com##.cmc-bottom-margin-2x
 coinmarketcap.com##.cmc-sidebar-ad
 cointiply.com##.fl-ad-left
@@ -1079,14 +1100,17 @@ cu5.io##.short
 cryptofxflash.com##.banner-inner
 dashboard.honeygain.com##.gpZnYi
 downloadbatch.com##.idblog-topbanner-aftermenu
-dutchycorp.ovh##.row > center:nth-of-type(1)
+easyhits4u.com##.ads
 eterbase.exchange##.app-footer
+favo.id##.banner-blog
+genesisexploits.com##.jconfirm
 gigapurbalingga.net##.code-block-1.code-block
 gigapurbalingga.net##.code-block-2.code-block
 grabmylink.xyz##.iklan-kiri
 greget.space##.c-message > div:nth-of-type(2)
-hexafile.net##.adsbygoogle
-idzone.site##.adsbygoogle
+hellosehat.com##.article-mobile-ad
+idntimes.com##.parallax-ad
+idntimes.com,popbela.com##.wrapper-ads
 imgsky.net##.content-box > div
 in11.site##.color-ccc
 in11.site##.col-lg-4
@@ -1094,6 +1118,7 @@ in11.site##.col-lg-8.col-md-12 > div:nth-of-type(1)
 in11.site##.float-left-right
 in11.site##.mt-30
 in11.site##.mtb-15
+jabigetjob.com##.adb-overlay
 juragan-anime.net##.ads
 juraganfiles.com##.no-padding.box.container > center
 justlikeyojna.com##.text-left
@@ -1104,7 +1129,6 @@ kabarviral.blog##.g1-prefooter
 karimunbits.net##.iklan-kiri
 kawanfilm21.online##.downloadlink
 kawanfilm21.online##.idmuvi-floatbanner
-kawanfilm21.online##.idmuvi-topbanner
 kazefuri.*##.adsbawah1
 kazefuri.*##.adsbawah2
 kazefuri.*##.kln.mlb.blox
@@ -1133,6 +1157,8 @@ mawataki.com##.kill-adblock-hide
 mawataki.com##.mh-wrapper
 mediafire.com##.appPromo
 mediafire.com##.on.lightbox
+miningpoolstats.stream##.headerbanner > tbody
+miningpoolstats.stream##.show1300
 mirrorace.com##.uk-grid-width-large-1-3.uk-grid-width-medium-1-2.uk-grid-width-small-1-1.uk-grid-medium.uk-grid > .uk-row-first:nth-of-type(1)
 mtofficial.com##.iklan-kiri
 myanimelist.net##.amazon-ads
@@ -1143,8 +1169,11 @@ myanimelist.net##.mauto
 myanimelist.net##.pb24 > div:nth-of-type(12)
 naturalhealthy.xyz##.mh-wrapper
 naturalhealthy.xyz##.mh-header
+nekopoi.care##.leftarea > .custom-html-widget.textwidget
 neonime.*##.block-player
 newsjizz.in##.taxonomy-list.comp
+oploverz.bz##.sg-popup-content
+oploverz.bz##.sgpb-popup-overlay
 pantauterus.me##.bc-top-style
 pantauterus.me##.bs-irp
 pantauterus.me##.entry-terms
@@ -1162,6 +1191,9 @@ pixiv.net##.ad-container
 pixiv.net##.ad-frame-container
 pixiv.net##.premium-lead-new-t-info-home-top
 pixiv.net##.premium-lead-t-footer
+popbela.com##.min-h-\[270px\]
+popbela.com##.my-\[15px\]
+popbela.com##.overflow-hidden.relative
 pornhub.com##.abovePlayer
 pornhub.com##.ad-link
 pornhub.com##.premiumPromoBannerWrapper
@@ -1170,10 +1202,7 @@ pornhub.com##.sniperModeEngaged
 pornhubpremium.com##.bottomNotification
 pornhubpremium.com##.sectionCarousel.sectionWrapper
 premierexxi.*##.wpb-outer-wrap
-reevown.com##.adsbygoogle
-samehadaku.vip##.ads_area
-samehadaku.vip##.kwbos
-samehadaku.vip##.pencenter
+samehadaku.*##.box_item_berlangganan_popup
 senimovie.co##.header-top-banner
 senimovie.co##.rsABlock
 siherp.com##.c-message > div:nth-of-type(2)
@@ -1181,6 +1210,9 @@ simply-hentai.com##.sticky
 simply-hentai.com##.tc
 solidfiles.com##.premium-promo.box
 solidfiles.com##.remove
+sonora.id##.ads-partner-wrap
+sonora.id##.banner
+sonora.id##.height_sonoraads_600
 sorewa.net##.clearfix.entry-content > div:nth-of-type(3)
 sorewa.net##.clearfix.mh-row.mh-post-nav
 sorewa.net##.mh-header
@@ -1190,11 +1222,13 @@ sorewa.net##.mh-sidebar.mh-widget-col-1
 speedtest.net##.lower-horizontal.ad
 speedtest.net##.notification-container
 speedtest.net##.top-horizontal
+storables.com##.amzn-btn-wrapper
+storables.com##.amzn-con
+teknosimple.com##.slu-download
 travellinginfos.com##.mh-wrapper
-unlockapk.com##.adsbygoogle
+tribunnewswiki.com##.box__reserved
 urle.io##.box-main > .btn-lg.btn-success.btn
 vozdesportiva.com##.ADS
-vozdesportiva.com##.adsbygoogle
 vozdesportiva.com##.isi
 vozdesportiva.com##.separator
 wadooo.com##.about-author
@@ -1209,8 +1243,10 @@ wadooo.com##.entry-media
 wadooo.com##.entry-title
 wadooo.com##.mb30
 wadooo.com##.sidebar
-wegner.tech##.adsbygoogle
+yesdok.com##.fixed.box-progress
+yesdok.com##.max-w-full.w-fit.mx-auto
 youtube.com##.ytd-search-pyv-renderer
+youtube.com##.ytp-ce-element
 zapme.top##.overlay
 zippyshare.com##.slickbox > .center
 zonawibu.cc##.infopost
@@ -1225,11 +1261,13 @@ zonawibu.cc##.infopost
 ###agegate_content
 ###ai-adb-message
 ###ai-adb-overlay
+###b0f8
 ###b300
 ###banner_ikln_tengah
 ###bg_popup
 ###btm_banner
 ###ctr_banner
+###d931
 ###eae2
 ###g207
 ###h237
@@ -1237,6 +1275,7 @@ zonawibu.cc##.infopost
 ###ia6b
 ###idblog-adb-enabled
 ###idmuvi-adb-enabled
+###idmuvi-popup
 ###ignielAdBlock
 ###kc56
 ###levelmaxblock
@@ -1249,6 +1288,7 @@ zonawibu.cc##.infopost
 ###tevrzbo-blanket
 ###unblocker
 ###v3ea
+###v72e
 ###videoad1
 ###yd57
 ###y525
@@ -1256,13 +1296,17 @@ zonawibu.cc##.infopost
 ###z2c7
 ! -------------------------------------
 123short.com,clk.press###headlineatas
+194.163.183.129,samehadaku.*###floatbottom
+194.163.183.129,samehadaku.*###overplay
+45.141.56.28###fixedban
+45.141.56.28###fixedfoot
 a-ads.com###news_feed
 ad4msan.win###masthead
 ad4msan.win###secondary
 adf.ly###cookie_notice
 adsafelink.net###cookie-pop
 androidrepublic.org###siropuChat
-awsubstv.com###floatcenter
+awsubstv.com,kazefuri.*,samehadaku.*###floatcenter
 awsubstv.com###overplay
 bestbitcoinfaucets.net,want2crypto.com###Floater-Left-3
 bestbitcoinfaucets.net,want2crypto.com###Floater-Middle-3
@@ -1282,10 +1326,9 @@ cryptobite.site,faucethero.com,grabmylink.xyz,topbtc.club###captcha-adspace
 cryptobite.site,faucethero.com,grabmylink.xyz,topbtc.club###middle-adspace
 cryptofxflash.com###tamvan1
 dewafile.com###download
+doujins.com###comments
 downloadbatch.com###text-48
 drakorindofilms.tv,inidramaku.com###ouibounce-modal
-dutchycorp.ovh,dutchycorp.space###sad-1
-dutchycorp.space###boxes
 easyhits4u.com###countDown
 google.com###bottomads
 google.com###tads
@@ -1293,6 +1336,7 @@ grabmylink.xyz###top_adspace
 healthproper.blogspot.com###adb
 idfl.*###ad_global_below_navbar
 idfl.*###fancybox-overlay
+idntimes.com###hidden-parallax
 idsly.net,idsly.org,jelajahinternet.me,merdekaid.online,muhammadyoga.me,updatetribun.org###m813
 idxx1.*###player-side-right
 imgbaron.com###iframe-fb
@@ -1303,27 +1347,34 @@ kawanfilm21.online###content > div.container:nth-of-type(1)
 kawanfilm21.online###floating_banner_top1
 kazefuri.*###iklan-pos
 lepiratebay.org###searchResult:nth-of-type(1)
+lintastungkal.com###sidebar-banner-bawah
+lintastungkal.com###sidebar-banner-mobile-top-header-parallax
 lk21c.fun###flobwh
 lk21c.fun###tengah
 lk21c.fun###text-12
 mediafire.com###abnotify
 miningpoolstats.stream###ad_side_1
-miningpoolstats.stream###blockdistribution > table > tbody > tr
-miningpoolstats.stream###mainpage_right > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div
-miningpoolstats.stream###mainpage_right > table > tbody > tr:nth-of-type(3) > td:nth-of-type(1) > div
-miningpoolstats.stream###mainpage2 > table:nth-of-type(1) > tbody > tr
+miningpoolstats.stream###mainpage2 > table:nth-of-type(1)
+miningpoolstats.stream###mainpage_right > table > tbody > tr:nth-of-type(1)
+miningpoolstats.stream###mainpage_right > table > tbody > tr:nth-of-type(3)
+miningpoolstats.stream###mainpage_right > table > tbody > tr:nth-of-type(6)
 netnot21.com###kiri
 netnot21.com###ngisor
 opengapps.org###donatebox
-oploverz.in###btm_banner
+orami.co.id###post-section1
+orami.co.id###post-section2
+orami.co.id###post-top
+oploverz.bz###overplay
 pantauterus.me###header
 pantauterus.me###respond
 pantauterus.me###site-footer
 platinmods.com###siropuChat
 senimovie.co###sidebar
 short.pe###dfp
+sonora.id###_popIn_recommend_word
 speedup-faucet.com###mainbody > center:nth-of-type(2) > table > tbody > tr:nth-of-type(1) > td:nth-of-type(1)
 tribunnews.com###articleright
+tribunnewswiki.com###iklan_anchor
 vozdesportiva.com###Blog1 > .title
 vozdesportiva.com###post
 wadooo.com###comments

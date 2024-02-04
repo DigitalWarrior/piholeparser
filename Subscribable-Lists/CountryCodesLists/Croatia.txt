@@ -2,7 +2,6 @@ ackrivak.hr
 ad.rtl.hr
 agro-shop.hr
 alfacar.hr
-alpha.hanich.hr
 amalgam.hr
 amphibian.edivovina.hr
 analytics.styria.hr
@@ -22,7 +21,6 @@ donna.com.hr
 ds-recommender.styria.hr
 dukom-plin.hr
 dv-svleopoldmandic.hr
-elda.hr
 extensions-sp.com.hr
 ffval.hr
 finance.hr
@@ -44,7 +42,6 @@ karuseltisak.hr
 kkumag.hr
 klik.hr
 kndxbkdx.bloger.index.hr
-kolekt.hr
 kroatien-urlaub.com.hr
 lastovo.hr
 lutrija.hr
@@ -57,13 +54,11 @@ milsing.hr
 montus-tim.hr
 naturavetal.hr
 ne-pok.hr
-neckermann.hr
 nicole-nicole.hr
 nsds.hr
 odywpjtw.bloger.index.hr
 openx.net.hr
 orkan.hr
-otto.hr
 patrixbar.hr
 plinvtc.hr
 podrska.com.hr
@@ -77,20 +72,18 @@ rajanpromet.hr
 refresh.hr
 rem-b.hr
 rex.com.hr
-rfd-split.hr
 runtic.com.hr
 savethedate.com.hr
 savjetodavna.hr
 secure-apphalifaxupdate-verification-online.media-fi.hr
 secure-apphalifaxupdate-verification-online.studioinfinity.hr
 skylink.hr
-slavonska-burza.hr
 smilll.depozit.hr
-soic-dizajn.hr
 sound-and-vision.com.hr
 spinavita.hr
 split.karmel.hr
 stelladecoro.hr
+symphony-devante-plisse.webnode.hr
 syzygys.hr
 thorax-international.hr
 tim-izolacije.hr
@@ -107,6 +100,6 @@ vita.com.hr
 www.big-game-fishing-croatia.hr
 www.klik.hr
 www.lutrija.hr
+www.symphony-devante-plisse.webnode.hr
 xgftnlrt.bloger.index.hr
-ynymnwbm.bloger.index.hr
 zeljkohajtok.from.hr

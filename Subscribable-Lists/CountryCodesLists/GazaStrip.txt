@@ -47,7 +47,6 @@ gazacham.ps
 init.ps
 isso.ps
 kutla.ps
-laptop.com.ps
 loyality.alsaqqa.ps
 masader.ps
 mobadarat.ps
@@ -62,5 +61,7 @@ report-14178777.nabalifares.ps
 report-15043066.nabalifares.ps
 report-83047937.nabalifares.ps
 report-84256296.nabalifares.ps
+smartcloud.ps
+www.smartcloud.ps
 zane.ps
 zediah.ps

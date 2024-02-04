@@ -1,15 +1,18 @@
 17so.so
 685.so
 ad.spielothek.so
+analytics.pgncs.notion.so
 asd.projectfreetv.so
 asd2.projectfreetv.so
 baahiye.so
 bankofamerica.com.libfoobar.so
 bos.so
 caasima.cartantech.so
+curve.so
 k.5qa.so
 mogadishushippinglines.com.so
 mrw.so
+olx-zamowienie.so
 qiimoqaran.so
 radiohimilo.so
 rcl.yme.so
@@ -19,5 +22,8 @@ spielothek.so
 tabaarak.so
 thefappening.so
 u870797.nvpn.so
+utrust.so
+vipclub.so
 www.bos.so
+www.olx-zamowienie.so
 www.thefappening.so

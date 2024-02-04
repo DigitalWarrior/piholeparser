@@ -1,2 +1,4 @@
 diplomatie.gov.mr
 ustm.mr
+wpad.mr
+www.wpad.mr

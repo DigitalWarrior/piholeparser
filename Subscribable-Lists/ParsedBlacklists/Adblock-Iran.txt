@@ -17,8 +17,10 @@ balootads.ir
 bannerclick.lll1.ir
 cdn.iranweb.click
 click.baburnadir.com
+click.digiato.com
 clickbux.ir
 clickyab.com
+counter.toolsir.com
 deema.agency
 dserver.adad.ir
 e.weclick.ir
@@ -37,6 +39,7 @@ popupha.com
 popupplus.ir
 qoo.sh
 radar.bayan.ir
+redliini.ga
 s.hitplus.ir
 sabavision.com
 sigmaad.com

@@ -7,6 +7,7 @@ clone.affordable.cm
 cnn.cm
 dev.maverick.cm
 diplocam.cm
+doga.cm
 download.cm
 etranscom.cm
 facebook.bazar.cm
@@ -18,6 +19,7 @@ fuckbook.cm
 globalgaming.cm
 homedepot.cm
 icct-cameroun.cm
+icioud.co.cm
 irad.cm
 kingdomfestival.cm
 kingsway.cm
@@ -27,6 +29,8 @@ mail.cnn.cm
 mail.poker.cm
 mail.target.cm
 minee.cm
+myetherwallet.cm
+myetherwallet.com.cm
 ntas-store.cm
 omerta.cm
 onige.cm
@@ -41,11 +45,13 @@ toussaint.cm
 twitter.cm
 ul.cm
 unicc-bazar.cm
+vlxx.cm
 www.avis.cm
 www.cnn.cm
 www.facebook.cm
 www.free.fuckbook.cm
 www.fuckbook.cm
+www.icioud.co.cm
 www.kingdomfestival.cm
 www.poker.cm
 www.target.cm

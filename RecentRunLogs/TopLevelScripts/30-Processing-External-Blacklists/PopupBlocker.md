@@ -1,6 +1,6 @@
-[Return To Repository](https://github.com/deathbybandaid/piholeparser/)
-[Return To Main](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Go Up One Level](https://github.com/deathbybandaid/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
 ____________________________________
 # PopupBlocker
 ## Setting Temporary Parsing Variables
@@ -20,25 +20,25 @@ ____________________________________
 ## Attempting Creation Of Mirror File
 ## Parsing List
 ### Removing Comments
-9108 Lines After Removing Comments
+11009 Lines After Removing Comments
 ### Removing Content Filtering
-9108 Lines After Removing Content Filtering
+11009 Lines After Removing Content Filtering
 ### Trimming HOSTS Format IP Addresses
-9108 Lines After Trimming HOSTS Format IP Addresses
+11009 Lines After Trimming HOSTS Format IP Addresses
 ### Removing Empty Space
-7652 Lines After Removing Empty Space
+9183 Lines After Removing Empty Space
 ### Removing Invalid FQDN Characters
-4 Lines After Removing Invalid FQDN Characters
+2 Lines After Removing Invalid FQDN Characters
 ### Converting All Text To Lower Case
-4 Lines After Converting All Text To Lower Case
+2 Lines After Converting All Text To Lower Case
 ### Checking For Fully Qualified Domain Name Requirements
-4 Lines After Checking For Fully Qualified Domain Name Requirements
+2 Lines After Checking For Fully Qualified Domain Name Requirements
 ### Reverse Searching For Invalid Top Level Domains
-3 Lines After Reverse Searching For Invalid Top Level Domains
+2 Lines After Reverse Searching For Invalid Top Level Domains
 ### Punycode Translate
-3 Lines After Punycode Translate
+2 Lines After Punycode Translate
 ### Removing Duplicate Lines
-3 Lines After Removing Duplicate Lines
+2 Lines After Removing Duplicate Lines
 ## Checking Parsed File Size
 ## Attempting Creation Of Parsed List
 ## Calculating Parse Time

@@ -4,7 +4,6 @@ acustica.ec
 adserving.ads.ec
 advance.com.ec
 advertiser.ads.ec
-agama.ec
 ajinomoto.ec
 amigosconcola.ec
 apiterapia.com.ec
@@ -23,7 +22,6 @@ coachingtime.ec
 cofemltda.fin.ec
 comercialavila.ec
 comexlink.com.ec
-conduit.com.ec
 conectados.com.ec
 construguayas.gob.ec
 coopcentro.fin.ec
@@ -41,7 +39,6 @@ ecosur.ec
 facebook-log-in-attempt-customer-verification-195664.bajomilestrellas.com.ec
 fernandez.ec
 freeones.ec
-goe.gov.ec
 gotrade.com.ec
 gpjulioandrade.gob.ec
 gygabogados.ec
@@ -60,7 +57,6 @@ loteria.com.ec
 lstdata.net.ec
 mail.ctmatsa.com.ec
 maxilar.ec
-mercadolibre.com.ec
 naranjito.gob.ec
 nayonxvalley.com.ec
 onlynatural.com.ec
@@ -89,7 +85,5 @@ urbanafm.ec
 urbanoexpress.com.ec
 vidactiva.com.ec
 vwvw.xn--znsgrb1-lwaf5g4c7b1e.clan.ec
-www.conduit.com.ec
 www.loteria.com.ec
 www.punin.gob.ec
-www.redir.ec

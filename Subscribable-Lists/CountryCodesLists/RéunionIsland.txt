@@ -9,7 +9,6 @@ c.adsco.re
 carokane.re
 cli.re
 com-featu.re
-huit.re
 ico.re
 lesplusbellesvoituresdu974.re
 log.cnt.re
@@ -18,6 +17,10 @@ ophtalmologie.re
 origine.re
 possible.re
 push.notifica.re
+rehabilitant.rzeszow.re
 www.adsco.re
 www.c.adsco.re
+www.ico.re
+www.rehabilitant.rzeszow.re
+www.yande.re
 yande.re

@@ -25,10 +25,12 @@ mib.tn
 oect.org.tn
 openx.tunisien.tn
 pffn.pl.tn
+poczta-polska.tlg-group.com.tn
 proxysites.tn
 publiplast.tn
 safety-ebay.uk.tn
 sciencesinfirmieres.tn
+shell.skct.com.tn
 smart-ways.tn
 sooq.tn
 teskerti.tn
@@ -36,4 +38,8 @@ tking.com.tn
 tunimatec.com.tn
 vada.tn
 warriors-arena.beja-store.tn
+www.chemsky.tn
+www.pffn.pl.tn
+www.poczta-polska.tlg-group.com.tn
 www.rivaderm.tn
+www.shell.skct.com.tn

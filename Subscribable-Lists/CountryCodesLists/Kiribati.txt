@@ -1,4 +1,2 @@
 fl.a.ki
 slimprice.com.ki
-webscr-auth.de.ki
-webupdate-us1.de.ki
