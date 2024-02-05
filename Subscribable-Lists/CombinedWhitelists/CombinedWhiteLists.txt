@@ -1,8 +1,10 @@
+
+.live.com
 0-edge-chat.facebook.com
 1-edge-chat.facebook.com
-106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 2-edge-chat.facebook.com
 3-edge-chat.facebook.com
+31f68446599e96a4b46a050f5.ams.plex.services
 4-edge-chat.facebook.com
 5-edge-chat.facebook.com
 6-edge-chat.facebook.com
@@ -17,13 +19,10 @@ amazon.co.uk
 amazon.de
 amazon.fr
 amzn.to
-android.clients.google.com
+analytics.com
 android.clients.google.com
 app.plex.tv 
-apps.skype.com 
 apt.sonarr.tv
-ax.phobos.apple.com.edgesuite.net
-banners.spiceworks.com
 bigzipfiles.facebook.com
 bit.ly
 bitbucket.org
@@ -31,13 +30,12 @@ blocklist.kowabit.de
 blog.halle-leaks.de
 blogram.net
 boardgamegeek.com
-c.s-microsoft.com 
 ccleaner.com
 cdn.embedly.com
 cdn.optimizely.com
 cdn.tabnak.ir
 cdnjs.cloudflare.com
-chrome.google.com
+ceworks.com
 clients2.google.com
 clients3.google.com
 clients4.google.com
@@ -46,7 +44,6 @@ cloudflare.com
 contra-magazin.com
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
-creative.ak.fbcdn.net 
 crimekalender.wordpress.com
 dashboard.plex.tv
 de.news-front.info
@@ -58,16 +55,10 @@ deutsche-wirtschafts-nachrichten.de
 diepresse.com
 directvapplications.hb.omtrdc.net 
 directvnow.com 
-displaycatalog.mp.microsoft.com
 disqus.com
-dl.delivery.mp.microsoft.com 
-dl.dropbox.com
-dl.dropboxusercontent.com
 donorschoose.org
 dortmundecho.org
 download.sonarr.tv
-dropbox.com
-dynupdate.no-ip.com
 ea.com
 easylist-downloads.adblockplus.org
 easylist.to
@@ -78,7 +69,6 @@ ec-ns.sascdn.com
 edge-chat.facebook.com
 einwanderungskritik.de
 epochtimes.de
-external-lhr0-1.xx.fbcdn.net 
 external-lhr1-1.xx.fbcdn.net 
 external-lhr10-1.xx.fbcdn.net 
 external-lhr2-1.xx.fbcdn.net 
@@ -98,8 +88,6 @@ fpdownload.adobe.com
 fr.osdn.net
 freiezeiten.net
 g.live.com
-gekko.spiceworks.com
-geo-prod.do.dsp.mp.microsoft.com 
 github.com
 gitter.im
 gloria.tv
@@ -116,7 +104,6 @@ hartgeld.com
 hostsfile.mine.nu
 hulu.com
 i.imgur.com
-i.s-microsoft.com 
 icanhazip.com
 ideone.com
 imgur.com
@@ -129,8 +116,7 @@ kulturstudio.wordpress.com
 kundencenter.telekom.de
 lego.com
 live.com
-login.live.com
-m.hotmail.com 
+m
 m.weeklyad.target.com 
 malwareurls.joxeankoret.com
 messenger.com
@@ -141,7 +127,7 @@ metrics.plex.tv
 michael-mannheimer.net
 mirror.cedia.org.ec
 mirror1.malwaredomains.com
-netflix.com
+narr.tv
 news-front.info
 nine.plugins.plexapp.com
 noch.info
@@ -150,6 +136,7 @@ notabug.org
 npd-mv.de
 o1.email.plex.tv 
 o2.sg0.plex.tv 
+ockplus.org
 officeclient.microsoft.com
 outlook.live.com
 outlook.office365.com 
@@ -161,7 +148,6 @@ plex.tv
 politikstube.com
 politikversagen.net
 pressefreiheit24.wordpress.com
-pricelist.skype.com 
 products.office.com 
 proxy.novafusion.ea.com
 proxy.plex.bz
@@ -170,7 +156,6 @@ proxy02.pop.ord.plex.bz
 publicsuffix.org
 pubsub.plex.bz
 pubsub.plex.tv
-px.spiceworks.com
 qme.mydns.jp
 r5---sn-vgqs7ney.googlevideo.com
 ransomwaretracker.abuse.ch
@@ -211,8 +196,8 @@ stanev.org
 static.kickstarter.com
 stats.t-online.de
 status.plex.tv
-steamcommunity.com
 surveymonkey.com
+t 
 t.co
 target.com
 theeuropean.de
@@ -257,7 +242,6 @@ www.lightinthebox.com
 www.mercadolivre.com.br
 www.messenger.com
 www.niecko.pl
-www.no-ip.com
 www.npd-mv.de
 www.paypal.com
 www.pinterest.com
@@ -274,5 +258,6 @@ www.volksstimme.de
 youtu.be
 youtu.be
 youtube.com
+ype.com 
 yt3.ggpht.com
 zeustracker.abuse.ch

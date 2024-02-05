@@ -32,13 +32,15 @@ ____________________________________
 ### Converting All Text To Lower Case
 196082 Lines After Converting All Text To Lower Case
 ### Checking For Fully Qualified Domain Name Requirements
-196082 Lines After Checking For Fully Qualified Domain Name Requirements
-### Reverse Searching For Invalid Top Level Domains
-196053 Lines After Reverse Searching For Invalid Top Level Domains
 ### Punycode Translate
-196053 Lines After Punycode Translate
+196082 Lines After Punycode Translate
 ### Removing Duplicate Lines
-196053 Lines After Removing Duplicate Lines
+196082 Lines After Removing Duplicate Lines
+### Punycode Translate
+ Lines After Punycode Translate
+### Removing Duplicate Lines
+ Lines After Removing Duplicate Lines
+ Lines After Checking For Fully Qualified Domain Name Requirements
 ## Checking Parsed File Size
 ## Attempting Creation Of Parsed List
 ## Calculating Parse Time

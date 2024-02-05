@@ -16,3 +16,11 @@ ____________________________________
 ## Checking File Size
 ## Attempting Creation Of Mirror File
 ## Clearing Temp Vars
+## Checking File Size
+## Attempting Creation Of Mirror File
+## Clearing Temp Vars
+## Determining Download Attempt
+## Attempting To Download List
+## Checking File Size
+## Attempting Creation Of Mirror File
+## Clearing Temp Vars
