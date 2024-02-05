@@ -1,5 +1,5 @@
-adservice.google.dm
-mypages.cwdom.dm
+www.wager.dm
 news.dm
 wager.dm
 www.wager.dm
+adservice.google.dm

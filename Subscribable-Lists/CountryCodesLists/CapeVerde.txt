@@ -1,9 +1,10 @@
-adservice.google.cv
+sia.cv
+staffpromo.cv
+www.bca.cv
 arap.cv
-bavaro.cv
 filipemandl.cv
 ma-invest.cv
 sia.cv
-staffpromo.cv
-www.bavaro.cv
-www.bca.cv
+ma-invest.cv
+sia.cv
+adservice.google.cv

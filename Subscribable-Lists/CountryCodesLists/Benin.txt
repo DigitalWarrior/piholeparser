@@ -1,3 +1,4 @@
-adservice.google.bj
-reisl.uac.bj
 tk.airfrance.bj
+reisl.uac.bj
+reisl.uac.bj
+adservice.google.bj

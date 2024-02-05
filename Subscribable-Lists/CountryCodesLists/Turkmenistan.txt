@@ -1,11 +1,5 @@
-adservice.google.tm
-blockage.info.tm
 canfam.euro.tm
-digital.shop.tm
-hide.info.tm
-hub.tm
 intangible.tm
-iproxy.info.tm
-stealth-browser.biz.tm
-sweet-girls-proxy.info.tm
 www.intangible.tm
+hub.tm
+adservice.google.tm

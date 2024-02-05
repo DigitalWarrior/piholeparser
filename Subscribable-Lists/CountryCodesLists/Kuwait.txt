@@ -1,10 +1,14 @@
-adservice.google.com.kw
 babtain.com.kw
 flat.com.kw
 k4.com.kw
 kccec.com.kw
-petrogulf.com.kw
-switch.com.kw
 www.babtain.com.kw
 www.k4.com.kw
 www.kccec.com.kw
+kccec.com.kw
+kccec.com.kw
+kccec.com.kw
+kccec.com.kw
+petrogulf.com.kw
+switch.com.kw
+adservice.google.com.kw

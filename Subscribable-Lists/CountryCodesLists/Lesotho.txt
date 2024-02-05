@@ -1,9 +1,6 @@
-adservice.google.co.ls
 clientcare.co.ls
 cloudhub.co.ls
-delightproperties.co.ls
 dpe.org.ls
-haelesotho.org.ls
 hfhl.org.ls
 khotsonglodge.co.ls
 ldams.org.ls
@@ -13,7 +10,6 @@ molepetravel.co.ls
 nul.ls
 print-corp.co.ls
 sefikengfarm.co.ls
-slbqms.co.ls
 visionclinic.co.ls
 volare.co.ls
 www.clientcare.co.ls
@@ -29,3 +25,10 @@ www.print-corp.co.ls
 www.sefikengfarm.co.ls
 www.visionclinic.co.ls
 www.volare.co.ls
+delightproperties.co.ls
+haelesotho.org.ls
+slbqms.co.ls
+volare.co.ls
+haelesotho.org.ls
+volare.co.ls
+adservice.google.co.ls

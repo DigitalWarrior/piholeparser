@@ -1,5 +1,5 @@
-adservice.google.je
 cpm.je
 factory.je
+factory.je
 kut.je
-shadow.24.je
+adservice.google.je

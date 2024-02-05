@@ -1,6 +1,6 @@
-adservice.google.com.pr
 engage.3m.com.pr
-horseracing.com.pr
 l.pr
 n.pr
 su.pr
+horseracing.com.pr
+adservice.google.com.pr

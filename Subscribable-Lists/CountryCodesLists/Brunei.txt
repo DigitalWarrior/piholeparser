@@ -1,5 +1,3 @@
-adservice.google.com.bn
-espeed24-22.brunet.bn
-espeed30-200.brunet.bn
 jtb.brunet.bn
 ns2.brunet.bn
+adservice.google.com.bn

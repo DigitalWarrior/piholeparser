@@ -1,4 +1,6 @@
 gate.igate.sy
 office365.gecopham.sy
-sana.sy
+office365.gecopham.sy
+office365.gecopham.sy
 zanzoul.aya.com.sy
+sana.sy
