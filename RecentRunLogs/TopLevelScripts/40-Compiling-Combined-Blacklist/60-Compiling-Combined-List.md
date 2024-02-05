@@ -4,3 +4,4 @@
 ____________________________________
 # 60-Compiling-Combined-List
 * All Parsed List Removed. Mon Feb  5 00:31:09 MST 2024
+* Allparsedlist list was an empty file Mon Feb  5 00:31:09 MST 2024

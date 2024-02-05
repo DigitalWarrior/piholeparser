@@ -1911,3 +1911,27 @@ List Took 2 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/disconect-me.md)
 
 ## lightswitch05-ads-tracking
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/lightswitch05-ads-tracking.md)
+
+## lightswitch05-hate-and-junk
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/lightswitch05-hate-and-junk.md)
+
+## lightswitch05-tracking-aggresive
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/lightswitch05-tracking-aggresive.md)
+
+## lightswith05-amp-hots
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/lightswith05-amp-hots.md)
+
+## uAssetsFilters
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uAssetsFilters.md)
+
+## uAssetsPrivacy
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uAssetsPrivacy.md)
+
+## uAssetsUnbreak

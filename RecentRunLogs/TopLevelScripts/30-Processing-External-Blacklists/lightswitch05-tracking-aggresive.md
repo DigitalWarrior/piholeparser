@@ -4,7 +4,6 @@
 ____________________________________
 # lightswitch05-tracking-aggresive
 ## Setting Temporary Parsing Variables
-### Reverse Searching For Invalid Top Level Domains
 ## Checking For Existing Mirror File
 ## Checking For Github Mirror File
 ## Checking For Existing Parsed File
@@ -15,4 +14,3 @@ ____________________________________
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
- Lines After Reverse Searching For Invalid Top Level Domains

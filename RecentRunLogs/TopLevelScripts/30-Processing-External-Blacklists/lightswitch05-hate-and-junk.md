@@ -11,20 +11,6 @@ ____________________________________
 ## The Source In The File To Download Is
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
-### Removing Comments
-2234 Lines After Removing Comments
-### Removing Content Filtering
-2234 Lines After Removing Content Filtering
-### Trimming HOSTS Format IP Addresses
-2234 Lines After Trimming HOSTS Format IP Addresses
-### Removing Empty Space
 ## Checking File Header
-2232 Lines After Removing Empty Space
-### Removing Invalid FQDN Characters
-2232 Lines After Removing Invalid FQDN Characters
-### Converting All Text To Lower Case
-2232 Lines After Converting All Text To Lower Case
-### Checking For Fully Qualified Domain Name Requirements
 ## Determining Host Availability
 ## Checking If List Updated Online
- Lines After Checking For Fully Qualified Domain Name Requirements
