@@ -1,5 +1,6 @@
 accounts-update-requested.zxc.pm
 appleid.apple.com-sa.pm
+cmp.cls.pm
 com-career.pm
 com-consumer.pm
 com-earning.pm

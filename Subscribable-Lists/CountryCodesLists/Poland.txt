@@ -11,6 +11,7 @@
 05fc76fef8bf1710e686a53c94f61f5e.natoplx.pl
 087c493c217893e1e587117c27c4399a.vistvx.pl
 089efb308f0bd02bd5af05617fc29841.dioprl.pl
+09f9195ac50e547264ebd14b9ecbda34.amrst.pl
 0a8a6dbb36c93946fe7b901492e1e768.puoli.pl
 0b7fe10b70ae49ccaa0d8fa325e82f62.pltvs.pl
 0bb903d17cf760976d84bba303b47d8c.nitwos.pl
@@ -39,10 +40,12 @@
 14e9293657039914b8cd8816f49265c3.btntls.pl
 154c3b75f2700688aa0a63575e4a707d.natoplx.pl
 159069e39920435376ea5190ed5f072d.vistvx.pl
+15a94f54281558a88a8395ec2e33e35a.amrst.pl
 15b37.skroc.pl
 15minadlt.hit.gemius.pl
 15minlt.adocean.pl
 170107a21a2e214d258ccfaf02dc4d15.actgro.pl
+1736392ad697af05d498040d32de16b4.amrst.pl
 1769e6a16ad126971cf4ce894d0b4191.marcoprzy.net.pl
 178235052015.warszawa.vectranet.pl
 17a644191547a0fe057b52c53f734eb8.boawgr.pl
@@ -88,6 +91,7 @@
 2354950903465d8435592dc98c46e6ef.vistvx.pl
 24-sklep.pl
 242a01d226beb16cf4199b71338c1def.riplso.pl
+24657c7a4eb16490bfdbfa948632c16f.amrst.pl
 24gwaltfakt.com.pl
 24gwaltfakt.pl
 24pakszybko.net.pl
@@ -203,6 +207,7 @@
 52385462cd2f2d9c0a7213708fb159de.maxgro.pl
 529ca640e21b73ff4bc05c65e7ed373d.dioprl.pl
 52d55cd48634a84b765991a3a9861977.danielbrunon.pl
+54618885e23967e9ec29d498ef559e48.amrst.pl
 5476391974aa0a132c93d4c351708151.mistrox.pl
 547925kodem.soulcar.pl
 54a4b3574ed6bb508.all-biuro.pl
@@ -223,6 +228,7 @@
 5a30c405d1e2aafe99a133bdcc336cb0.mitfvp.pl
 5ac238e5fbe9a44f45f618faed5551b0.virosp.pl
 5b56cfa39f92780d89cc42d54db7ddf4.puoli.pl
+5bace951f7a589872a1a5a3f02184fac.amrst.pl
 5c0hem7htx.ekomar.com.pl
 5ckarlino.pl
 5dd35899b0b7af190cbfe2dc7f0aec03.dioprl.pl
@@ -232,6 +238,7 @@
 612f6a2c94f6dab1fe30369c76532d54.nitxl.pl
 6165e3f2d50cea948664d8f986a971b5.dioprl.pl
 61c65dbbc8ac11b1f122e2fec0f773b4.dioprl.pl
+62052c97f9fc279ab7420489ae23dba8.amrst.pl
 62a810d0c60f84b5f8.plall.pl
 62faimi2fjkm.az.pl
 63457ddaaccf1668c9c8247d73a1bcc7.dioprl.pl
@@ -243,6 +250,7 @@
 69a3ad94244833ee3aec2052ce7bf2b7.puoli.pl
 6b0296bff7d2266.akc-all.pl
 6c7e824116678a0dee7d9f60be7df1d4.nitwos.pl
+6d271678c62cb21c60bd6eb7330171d7.yipl.pl
 6d734ecd6ebdea52eead1c9803697066.liamartem.pl
 6d89c8775ff296f9058f9c06116ffecf.vistvx.pl
 6dd9887cbe9e86d14fa5f34f10b20c25.nutops.pl
@@ -360,6 +368,7 @@
 9d8e3c35534ec2d5.wwwplms.pl
 9db85664b052acfd21f714fa85026699.forgro.pl
 9e26d00f7449e079f8b5cf010394c7c7.natoplx.pl
+9e9848df9310779b4040d44bc7c70232.amrst.pl
 9fb7de65cd1c307f79da.smsall.pl
 9interia.pl
 9print.pl
@@ -516,6 +525,7 @@ adresowaniekopert.pl
 adresowkapsa.pl
 adrianazielinska.pl
 adrianschubert.pl
+adrianwitek.com.pl
 adrinaas.pl
 adrinaaservives.pl
 adro.hit.gemius.pl
@@ -820,15 +830,27 @@ allegrolokalnie-zakupy.pl
 allegrolokalnie.24-platnosci.pl
 allegrolokalnie.24pay-u.pl
 allegrolokalnie.24platnosc.pl
+allegrolokalnie.aukcja-1654725.pl
 allegrolokalnie.aukcja-61249225.pl
 allegrolokalnie.aukcja-7125924.pl
 allegrolokalnie.aukcja-9641274.pl
 allegrolokalnie.aukcja-allegro.pl
+allegrolokalnie.aukcja-id642781.pl
+allegrolokalnie.aukcja-id7647128.pl
 allegrolokalnie.aukcja-id76941.pl
+allegrolokalnie.aukcja-id78533.pl
 allegrolokalnie.aukcja-id7948261.pl
 allegrolokalnie.aukcja-id824821618.pl
 allegrolokalnie.aukcja-id849214.pl
 allegrolokalnie.aukcja-id8971241.pl
+allegrolokalnie.aukcja-prywatna3659.pl
+allegrolokalnie.aukcja-prywatna3911.pl
+allegrolokalnie.aukcja-prywatna526.pl
+allegrolokalnie.aukcja-prywatna5525.pl
+allegrolokalnie.aukcja-prywatna5655.pl
+allegrolokalnie.aukcja-prywatna56656.pl
+allegrolokalnie.aukcja-prywatna5883.pl
+allegrolokalnie.aukcja-prywatna8754.pl
 allegrolokalnie.aukcja-uf897i12fas3.pl
 allegrolokalnie.aukcja2541.pl
 allegrolokalnie.aukcja3572.pl
@@ -854,6 +876,7 @@ allegrolokalnie.e-aukcje24h-7.pl
 allegrolokalnie.e-aukcje24h.pl
 allegrolokalnie.e-oferty24.pl
 allegrolokalnie.e-ogloszenie24h.pl
+allegrolokalnie.e-piatnosci.pl
 allegrolokalnie.e-transakcje.pl
 allegrolokalnie.e-zakupy24-7.pl
 allegrolokalnie.eaukcja24h.pl
@@ -876,12 +899,14 @@ allegrolokalnie.i-platnosci-24.pl
 allegrolokalnie.kategoria-id77.pl
 allegrolokalnie.kategorie-id84.pl
 allegrolokalnie.kategorie-oferta741268769.pl
+allegrolokalnie.kategorie3978713.pl
 allegrolokalnie.kup-sprzedaj.pl
 allegrolokalnie.kupteraz24.pl
 allegrolokalnie.kurier24-7.pl
 allegrolokalnie.nssl.pl
 allegrolokalnie.ochrona-allegro.pl
 allegrolokalnie.ochronazakupu.pl
+allegrolokalnie.oferta-6309521.pl
 allegrolokalnie.oferta-6534.pl
 allegrolokalnie.oferta-8a9na4h142fa6.pl
 allegrolokalnie.oferta-96d57c91j8b124c6a13.pl
@@ -906,13 +931,18 @@ allegrolokalnie.oferta-sprzedazy25485.pl
 allegrolokalnie.oferta-sprzedazy346547.pl
 allegrolokalnie.oferta-sprzedazy6242.pl
 allegrolokalnie.oferta-sprzedazy8254.pl
+allegrolokalnie.oferta-zakupu5854.pl
+allegrolokalnie.oferta-zakupu5874.pl
 allegrolokalnie.oferta01837.pl
 allegrolokalnie.oferta11564.pl
 allegrolokalnie.oferta12553.pl
 allegrolokalnie.oferta12555.pl
 allegrolokalnie.oferta12556.pl
+allegrolokalnie.oferta216434.pl
+allegrolokalnie.oferta2324.pl
 allegrolokalnie.oferta247.pl
 allegrolokalnie.oferta29271.pl
+allegrolokalnie.oferta3656.pl
 allegrolokalnie.oferta97259.pl
 allegrolokalnie.oferty-prywatne.pl
 allegrolokalnie.oferty-zakup24.pl
@@ -1117,6 +1147,9 @@ allegrolokalnie.pl-prywatna-sprzedaz11992.pl
 allegrolokalnie.pl-prywatna-sprzedaz11993.pl
 allegrolokalnie.pl-prywatna-sprzedaz11994.pl
 allegrolokalnie.pl-prywatna-sprzedaz11996.pl
+allegrolokalnie.pl-prywatna-sprzedaz1243.pl
+allegrolokalnie.pl-prywatna-sprzedaz1244.pl
+allegrolokalnie.pl-prywatna-sprzedaz1246.pl
 allegrolokalnie.pl-prywatna-transakcja6247.pl
 allegrolokalnie.pl-prywatna-transakcja6814.pl
 allegrolokalnie.pl-prywatna-transakcja6817.pl
@@ -1213,6 +1246,7 @@ allegrolokalnie.prywatne-oferty36787685.pl
 allegrolokalnie.prywatne-oferty88419342.pl
 allegrolokalnie.prywatne-platnosci.pl
 allegrolokalnie.przyjazne-zamowienia.pl
+allegrolokalnie.secure-payu.pl
 allegrolokalnie.sprawdzone-platnosci.pl
 allegrolokalnie.szybka-paczka.pl
 allegrolokalnie.szybka-przesylka.pl
@@ -1240,6 +1274,7 @@ allegrolokalnie.zakupy-online24.pl
 allegrolokalnie.zakupybezpieczne-24.pl
 allegrolokalnie.zakupyonline-24.pl
 allegrolokalnie.zakupypayu24.pl
+allegrolokalnie.zakuup.pl
 allegrolokalnie.zamow-produkt.pl
 allegrolokalnie.zamow-przedmiot.pl
 allegrolokalnie.zamow-przesylke.pl
@@ -1312,6 +1347,7 @@ amedrzejewska.pl
 ameli-assrance.cba.pl
 amethysthotels.pl
 amma-store9.com.pl
+amrst.pl
 amultinetruby.pl
 amv186.internetdsl.tpnet.pl
 an0o2-lp20.pl-1x6.pl
@@ -1481,6 +1517,15 @@ audmax.pl
 auger.pl
 aukcja-id7948261.pl
 aukcja-olx.pl
+aukcja-prywatna3659.pl
+aukcja-prywatna3911.pl
+aukcja-prywatna526.pl
+aukcja-prywatna5525.pl
+aukcja-prywatna5545.pl
+aukcja-prywatna5655.pl
+aukcja-prywatna56656.pl
+aukcja-prywatna5883.pl
+aukcja-prywatna8754.pl
 aukcja1432.pl
 aukcja1527.pl
 aukcja1782.pl
@@ -1511,6 +1556,7 @@ aurator.pl
 aurismedic.josefkopecka.pl
 auschwitzmemento.pl
 auta-adamczyk.pl
+auta-babut.pl
 auta-bakowska.pl
 auta-baran.pl
 auta-bednarek.pl
@@ -1523,9 +1569,13 @@ auta-cegielski.pl
 auta-chojnacki.pl
 auta-chylinski.pl
 auta-cieslarski.pl
+auta-domasnki.pl
 auta-duda.pl
 auta-dworski.pl
+auta-dybus.pl
 auta-filipski.pl
+auta-gorczynski.pl
+auta-gradkowski.pl
 auta-grzesik.pl
 auta-grzybowski.pl
 auta-jablonski.pl
@@ -1539,6 +1589,7 @@ auta-kardaszewski.pl
 auta-karolewski.pl
 auta-karpinski.pl
 auta-karwacki.pl
+auta-kijowski.pl
 auta-kosowski.pl
 auta-kowalik.pl
 auta-kozak.pl
@@ -1561,6 +1612,7 @@ auta-milczarski.pl
 auta-miodowski.pl
 auta-mirowski.pl
 auta-ostrowski.pl
+auta-paluch.pl
 auta-pawlikowski.pl
 auta-pawlowski.pl
 auta-piotrowski.pl
@@ -1578,17 +1630,22 @@ auta-sobanski.pl
 auta-sobczak.pl
 auta-sobieski.pl
 auta-sochacki.pl
+auta-sowinski.pl
+auta-stach.pl
 auta-szewczyk.pl
 auta-szulc.pl
 auta-szymczak.pl
+auta-urbaniak.pl
 auta-walczak.pl
 auta-wilk.pl
 auta-winiarski.pl
 auta-witowski.pl
+auta-wloczynski.pl
 auta-wojtas.pl
 auta-wolski.pl
 auta-wyprzedaz.pl
 auta-zalewski.pl
+auta-zawarski.pl
 autagielda.pl
 autkopolczynska.pl
 auto-anglik.pl
@@ -1599,8 +1656,10 @@ auto-boniek.pl
 auto-czapa.pl
 auto-elite24.pl
 auto-fast.pl
+auto-garczynski.pl
 auto-heres.pl
 auto-hermeks.pl
+auto-jedrzejewski.pl
 auto-kika.pl
 auto-klik.pl
 auto-komorowski.pl
@@ -1616,6 +1675,7 @@ auto-tu24.pl
 auto-turowski24.pl
 auto-tutu24.pl
 auto-wojakowskionline.pl
+auto-wtorne.pl
 auto24-moks.pl
 autoareczka.pl
 autobest-polska.pl
@@ -1659,6 +1719,7 @@ autogielda-krawacki.pl
 autogielda-krukowski.pl
 autogielda-kuczynski.pl
 autogielda-lesinski.pl
+autogielda-lokalnie.pl
 autogielda-lugowski.pl
 autogielda-maciejczak.pl
 autogielda-majorczyk.pl
@@ -1670,6 +1731,7 @@ autogielda-matuszkiewicz.pl
 autogielda-miloszki.pl
 autogielda-mruczyn.pl
 autogielda-nowacki.pl
+autogielda-nowakiewicz.pl
 autogielda-otto24.pl
 autogielda-pakulski.pl
 autogielda-pekinski.pl
@@ -1689,6 +1751,8 @@ autogielda-wyspianski.pl
 autogielda-zarski.pl
 autogielda-zawadzka.pl
 autogielda-ziemianowicz.pl
+autogielda-zietek.pl
+autogielda-ziezynski.pl
 autohandel-boniek.pl
 autohoop.pl
 autokarykatowice.pl
@@ -1848,6 +1912,8 @@ baxter.krakowiak.org.pl
 bay4bay.pl
 bazalt-gracze.pl
 bazan.home.pl
+bazar-binkowski.pl
+bazar-malinowski.pl
 bazasprawdzianow.pl
 bazylika.jgora.pl
 bbcdn.code.new.smartcontext.pl
@@ -2155,6 +2221,7 @@ cda-cda.prv.pl
 cda-film.prv.pl
 cda-flix.pl
 cda-hd-cc.pl
+cda-pl.pl
 cda-vod.pl
 cda-vod.prv.pl
 cda-zalukaj.pl
@@ -2395,6 +2462,7 @@ d24c70757f9074b15399be8c166ad87a.dioprl.pl
 d2620c26f1b3d30bf42f845275.warszua.pl
 d2be0c858240c5d247d622e35128a618.puoli.pl
 d38a364ca7ddd5371c15c260047382b6.molekewa.net.pl
+d50aba82bc7538585af6153c0ca40e08.amrst.pl
 d583249782c126d82582793190125379.forgro.pl
 d6045d3d0818b1aad3d7019a48dbcb10.ntirslo.pl
 d698c2b46e026f7d.smsknt.pl
@@ -2469,6 +2537,7 @@ debki-klara.pl
 debra.pawlukojc.pl
 debra.wiljot.pl
 debtablet.pl
+decobloog.pl
 decodorebasic.pl
 decoidea.pl
 decorfront.pl
@@ -2701,6 +2770,7 @@ dziennik-codzienny24h.pl
 dziennik.warszawa.pl
 dziennik24.uyp.pl
 dziennikarze.lo-kolaczyce.pl
+dziennikinformacji.pl
 dzienniknews.com.pl
 dzienniknews.pl
 dziennikwschodni.ct8.pl
@@ -2747,6 +2817,7 @@ e-poszukiwania.com.pl
 e-poszukiwania.pl
 e-poszukiwanialaury.pl
 e-poszukiwanie.pl
+e-samochodowy-deall.pl
 e-serwisfoto.pl
 e-slowoboze.pl
 e-tak.pl
@@ -2817,6 +2888,7 @@ ecstasypilldrugstore.pl
 edipresse.adocean.pl
 edipresse.hit.gemius.pl
 edpdpolska.pl
+eduytamare.pl
 edward.barbaru.pl
 edwards.adamneska.pl
 edwards.slwiastore.pl
@@ -3010,6 +3082,7 @@ erubydreamweb.pl
 erubygrandmycash.pl
 erubypalacenight.pl
 esamochod.pl
+esamochodowy-deall.pl
 esashop.pl
 escortbank.pl
 esemeso.pl
@@ -3180,6 +3253,7 @@ faktgwalt24.pl
 faktgwalt24.waw.pl
 faktonews07102021.ct8.pl
 fakty-informacje24.you2.pl
+fakty-regionalne.co.pl
 fakty24-alert.you2.pl
 fakty24-informacje.pl
 fakty24-stolica.pl
@@ -3632,6 +3706,7 @@ ghmrs.hit.gemius.pl
 ghmtr.hit.gemius.pl
 ghura.pl
 gibilisco.mbabik.info.pl
+gielda-barburka.pl
 gielda-mazowsze.pl
 gielda-nowak.pl
 gielda-samochod.pl
@@ -4013,6 +4088,7 @@ handel-lokalniie.net.pl
 handelmoto-tutaj24.pl
 handlarzeonline.pl
 handlowastrategiaglobalna.pl
+handlujemymotoryzacja-24.pl
 hanksly.pl
 hanteljankowski.pl
 happy-jump.pl
@@ -4141,6 +4217,7 @@ i-olx.pl
 i-pgnig.pl
 i-pocztapolska.pl
 i-podgladacz.pl
+i-samochodowy-deall.pl
 i-stream.pl
 i.interia.pl
 i94327.pl
@@ -4259,6 +4336,7 @@ informacje24-wirtualne.com.pl
 informacje24-wirtualne.pl
 informacjezkraju.pl
 informacyjnie-2.ct8.pl
+informator-pomorski.pl
 informatykadlakazdego.dejm.pl
 informujemy24h.cba.pl
 infoswiat.hekko24.pl
@@ -4294,6 +4372,7 @@ internetowerandki.com.pl
 interwencja.you2.pl
 inteza.pl
 intrack.pl
+intrgas.inesdajana.pl
 intymna.pl
 investoradbg.hit.gemius.pl
 investorbg.adocean.pl
@@ -4326,6 +4405,7 @@ irubydreamweb.pl
 irubygrandmycash.pl
 irubypalaceelitenet.pl
 irubypalacenight.pl
+isamochodowy-deall.pl
 isjc.tujas.pl
 ispel.com.pl
 issl-cert.pl
@@ -4623,6 +4703,9 @@ kinoseans.pl
 kinotek.pl
 kinowepremiery.pl
 kinujemy.pl
+kipling-polska.pl
+kiplingpolska.pl
+kiplingtorebki.pl
 kirby.kenio.warszawa.pl
 kirk.transprt.info.pl
 kitcarforum.pl
@@ -4770,6 +4853,7 @@ krainajednorozca.pl
 krajowy-informator.pl
 krajowyfunduszgwarancyjny.pl
 krakowska24.e-kei.pl
+krakus.erykkraj.nieruchomosci.pl
 krazex69.anaazjaiwona.pl
 krdn.pl
 kredytnadowolnycel.pl
@@ -4827,6 +4911,7 @@ kszozkosz.pl
 kszrejbrowski.janinaluna.pl
 ktpn.kalisz.pl
 kubud.pl
+kuchkuch.joachimlask.pl
 kulkowo.ct8.pl
 kulmaczewski.miakatarzyna.pl
 kup-paczka-olx.pl
@@ -4991,6 +5076,7 @@ logowaniepl.pl
 logsofwoodnet.pl
 loguj-praca.co.pl
 lokalizator.kamilpawel.pl
+lokalna-autogielda.pl
 lokalneinformacje.pl
 lokalniprzewodnicy.com.pl
 lokalny-informator.pl
@@ -5091,6 +5177,7 @@ mainnetrubypalace.pl
 maiske.vot.pl
 maja-jeczalik.pl
 maja.org.pl
+majaprzy.pl
 majorhubal.pl
 makazi.pl
 makeathome.pl
@@ -5231,6 +5318,7 @@ medsdrugpharmacy.pl
 medshop.pl
 meduza.butra.pl
 medycznapolska.pl
+mega-auto24.pl
 mega-cars24.pl
 megaauto-24.pl
 megafura24-tutaj.pl
@@ -5390,6 +5478,7 @@ monikareplin.pl
 monikweglarz.aleksdzie.pl
 monitorfx.pl
 monkeyball.osa.pl
+monster125.nathangrz.warszawa.pl
 monta.pl
 montaz.niedzwiedz-lock.pl
 montazowniakatowice.pl
@@ -5411,7 +5500,9 @@ moto-pr.pl
 moto-seven.pl
 motoeast.pl
 motogielda-polska.pl
+motohandel-tu.pl
 motohandel-wolski.pl
+motokomis-24.pl
 motokomis-olszewski.pl
 motomirko.com.pl
 motored.pl
@@ -5718,6 +5809,7 @@ nhspsa.7m.pl
 niania74.alesprokesova.pl
 nianio.pl
 nickelfrwp.cfolks.pl
+nicolapanek.pl
 nicolas.huborform.com.pl
 nicolosi.pl
 nie-bo.net.pl
@@ -5839,6 +5931,7 @@ odchudzaniezpasja.pl
 oddam-za-darmo-samochod.pl
 oddamyzadarmo.pl
 oddawszy.pl
+oddityorbitershubventure.pl
 oderkaopole.pl
 odessa.com.pl
 odevo.pl
@@ -5890,6 +5983,7 @@ oferta-sprzedazy2142.pl
 oferta-sprzedazy2356.pl
 oferta-sprzedazy2455.pl
 oferta-sprzedazy25485.pl
+oferta-sprzedazy31534.pl
 oferta-sprzedazy346547.pl
 oferta-sprzedazy3644.pl
 oferta-sprzedazy3645.pl
@@ -5904,6 +5998,8 @@ oferta-sprzedazy6234.pl
 oferta-sprzedazy6242.pl
 oferta-sprzedazy8254.pl
 oferta-sprzedazy9248.pl
+oferta-zakupu5854.pl
+oferta-zakupu5874.pl
 oferta12553.pl
 oferta12554.pl
 oferta12555.pl
@@ -5913,7 +6009,13 @@ oferta15257.pl
 oferta15258.pl
 oferta15259.pl
 oferta15260.pl
+oferta2324.pl
 oferta29271.pl
+oferta3656.pl
+oferta4585.pl
+oferta47832.pl
+oferta8545.pl
+oferta8548.pl
 ofertanajuz.pl
 ofertaoix.pl
 oferte.pl
@@ -6067,6 +6169,7 @@ olineextrafestival.pl
 olinemagiceudice.pl
 olineniceeudice.pl
 olinevivaeudice.pl
+olivianicole.pl
 olszewski.ehost.pl
 oluxlifevivasp.pl
 oluxurylinevivasp.pl
@@ -6080,6 +6183,7 @@ olx.aukcja-24.pl
 olx.aukcja3572.pl
 olx.aukcja3698.pl
 olx.aukcje-24h.pl
+olx.aukcje247.pl
 olx.aukcje24h.pl
 olx.blik24-7.pl
 olx.e-dostawa24.pl
@@ -6092,6 +6196,7 @@ olx.e-platnosc24h.pl
 olx.e-platnosci247.pl
 olx.e-przesylka24.pl
 olx.e-przesylki24.pl
+olx.eoferta-24h.pl
 olx.eogloszenia24-7.pl
 olx.eplatnosci24.pl
 olx.hit.gemius.pl
@@ -6119,6 +6224,7 @@ olx.pl-platnosc-payu.pl
 olx.pl-prywatna-aukcja-sprzedazy198242.pl
 olx.pl-prywatna-aukcja-sprzedazy245513.pl
 olx.pl-prywatna-aukcja1296.pl
+olx.pl-prywatna-sprzedaz1243.pl
 olx.pl-specjalna-oferta73377.pl
 olx.pl-szybkaplatnosc235543.pl
 olx.pl.paymont.pl
@@ -6214,6 +6320,7 @@ orbowlada.strefa.pl
 orewbobolice.pl
 organicmed.pl
 orichrubypalace.pl
+orlen-24.pl
 orlen-group.pl
 orlen.hotchili.pl
 orleni.pl
@@ -6397,6 +6504,7 @@ peters.huborform.com.pl
 peters.stojanu.pl
 petersbud.pl
 petrodom.pl
+petrol1.witkurek.pl
 petrusserwis.pl
 petycje.lokatorzy.info.pl
 pewnyzabieg.pl
@@ -6790,6 +6898,9 @@ pl-prywatna-sprzedaz11992.pl
 pl-prywatna-sprzedaz11993.pl
 pl-prywatna-sprzedaz11994.pl
 pl-prywatna-sprzedaz11996.pl
+pl-prywatna-sprzedaz1243.pl
+pl-prywatna-sprzedaz1244.pl
+pl-prywatna-sprzedaz1246.pl
 pl-prywatna-transakcja6247.pl
 pl-prywatna-transakcja6814.pl
 pl-prywatna-transakcja6817.pl
@@ -7755,6 +7866,8 @@ salon-gabriela.pl
 salon-urody-mg.pl
 salonelektronarzedzi.pl
 salonmeblowyszczygiel.pl
+samochodowy-deall.pl
+samochodowy-deallonline.pl
 samochody-glinek.pl
 samochody-modrzec.pl
 samochodziarze24.pl
@@ -7792,6 +7905,7 @@ sec.hit.gemius.pl
 secretwish.pl
 secunet.pl
 secure-access.pl
+secure-payu.pl
 secure.alior.przelewy24-7.pl
 secure.bzwbk.przelewy24-7.pl
 secure.bzwbk.szybkie-platnosci.pl
@@ -8025,6 +8139,7 @@ skecherspl.pl
 skecherssklep.pl
 skecherstanio.pl
 skgde.adocean.pl
+skimspolska.pl
 skincare.waw.pl
 skinsycs.89.pl
 skladopaluwojcice.pl
@@ -8175,6 +8290,7 @@ sos-car.pl
 sosnowapolana.kosmajanus.pl
 soswtarn.marceligrochowski.pl
 soyter.pl
+sp11bialystok.aronwilk.pl
 sp11bialystok.neostrada.pl
 sp1drezdenko.neostrada.pl
 sp3uqq.pl
@@ -8542,6 +8658,7 @@ tarnowskiegory.pl
 tarotmagow.pl
 tauruskontakt.jeremiaszaron.pl
 tax-unitedparcels.pl
+taxidaleszyce.lucjakon.pl
 tbsdruk.witwrona.pl
 tbsradomsko.nikitaxavier.pl
 tcd.mariuszbaraniewicz.pl
@@ -9074,6 +9191,7 @@ vodster.pl
 vodstrefa.pl
 voldemort.pl
 vosena.pl
+voxda.pl
 vpdr.pl
 vratislavialex.pl
 vrympoqs5ra34nfo.torhelper.pl
@@ -9245,6 +9363,7 @@ wiskiherbal.pl
 wiskimedicare.pl
 wit.martynamaria.warszawa.pl
 witamina.c.pl
+witkurek.pl
 wjk-invest.pl
 wjmys.mariopaul.pl
 wk7.springup.pl
@@ -9331,6 +9450,7 @@ www.05f6e9e3a6f4d71363e14fdf6ea2ac14.btntls.pl
 www.05fc76fef8bf1710e686a53c94f61f5e.natoplx.pl
 www.087c493c217893e1e587117c27c4399a.vistvx.pl
 www.089efb308f0bd02bd5af05617fc29841.dioprl.pl
+www.09f9195ac50e547264ebd14b9ecbda34.amrst.pl
 www.0a8a6dbb36c93946fe7b901492e1e768.puoli.pl
 www.0b7fe10b70ae49ccaa0d8fa325e82f62.pltvs.pl
 www.0bb903d17cf760976d84bba303b47d8c.nitwos.pl
@@ -9354,8 +9474,10 @@ www.139287dalej.soulcar.pl
 www.14e9293657039914b8cd8816f49265c3.btntls.pl
 www.154c3b75f2700688aa0a63575e4a707d.natoplx.pl
 www.159069e39920435376ea5190ed5f072d.vistvx.pl
+www.15a94f54281558a88a8395ec2e33e35a.amrst.pl
 www.15b37.skroc.pl
 www.170107a21a2e214d258ccfaf02dc4d15.actgro.pl
+www.1736392ad697af05d498040d32de16b4.amrst.pl
 www.1769e6a16ad126971cf4ce894d0b4191.marcoprzy.net.pl
 www.178235052015.warszawa.vectranet.pl
 www.17a644191547a0fe057b52c53f734eb8.boawgr.pl
@@ -9397,6 +9519,7 @@ www.231a9df7622ac50cce4f658115e96a59.pltvs.pl
 www.2354950903465d8435592dc98c46e6ef.vistvx.pl
 www.24-sklep.pl
 www.242a01d226beb16cf4199b71338c1def.riplso.pl
+www.24657c7a4eb16490bfdbfa948632c16f.amrst.pl
 www.262c5ae68def4fa78a06b8876e8c2aa8.vistvx.pl
 www.26b6f63d8328ff19dbdc4069137d1dc1.btntls.pl
 www.26df17a15980d6362a2218c5ec65c14f.riplso.pl
@@ -9492,6 +9615,7 @@ www.522e75d6bc331339353b6488a2082329.vistvx.pl
 www.52385462cd2f2d9c0a7213708fb159de.maxgro.pl
 www.529ca640e21b73ff4bc05c65e7ed373d.dioprl.pl
 www.52d55cd48634a84b765991a3a9861977.danielbrunon.pl
+www.54618885e23967e9ec29d498ef559e48.amrst.pl
 www.5476391974aa0a132c93d4c351708151.mistrox.pl
 www.547925kodem.soulcar.pl
 www.54a4b3574ed6bb508.all-biuro.pl
@@ -9512,6 +9636,7 @@ www.59be3a05cd559253aafd.wwwplkt.pl
 www.5a30c405d1e2aafe99a133bdcc336cb0.mitfvp.pl
 www.5ac238e5fbe9a44f45f618faed5551b0.virosp.pl
 www.5b56cfa39f92780d89cc42d54db7ddf4.puoli.pl
+www.5bace951f7a589872a1a5a3f02184fac.amrst.pl
 www.5c0hem7htx.ekomar.com.pl
 www.5dd35899b0b7af190cbfe2dc7f0aec03.dioprl.pl
 www.5tysiecy.pl
@@ -9520,6 +9645,7 @@ www.60c8efb763061fe0e19e44a3a2c3298c.maxgro.pl
 www.612f6a2c94f6dab1fe30369c76532d54.nitxl.pl
 www.6165e3f2d50cea948664d8f986a971b5.dioprl.pl
 www.61c65dbbc8ac11b1f122e2fec0f773b4.dioprl.pl
+www.62052c97f9fc279ab7420489ae23dba8.amrst.pl
 www.62a810d0c60f84b5f8.plall.pl
 www.63457ddaaccf1668c9c8247d73a1bcc7.dioprl.pl
 www.637ad964271257ca2a8abfb6cb88c324.puoli.pl
@@ -9530,6 +9656,7 @@ www.66a384e317dd62a69ae6aa67dc532546.notks.pl
 www.69a3ad94244833ee3aec2052ce7bf2b7.puoli.pl
 www.6b0296bff7d2266.akc-all.pl
 www.6c7e824116678a0dee7d9f60be7df1d4.nitwos.pl
+www.6d271678c62cb21c60bd6eb7330171d7.yipl.pl
 www.6d734ecd6ebdea52eead1c9803697066.liamartem.pl
 www.6d89c8775ff296f9058f9c06116ffecf.vistvx.pl
 www.6dd9887cbe9e86d14fa5f34f10b20c25.nutops.pl
@@ -9644,6 +9771,7 @@ www.9cc2cf3f1d33dd7e55fef0b6e5b4be15.notvps.pl
 www.9d8e3c35534ec2d5.wwwplms.pl
 www.9db85664b052acfd21f714fa85026699.forgro.pl
 www.9e26d00f7449e079f8b5cf010394c7c7.natoplx.pl
+www.9e9848df9310779b4040d44bc7c70232.amrst.pl
 www.9fb7de65cd1c307f79da.smsall.pl
 www.9interia.pl
 www.9print.pl
@@ -9703,6 +9831,7 @@ www.adfs.udtgov.pl
 www.adipexretard.pl
 www.adocean.pl
 www.adresowkapsa.pl
+www.adrianwitek.com.pl
 www.adrinaas.pl
 www.adrinaaservives.pl
 www.adserver.com.pl
@@ -9873,15 +10002,27 @@ www.allegrolokalnie-zakupy.pl
 www.allegrolokalnie.24-platnosci.pl
 www.allegrolokalnie.24pay-u.pl
 www.allegrolokalnie.24platnosc.pl
+www.allegrolokalnie.aukcja-1654725.pl
 www.allegrolokalnie.aukcja-61249225.pl
 www.allegrolokalnie.aukcja-7125924.pl
 www.allegrolokalnie.aukcja-9641274.pl
 www.allegrolokalnie.aukcja-allegro.pl
+www.allegrolokalnie.aukcja-id642781.pl
+www.allegrolokalnie.aukcja-id7647128.pl
 www.allegrolokalnie.aukcja-id76941.pl
+www.allegrolokalnie.aukcja-id78533.pl
 www.allegrolokalnie.aukcja-id7948261.pl
 www.allegrolokalnie.aukcja-id824821618.pl
 www.allegrolokalnie.aukcja-id849214.pl
 www.allegrolokalnie.aukcja-id8971241.pl
+www.allegrolokalnie.aukcja-prywatna3659.pl
+www.allegrolokalnie.aukcja-prywatna3911.pl
+www.allegrolokalnie.aukcja-prywatna526.pl
+www.allegrolokalnie.aukcja-prywatna5525.pl
+www.allegrolokalnie.aukcja-prywatna5655.pl
+www.allegrolokalnie.aukcja-prywatna56656.pl
+www.allegrolokalnie.aukcja-prywatna5883.pl
+www.allegrolokalnie.aukcja-prywatna8754.pl
 www.allegrolokalnie.aukcja-uf897i12fas3.pl
 www.allegrolokalnie.aukcja2541.pl
 www.allegrolokalnie.aukcja3572.pl
@@ -9907,6 +10048,7 @@ www.allegrolokalnie.e-aukcje24h-7.pl
 www.allegrolokalnie.e-aukcje24h.pl
 www.allegrolokalnie.e-oferty24.pl
 www.allegrolokalnie.e-ogloszenie24h.pl
+www.allegrolokalnie.e-piatnosci.pl
 www.allegrolokalnie.e-transakcje.pl
 www.allegrolokalnie.e-zakupy24-7.pl
 www.allegrolokalnie.eaukcja24h.pl
@@ -9929,12 +10071,14 @@ www.allegrolokalnie.i-platnosci-24.pl
 www.allegrolokalnie.kategoria-id77.pl
 www.allegrolokalnie.kategorie-id84.pl
 www.allegrolokalnie.kategorie-oferta741268769.pl
+www.allegrolokalnie.kategorie3978713.pl
 www.allegrolokalnie.kup-sprzedaj.pl
 www.allegrolokalnie.kupteraz24.pl
 www.allegrolokalnie.kurier24-7.pl
 www.allegrolokalnie.nssl.pl
 www.allegrolokalnie.ochrona-allegro.pl
 www.allegrolokalnie.ochronazakupu.pl
+www.allegrolokalnie.oferta-6309521.pl
 www.allegrolokalnie.oferta-6534.pl
 www.allegrolokalnie.oferta-8a9na4h142fa6.pl
 www.allegrolokalnie.oferta-96d57c91j8b124c6a13.pl
@@ -9959,13 +10103,18 @@ www.allegrolokalnie.oferta-sprzedazy25485.pl
 www.allegrolokalnie.oferta-sprzedazy346547.pl
 www.allegrolokalnie.oferta-sprzedazy6242.pl
 www.allegrolokalnie.oferta-sprzedazy8254.pl
+www.allegrolokalnie.oferta-zakupu5854.pl
+www.allegrolokalnie.oferta-zakupu5874.pl
 www.allegrolokalnie.oferta01837.pl
 www.allegrolokalnie.oferta11564.pl
 www.allegrolokalnie.oferta12553.pl
 www.allegrolokalnie.oferta12555.pl
 www.allegrolokalnie.oferta12556.pl
+www.allegrolokalnie.oferta216434.pl
+www.allegrolokalnie.oferta2324.pl
 www.allegrolokalnie.oferta247.pl
 www.allegrolokalnie.oferta29271.pl
+www.allegrolokalnie.oferta3656.pl
 www.allegrolokalnie.oferta97259.pl
 www.allegrolokalnie.oferty-prywatne.pl
 www.allegrolokalnie.oferty-zakup24.pl
@@ -10170,6 +10319,9 @@ www.allegrolokalnie.pl-prywatna-sprzedaz11992.pl
 www.allegrolokalnie.pl-prywatna-sprzedaz11993.pl
 www.allegrolokalnie.pl-prywatna-sprzedaz11994.pl
 www.allegrolokalnie.pl-prywatna-sprzedaz11996.pl
+www.allegrolokalnie.pl-prywatna-sprzedaz1243.pl
+www.allegrolokalnie.pl-prywatna-sprzedaz1244.pl
+www.allegrolokalnie.pl-prywatna-sprzedaz1246.pl
 www.allegrolokalnie.pl-prywatna-transakcja6247.pl
 www.allegrolokalnie.pl-prywatna-transakcja6814.pl
 www.allegrolokalnie.pl-prywatna-transakcja6817.pl
@@ -10266,6 +10418,7 @@ www.allegrolokalnie.prywatne-oferty36787685.pl
 www.allegrolokalnie.prywatne-oferty88419342.pl
 www.allegrolokalnie.prywatne-platnosci.pl
 www.allegrolokalnie.przyjazne-zamowienia.pl
+www.allegrolokalnie.secure-payu.pl
 www.allegrolokalnie.sprawdzone-platnosci.pl
 www.allegrolokalnie.szybka-paczka.pl
 www.allegrolokalnie.szybka-przesylka.pl
@@ -10293,6 +10446,7 @@ www.allegrolokalnie.zakupy-online24.pl
 www.allegrolokalnie.zakupybezpieczne-24.pl
 www.allegrolokalnie.zakupyonline-24.pl
 www.allegrolokalnie.zakupypayu24.pl
+www.allegrolokalnie.zakuup.pl
 www.allegrolokalnie.zamow-produkt.pl
 www.allegrolokalnie.zamow-przedmiot.pl
 www.allegrolokalnie.zamow-przesylke.pl
@@ -10341,6 +10495,7 @@ www.ambitnie24.pl
 www.amdeco.pl
 www.amedrzejewska.pl
 www.amethysthotels.pl
+www.amrst.pl
 www.an0o2-lp20.pl-1x6.pl
 www.anahitmanukyan.waldemarnikodem.pl
 www.anatol.monikajoanna.pl
@@ -10413,6 +10568,15 @@ www.audmax.pl
 www.auger.pl
 www.aukcja-id7948261.pl
 www.aukcja-olx.pl
+www.aukcja-prywatna3659.pl
+www.aukcja-prywatna3911.pl
+www.aukcja-prywatna526.pl
+www.aukcja-prywatna5525.pl
+www.aukcja-prywatna5545.pl
+www.aukcja-prywatna5655.pl
+www.aukcja-prywatna56656.pl
+www.aukcja-prywatna5883.pl
+www.aukcja-prywatna8754.pl
 www.aukcja1432.pl
 www.aukcja1527.pl
 www.aukcja1782.pl
@@ -10440,6 +10604,7 @@ www.aukcja8167.pl
 www.aukcjaoix.pl
 www.aurismedic.josefkopecka.pl
 www.auta-adamczyk.pl
+www.auta-babut.pl
 www.auta-bakowska.pl
 www.auta-baran.pl
 www.auta-bednarek.pl
@@ -10452,9 +10617,13 @@ www.auta-cegielski.pl
 www.auta-chojnacki.pl
 www.auta-chylinski.pl
 www.auta-cieslarski.pl
+www.auta-domasnki.pl
 www.auta-duda.pl
 www.auta-dworski.pl
+www.auta-dybus.pl
 www.auta-filipski.pl
+www.auta-gorczynski.pl
+www.auta-gradkowski.pl
 www.auta-grzesik.pl
 www.auta-grzybowski.pl
 www.auta-jablonski.pl
@@ -10468,6 +10637,7 @@ www.auta-kardaszewski.pl
 www.auta-karolewski.pl
 www.auta-karpinski.pl
 www.auta-karwacki.pl
+www.auta-kijowski.pl
 www.auta-kosowski.pl
 www.auta-kowalik.pl
 www.auta-kozak.pl
@@ -10490,6 +10660,7 @@ www.auta-milczarski.pl
 www.auta-miodowski.pl
 www.auta-mirowski.pl
 www.auta-ostrowski.pl
+www.auta-paluch.pl
 www.auta-pawlikowski.pl
 www.auta-pawlowski.pl
 www.auta-piotrowski.pl
@@ -10507,17 +10678,22 @@ www.auta-sobanski.pl
 www.auta-sobczak.pl
 www.auta-sobieski.pl
 www.auta-sochacki.pl
+www.auta-sowinski.pl
+www.auta-stach.pl
 www.auta-szewczyk.pl
 www.auta-szulc.pl
 www.auta-szymczak.pl
+www.auta-urbaniak.pl
 www.auta-walczak.pl
 www.auta-wilk.pl
 www.auta-winiarski.pl
 www.auta-witowski.pl
+www.auta-wloczynski.pl
 www.auta-wojtas.pl
 www.auta-wolski.pl
 www.auta-wyprzedaz.pl
 www.auta-zalewski.pl
+www.auta-zawarski.pl
 www.autagielda.pl
 www.auto-as24.pl
 www.auto-best24.pl
@@ -10526,8 +10702,10 @@ www.auto-boniek.pl
 www.auto-czapa.pl
 www.auto-elite24.pl
 www.auto-fast.pl
+www.auto-garczynski.pl
 www.auto-heres.pl
 www.auto-hermeks.pl
+www.auto-jedrzejewski.pl
 www.auto-kika.pl
 www.auto-klik.pl
 www.auto-komorowski.pl
@@ -10543,6 +10721,7 @@ www.auto-tu24.pl
 www.auto-turowski24.pl
 www.auto-tutu24.pl
 www.auto-wojakowskionline.pl
+www.auto-wtorne.pl
 www.auto24-moks.pl
 www.autoareczka.pl
 www.autobest-polska.pl
@@ -10583,6 +10762,7 @@ www.autogielda-krawacki.pl
 www.autogielda-krukowski.pl
 www.autogielda-kuczynski.pl
 www.autogielda-lesinski.pl
+www.autogielda-lokalnie.pl
 www.autogielda-lugowski.pl
 www.autogielda-maciejczak.pl
 www.autogielda-majorczyk.pl
@@ -10594,6 +10774,7 @@ www.autogielda-matuszkiewicz.pl
 www.autogielda-miloszki.pl
 www.autogielda-mruczyn.pl
 www.autogielda-nowacki.pl
+www.autogielda-nowakiewicz.pl
 www.autogielda-otto24.pl
 www.autogielda-pakulski.pl
 www.autogielda-pekinski.pl
@@ -10613,6 +10794,8 @@ www.autogielda-wyspianski.pl
 www.autogielda-zarski.pl
 www.autogielda-zawadzka.pl
 www.autogielda-ziemianowicz.pl
+www.autogielda-zietek.pl
+www.autogielda-ziezynski.pl
 www.autohandel-boniek.pl
 www.autohoop.pl
 www.autokomis-24h.pl
@@ -10723,6 +10906,8 @@ www.bathdeco.pl
 www.bautista.lasecki.nieruchomosci.pl
 www.bautista.mazsina.warszawa.pl
 www.baxter.krakowiak.org.pl
+www.bazar-binkowski.pl
+www.bazar-malinowski.pl
 www.bazasprawdzianow.pl
 www.bcac29bc1b7fbda29af7fca848a880b4.elusia.pl
 www.bd0801ac873243.smsknt.pl
@@ -10901,6 +11086,7 @@ www.cda-cda.prv.pl
 www.cda-film.prv.pl
 www.cda-flix.pl
 www.cda-hd-cc.pl
+www.cda-pl.pl
 www.cda-vod.pl
 www.cda-vod.prv.pl
 www.cda-zalukaj.pl
@@ -11027,6 +11213,7 @@ www.d24c70757f9074b15399be8c166ad87a.dioprl.pl
 www.d2620c26f1b3d30bf42f845275.warszua.pl
 www.d2be0c858240c5d247d622e35128a618.puoli.pl
 www.d38a364ca7ddd5371c15c260047382b6.molekewa.net.pl
+www.d50aba82bc7538585af6153c0ca40e08.amrst.pl
 www.d583249782c126d82582793190125379.forgro.pl
 www.d6045d3d0818b1aad3d7019a48dbcb10.ntirslo.pl
 www.d698c2b46e026f7d.smsknt.pl
@@ -11074,6 +11261,7 @@ www.dean.marekgw.pl
 www.deanna.godewski.warszawa.pl
 www.debra.pawlukojc.pl
 www.debra.wiljot.pl
+www.decobloog.pl
 www.decodorebasic.pl
 www.defrost.pl
 www.dekoratos.pl
@@ -11166,6 +11354,7 @@ www.dwzacisze.com.pl
 www.dziennik-codzienny24h.com.pl
 www.dziennik-codzienny24h.pl
 www.dziennik.warszawa.pl
+www.dziennikinformacji.pl
 www.dziwona.alanbanach.pl
 www.e-autoleasing.pl
 www.e-cda.pl
@@ -11179,6 +11368,7 @@ www.e-payu2137.pl
 www.e-payu2145.pl
 www.e-payu2146.pl
 www.e-payu2147.pl
+www.e-samochodowy-deall.pl
 www.e0c7ec5ff403f54d95ffc4f899bfc7f8.nietx.pl
 www.e2146ebabbe6bfdeb7472524303c5572.kontlso.pl
 www.e327f2f1f114c82.allbiuro.pl
@@ -11218,6 +11408,7 @@ www.eccooutlet.pl
 www.eccooutletsklep.pl
 www.ecda.pl
 www.ecfb83abc6c12d76dedc8ae13955e4d8.boawgr.pl
+www.eduytamare.pl
 www.edward.barbaru.pl
 www.edwards.adamneska.pl
 www.edwards.slwiastore.pl
@@ -11280,6 +11471,7 @@ www.erodate.pl
 www.erotube.pl
 www.eroty.pl
 www.esamochod.pl
+www.esamochodowy-deall.pl
 www.esashop.pl
 www.esemeso.pl
 www.esklep.lebiedzinska.com.pl
@@ -11368,6 +11560,7 @@ www.faecbook.ct8.pl
 www.fajne-filmy.pl
 www.faktonews07102021.ct8.pl
 www.fakty-informacje24.you2.pl
+www.fakty-regionalne.co.pl
 www.fakty24.you2.pl
 www.faldo.pl
 www.fargonpozyczki.pl
@@ -11570,6 +11763,7 @@ www.ggbet-online.pl
 www.ggbet-polska.pl
 www.ggbets.pl
 www.gibilisco.mbabik.info.pl
+www.gielda-barburka.pl
 www.gielda-mazowsze.pl
 www.gielda-nowak.pl
 www.gielda-samochod.pl
@@ -11641,6 +11835,7 @@ www.handel-lokalniie.net.pl
 www.handelmoto-tutaj24.pl
 www.handlarzeonline.pl
 www.handlowastrategiaglobalna.pl
+www.handlujemymotoryzacja-24.pl
 www.hanksly.pl
 www.hanteljankowski.pl
 www.harrington.krzysio.info.pl
@@ -11712,6 +11907,7 @@ www.i-ksiazka.pl
 www.i-mobi.pl
 www.i-olx.pl
 www.i-podgladacz.pl
+www.i-samochodowy-deall.pl
 www.i94327.pl
 www.iautogielda-markowski.pl
 www.iautokomis-24h.pl
@@ -11756,6 +11952,7 @@ www.informacje-sledcze-wp.pl
 www.informacje24-wirtualne.com.pl
 www.informacje24-wirtualne.pl
 www.informacyjnie-2.ct8.pl
+www.informator-pomorski.pl
 www.informujemy24h.cba.pl
 www.infoswiat.hekko24.pl
 www.inoskydive.pl
@@ -11770,6 +11967,7 @@ www.instytutmed.pl
 www.interiordream.pl
 www.intermeg.pl
 www.internetoweogloszenia24.cba.pl
+www.intrgas.inesdajana.pl
 www.intymna.pl
 www.inwestprebet.jonnaninajozefina.pl
 www.inwestujemy24.pl
@@ -11777,6 +11975,7 @@ www.inwestujwrozwoj.pl
 www.ipko.pl.jxt.pl
 www.ipzd.pl
 www.iqtestuj.glt.pl
+www.isamochodowy-deall.pl
 www.isjc.tujas.pl
 www.ita4.erykkraj.nieruchomosci.pl
 www.itpesthetique.pl
@@ -11931,6 +12130,9 @@ www.kinomaniak.pl
 www.kinonline.pl
 www.kinotek.pl
 www.kinujemy.pl
+www.kipling-polska.pl
+www.kiplingpolska.pl
+www.kiplingtorebki.pl
 www.kirby.kenio.warszawa.pl
 www.kirk.transprt.info.pl
 www.kitcarforum.pl
@@ -12007,6 +12209,7 @@ www.krainajednorozca.pl
 www.krajowy-informator.pl
 www.krajowyfunduszgwarancyjny.pl
 www.krakowska24.e-kei.pl
+www.krakus.erykkraj.nieruchomosci.pl
 www.krazex69.anaazjaiwona.pl
 www.krdn.pl
 www.kredytnadowolnycel.pl
@@ -12041,6 +12244,7 @@ www.ksiazka-telefoniczna-online.pl
 www.ksiazkatunele.pl
 www.kswatkowski.anetanatasza.pl
 www.kszrejbrowski.janinaluna.pl
+www.kuchkuch.joachimlask.pl
 www.kulmaczewski.miakatarzyna.pl
 www.kup-paczka-olx.pl
 www.kup-wysylka-olx.pl
@@ -12133,6 +12337,7 @@ www.loglevel927a9z-partj9827az.elenczewska.pl
 www.logowaniepl.pl
 www.logsofwoodnet.pl
 www.lokalizator.kamilpawel.pl
+www.lokalna-autogielda.pl
 www.lokalneinformacje.pl
 www.lokalniprzewodnicy.com.pl
 www.lombard-kolobrzeg.pl
@@ -12186,6 +12391,7 @@ www.mail.jubhahsfla.pl
 www.mail.peltriesfr.pl
 www.mail.vz404.netdc.pl
 www.maja-jeczalik.pl
+www.majaprzy.pl
 www.maksymeb.pl
 www.malaytiger.pl
 www.malgochakinik61.pl
@@ -12263,6 +12469,7 @@ www.medikopter.pl
 www.medlaexpert.pl
 www.medshop.pl
 www.medycznapolska.pl
+www.mega-auto24.pl
 www.mega-cars24.pl
 www.megaauto-24.pl
 www.megafura24-tutaj.pl
@@ -12367,6 +12574,7 @@ www.monikaf1210.aleksdzie.pl
 www.monikweglarz.aleksdzie.pl
 www.monitorfx.pl
 www.monkeyball.osa.pl
+www.monster125.nathangrz.warszawa.pl
 www.mopalach.henkatitek.com.pl
 www.mopik.pl
 www.mordechaj.lukasiewicz.biz.pl
@@ -12377,7 +12585,9 @@ www.moto-benek.pl
 www.moto-deal24.pl
 www.motoeast.pl
 www.motogielda-polska.pl
+www.motohandel-tu.pl
 www.motohandel-wolski.pl
+www.motokomis-24.pl
 www.motokomis-olszewski.pl
 www.motorserwis.kryspinkarz.pl
 www.motorynek-polska24.pl
@@ -12481,6 +12691,7 @@ www.nhpo.pl
 www.niania74.alesprokesova.pl
 www.nianio.pl
 www.nickelfrwp.cfolks.pl
+www.nicolapanek.pl
 www.nicolas.huborform.com.pl
 www.nicolosi.pl
 www.niechoruje.pl
@@ -12548,6 +12759,7 @@ www.odchudzaniezpasja.pl
 www.oddam-za-darmo-samochod.pl
 www.oddamyzadarmo.pl
 www.oddawszy.pl
+www.oddityorbitershubventure.pl
 www.oderkaopole.pl
 www.odevo.pl
 www.odloty.pl
@@ -12591,6 +12803,7 @@ www.oferta-sprzedazy2142.pl
 www.oferta-sprzedazy2356.pl
 www.oferta-sprzedazy2455.pl
 www.oferta-sprzedazy25485.pl
+www.oferta-sprzedazy31534.pl
 www.oferta-sprzedazy346547.pl
 www.oferta-sprzedazy3644.pl
 www.oferta-sprzedazy3645.pl
@@ -12605,6 +12818,8 @@ www.oferta-sprzedazy6234.pl
 www.oferta-sprzedazy6242.pl
 www.oferta-sprzedazy8254.pl
 www.oferta-sprzedazy9248.pl
+www.oferta-zakupu5854.pl
+www.oferta-zakupu5874.pl
 www.oferta12553.pl
 www.oferta12554.pl
 www.oferta12555.pl
@@ -12614,7 +12829,13 @@ www.oferta15257.pl
 www.oferta15258.pl
 www.oferta15259.pl
 www.oferta15260.pl
+www.oferta2324.pl
 www.oferta29271.pl
+www.oferta3656.pl
+www.oferta4585.pl
+www.oferta47832.pl
+www.oferta8545.pl
+www.oferta8548.pl
 www.ofertanajuz.pl
 www.ofertaoix.pl
 www.oferty-olx.pl
@@ -12724,6 +12945,7 @@ www.olajgarden.pl
 www.old.adtech.pl
 www.oleksy.net.pl
 www.olga61.pl
+www.olivianicole.pl
 www.olszewski.ehost.pl
 www.olx-darmowe-ogloszenia.pl
 www.olx-e-ogloszenie.pl
@@ -12734,6 +12956,7 @@ www.olx.aukcja-24.pl
 www.olx.aukcja3572.pl
 www.olx.aukcja3698.pl
 www.olx.aukcje-24h.pl
+www.olx.aukcje247.pl
 www.olx.aukcje24h.pl
 www.olx.blik24-7.pl
 www.olx.e-dostawa24.pl
@@ -12746,6 +12969,7 @@ www.olx.e-platnosc24h.pl
 www.olx.e-platnosci247.pl
 www.olx.e-przesylka24.pl
 www.olx.e-przesylki24.pl
+www.olx.eoferta-24h.pl
 www.olx.eogloszenia24-7.pl
 www.olx.eplatnosci24.pl
 www.olx.kupno247.pl
@@ -12772,6 +12996,7 @@ www.olx.pl-platnosc-payu.pl
 www.olx.pl-prywatna-aukcja-sprzedazy198242.pl
 www.olx.pl-prywatna-aukcja-sprzedazy245513.pl
 www.olx.pl-prywatna-aukcja1296.pl
+www.olx.pl-prywatna-sprzedaz1243.pl
 www.olx.pl-specjalna-oferta73377.pl
 www.olx.pl-szybkaplatnosc235543.pl
 www.olx.pl.paymont.pl
@@ -12819,6 +13044,7 @@ www.opolski-auta.pl
 www.opowiadaniaerotyczne.com.pl
 www.orafresh.pl
 www.organicmed.pl
+www.orlen-24.pl
 www.orlen-group.pl
 www.orlen.hotchili.pl
 www.orleni.pl
@@ -12911,6 +13137,7 @@ www.perry.transprt.info.pl
 www.perun.arkadiusz.info.pl
 www.peters.huborform.com.pl
 www.peters.stojanu.pl
+www.petrol1.witkurek.pl
 www.pewnyzabieg.pl
 www.pezzalipassalacqua.kamura.pl
 www.pgeebok.pl
@@ -13262,6 +13489,9 @@ www.pl-prywatna-sprzedaz11992.pl
 www.pl-prywatna-sprzedaz11993.pl
 www.pl-prywatna-sprzedaz11994.pl
 www.pl-prywatna-sprzedaz11996.pl
+www.pl-prywatna-sprzedaz1243.pl
+www.pl-prywatna-sprzedaz1244.pl
+www.pl-prywatna-sprzedaz1246.pl
 www.pl-prywatna-transakcja6247.pl
 www.pl-prywatna-transakcja6814.pl
 www.pl-prywatna-transakcja6817.pl
@@ -13741,6 +13971,8 @@ www.s8powazkowska-modlinska.pl
 www.sala-samobojcow-hejter-pobierz.eeu.pl
 www.salomonbuty.pl
 www.salomonsklep.pl
+www.samochodowy-deall.pl
+www.samochodowy-deallonline.pl
 www.samochody-glinek.pl
 www.samochody-modrzec.pl
 www.samochodziarze24.pl
@@ -13761,6 +13993,7 @@ www.seans24.com.pl
 www.seansikowo.pl
 www.sebastea.pl
 www.secretwish.pl
+www.secure-payu.pl
 www.sejah.mjfuras.pl
 www.sekrecik.pl
 www.sendspace.pl
@@ -13825,6 +14058,7 @@ www.skarzyn.ladislavaholubova.pl
 www.skechers-polska.pl
 www.skechersoutletpolska.pl
 www.skecherssklep.pl
+www.skimspolska.pl
 www.skinsycs.89.pl
 www.sklep-adam.pl
 www.sklep-bartosz.pl
@@ -13924,6 +14158,7 @@ www.sonya.kopinska.net.pl
 www.sorteoslnterbank.com.pe.aptekapropolis.pl
 www.sosnowapolana.kosmajanus.pl
 www.soswtarn.marceligrochowski.pl
+www.sp11bialystok.aronwilk.pl
 www.sp4an.adelakot.pl
 www.sparks.mazsina.warszawa.pl
 www.spatium.kylos.pl
@@ -14140,6 +14375,7 @@ www.tara.cenacoolo.pl
 www.tarankokrakow.cezaryaaron.pl
 www.tauruskontakt.jeremiaszaron.pl
 www.tax-unitedparcels.pl
+www.taxidaleszyce.lucjakon.pl
 www.tbsdruk.witwrona.pl
 www.tbsradomsko.nikitaxavier.pl
 www.tcd.mariuszbaraniewicz.pl
@@ -14403,6 +14639,7 @@ www.vodplay.pl
 www.vodster.pl
 www.vodstrefa.pl
 www.voldemort.pl
+www.voxda.pl
 www.vratislavialex.pl
 www.vubu.pl
 www.vulcan-vegas.pl
@@ -14501,6 +14738,7 @@ www.wirtuozseksu.pl
 www.wise.klodepl.pl
 www.wit.martynamaria.warszawa.pl
 www.witamina.c.pl
+www.witkurek.pl
 www.wjmys.mariopaul.pl
 www.wkladpompy.pl
 www.wladyslaw.artcd.net.pl
@@ -14612,6 +14850,7 @@ www.yasmarek.aleksanderjakub.pl
 www.yellownet.pl
 www.ygu.akkisa.pl
 www.yihz.grfied.pl
+www.yipl.pl
 www.yipsmyceli.pl
 www.yisjhewsqc.cfolks.pl
 www.ylscp.marclst.pl
@@ -14621,6 +14860,7 @@ www.your-movies.pl
 www.your2ndsajasz-forjdsa20.suji.com.pl
 www.yoyosneaker.pl
 www.yra.infoallpl.pl
+www.yuan-profit.pl
 www.yummymobile.pl
 www.yv.ptkrks.pl
 www.yvonne.cenacoolo.pl
@@ -14695,6 +14935,7 @@ www.zielonewariacje.pl
 www.zimadeals.pl
 www.zimmerman.krzysztofsikora.com.pl
 www.zimmerman.zbigniewkaluga.pl
+www.zimowy-ratunek.pl
 www.ziololecznictwo.pl
 www.zizer.pl
 www.zkotami.pl
@@ -14896,6 +15137,7 @@ ygoldringvip.pl
 ygoldringweb.pl
 ygu.akkisa.pl
 yihz.grfied.pl
+yipl.pl
 yipsmyceli.pl
 yisjhewsqc.cfolks.pl
 ykpbingocash.pl
@@ -14947,6 +15189,7 @@ yrubydreamweb.pl
 yrubygrandmycash.pl
 yrubypalacenight.pl
 ystarsmagiceurodice.pl
+yuan-profit.pl
 yultranicebetday.pl
 yummymobile.pl
 yurystvpolshi.pl
@@ -15072,6 +15315,7 @@ zigarettenonlinekaufen2.bloog.pl
 zimadeals.pl
 zimmerman.krzysztofsikora.com.pl
 zimmerman.zbigniewkaluga.pl
+zimowy-ratunek.pl
 zinpro.pl
 ziololecznictwo.pl
 zioras.pl

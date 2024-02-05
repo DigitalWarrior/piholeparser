@@ -7,4 +7,5 @@ knu.edu.af
 long.af
 paypal-support.ace.af
 pharmaone.com.af
+pwn.af
 razi.edu.af
