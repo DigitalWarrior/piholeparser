@@ -13,8 +13,13 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
+* RansomwareTrackerLockyRansomwareC2IPBlocklist List Unavailable To Download. Sun Feb  4 21:07:54 MST 2024
 ## Checking If List Updated Online
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
-* RansomwareTrackerLockyRansomwareC2IPBlocklist List Was An Empty File After Download. Sun Feb  4 20:43:58 MST 2024
+* RansomwareTrackerLockyRansomwareC2IPBlocklist List Was An Empty File After Download. Sun Feb  4 21:07:55 MST 2024
+## Attempting Creation Of Mirror File
+## Parsing List
+## Checking Parsed File Size
+* RansomwareTrackerLockyRansomwareC2IPBlocklist List Was Killed By The Parsing Process. It will be skipped in the future. Sun Feb  4 21:07:55 MST 2024

@@ -1,4 +1,9 @@
+adservice.google.cv
 arap.cv
+bavaro.cv
 filipemandl.cv
 ma-invest.cv
 sia.cv
+staffpromo.cv
+www.bavaro.cv
+www.bca.cv

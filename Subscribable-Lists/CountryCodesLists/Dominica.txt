@@ -1,3 +1,5 @@
+adservice.google.dm
+mypages.cwdom.dm
 news.dm
 wager.dm
 www.wager.dm

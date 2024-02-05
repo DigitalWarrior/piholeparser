@@ -1,4 +1,8 @@
+adservice.google.bf
 dgecolesdepolice.bf
 edifice.bf
 pyramide.bf
 spong.bf
+tk.airfrance.bf
+webmail1.sonapost.bf
+www.dgecolesdepolice.bf

@@ -1,6 +1,9 @@
+adservice.google.mv
 advert.jobsicle.mv
 blackgold.mv
 haaalifatollhospital.gov.mv
 laamumaamendhoo.gov.mv
 roundone.mv
+wish.mv
 www.laamumaamendhoo.gov.mv
+www.wish.mv

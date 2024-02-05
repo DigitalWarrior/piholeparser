@@ -1,8 +1,11 @@
 58.wf
 bin.wf
+bradesconetempresas.desenv.dev.servicos.wf
 edu.wf
 io1.wf
 lekcje.wf
 vm1195891.kvm.had.wf
 vm948040.had.wf
+www.bradesconetempresas.desenv.dev.servicos.wf
+www.io1.wf
 www.lekcje.wf

@@ -2,13 +2,13 @@
 
 ### Last Run Stats
 
-* Script Started Sun Feb  4 17:19:00 MST 2024
-* Script Ended Sun Feb  4 20:48:33 MST 2024
-* [Script Took 209 Minutes To Filter 207 Lists. See Log Here.](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-* The Edited AllParsed File is 42 MB And Contains 2036394 Domains.
-* Average Parsing Of 356057 lines in 2 BlackLists was 11.5 Seconds.
+* Script Started Sun Feb  4 21:07:24 MST 2024
+* Script Ended Sun Feb  4 21:29:47 MST 2024
+* [Script Took 22 Minutes To Filter 167 Lists. See Log Here.](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+* The Edited AllParsed File is 72 MB And Contains 3375817 Domains.
+* Average Parsing Of 265862 lines in 23 BlackLists was 17.6957 Seconds.
 * 1752 Valid Top Level Domains. No New TLD's.
-* [25 Lists That Do NOT Use https](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/20-Identifying-Lists-Without-https.md)
+* [12 Lists That Do NOT Use https](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/20-Identifying-Lists-Without-https.md)
 
 ### This Project Aims To Universally take ANY Blacklist, and ensure that it is formatted to be compatible with [Pi-hole(tm)](https://pi-hole.net/)
 
@@ -21,12 +21,10 @@
 * Handle ANY list, even if it is compressed.
 
 ### Repository Disclaimer
-I've neglected this repository for a very long time. As of 28-02-2020, I am going to make an effort to continue development on this repository.
-
 Due to it's unwieldy .git index size, I was forced to `rm .git && git init` and force push the repo without any history. This gives me a clean slate to work with.
 
 ### Usage Disclaimer
-This script runs daily in a Proxmox LXC, and updates this repository automatically.
+This script runs daily in a server located in a server rack, and updates this repository automatically.
 
 I may provide basic instructions on how to run this yourselves, but I cannot provide support for it.
 Honestly, with my daily cron, there is no need to run it yourself.

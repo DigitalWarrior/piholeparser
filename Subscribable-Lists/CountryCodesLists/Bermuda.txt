@@ -3,6 +3,7 @@ attinc.site.bm
 attnc.site.bm
 attusersungdomain.site.bm
 cariattlogin.site.bm
+dwd.bm
 flashpoint.bm
 iclean.bm
 laposte-support.site.bm
@@ -11,3 +12,9 @@ media-mine.bm
 orange-support.site.bm
 qualityair.bm
 sgcc.bm
+www.bfab.bm
+www.dwd.bm
+www.gands.bm
+www.iclean.bm
+www.qualityair.bm
+www.seniorislanders.bm
