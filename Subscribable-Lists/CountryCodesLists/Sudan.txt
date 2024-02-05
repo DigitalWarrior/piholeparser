@@ -1,6 +1,12 @@
+advisors.gov.sd
 icmsa.iua.edu.sd
+masi.sd
+noblescollege.edu.sd
 nro.gov.sd
 ots.sd
 qasco.sd
 tiger.sd
+www.advisors.gov.sd
+www.masi.sd
+www.noblescollege.edu.sd
 zakat-chamber.gov.sd

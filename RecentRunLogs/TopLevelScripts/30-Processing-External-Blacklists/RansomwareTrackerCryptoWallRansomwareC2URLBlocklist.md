@@ -13,8 +13,13 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
+* RansomwareTrackerCryptoWallRansomwareC2URLBlocklist List Unavailable To Download. Sun Feb  4 21:07:44 MST 2024
 ## Checking If List Updated Online
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
-* RansomwareTrackerCryptoWallRansomwareC2URLBlocklist List Was An Empty File After Download. Sun Feb  4 20:43:49 MST 2024
+* RansomwareTrackerCryptoWallRansomwareC2URLBlocklist List Was An Empty File After Download. Sun Feb  4 21:07:45 MST 2024
+## Attempting Creation Of Mirror File
+## Parsing List
+## Checking Parsed File Size
+* RansomwareTrackerCryptoWallRansomwareC2URLBlocklist List Was Killed By The Parsing Process. It will be skipped in the future. Sun Feb  4 21:07:45 MST 2024

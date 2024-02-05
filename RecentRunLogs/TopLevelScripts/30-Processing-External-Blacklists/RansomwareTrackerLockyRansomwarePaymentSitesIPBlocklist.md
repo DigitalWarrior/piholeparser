@@ -13,8 +13,13 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
+* RansomwareTrackerLockyRansomwarePaymentSitesIPBlocklist List Unavailable To Download. Sun Feb  4 21:07:59 MST 2024
 ## Checking If List Updated Online
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
-* RansomwareTrackerLockyRansomwarePaymentSitesIPBlocklist List Was An Empty File After Download. Sun Feb  4 20:44:03 MST 2024
+* RansomwareTrackerLockyRansomwarePaymentSitesIPBlocklist List Was An Empty File After Download. Sun Feb  4 21:07:59 MST 2024
+## Attempting Creation Of Mirror File
+## Parsing List
+## Checking Parsed File Size
+* RansomwareTrackerLockyRansomwarePaymentSitesIPBlocklist List Was Killed By The Parsing Process. It will be skipped in the future. Sun Feb  4 21:08:00 MST 2024

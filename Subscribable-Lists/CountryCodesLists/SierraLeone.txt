@@ -1,3 +1,6 @@
+adservice.google.com.sl
+potenzmittel.sl
 ppp.gov.sl
 uadf.gov.sl
+www.ppp.gov.sl
 www.uadf.gov.sl

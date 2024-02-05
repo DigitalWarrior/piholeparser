@@ -13,8 +13,13 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
+* RansomwareTrackerLockyRansomwareDistributionSiteURLBlocklist List Unavailable To Download. Sun Feb  4 21:07:56 MST 2024
 ## Checking If List Updated Online
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
-* RansomwareTrackerLockyRansomwareDistributionSiteURLBlocklist List Was An Empty File After Download. Sun Feb  4 20:44:01 MST 2024
+* RansomwareTrackerLockyRansomwareDistributionSiteURLBlocklist List Was An Empty File After Download. Sun Feb  4 21:07:57 MST 2024
+## Attempting Creation Of Mirror File
+## Parsing List
+## Checking Parsed File Size
+* RansomwareTrackerLockyRansomwareDistributionSiteURLBlocklist List Was Killed By The Parsing Process. It will be skipped in the future. Sun Feb  4 21:07:57 MST 2024

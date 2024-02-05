@@ -2,6 +2,8 @@
 100pills.it.pn
 123pills.de.pn
 2health.it.pn
+7med24.de.pn
+adservice.google.pn
 air777.de.pn
 atickets.de.pn
 attmobility.eu.pn
@@ -11,6 +13,8 @@ dienstleistungen-basel.eu.pn
 dietoftoday.ca.pn
 emacx.eu.pn
 en-sparbane.eu.pn
+hello.op.pn
+ipzilla.op.pn
 losmecanicos.me.pn
 malmc.eu.pn
 mx.spectrum109002819.me.pn
@@ -19,6 +23,7 @@ oit-ncsu.eu.pn
 pills123.de.pn
 plane.it.pn
 presleywebs.uk.pn
+proxy.pn
 spectrum109002819.me.pn
 tab.at.pn
 tablet.de.pn

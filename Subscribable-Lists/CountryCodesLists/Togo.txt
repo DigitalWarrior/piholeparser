@@ -1,8 +1,14 @@
+adservice.google.tg
 essal.tg
 glidji-kpodji.tg
 glnt.tg
 haactogo.tg
 lesconcurrents.tg
 nunyalab.tg
+orvert.tg
+radiojva.tg
 valeurscitoyennes.tg
 woelab.tg
+www.glnt.tg
+www.orvert.tg
+www.radiojva.tg

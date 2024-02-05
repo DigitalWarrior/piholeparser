@@ -1,3 +1,6 @@
+adservice.google.sm
 eway.sm
+go.twi.sm
 jammer.sm
 profumi.sm
+store.v-power.sm

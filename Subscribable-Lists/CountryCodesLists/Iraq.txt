@@ -1,3 +1,6 @@
+adservice.google.iq
 crid.industry.gov.iq
+gd.basmedcol.edu.iq
 hoief.iq
 stu.edu.iq
+www.gd.basmedcol.edu.iq

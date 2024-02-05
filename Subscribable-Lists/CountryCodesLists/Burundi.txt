@@ -1,3 +1,7 @@
+adamstrading.bi
+adservice.google.bi
+arca.bi
+events.newsroom.bi
 facebook.bi
 gomo.bi
 insp.bi
@@ -5,7 +9,10 @@ investburundi.bi
 pornoporno.bi
 portablesearch.bi
 read.bi
+smetrics.kone.bi
 ui4cahi.bi
 weide.bi
+www.adamstrading.bi
+www.arca.bi
 www.facebook.bi
 zum.bi

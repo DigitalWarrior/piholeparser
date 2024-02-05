@@ -13,8 +13,13 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
+* MessageSeenRemoverforFacebook List Unavailable To Download. Sun Feb  4 21:07:42 MST 2024
 ## Checking If List Updated Online
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
-* MessageSeenRemoverforFacebook List Was An Empty File After Download. Sun Feb  4 20:41:26 MST 2024
+* MessageSeenRemoverforFacebook List Was An Empty File After Download. Sun Feb  4 21:07:42 MST 2024
+## Attempting Creation Of Mirror File
+## Parsing List
+## Checking Parsed File Size
+* MessageSeenRemoverforFacebook List Was Killed By The Parsing Process. It will be skipped in the future. Sun Feb  4 21:07:43 MST 2024

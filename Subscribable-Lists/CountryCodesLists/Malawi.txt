@@ -1,6 +1,16 @@
+adservice.google.mw
 avis.co.mw
 biu.ac.mw
+bypass.mw
+comsip.org.mw
+freeservers.mw
+gateway.mw
 insignia.co.mw
+mitc.mw
 mobile-bill.virgn.caem.mw
 puritymalawi.mw
 teveta.mw
+trade.mitc.mw
+www.comsip.org.mw
+www.mitc.mw
+www.trade.mitc.mw

@@ -1,4 +1,5 @@
 15462014.we.bs
+adservice.google.bs
 agoranatural.we.bs
 agostotal.we.bs
 always.we.bs
@@ -13,10 +14,13 @@ bizz.we.bs
 blogpowerpotence.we.bs
 blueton.we.bs
 bombril.we.bs
+buyviagra.we.bs
+careers.gov.bs
 confidencia.we.bs
 control.we.bs
 fontebrasil.we.bs
 franque.we.bs
+go2.we.bs
 informacaoplanos.we.bs
 masterx.we.bs
 menorpreco.we.bs
@@ -33,10 +37,15 @@ saudecemporcento.we.bs
 saudetotal.we.bs
 servercom.we.bs
 ssol.we.bs
+upline.we.bs
 vps1905.we.bs
 vps7363.we.bs
 walk.we.bs
 we.bs
 webconecta.we.bs
+wellnessclinic.bs
 wind.we.bs
 world.we.bs
+www.go2.we.bs
+www.pub.we.bs
+www.wellnessclinic.bs

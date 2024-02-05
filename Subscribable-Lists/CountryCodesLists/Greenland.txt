@@ -1,7 +1,13 @@
+adservice.google.gl
+ds1-eude-ss.host.gl
+half.eu.gl
 han.gl
 hoo.gl
 hwu.edu.gl
+mercury.gl
 myetherwallet.com.gl
 ogo.gl
+play.app.goo.gl
 stag.we.gl
 wp.gl
+www.mercury.gl

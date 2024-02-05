@@ -13,8 +13,13 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
+* LehighEDUDomains List Already Marked As Dead. Sun Feb  4 21:07:31 MST 2024
 ## Checking If List Updated Online
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
-* LehighEDUDomains List Was An Empty File After Download. Sun Feb  4 20:40:28 MST 2024
+* LehighEDUDomains List Was An Empty File After Download. Sun Feb  4 21:07:31 MST 2024
+## Attempting Creation Of Mirror File
+## Parsing List
+## Checking Parsed File Size
+* LehighEDUDomains List Was Killed By The Parsing Process. It will be skipped in the future. Sun Feb  4 21:07:32 MST 2024
