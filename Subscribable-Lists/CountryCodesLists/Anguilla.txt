@@ -10,6 +10,7 @@ api.proba.ai
 apkpure.ai
 app.pornshow.ai
 assets.datarize.ai
+biffy.ai
 birlasoft.threatcop.ai
 bitcoinrevolution.ai
 bitiplex.ai
@@ -19,6 +20,7 @@ cdn.native.ai
 cdn.rebel.ai
 chatchat.ai
 cognitiv.ai
+db.cannabud.ai
 decons.ai
 depart.trinitymedia.ai
 dreamgf.ai
@@ -86,9 +88,11 @@ trynectar.ai
 vlxx.ai
 waa.ai
 www.5r.ai
+www.biffy.ai
 www.bitcoinrevolution.ai
 www.bitiplex.ai
 www.cornhub.ai
+www.db.cannabud.ai
 www.deepswap.ai
 www.exy.ai
 www.get.successpath.ai

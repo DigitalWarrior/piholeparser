@@ -336,6 +336,7 @@ bids.concert.io
 bidserver.clickpapa.io
 bip.presage.io
 bip.prod.cloud.ogury.io
+bit-trader.io
 bitalpha-ai.io
 bitcoadz.io
 bitcoin-loophole.io
@@ -434,6 +435,7 @@ ce22ffb7.ngrok.io
 ce7428c103ad.ngrok.io
 cem.hotelsapi.io
 cento-gx-polish.webflow.io
+cfd-trader.io
 change-bank.io
 chaseonline.io
 chatterbate.io
@@ -453,6 +455,7 @@ clktrk.display.io
 cloud.ogury.io
 cloudatlas.io
 clvk.viki.io
+cmp-loader.choice.faktor.io
 cmp.optad360.io
 cnv.event.prod.bidr.io
 cobinhood.io
@@ -477,10 +480,12 @@ confirm-account-myaccountsecurity.c9users.io
 confirm.recentad.io
 connectad.io
 consent-manager-events.ogury.io
+consent-manager.metomic.io
 consent.23g.io
 console.rtk.io
 consumerspanel.frge.io
 contents-tracking.beop.io
+coraldex.io
 coralex.io
 coronavirusprotection.io
 cosmi.io
@@ -815,6 +820,7 @@ hhhheeeelllloooo.github.io
 hit.getforge.io
 hmlkl.codesandbox.io
 hoktt.github.io
+honestcrypto.io
 hornyfanz.io
 horseshows.io
 hrum.hotelsapi.io
@@ -1156,6 +1162,7 @@ quantum-ai.io
 quantumprimeprofit.io
 quickkoala.io
 quotex.io
+quple.io
 r-log.dable.io
 r.logrocket.io
 rabok.io
@@ -1358,6 +1365,7 @@ t24.cleverapps.io
 t2m.io
 tag-cdn.aiactiv.io
 tag.1rx.io
+tag.goadopt.io
 tags.aiactiv.io
 taisum.io
 tapi.onthe.io
@@ -1574,6 +1582,7 @@ www.bankfotek.cleverapps.io
 www.bethub.io
 www.bidium.io
 www.bidserver.clickpapa.io
+www.bit-trader.io
 www.bitalpha-ai.io
 www.bitcoadz.io
 www.bitcoin-loophole.io
@@ -1596,8 +1605,10 @@ www.cdn.dimml.io
 www.cdn.liftoff.io
 www.cdn.smartclick.io
 www.cento-gx-polish.webflow.io
+www.cfd-trader.io
 www.coincasso.io
 www.coinzilla.io
+www.coraldex.io
 www.dable.io
 www.dev-earthworld.pantheonsite.io
 www.dev-interactpoctza.pantheonsite.io
@@ -1667,6 +1678,7 @@ www.haggler-mopub670-us-e-ec2.liftoff.io
 www.haggler-mopub686-us-e-ec2.liftoff.io
 www.hentaimama.io
 www.hhhheeeelllloooo.github.io
+www.honestcrypto.io
 www.iboysmartify.infura-ipfs.io
 www.igplnh.codesandbox.io
 www.immediate-momentum.io
@@ -1722,6 +1734,7 @@ www.pxlad.io
 www.quantum-ai.io
 www.quantumprimeprofit.io
 www.quotex.io
+www.quple.io
 www.redshell.io
 www.restrictednewsaccount46.github.io
 www.reverfyboy.infura-ipfs.io
@@ -1762,6 +1775,7 @@ www.wyborcza-24i.cleverapps.io
 www.wyborcza-7.cleverapps.io
 www.x-zdjecia.cleverapps.io
 www.xn--opense-uta.io
+www.yuanprofit.io
 www.zdjecia-xyz.cleverapps.io
 www.zeitung-23-de.cleverapps.io
 www.zeitung-43-de.cleverapps.io
@@ -1785,6 +1799,7 @@ xweb.io
 y9o5m.codesandbox.io
 ybx.io
 yodse.io
+yuanprofit.io
 yuuu6.codesandbox.io
 z5pf6.codesandbox.io
 zdjecia-xyz.cleverapps.io

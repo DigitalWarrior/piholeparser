@@ -8,14 +8,31 @@ ____________________________________
 
 ___________________________________________________________________
 ### Lists That Do NOT use https.
-* AdBlock-Czech
+* Airelles-AntiAdvertisements-Hosts
+* Airelles-AntiMiscellaneous-Hosts
+* Airelles-AntiSex-Hosts
+* Airelles-AntiTrackers-Hosts
+* Airelles-Malware-Hosts
+* Airelles-Phishing-Hosts
+* DNS-BH-Bulk-Registrars
+* DNS-BH-Skype-Resolvers
+* DShield-Recommended-Block
 * Adblock-Filters-by-Gurudee
-* Adblock-List-for-Finland
 * BLOGRAM-Analysis-Block-Filter-List-for-Japan
 * BLOGRAM-Basic-Filter-List-for-Japan
 * Finnish-AntiSocial
+* JABCreations
+* Lehigh-BOOT
+* LehighEDUDomains
 * Malware-URLs-Domains
+* MalwareURLsGrayArea
+* RU-AdList-Old
+* SchuzaksUniversalFilter
+* SecureMecca
 * Spam-Assassin-Bill-Stearns
+* YouTubePureVideoExperience
+* malc0de
+* squidblacklist
 
 ___________________________________________________________________
 ### TLD Lists That Do NOT use https.

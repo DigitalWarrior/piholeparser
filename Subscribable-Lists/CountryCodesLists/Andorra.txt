@@ -4,6 +4,10 @@ centro.pixel.ad
 chameleon.ad
 content.ad
 desenvolupament.ad
+dinis.ad
+dns2.ad
+dns3.ad
+dns4.ad
 files.native.ad
 halal.ad
 id.google.ad

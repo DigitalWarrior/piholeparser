@@ -27,6 +27,8 @@ mariestopes.org.bo
 mimecast.protect-messagequarantine.pathnet.com.bo
 mrlimo.com.bo
 multiacero.com.bo
+ns.entelnet.bo
+ns2.entelnet.bo
 on.com.bo
 porn.bo
 thermocontrol.com.bo

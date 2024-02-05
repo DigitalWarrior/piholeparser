@@ -7,6 +7,8 @@ clone.affordable.cm
 cnn.cm
 dev.maverick.cm
 diplocam.cm
+dns1.globalnet.cm
+dns2.globalnet.cm
 doga.cm
 download.cm
 etranscom.cm
