@@ -21,12 +21,10 @@
 * Handle ANY list, even if it is compressed.
 
 ### Repository Disclaimer
-I've neglected this repository for a very long time. As of 28-02-2020, I am going to make an effort to continue development on this repository.
-
 Due to it's unwieldy .git index size, I was forced to `rm .git && git init` and force push the repo without any history. This gives me a clean slate to work with.
 
 ### Usage Disclaimer
-This script runs daily in a Proxmox LXC, and updates this repository automatically.
+This script runs daily in a server located in a server rack, and updates this repository automatically.
 
 I may provide basic instructions on how to run this yourselves, but I cannot provide support for it.
 Honestly, with my daily cron, there is no need to run it yourself.
