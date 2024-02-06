@@ -3,10 +3,10 @@
 ### Last Run Stats
 
 * Error Setting Start Time.
-* Script Ended Tue Feb  6 00:37:20 MST 2024
+* 
 * [Error Calculating Script Run Time.](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-* The Edited AllParsed File is 85 MB And Contains 3988822 Domains.
-* Average Parsing Of 2704 lines in 1 BlackLists was 9 Seconds.
+* Error Calculating Size of AllParsed File.
+* Error Setting Average Parse Time.
 * Error Setting The Amount Of Valid TLD's.
 * [Error Setting https-less Link]()
 
