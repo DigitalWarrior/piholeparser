@@ -37,18 +37,6 @@ barnes.send.cm
 net.jumia.cm
 tk.airfrance.cm
 alibachir.cm
-globalgaming.cm
-www.kingdomfestival.cm
-35q.cm
-alibachir.cm
-flysoft.cm
-globalgaming.cm
-icct-cameroun.cm
-irad.cm
-latep.cm
-minee.cm
-www.kingdomfestival.cm
-alibachir.cm
 flysoft.cm
 globalgaming.cm
 icct-cameroun.cm
@@ -173,7 +161,6 @@ www.facebook.cm
 www.icioud.co.cm
 www.poker.cm
 www.target.cm
-twitter.cm
 avis.cm
 cnn.cm
 doga.cm

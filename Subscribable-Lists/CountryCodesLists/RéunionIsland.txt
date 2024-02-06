@@ -7,13 +7,13 @@ opr.re
 tropicana-stores.re
 www.k6.re
 www.opr.re
-myads.re
+eztv.re
+www.eztv.re
+www.yts.re
+yts.re
 g.pathsha.re
 g.staging.pathsha.re
 tk.airfrance.re
-aeroport-travaux.re
-lesplusbellesvoituresdu974.re
-ophtalmologie.re
 aeroport-travaux.re
 lesplusbellesvoituresdu974.re
 ophtalmologie.re
@@ -57,7 +57,6 @@ ico.re
 rehabilitant.rzeszow.re
 www.ico.re
 www.rehabilitant.rzeszow.re
-c.adsco.re
 53ba35bdfd7dc70def9fe8cd6644caff.s.adsco.re
 6.adsco.re
 adsco.re

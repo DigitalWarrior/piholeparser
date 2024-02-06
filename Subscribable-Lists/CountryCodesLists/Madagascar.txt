@@ -8,9 +8,6 @@ track.storm.mg
 allinone-mada.mg
 madagascar-voyages.mg
 nysekolintsika.mg
-allinone-mada.mg
-madagascar-voyages.mg
-nysekolintsika.mg
 roblox.com.mg
 www.roblox.com.mg
 bibles.mg

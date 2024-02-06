@@ -1,8 +1,6 @@
 mercury.gl
 www.mercury.gl
 ds1-eude-ss.host.gl
-wp.gl
-goo.gl
 hwu.edu.gl
 stag.we.gl
 wp.gl

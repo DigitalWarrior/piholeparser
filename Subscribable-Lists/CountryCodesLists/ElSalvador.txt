@@ -23,8 +23,6 @@ smetrics.prado.com.sv
 hemisferios.com.sv
 nextjob.com.sv
 tierragrande.com.sv
-hemisferios.com.sv
-nextjob.com.sv
 dl.sv
 fb.sv
 fl.sv

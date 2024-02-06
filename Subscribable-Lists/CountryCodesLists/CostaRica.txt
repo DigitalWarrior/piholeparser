@@ -30,7 +30,6 @@ mail.dolce-gusto.co.cr
 promotion.lindt.cr
 smetrics.bayer.cr
 smetrics.tecoloco.co.cr
-revistas.tec.ac.cr
 chase.com-cmserver-users-default-confirm.cfm.farmaciacentral.co.cr
 cidicer.so.ucr.ac.cr
 line.co.cr
@@ -41,18 +40,6 @@ revistas.tec.ac.cr
 seminario.ebci.ucr.ac.cr
 solarenergy.co.cr
 tooness.cr
-chase.com-cmserver-users-default-confirm.cfm.farmaciacentral.co.cr
-cidicer.so.ucr.ac.cr
-line.co.cr
-metal.co.cr
-mx01.dulcefiesta.co.cr
-nutricion2.ucr.ac.cr
-revistas.tec.ac.cr
-seminario.ebci.ucr.ac.cr
-solarenergy.co.cr
-tooness.cr
-app.info.coopenae.fi.cr
-zdi0.destinia.cr
 app.info.coopenae.fi.cr
 zdi0.destinia.cr
 revistas.tec.ac.cr

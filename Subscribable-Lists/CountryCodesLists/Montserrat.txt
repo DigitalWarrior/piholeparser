@@ -7,6 +7,10 @@ www.ultron.ms
 1dr.ms
 r5.ms
 www.r5.ms
+astalavista.ms
+thepiratebay.ms
+www.astalavista.ms
+www.thepiratebay.ms
 clarity.ms
 pages-stats.rbl.ms
 res.rbl.ms
@@ -15,16 +19,10 @@ hentai.ms
 www.crack.ms
 www.hentai.ms
 www3.ddns.ms
-cru.ms
-lat.ms
-lnk.ms
-nyti.ms
-ri.ms
 1drv.ms
 p.sfx.ms
 statics-wcus.onestore.ms
 www.aka.ms
-www.poste-online-mypostepay-aggiornamento-dei-dati.ddns.ms
 www.poste-online-mypostepay-aggiornamento-dei-dati.ddns.ms
 myip.ms
 doxliwesed.de.ms

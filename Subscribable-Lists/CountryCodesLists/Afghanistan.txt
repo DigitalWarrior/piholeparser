@@ -13,9 +13,6 @@ www.inertia.af
 www.suntech.af
 www.turkishmall.af
 inertia.af
-inertia.af
-paypal-support.ace.af
-inertia.af
 paypal-support.ace.af
 inertia.af
 paypal-support.ace.af

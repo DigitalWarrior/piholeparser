@@ -6,8 +6,6 @@ gear.gp
 myp.gp
 www.gear.gp
 www.myp.gp
-2.gp
-gear.gp
 gear.gp
 hsbc.ma.gp
 seafood.sa.gp

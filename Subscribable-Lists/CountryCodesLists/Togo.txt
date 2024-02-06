@@ -4,12 +4,6 @@ radiojva.tg
 www.glnt.tg
 www.orvert.tg
 www.radiojva.tg
-valeurscitoyennes.tg
-essal.tg
-glidji-kpodji.tg
-glnt.tg
-haactogo.tg
-valeurscitoyennes.tg
 essal.tg
 glidji-kpodji.tg
 glnt.tg

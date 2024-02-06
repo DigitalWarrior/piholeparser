@@ -11,10 +11,6 @@ aloha.sr
 mooi.sr
 natin.sr
 sekhmetsecurity.sr
-aloha.sr
-mooi.sr
-natin.sr
-sekhmetsecurity.sr
 rabcreations.sr
 timeless-uptime.sr
 adservice.google.sr

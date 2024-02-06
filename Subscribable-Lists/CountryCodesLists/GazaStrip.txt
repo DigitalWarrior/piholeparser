@@ -33,15 +33,6 @@ www.zediah.ps
 zediah.ps
 domino.flycl.ps
 smetrics.seat.ps
-zediah.ps
-ajmal.ps
-alqistas.ps
-awtar.ps
-cst-kh.edu.ps
-diabetespal.ps
-pioneer.ps
-zane.ps
-zediah.ps
 ajmal.ps
 alqistas.ps
 awtar.ps
@@ -118,7 +109,6 @@ smartcloud.ps
 www.smartcloud.ps
 smartcloud.ps
 www.smartcloud.ps
-init.ps
 smartcloud.ps
 www.smartcloud.ps
 smartcloud.ps

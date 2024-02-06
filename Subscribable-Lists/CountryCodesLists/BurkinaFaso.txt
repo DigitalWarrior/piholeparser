@@ -2,7 +2,6 @@ webmail1.sonapost.bf
 tk.airfrance.bf
 pyramide.bf
 pyramide.bf
-pyramide.bf
 dgecolesdepolice.bf
 edifice.bf
 spong.bf

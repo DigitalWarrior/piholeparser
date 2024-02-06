@@ -8,10 +8,6 @@ icmsa.iua.edu.sd
 nro.gov.sd
 qasco.sd
 zakat-chamber.gov.sd
-icmsa.iua.edu.sd
-nro.gov.sd
-qasco.sd
-zakat-chamber.gov.sd
 nro.gov.sd
 nro.gov.sd
 ots.sd

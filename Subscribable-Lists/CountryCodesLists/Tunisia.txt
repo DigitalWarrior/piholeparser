@@ -46,7 +46,6 @@ www.yalla.tn
 yalla.tn
 smetrics.seat.tn
 tk.airfrance.tn
-isb.ens.tn
 aroma-oil.com.tn
 bfpme.com.tn
 carre.com.tn
@@ -59,16 +58,6 @@ sciencesinfirmieres.tn
 teskerti.tn
 vada.tn
 www.rivaderm.tn
-aroma-oil.com.tn
-bfpme.com.tn
-carre.com.tn
-dmx.tn
-isb.ens.tn
-marokallel.tn
-mib.tn
-safety-ebay.uk.tn
-teskerti.tn
-vada.tn
 imcb.com.tn
 pffn.pl.tn
 poczta-polska.tlg-group.com.tn

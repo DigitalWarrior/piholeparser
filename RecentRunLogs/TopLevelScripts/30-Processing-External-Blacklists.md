@@ -1560,3 +1560,277 @@ List Took 2 Seconds.
 
 ## Steven-Blacks-Unchecky-Ads
 ## Spam-Assassin-Bill-Stearns
+List Took 25 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Steven-Blacks-Unchecky-Ads.md)
+
+## Steven-Blacks-Unified-Hosts
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Steven-Blacks-Unified-Hosts.md)
+
+## TakoYachty-Gift-Card-Killer
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/TakoYachty-Gift-Card-Killer.md)
+
+## TeslaCrypt-Ransomware-C2-Domain-Blocklist
+List Took 3 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/TeslaCrypt-Ransomware-C2-Domain-Blocklist.md)
+
+## TeslaCrypt-Ransomware-Payment-Sites-Domain-Blocklist
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/TeslaCrypt-Ransomware-Payment-Sites-Domain-Blocklist.md)
+
+## The-Hosts-File-Project
+List Took 7 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/The-Hosts-File-Project.md)
+
+## Thoughtconverge-AdBlock-Filters
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Thoughtconverge-AdBlock-Filters.md)
+
+## Tofu-Filter
+List Took 46 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Spam-Assassin-Bill-Stearns.md)
+
+List Took 4 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Tofu-Filter.md)
+
+## Spam404-Domain-Blacklist
+## TorrentLocker-Ransomware-C2-Domain-Blocklist
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Spam404-Domain-Blacklist.md)
+
+## Spam404
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/TorrentLocker-Ransomware-C2-Domain-Blocklist.md)
+
+## Turk-adlist
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Spam404.md)
+
+## Steven-Blacks-Fakenews
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Turk-adlist.md)
+
+## Tyzbit
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Steven-Blacks-Fakenews.md)
+
+## Steven-Blacks-Gambling
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Tyzbit.md)
+
+## Wiltteri
+List Took 10 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Steven-Blacks-Gambling.md)
+
+## Steven-Blacks-Hosts
+List Took 10 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Wiltteri.md)
+
+## WindowsSpyBlocker
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Steven-Blacks-Hosts.md)
+
+## Steven-Blacks-Porn
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/WindowsSpyBlocker.md)
+
+## WindowsSpyBlocker7
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Steven-Blacks-Porn.md)
+
+## Steven-Blacks-Risky-Hosts
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/WindowsSpyBlocker7.md)
+
+## WindowsSpyBlocker81
+List Took 0 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Steven-Blacks-Risky-Hosts.md)
+
+## Steven-Blacks-Trackers
+List Took 0 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/WindowsSpyBlocker81.md)
+
+## XFilesHWSHarmfulWebSites
+List Took 0 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Steven-Blacks-Trackers.md)
+
+## Steven-Blacks-Unchecky-Ads
+List Took 1 Seconds.
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/XFilesHWSHarmfulWebSites.md)
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Steven-Blacks-Unchecky-Ads.md)
+
+
+## YousList
+## Steven-Blacks-Unified-Hosts
+List Took 2 Seconds.
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/YousList.md)
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Steven-Blacks-Unified-Hosts.md)
+
+
+## anudeep-adservers
+## TakoYachty-Gift-Card-Killer
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/anudeep-adservers.md)
+
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/TakoYachty-Gift-Card-Killer.md)
+
+## disconect-me
+## TeslaCrypt-Ransomware-C2-Domain-Blocklist
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/disconect-me.md)
+
+## lightswitch05-ads-tracking
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/TeslaCrypt-Ransomware-C2-Domain-Blocklist.md)
+
+## TeslaCrypt-Ransomware-Payment-Sites-Domain-Blocklist
+List Took 0 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/lightswitch05-ads-tracking.md)
+
+## lightswitch05-hate-and-junk
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/TeslaCrypt-Ransomware-Payment-Sites-Domain-Blocklist.md)
+
+## The-Hosts-File-Project
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/lightswitch05-hate-and-junk.md)
+
+## lightswitch05-tracking-aggresive
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/The-Hosts-File-Project.md)
+
+## Thoughtconverge-AdBlock-Filters
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/lightswitch05-tracking-aggresive.md)
+
+## lightswith05-amp-hots
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Thoughtconverge-AdBlock-Filters.md)
+
+## Tofu-Filter
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/lightswith05-amp-hots.md)
+
+## uAssetsFilters
+List Took 1 Seconds.
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uAssetsFilters.md)
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Tofu-Filter.md)
+
+
+## uAssetsPrivacy
+## TorrentLocker-Ransomware-C2-Domain-Blocklist
+List Took 3 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uAssetsPrivacy.md)
+
+## uAssetsUnbreak
+List Took 3 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/TorrentLocker-Ransomware-C2-Domain-Blocklist.md)
+
+## Turk-adlist
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uAssetsUnbreak.md)
+
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Turk-adlist.md)
+
+## uBOPersonalFilters
+## Tyzbit
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uBOPersonalFilters.md)
+
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Tyzbit.md)
+
+## uBlockFiltersPlus
+## Wiltteri
+List Took 0 Seconds.
+List Took 0 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Wiltteri.md)
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uBlockFiltersPlus.md)
+
+
+## xorcan-Turkish-aio
+## WindowsSpyBlocker
+List Took 1 Seconds.
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/xorcan-Turkish-aio.md)
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/WindowsSpyBlocker.md)
+
+
+## WindowsSpyBlocker7
+## yoyo-adlist
+List Took 3 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/WindowsSpyBlocker7.md)
+
+## WindowsSpyBlocker81
+List Took 3 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/yoyo-adlist.md)
+
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/WindowsSpyBlocker81.md)
+
+## XFilesHWSHarmfulWebSites
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/XFilesHWSHarmfulWebSites.md)
+
+## YousList
+List Took 0 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/YousList.md)
+
+## anudeep-adservers
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/anudeep-adservers.md)
+
+## disconect-me
+List Took 11 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/disconect-me.md)
+
+## lightswitch05-ads-tracking
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/lightswitch05-ads-tracking.md)
+
+## lightswitch05-hate-and-junk
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/lightswitch05-hate-and-junk.md)
+
+## lightswitch05-tracking-aggresive
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/lightswitch05-tracking-aggresive.md)
+
+## lightswith05-amp-hots
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/lightswith05-amp-hots.md)
+
+## uAssetsFilters
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uAssetsFilters.md)
+
+## uAssetsPrivacy
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uAssetsPrivacy.md)
+
+## uAssetsUnbreak
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uAssetsUnbreak.md)
+
+## uBOPersonalFilters
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uBOPersonalFilters.md)
+
+## uBlockFiltersPlus
+List Took 8 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uBlockFiltersPlus.md)
+
+## xorcan-Turkish-aio
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/xorcan-Turkish-aio.md)
+
+## yoyo-adlist
+List Took 4 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/yoyo-adlist.md)
+

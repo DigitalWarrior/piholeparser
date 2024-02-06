@@ -19,11 +19,6 @@ mkconstruction.ci
 preventis.ci
 sport-ivoire.ci
 taboutique.ci
-ageroute.ci
-mkconstruction.ci
-preventis.ci
-sport-ivoire.ci
-taboutique.ci
 c2i.ci
 ivoiretechnocom.ci
 kimexfinances.ci

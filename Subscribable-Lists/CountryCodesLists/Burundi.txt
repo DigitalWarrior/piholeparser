@@ -1,12 +1,8 @@
 events.newsroom.bi
 smetrics.kone.bi
-investburundi.bi
-read.bi
 gomo.bi
 investburundi.bi
 weide.bi
-gomo.bi
-investburundi.bi
 investburundi.bi
 facebook.bi
 portablesearch.bi

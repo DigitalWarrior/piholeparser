@@ -1,7 +1,5 @@
-piwik.root.ax
 smetrics.vikingline.ax
 stats.robotika.ax
-saxofonen.ax
 saxofonen.ax
 piwik.root.ax
 piwik.root.ax

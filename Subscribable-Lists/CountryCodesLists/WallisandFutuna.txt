@@ -3,11 +3,6 @@ io1.wf
 www.bradesconetempresas.desenv.dev.servicos.wf
 www.io1.wf
 58.wf
-io1.wf
-58.wf
-bin.wf
-io1.wf
-58.wf
 bin.wf
 io1.wf
 edu.wf

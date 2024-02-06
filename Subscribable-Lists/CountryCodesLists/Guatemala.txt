@@ -22,8 +22,6 @@ smetrics.elgallomasgallo.com.gt
 smetrics.tecoloco.com.gt
 stats.principedepaz.gt
 www.mkt.uvg.edu.gt
-prodeporte.com.gt
-unhogarenelcamino.org.gt
 baqtun.naleb.gt
 bdoaudit.com.gt
 globocentro.com.gt
@@ -33,15 +31,6 @@ multiserviciosindustriales.com.gt
 prodeporte.com.gt
 scd.com.gt
 unhogarenelcamino.org.gt
-baqtun.naleb.gt
-bdoaudit.com.gt
-globocentro.com.gt
-infoiarna.org.gt
-multigroup.com.gt
-multiserviciosindustriales.com.gt
-prodeporte.com.gt
-unhogarenelcamino.org.gt
-cbl6.destinia.gt
 cbl6.destinia.gt
 prodeporte.com.gt
 unhogarenelcamino.org.gt

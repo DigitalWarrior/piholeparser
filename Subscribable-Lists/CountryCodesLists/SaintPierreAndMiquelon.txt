@@ -7,8 +7,6 @@ nst.broadcast.pm
 accounts-update-requested.zxc.pm
 roblox.pm
 rwecklx.uni.pm
-accounts-update-requested.zxc.pm
-roblox.pm
 cmp.cls.pm
 com-career.pm
 com-consumer.pm

@@ -9,13 +9,6 @@ www.lasixmuch.lo.gs
 www.malforth.lo.gs
 www.vgrfr.lo.gs
 www.vgrit.lo.gs
-34.gs
-45.gs
-cli.gs
-fon.gs
-nblo.gs
-p.gs
-pli.gs
 f88.gs
 dumpsclinique.gs
 34.gs

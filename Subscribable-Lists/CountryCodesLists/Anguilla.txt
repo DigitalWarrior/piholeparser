@@ -6,8 +6,6 @@ pollux.ai
 rufus.ai
 www.chatchat.ai
 www.pollux.ai
-247.ai
-analytics.prod.mybuddy.ai
 a.linkz.ai
 ablink.mail.activearcade.ai
 ablink.mail.homecourt.ai
@@ -55,10 +53,7 @@ tracker.services.vaix.ai
 vzal21mooz.hyperwrite.ai
 wknd.ai
 chatchat.ai
-chatchat.ai
 www.5r.ai
-y.ai
-chatchat.ai
 y.ai
 etihadtravel.id.ai
 gandariacityhotel.id.ai
@@ -70,12 +65,14 @@ bitiplex.ai
 db.cannabud.ai
 exy.ai
 get.successpath.ai
+traderai.ai
 www.biffy.ai
 www.bitcoinrevolution.ai
 www.bitiplex.ai
 www.db.cannabud.ai
 www.exy.ai
 www.get.successpath.ai
+www.traderai.ai
 chatchat.ai
 easy.eu.ai
 end.ai
@@ -87,7 +84,6 @@ y.ai
 y.com.ai
 easy.eu.ai
 m2d.m2.ai
-cognitiv.ai
 acta.ai
 apkpure.ai
 birlasoft.threatcop.ai
@@ -169,7 +165,6 @@ www.bitcoinrevolution.ai
 www.bitiplex.ai
 www.exy.ai
 www.get.successpath.ai
-powerad.ai
 ai-porn.ai
 analytics.jst.ai
 api.native.ai
@@ -270,10 +265,6 @@ www.exy.ai
 www.get.successpath.ai
 api.cortana.ai
 decons.ai
-assets.datarize.ai
-dtr-onsite-feed.datarize.ai
-onsite-api.datarize.ai
-realtime-profiling.datarize.ai
 a.vdo.ai
 adservice.google.com.ai
 api.factors.ai

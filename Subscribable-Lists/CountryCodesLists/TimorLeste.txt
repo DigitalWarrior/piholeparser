@@ -31,14 +31,9 @@ www.etda.tl
 www.microsoft.tl
 www.neaoo.es.tl
 www.port.so.tl
+elmellowebmaster.es.tl
+www.elmellowebmaster.es.tl
 acbp0020171456.page.tl
-ki.tl
-lt.tl
-te.tl
-twi.tl
-catalogue-sample.page.tl
-etda.tl
-m.catalogue-sample.page.tl
 catalogue-sample.page.tl
 etda.tl
 m.catalogue-sample.page.tl

@@ -31,8 +31,6 @@ mailhub.minaffet.gov.rw
 blueoceans.rw
 paypal.mhc.rw
 shyirahospital.rw
-paypal.mhc.rw
-shyirahospital.rw
 ispg.ac.rw
 alexstewartinternationalltd.rw
 www.alexstewartinternationalltd.rw

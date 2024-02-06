@@ -6,7 +6,6 @@ doubleroi.surge.sh
 eth-giveaway.surge.sh
 www.doubleroi.surge.sh
 www.eth-giveaway.surge.sh
-ntvp.wpu.sh
 get.weme.sh
 go.rate.sh
 hht8m6w8mnug.quine.sh
@@ -16,9 +15,6 @@ ad.proxy.sh
 minero-proxy-01.now.sh
 minero-proxy-02.now.sh
 minero-proxy-03.now.sh
-apu.sh
-vani.sh
-refunding-server.wap.sh
 refunding-server.wap.sh
 propu.sh
 ad.proxy.sh
@@ -561,11 +557,6 @@ www.tauron.surge.sh
 www.test-fix-dazo.surge.sh
 www.uni-invest.surge.sh
 www.waverealmsblog.surge.sh
-init.sh
-is.sh
-rs.sh
-s.sh
-updata.sh
 1sugxu4thwwljctlhca8b.surge.sh
 abosgwi1gvgus2pvnhfn1wv.surge.sh
 appealeation-case-9045bv.surge.sh

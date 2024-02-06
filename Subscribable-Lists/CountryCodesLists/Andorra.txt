@@ -1,15 +1,11 @@
-content.ad
 brand.ad
 morosos.ad
 www.morosos.ad
-chameleon.ad
-content.ad
 content.ad
 wt.ara.ad
 api.content.ad
 token.ad
 wwww.token.ad
-content.ad
 publi.forum.ad
 desenvolupament.ad
 xena.ad
@@ -42,9 +38,6 @@ content.ad
 centro.pixel.ad
 files.native.ad
 publi.forum.ad
-chameleon.ad
-content.ad
-nugg.ad
 brand.ad
 api.content.ad
 centro.pixel.ad
@@ -69,6 +62,7 @@ dns4.ad
 adservice.google.ad
 api.content.ad
 gsn.chameleon.ad
+content.ad
 centro.pixel.ad
 clickserv.pixel.ad
 partner.roq.ad

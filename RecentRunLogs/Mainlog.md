@@ -98,3 +98,38 @@ Process Took 4 Seconds.
 Process Took 13 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks.md)
 
+Process Took 15 Minutes.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
+
+##    Compiling Combined Blacklist Tue Feb  6 00:35:27 MST 2024
+Process Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/40-Compiling-Combined-Blacklist.md)
+
+##    Compiling Combined Whitelist Tue Feb  6 00:35:28 MST 2024
+Process Took 0 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/45-Compiling-Combined-Whitelist.md)
+
+##    Writing Additional Lists Tue Feb  6 00:35:28 MST 2024
+Process Took 4 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/60-Writing-Additional-Lists.md)
+
+##    Completing End Tasks Tue Feb  6 00:35:32 MST 2024
+Process Took 15 Minutes.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
+
+##    Compiling Combined Blacklist Tue Feb  6 00:36:08 MST 2024
+Process Took 0 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/40-Compiling-Combined-Blacklist.md)
+
+##    Compiling Combined Whitelist Tue Feb  6 00:36:08 MST 2024
+Process Took 0 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/45-Compiling-Combined-Whitelist.md)
+
+##    Writing Additional Lists Tue Feb  6 00:36:08 MST 2024
+Process Took 1 Minutes.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/60-Writing-Additional-Lists.md)
+
+##    Completing End Tasks Tue Feb  6 00:37:20 MST 2024
+Process Took 2 Minutes.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks.md)
+
