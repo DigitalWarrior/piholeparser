@@ -3,118 +3,118 @@
 ____________________________________
 # 
 ### Checking For Script Whitelist File.
-* Script Whitelist File not there, not removing. Mon Feb  5 00:20:20 MST 2024
+* Script Whitelist File not there, not removing. Tue Feb  6 00:20:18 MST 2024
 ### Pulling Domains From Individual Lists.
 1 In Backupbitlockerrecoverykey
 1 In BildDE
 4 In DirectTV
-17 In Facebook
-2 In Jackbox
-1 In MicrosoftOffice
-5 In MicrosoftWebPages
-40 In Script
-11 In Skype
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-____________________________________
-# 
-1 In Spotify
-### Checking For Script Whitelist File.
-* Whitelist File removed Mon Feb  5 00:20:20 MST 2024
-3 In TargetsWeeklyAds
-### Pulling Domains From Individual Lists.
-122 In UserSubmitted
-1 In Backupbitlockerrecoverykey
-1 In appleappstore
-1 In BildDE
-4 In dropbox
-4 In DirectTV
-3 In electronicarts
 19 In Facebook
-3 In github
 2 In Jackbox
-7 In googlecontent
-7 In MicrosoftOffice
+6 In MicrosoftOffice
 5 In MicrosoftWebPages
-2 In googlemaps
 40 In Script
-40 In googleplay
-2 In kickstarter
 11 In Skype
-1 In netflix
 1 In Spotify
 3 In TargetsWeeklyAds
-3 In no-ip
+122 In UserSubmitted
+1 In appleappstore
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
-122 In UserSubmitted
-28 In plex
 # 
-### Checking For Script Whitelist File.
-* Whitelist File removed Mon Feb  5 00:20:21 MST 2024
-2 In reddit
-1 In appleappstore
-### Pulling Domains From Individual Lists.
-5 In sonarr
 5 In dropbox
+### Checking For Script Whitelist File.
+* Whitelist File removed Tue Feb  6 00:20:19 MST 2024
+### Pulling Domains From Individual Lists.
+3 In electronicarts
+4 In github
 1 In Backupbitlockerrecoverykey
+20 In googlecontent
+1 In BildDE
+2 In googlemaps
+4 In DirectTV
+31 In googleplay
+19 In Facebook
+2 In kickstarter
+2 In Jackbox
+6 In MicrosoftOffice
+40 In netflix
+11 In MicrosoftWebPages
+11 In no-ip
+40 In plex
+40 In Script
+13 In reddit
+11 In Skype
+5 In Spotify
+5 In sonarr
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+____________________________________
+# 
+6 In spiceworks
+6 In TargetsWeeklyAds
+### Checking For Script Whitelist File.
+* Whitelist File removed Tue Feb  6 00:20:19 MST 2024
+5 In steam
+### Pulling Domains From Individual Lists.
+122 In UserSubmitted
+1 In surveymonkey
+1 In appleappstore
+1 In Backupbitlockerrecoverykey
+1 In BildDE
+6 In windows-xboxstore
+5 In dropbox
+3 In electronicarts
+19 In DirectTV
+19 In youtube
+56 To Whitelist
+4 In github
+21 In Facebook
+### Deduplicating Merged List.
+2 In Jackbox
+20 In googlecontent
+31 After Deduplicating Merged List.
+6 In googlemaps
+6 In MicrosoftOffice
+31 In googleplay
+36 In MicrosoftWebPages
+40 In Script
+40 In kickstarter
+40 In netflix
+11 In Skype
+11 In Spotify
+11 In no-ip
+40 In plex
+40 In TargetsWeeklyAds
+13 In reddit
+122 In UserSubmitted
+5 In sonarr
+1 In appleappstore
+5 In dropbox
 5 In spiceworks
 3 In electronicarts
-1 In BildDE
-3 In github
-3 In steam
-4 In DirectTV
-2 In surveymonkey
-19 In googlecontent
-19 In Facebook
-2 In googlemaps
-2 In Jackbox
-2 In windows-xboxstore
-5 In youtube
-7 In MicrosoftOffice
-39 In googleplay
-108 To Whitelist
-2 In kickstarter
-5 In MicrosoftWebPages
-### Deduplicating Merged List.
-40 In netflix
-40 In Script
-97 After Deduplicating Merged List.
-11 In no-ip
-11 In Skype
-29 In plex
-1 In Spotify
-3 In TargetsWeeklyAds
-2 In reddit
-5 In sonarr
-122 In UserSubmitted
-6 In spiceworks
-1 In appleappstore
-5 In dropbox
-5 In steam
-3 In electronicarts
-2 In surveymonkey
-3 In windows-xboxstore
-3 In github
-19 In googlecontent
+7 In steam
+1 In surveymonkey
+4 In github
+6 In windows-xboxstore
+20 In googlecontent
+20 In googlemaps
 19 In youtube
-347 To Whitelist
-2 In googlemaps
+574 To Whitelist
+31 In googleplay
 ### Deduplicating Merged List.
-39 In googleplay
-263 After Deduplicating Merged List.
-2 In kickstarter
+40 In kickstarter
+225 After Deduplicating Merged List.
 40 In netflix
 11 In no-ip
-29 In plex
-2 In reddit
+40 In plex
+13 In reddit
 5 In sonarr
-6 In spiceworks
-5 In steam
-2 In surveymonkey
-3 In windows-xboxstore
+5 In spiceworks
+7 In steam
+1 In surveymonkey
+6 In windows-xboxstore
 19 In youtube
-387 To Whitelist
+372 To Whitelist
 ### Deduplicating Merged List.
-263 After Deduplicating Merged List.
+225 After Deduplicating Merged List.

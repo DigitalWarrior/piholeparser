@@ -12,3 +12,9 @@ ____________________________________
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
 ## Checking File Header
+### Punycode Translate
+ Lines After Punycode Translate
+### Removing Duplicate Lines
+ Lines After Removing Duplicate Lines
+## Determining Host Availability
+## Checking If List Updated Online

@@ -105567,19 +105567,12 @@ xmr.pool.minergate.com
 xmrminingpro.com
 xmtkj.com
 xmyodjfrefud.info
-xn----7sbahm7ayzj1l.xn--p1ai
-xn----7sbhlqiujscje.xn--p1ai
 xn----8sb4abph0af.com
-xn----8sb7bjbebi.xn--p1ai
 xn----dtbhbqh9ajceeeg2m.org
 xn--12c3bfbjn4brbb4e7a5cvab3gsn.com
 xn--12c4bfj2hza1ioch.com
 xn--72c6awi9b2bj7ixcg4c.com
-xn--80aaagge2acs2agf3bgi.xn--p1ai
-xn--80aaebosobxmr.xn--p1ai
 xn--80adixsmm7f.net
-xn--80aehbifmf8acdejehti7p.xn--p1ai
-xn--80azid2bo.xn--p1ai
 xn--acikdenz-denzsube-nvc.com
 xn--apple--gj7kf38df2dox0g.com
 xn--b3cvfj2hdufn6s9b.com
@@ -105593,7 +105586,6 @@ xn--blokchain-nfb.info
 xn--bockclnain-eyb.info
 xn--c3c1azabee2eb0exfsa5ftc.com
 xn--dezmembrri-constana-dfc400d.ro
-xn--e1afilellcz.xn--p1ai
 xn--etherem-y24c.com
 xn--ethrdelta-iib.com
 xn--fiqs8s1vdh24ati0a.com

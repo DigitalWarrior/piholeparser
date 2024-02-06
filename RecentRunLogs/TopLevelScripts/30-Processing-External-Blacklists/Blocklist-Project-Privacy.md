@@ -4,17 +4,9 @@
 ____________________________________
 # Blocklist-Project-Privacy
 ## Setting Temporary Parsing Variables
-### Punycode Translate
 ## Checking For Existing Mirror File
- Lines After Punycode Translate
-### Removing Duplicate Lines
 ## Checking For Github Mirror File
- Lines After Removing Duplicate Lines
 ## Checking For Existing Parsed File
+### Reverse Searching For Invalid Top Level Domains
 ## Checking If Multiple Sources
-## The Source In The File To Download Is
-## Checking For HTTPS
-## Pinging Source To Check Host Availability
-## Checking File Header
-## Determining Host Availability
-## Checking If List Updated Online
+0 Lines After Reverse Searching For Invalid Top Level Domains

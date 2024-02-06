@@ -9,8 +9,12 @@ ____________________________________
 ## Checking For Existing Parsed File
 ## Checking If Multiple Sources
 ## The Source In The File To Download Is
+### Punycode Translate
 ## Checking For HTTPS
+ Lines After Punycode Translate
+### Removing Duplicate Lines
 ## Pinging Source To Check Host Availability
+ Lines After Removing Duplicate Lines
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online

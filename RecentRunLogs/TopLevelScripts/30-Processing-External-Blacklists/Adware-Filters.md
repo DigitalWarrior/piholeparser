@@ -4,8 +4,6 @@
 ____________________________________
 # Adware-Filters
 ## Setting Temporary Parsing Variables
-## Determining Host Availability
-## Checking If List Updated Online
 ## Checking For Existing Mirror File
 ## Checking For Github Mirror File
 ## Checking For Existing Parsed File

@@ -2,8 +2,8 @@
 !
 ! Title: 🇵🇱 KAD - Przekręty
 ! Description: Filtry chroniące przed różnymi zagrożeniami w polskiej sieci, takimi jak wirusy, fałszywe sklepy i subskrypcje SMS. Dodatkowo zawierają one wpisy stworzone przez CERT Polska, legalniewsieci.pl, KNF i inne zespoły.
-! Last modified: Sun, 04 Feb 2024, 21:15 UTC+01:00
-! Version: 2024.2.4.4
+! Last modified: Mon, 05 Feb 2024, 21:17 UTC+01:00
+! Version: 2024.2.5.3
 ! Expires: 2 days
 ! License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 ! Creator: azet12
@@ -2568,6 +2568,7 @@
 ||0lx.00282760.xyz^$all
 ||0lx.00282764.xyz^$all
 ||0lx.00282769.xyz^$all
+||0lx.2132217.xyz^$all
 ||0lx.2414313.xyz^$all
 ||00lx.04564561.xyz^$all
 ||0lx.9423537.xyz^$all
@@ -2767,6 +2768,7 @@
 ||1ym.eu^$all
 ||1yst1c10urney.site^$all
 ||02-9000000.com^$all
+||2-km34.cfd^$all
 ||2-n.cfd^$all
 ||2-pk83.cfd^$all
 ||2-remove-virus.com^$all
@@ -3176,6 +3178,7 @@
 ||7abd7ba9879.chefs-kitchen.co.uk^$all
 ||7ac06b6810e.chefs-kitchen.co.uk^$all
 ||7ad2b9a950ba7a46c8821114d7797d4f.puoli.pl^$all
+||7ad51b42657417fcf5b5f22ae70f70b9.voxda.pl^$all
 ||7add1d9fab9.chefs-kitchen.co.uk^$all
 ||7af04237.coletivohojeapassarinho.com.br^$all
 ||7aut-budda.info^$all
@@ -3497,6 +3500,7 @@
 ||33fb.luckhaven.monster^$all
 ||33ff2fb.rigorodhpf.online^$all
 ||33k.boats^$all
+||34-gtro5.cfd^$all
 ||34-h2g.cfd^$all
 ||34-ln.homes^$all
 ||34-y5k.cfd^$all
@@ -3691,6 +3695,7 @@
 ||84-wk4c.cfd^$all
 ||84a891d6885.johncornell.com^$all
 ||084df.cc^$all
+||84fd1.cc^$all
 ||84j-sk.cfd^$all
 ||84jsl3.cfd^$all
 ||85-jey6.cfd^$all
@@ -3740,6 +3745,7 @@
 ||97ebeb8d2984980f5912a4142ed9d7ce.puoli.pl^$all
 ||97f4193bcc2a7349f4b8b655575c3c21.vistvx.pl^$all
 ||98-66-161-107.cprapid.com^$all
+||98-jry3.cfd^$all
 ||98a26fc9d2e00de6b10fa0b5bd29bdce.puoli.pl^$all
 ||98bc959934c.chefs-kitchen.co.uk^$all
 ||98ca2b0d78d.johncornell.com^$all
@@ -5045,6 +5051,7 @@
 ||active-developer.com^$all
 ||active.activeprog1.top^$all
 ||active.activeprog3.top^$all
+||active.inebages.com^$all
 ||active.pro-activprofit.site^$all
 ||activeeu.activeprog1.top^$all
 ||activesenderservice.com^$all
@@ -5484,6 +5491,7 @@
 ||ahunterbon.com^$all
 ||ahvaaw.com^$all
 ||ai2.blancosmarancos.com^$all
+||ai4marketplace.online^$all
 ||ai8-be.cfd^$all
 ||ai10.freconmieetfinances.com^$all
 ||ai22qvanto.web.app^$all
@@ -5503,6 +5511,7 @@
 ||ai.czrlibr.xyz^$all
 ||ai.freconmieetfinances.com^$all
 ||ai.infinitehorizonquestseekers.com^$all
+||ai.intertradexperts.com^$all
 ||ai.mysticalmeridianwanderlusts.com^$all
 ||ai.nanotechnologyadvancementnewshub.com^$all
 ||ai.peregrinepathfinderjourneys.com^$all
@@ -6087,13 +6096,16 @@
 ||allegrolokalnie.aukcja6098.pl^$all
 ||allegrolokalnie.aukcja-1654725.pl^$all
 ||allegrolokalnie.aukcja-7125924.pl^$all
+||allegrolokalnie.aukcja-8461274.pl^$all
 ||allegrolokalnie.aukcja-9641274.pl^$all
 ||allegrolokalnie.aukcja-61249225.pl^$all
 ||allegrolokalnie.aukcja-allegro.pl^$all
 ||allegrolokalnie.aukcja-id76941.pl^$all
 ||allegrolokalnie.aukcja-id78533.pl^$all
+||allegrolokalnie.aukcja-id342781.pl^$all
 ||allegrolokalnie.aukcja-id642781.pl^$all
 ||allegrolokalnie.aukcja-id849214.pl^$all
+||allegrolokalnie.aukcja-id3427817.pl^$all
 ||allegrolokalnie.aukcja-id7647128.pl^$all
 ||allegrolokalnie.aukcja-id7948261.pl^$all
 ||allegrolokalnie.aukcja-id8971241.pl^$all
@@ -6188,6 +6200,10 @@
 ||allegrolokalnie.oferta-sprzedazy6242.pl^$all
 ||allegrolokalnie.oferta-sprzedazy8254.pl^$all
 ||allegrolokalnie.oferta-sprzedazy25485.pl^$all
+||allegrolokalnie.oferta-sprzedazy31235.pl^$all
+||allegrolokalnie.oferta-sprzedazy31332.pl^$all
+||allegrolokalnie.oferta-sprzedazy31334.pl^$all
+||allegrolokalnie.oferta-sprzedazy31532.pl^$all
 ||allegrolokalnie.oferta-sprzedazy346547.pl^$all
 ||allegrolokalnie.oferta-zakupu5854.pl^$all
 ||allegrolokalnie.oferta-zakupu5874.pl^$all
@@ -6512,6 +6528,7 @@
 ||allegrolokalnie.xn--pl-oferta-uytkownik19376-lff.pl^$all
 ||allegrolokalnie.zakup24.pl^$all
 ||allegrolokalnie.zakup249.pl^$all
+||allegrolokalnie.zakup-chroniony.pl^$all
 ||allegrolokalnie.zakup-oferta24.pl^$all
 ||allegrolokalnie.zakup-platnosc24.pl^$all
 ||allegrolokalnie.zakup-produkt.pl^$all
@@ -6773,10 +6790,12 @@
 ||altaybijuteri.com^$all
 ||altaynorma.ru^$all
 ||altcoin-metamask.pro^$all
+||altcoinprowealth.app^$all
 ||altcoinsinvestorpro.com^$all
 ||alteranswers.com^$all
 ||altermoney.top^$all
 ||alternateuniverse.tech^$all
+||altex-momentum.io^$all
 ||altfunction4.com^$all
 ||althairco.com^$all
 ||altitudemedia.org^$all
@@ -6785,6 +6804,7 @@
 ||altoonatreeremoval.com^$all
 ||altrapacking.com^$all
 ||altrix-edge.com^$all
+||altrix-edge.org^$all
 ||altrixprime.org^$all
 ||altrixsync.org^$all
 ||altruistclothingco.com^$all
@@ -7736,10 +7756,12 @@
 ||arturwieczorek977.aleksanderjakub.pl^$all
 ||artv.site^$all
 ||artwellnesstherapy.com^$all
+||artykul.athenesforum.com^$all
 ||artykul.lakeviewcondostaug.com^$all
 ||artykul.lozukowski.com^$all
 ||artykul.supplypoland.com^$all
 ||artykul.taxility.com^$all
+||artykul.wineinterview.com^$all
 ||artykulik24.click^$all
 ||artzima.online^$all
 ||arubaitmerlo69pmqo8712y4ne9398zeh48r4.work.gd^$all
@@ -8356,11 +8378,14 @@
 ||auta-bakowska.pl^$all
 ||auta-baran.pl^$all
 ||auta-bednarek.pl^$all
+||auta-bielicki.pl^$all
 ||auta-bielski.pl^$all
 ||auta-bodnarski.pl^$all
 ||auta-bogusz.pl^$all
+||auta-borawski.pl^$all
 ||auta-borowski.pl^$all
 ||auta-bujanowski.pl^$all
+||auta-bura.pl^$all
 ||auta-cegielski.pl^$all
 ||auta-chojnacki.pl^$all
 ||auta-chylinski.pl^$all
@@ -8468,6 +8493,7 @@
 ||authpolan.pages.net.br^$all
 ||authtii.vercel.app^$all
 ||autistic-like.com^$all
+||autko-wtorne.pl^$all
 ||auto24-moks.pl^$all
 ||auto-as24.pl^$all
 ||auto-best24.pl^$all
@@ -8478,6 +8504,7 @@
 ||auto-domain2-manaliner.pbclimbing.co.uk^$all
 ||auto-elite24.pl^$all
 ||auto-fast.pl^$all
+||auto-faster.pl^$all
 ||auto-garczynski.pl^$all
 ||auto-glaze.com^$all
 ||auto-heres.pl^$all
@@ -8489,10 +8516,13 @@
 ||auto-kowalik24.pl^$all
 ||auto-kurek24.pl^$all
 ||auto-majchrzak.pl^$all
+||auto-mazowiecki.pl^$all
 ||auto-moks.pl^$all
 ||auto-moksonline.pl^$all
+||auto-okazia.pl^$all
 ||auto-profit.org^$all
 ||auto-profits.com^$all
+||auto-skupik.pl^$all
 ||auto-sto.pl^$all
 ||auto-stodwa.pl^$all
 ||auto-trojanowski.pl^$all
@@ -8567,6 +8597,7 @@
 ||autogielda-nowacki.pl^$all
 ||autogielda-nowakiewicz.pl^$all
 ||autogielda-otto24.pl^$all
+||autogielda-owczarek.pl^$all
 ||autogielda-pakulski.pl^$all
 ||autogielda-pekinski.pl^$all
 ||autogielda-piaseczny.pl^$all
@@ -10065,6 +10096,7 @@
 ||bel-store.online^$all
 ||belay-vocalize.webnode.co.uk^$all
 ||belbabub.site^$all
+||belcomph.com^$all
 ||belekd.sbs^$all
 ||belenbebes.com^$all
 ||belepaant.site^$all
@@ -10518,6 +10550,7 @@
 ||bigigloosurvival.com^$all
 ||bigkingnet.com^$all
 ||bigmarketplace.ng^$all
+||bigmoneyrush.app^$all
 ||bigmoviesc.com^$all
 ||bigmoviesz.com^$all
 ||bignamestanfree.wixsite.com^$all
@@ -10659,27 +10692,52 @@
 ||bit3cexchange.com^$all
 ||bit360.info^$all
 ||bit-alpha-info.financialmarketsworld.com^$all
+||bit-codeai.com^$all
+||bit-codemethod.com^$all
 ||bit-indexai.net^$all
 ||bit-indexprime.app^$all
 ||bit-indexprime.com^$all
+||bit-iplex-codes.com^$all
 ||bit-pl.web.app^$all
 ||bit-po.land^$all
+||bit-profit.info^$all
+||bit-profit.io^$all
+||bit-qt.app^$all
+||bit-trader.app^$all
 ||bit-trader.io^$all
+||bitai-method.app^$all
 ||bitalpha-ai.com^$all
 ||bitalpha-ai.io^$all
 ||bitalpha-ai.org^$all
+||bitalphaai.app^$all
 ||bitavage.com^$all
 ||bitbuilder.pw^$all
 ||bitcanuck.site^$all
 ||bitco-buyer.com^$all
+||bitcode-method.biz^$all
+||bitcode-prime.cloud^$all
+||bitcodeprime.site^$all
+||bitcoin360-ai.org^$all
+||bitcoin360.online^$all
 ||bitcoin360aiapp-net.financialmarketsworld.com^$all
+||bitcoin-apex.org^$all
+||bitcoin-boom.net^$all
+||bitcoin-boom.org^$all
+||bitcoin-bot.app^$all
 ||bitcoin-buyer.org^$all
 ||bitcoin-champion.app^$all
 ||bitcoin-decoder.financialmarketsworld.com^$all
+||bitcoin-dynamit.com^$all
+||bitcoin-edge.org^$all
+||bitcoin-eer.com^$all
+||bitcoin-eer.org^$all
+||bitcoin-empire.org^$all
 ||bitcoin-era.pl^$all
 ||bitcoin-era.pro^$all
 ||bitcoin-evolutionpro.com^$all
 ||bitcoin-formula.org^$all
+||bitcoin-fortress.org^$all
+||bitcoin-ifex-360-ai.info^$all
 ||bitcoin-loophole.io^$all
 ||bitcoin-loophole.software^$all
 ||bitcoin-motion.cloud^$all
@@ -10687,6 +10745,7 @@
 ||bitcoin-parisapp.financialmarketsworld.com^$all
 ||bitcoin-polish.com^$all
 ||bitcoin-polska-platform.bitqt.click^$all
+||bitcoin-power.com^$all
 ||bitcoin-prime-pl.investing-kapitals.com^$all
 ||bitcoin-prime.app^$all
 ||bitcoin-prime.io^$all
@@ -10699,20 +10758,35 @@
 ||bitcoin-revolution.org^$all
 ||bitcoin-revolutionsoftwareapp.financialmarketsworld.com^$all
 ||bitcoin-santiago.financialmarketsworld.com^$all
+||bitcoin-smarter.app^$all
 ||bitcoin-smarter.com^$all
 ||bitcoin-sportsbooks.com^$all
+||bitcoin-sprint.info^$all
 ||bitcoin-srush.financialmarketsworld.com^$all
 ||bitcoin-storm.com^$all
 ||bitcoin-system-bg.financialmarketsworld.com^$all
+||bitcoin-system.org^$all
 ||bitcoin-system.site^$all
 ||bitcoin-trader-app.com^$all
+||bitcoin-treasure.io^$all
+||bitcoin-union.org^$all
 ||bitcoin-up.io^$all
 ||bitcoin-up.live^$all
+||bitcoinapex.app^$all
+||bitcoinavage-ai.com^$all
 ||bitcoinblueprints.net^$all
 ||bitcoinbrass.com^$all
 ||bitcoinchampion.io^$all
+||bitcoincircuit.biz^$all
+||bitcoinclever.app^$all
+||bitcoincodeapp.io^$all
+||bitcoincompass.io^$all
+||bitcoindigital.app^$all
+||bitcoindigital.org^$all
 ||bitcoindividend.site^$all
 ||bitcoine-ad.foundation^$all
+||bitcoineer.gg^$all
+||bitcoinequaliser.org^$all
 ||bitcoinera.app^$all
 ||bitcoinera.cloud^$all
 ||bitcoinera.io^$all
@@ -10720,7 +10794,18 @@
 ||bitcoinerainfo.com^$all
 ||bitcoineranew.com^$all
 ||bitcoinerapro.com^$all
+||bitcoinfastprofit.org^$all
+||bitcoinformula.net^$all
+||bitcoingemini.app^$all
+||bitcoininform.io^$all
+||bitcoinlifestyle.org^$all
+||bitcoinloophole.io^$all
+||bitcoinlucro.io^$all
+||bitcoinlucro.org^$all
 ||bitcoinluxembourgapp.com^$all
+||bitcoinmaker.io^$all
+||bitcoinmastery.app^$all
+||bitcoinmethod.org^$all
 ||bitcoinmontreal.org^$all
 ||bitcoinmotion.tech^$all
 ||bitcoinpolska.org^$all
@@ -10731,20 +10816,29 @@
 ||bitcoinprime.software^$all
 ||bitcoinprimeapp.com^$all
 ||bitcoinprimeapp.financialmarketsworld.com^$all
+||bitcoinprofit.today^$all
 ||bitcoinprofitpro.com^$all
+||bitcoinrejoin.io^$all
 ||bitcoinrevivalapp-net.financialmarketsworld.com^$all
 ||bitcoinrevolution.ai^$all
 ||bitcoinrevolution.org^$all
+||bitcoinrevolution.tech^$all
 ||bitcoinrevolutionunitedkingdomreview.com^$all
+||bitcoinrush.today^$all
 ||bitcoins-era.io^$all
 ||bitcoins-profit.com^$all
 ||bitcoinscircuit.app^$all
+||bitcoinscode.org^$all
 ||bitcoinset.pl^$all
 ||bitcoinsmarter.net^$all
 ||bitcoinsmarter.org^$all
 ||bitcoinsprofit.net^$all
 ||bitcoinsunrise.com^$all
 ||bitcoinsup.pl^$all
+||bitcoinsupersplit.com^$all
+||bitcoinsuperstar.digital^$all
+||bitcoinsuperstar.io^$all
+||bitcoinsupreme.net^$all
 ||bitcoinsystem.app^$all
 ||bitcoinsystempro.financialmarketsworld.com^$all
 ||bitcointodaynews.me^$all
@@ -10755,6 +10849,7 @@
 ||bitcoinup.io^$all
 ||bitcoinupapp.com^$all
 ||bitcoinupsale.com^$all
+||bitcoinwisdom.app^$all
 ||bitconnect.co^$all
 ||bitcsupp.com^$all
 ||bitdaobit.icu^$all
@@ -10764,6 +10859,8 @@
 ||bitfinbon.online^$all
 ||bitforyou.art^$all
 ||bitforyou.lol^$all
+||bitgratitude.org^$all
+||biticode.org^$all
 ||biticodes.academy^$all
 ||biticodesapp-net.financialmarketsworld.com^$all
 ||bitindexai.com^$all
@@ -10772,15 +10869,25 @@
 ||bitioniksss.site^$all
 ||bitiplex-inv.com^$all
 ||bitiplex.ai^$all
+||bitiq-app.com^$all
 ||bitiq.app^$all
+||bitiq.org^$all
 ||bitkudu.com^$all
+||bitlidex360.org^$all
+||bitlitesync.org^$all
+||bitlq.app^$all
 ||bitly.lc^$all
 ||bitming.site^$all
 ||bitmonolith.com^$all
 ||bitnation.co^$all
 ||bitok.byseniscon.top^$all
+||bitpremium.org^$all
 ||bitprime-gold.com^$all
+||bitprimegold.com^$all
+||bitprimegold.net^$all
 ||bitqh-app-com.financialmarketsworld.com^$all
+||bitqh.app^$all
+||bitqh.org^$all
 ||bitql.cloud^$all
 ||bitqs.app^$all
 ||bitqsinvstm-pl.hyzapei.com^$all
@@ -10791,11 +10898,15 @@
 ||bitqt-pl.pro^$all
 ||bitqt-sc.com^$all
 ||bitqt.org^$all
+||bitqtapp.net^$all
 ||bitqtpl.net^$all
+||bitqz.org^$all
 ||bitratios.com^$all
 ||bits2social.com^$all
 ||bits.videodaewoo.pw^$all
 ||bitsirh.com^$all
+||bitsoft360app.co^$all
+||bitsoftware360.com^$all
 ||bitstokes.com^$all
 ||bitstrategy.site^$all
 ||bitterboutique.com^$all
@@ -11857,6 +11968,7 @@
 ||breweryroad.com^$all
 ||brewingcloud.com^$all
 ||brewmasterradiance.site^$all
+||brexit-millionaire.org^$all
 ||brfprimepoultryexporter.com^$all
 ||brian-music.com^$all
 ||brianlong.com^$all
@@ -12217,6 +12329,7 @@
 ||business-eu.aesthetise.com^$all
 ||business-fb-review-12896192526.web.app^$all
 ||business-help-active-f389dc.surge.sh^$all
+||business-help-case-571927962827151.netlify.app^$all
 ||business-helpcenter-meta.site^$all
 ||business-in-jp.com^$all
 ||business-interia.com^$all
@@ -12869,6 +12982,7 @@
 ||carceratetvher.life^$all
 ||card4beauty.com^$all
 ||cardamour.com^$all
+||cardano-trader.com^$all
 ||cardboard-stands.com^$all
 ||cardealerdigest.com^$all
 ||cardinal24.com^$all
@@ -13431,6 +13545,7 @@
 ||cfd.britannic-finance.com^$all
 ||cfd.rodostrade.com^$all
 ||cfd.swisscapitalmarkets.net^$all
+||cfds-trader.com^$all
 ||cfdsociety.org^$all
 ||cff44e9cdc1267673fd108dc05d12396.puoli.pl^$all
 ||cffh.formew.top^$all
@@ -13475,6 +13590,8 @@
 ||chadlavy.com^$all
 ||chagt.teraw.site^$all
 ||chai-boba.com^$all
+||chain-reaction-trading.com^$all
+||chain-reaction.app^$all
 ||chaine-reacti0n.web.app^$all
 ||chaine-reaction23.web.app^$all
 ||chainemailification.com^$all
@@ -13483,6 +13600,7 @@
 ||chainpolks.com^$all
 ||chainsuccess.cyou^$all
 ||chainsurvival.com^$all
+||chainwizard-ai.com^$all
 ||chairboat.quest^$all
 ||chairhouse.live^$all
 ||chaisestitched.monster^$all
@@ -13979,6 +14097,7 @@
 ||cklomah.online^$all
 ||ckof.hoccs.xyz^$all
 ||ckpsensor.com^$all
+||ckuet.info^$all
 ||cl0ms.top^$all
 ||cl90234.tmweb.ru^$all
 ||cl.clps.top^$all
@@ -14504,6 +14623,7 @@
 ||commerzoffiziell.com^$all
 ||commissionhero.com^$all
 ||commissionunion.com^$all
+||commodi-non.com^$all
 ||commodorecape.com^$all
 ||common.supplypoland.com^$all
 ||commonauth2.pl^$all
@@ -15440,17 +15560,24 @@
 ||crypto027.online^$all
 ||crypto-bankapp.com^$all
 ||crypto-bonuses.xyz^$all
+||crypto-boom.io^$all
+||crypto-boom.org^$all
 ||crypto-bull-app.financialmarketsworld.com^$all
+||crypto-engine.live^$all
 ||crypto-engine.pl^$all
+||crypto-engineapp.com^$all
 ||crypto-exchange24-m.pro^$all
 ||crypto-exchange365.pro^$all
 ||crypto-genisus.financialmarketsworld.com^$all
+||crypto-genius.org^$all
 ||crypto-guild.com^$all
+||crypto-nation-pro.com^$all
 ||crypto-nationapp.com^$all
 ||crypto-smartchain.com^$all
 ||crypto-stuff.info^$all
 ||crypto-stuff.live^$all
 ||crypto-stuff.pro^$all
+||crypto-superstar.io^$all
 ||crypto-v.club^$all
 ||cryptoadmirals.com^$all
 ||cryptoanlyses.com^$all
@@ -15472,7 +15599,10 @@
 ||cryptocomebackpro.co^$all
 ||cryptoconsultinggroups.com^$all
 ||cryptocy2.com^$all
+||cryptodezire.com^$all
 ||cryptoeducationalservices.com^$all
+||cryptoengine.biz^$all
+||cryptoengine.io^$all
 ||cryptoferia.com^$all
 ||cryptofundfx.com^$all
 ||cryptofuture-app.financialmarketsworld.com^$all
@@ -15690,6 +15820,7 @@
 ||customboxtemplates.com^$all
 ||customcakesandcatering.com^$all
 ||customer-account-inc.com^$all
+||customer-account-service.com^$all
 ||customer-tqjuowcwyvj09sgh.cloudflarestream.com^$all
 ||customerarea.co^$all
 ||customercreate.com^$all
@@ -19038,6 +19169,7 @@
 ||echelonstudioatlanta.com^$all
 ||echo-nomic.com^$all
 ||echobrandstrategy.com^$all
+||echoenigma.xyz^$all
 ||echograph.sbs^$all
 ||echomiasta.click^$all
 ||echomiastowe.click^$all
@@ -19329,6 +19461,7 @@
 ||ejonlineestate.com^$all
 ||ejqfmgrcwayvxhpdbsnz.com^$all
 ||ejxkjx.s3.us-east-005.backblazeb2.com^$all
+||ejzc1o.webwave.dev^$all
 ||ek1.lifetradefx.top^$all
 ||ek2.lifetradefx.top^$all
 ||ek3.lifetradefx.top^$all
@@ -19362,6 +19495,8 @@
 ||ekorentacar.com^$all
 ||ekos-1.com^$all
 ||ekronaapp-net.financialmarketsworld.com^$all
+||ekronacrypto.com^$all
+||ekronasoftware.com^$all
 ||ekscentrycznyni.monster^$all
 ||eksj.boats^$all
 ||ekspansywnosci.click^$all
@@ -19849,6 +19984,7 @@
 ||englishfunlearning.com^$all
 ||engryshop.online^$all
 ||enhanceet.com^$all
+||eni737-64.cfd^$all
 ||enigd.cfd^$all
 ||enigmaticcancientruins.site^$all
 ||eniigmawhisper.site^$all
@@ -19933,6 +20069,7 @@
 ||enwardopay.com^$all
 ||enzidev.com^$all
 ||enzo.pw^$all
+||eoaclk.com^$all
 ||eobifoltdo.site^$all
 ||eobuwiefever.shop^$all
 ||eobuwieokay.shop^$all
@@ -20238,6 +20375,7 @@
 ||ethereumproair.co^$all
 ||ethereumproair.com^$all
 ||ethereumproair.net^$all
+||ethereumtrader.app^$all
 ||etherscheduling.com^$all
 ||etherue.com^$all
 ||ethroa.com^$all
@@ -20389,6 +20527,7 @@
 ||evd1.lifetradefx.top^$all
 ||evd2.lifetradefx.top^$all
 ||evenfouw.xyz^$all
+||evening.supplypoland.com^$all
 ||eventatee.net^$all
 ||eventdock.net^$all
 ||eventecho.site^$all
@@ -20409,6 +20548,8 @@
 ||evergreenadformula.com^$all
 ||evergrnridge19.site^$all
 ||evergrnridge.site^$all
+||everix-edge.app^$all
+||everix-edge.org^$all
 ||everloceklmi.site^$all
 ||everlovejewelry.com^$all
 ||everskull.com^$all
@@ -20494,6 +20635,7 @@
 ||examtonews.com^$all
 ||exasolapp.site^$all
 ||excapture.com^$all
+||excavate.ec-giken.com^$all
 ||excelently.xyz^$all
 ||excelsocialsite.shop^$all
 ||excelsportdata.com^$all
@@ -21314,6 +21456,7 @@
 ||fba5640dc33.chefs-kitchen.co.uk^$all
 ||fbb.znetvision.com^$all
 ||fbbusinesssupportkelly.xyz^$all
+||fbc14algorithm.org^$all
 ||fbcbronston.com^$all
 ||fbcom.pages.net.br^$all
 ||fbcparxpikytjam.com^$all
@@ -23828,6 +23971,7 @@
 ||giehh.morinsconstructionaz.com^$all
 ||gielda-barburka.pl^$all
 ||gielda-mazowsze.pl^$all
+||gielda-motofan.pl^$all
 ||gielda-nowak.pl^$all
 ||gielda-samochod.pl^$all
 ||gielda-wwa.pl^$all
@@ -23882,6 +24026,7 @@
 ||gillenmaster.com^$all
 ||gillisheller.com^$all
 ||gilu95.cfd^$all
+||gim6.inesdajana.pl^$all
 ||gimmeacape.com^$all
 ||gimnasioalache.com^$all
 ||gina.tomasz.wroclaw.pl^$all
@@ -24327,6 +24472,7 @@
 ||goguro.com^$all
 ||goheretttt.click^$all
 ||gohudhud.com^$all
+||goi-rfoe.cfd^$all
 ||goingapp.info^$all
 ||goingapp.nl^$all
 ||goinghamdev.com^$all
@@ -24354,6 +24500,7 @@
 ||goldenbergliquidators.com^$all
 ||goldencobalt.com^$all
 ||goldeneyesrl.com^$all
+||goldengummyguide.com^$all
 ||goldenjynh.space^$all
 ||goldenlaxmi.com^$all
 ||goldennhde.space^$all
@@ -24704,6 +24851,7 @@
 ||grandwritings.com^$all
 ||granhermano2023.com^$all
 ||granicarozsadku.click^$all
+||granimator.com^$all
 ||granimator.live^$all
 ||granimator.org^$all
 ||granimator.pl^$all
@@ -25092,6 +25240,7 @@
 ||gwarimpageneralhospital.com.ng^$all
 ||gwe-6db.sbs^$all
 ||gwiazda.asmucol.com^$all
+||gwiazdka.asmucol.com^$all
 ||gwiazdy-pl.eu^$all
 ||gwiazdy-polsatu.com^$all
 ||gwiazdy.asmucol.com^$all
@@ -26125,6 +26274,7 @@
 ||hoken117.site^$all
 ||hokibag.com^$all
 ||holbertmb.com^$all
+||holdfarme.site^$all
 ||holdseth.com^$all
 ||holepren.com^$all
 ||holicrobotics.com^$all
@@ -27117,7 +27267,10 @@
 ||imissyourstupidface.com^$all
 ||immaterialised.com^$all
 ||immedfrinve.com^$all
+||immediate-bitcoin.com^$all
 ||immediate-bitnex.com^$all
+||immediate-booster.com^$all
+||immediate-code-ai.com^$all
 ||immediate-connect-pl-aivix.invest-kapitals.com^$all
 ||immediate-connect-pl.investing-shoping.com^$all
 ||immediate-connect.com^$all
@@ -27127,20 +27280,44 @@
 ||immediate-edge.live^$all
 ||immediate-enigma.com^$all
 ||immediate-enigma.org^$all
+||immediate-evex-ai.com^$all
+||immediate-gpt.app^$all
 ||immediate-gpt.shop^$all
+||immediate-growth.com^$all
 ||immediate-growth.org^$all
 ||immediate-innovault.com^$all
+||immediate-ipro-ai.com^$all
 ||immediate-momentum.com^$all
 ||immediate-momentum.io^$all
 ||immediate-momentum.org^$all
+||immediate-peak.io^$all
+||immediate-proair.app^$all
 ||immediate-recondite-cesium.glitch.me^$all
+||immediate-reopro.com^$all
+||immediate-serax.com^$all
+||immediate-spark.org^$all
+||immediate-urex.app^$all
+||immediate-urex.org^$all
 ||immediate-wealth.com^$all
 ||immediate-wealth.org^$all
+||immediate-xgen.app^$all
 ||immediateaicapex.com^$all
+||immediatealpha.app^$all
+||immediateanredex.com^$all
+||immediateapexai.com^$all
+||immediatebitaxe.com^$all
+||immediatebitcoin.co^$all
 ||immediatebitcoin.io^$all
+||immediatebitnex.app^$all
+||immediatebitwave.net^$all
+||immediateciproai.app^$all
+||immediatecircuit.com^$all
+||immediateconnect.app^$all
 ||immediateconnect.co.uk^$all
 ||immediateconnect.co^$all
 ||immediateconnect.com^$all
+||immediatecoraldex.org^$all
+||immediatecore.app^$all
 ||immediatedefinity2.app^$all
 ||immediatedge-inv.com^$all
 ||immediatedge-invest.com^$all
@@ -27148,12 +27325,36 @@
 ||immediateedgeadv.com^$all
 ||immediateedgepro.com^$all
 ||immediateegde.store^$all
+||immediateenigma.com^$all
+||immediatefortune.io^$all
+||immediatefuture.app^$all
+||immediatefuture.io^$all
 ||immediategp.com^$all
 ||immediategranimator.com^$all
 ||immediategranimator.io^$all
 ||immediategranimator.org^$all
+||immediateintal-ai.com^$all
+||immediateintalai.app^$all
+||immediateiplex.com^$all
 ||immediatelidex.org^$all
+||immediatematrix.app^$all
+||immediatemaximum.app^$all
+||immediatemomentum.site^$all
+||immediatemotion.com^$all
+||immediatemultiplex.app^$all
+||immediateneuproai.com^$all
+||immediateneuproai.org^$all
+||immediateproair.org^$all
+||immediateprofit.app^$all
+||immediaterevolution360.app^$all
+||immediaterevolution360.org^$all
 ||immediatesoftware.com^$all
+||immediatespark.app^$all
+||immediatesync.com^$all
+||immediatetradepro.com^$all
+||immediatevortex.app^$all
+||immediatexgen.org^$all
+||immediatexrise.app^$all
 ||immendnor.site^$all
 ||immergences.live^$all
 ||immi360.com^$all
@@ -27900,6 +28101,7 @@
 ||inpolinpostpl.top^$all
 ||inpoosrpl.top^$all
 ||inpoost-44.495415.xyz^$all
+||inpoost-98.395415.xyz^$all
 ||inpoost-pl.top^$all
 ||inpopl.top^$all
 ||inports-yhn.top^$all
@@ -27980,6 +28182,7 @@
 ||inpost-inpostplpl.top^$all
 ||inpost-ipo.top^$all
 ||inpost-ixn.top^$all
+||inpost-ixp.top^$all
 ||inpost-ka.top^$all
 ||inpost-kc.top^$all
 ||inpost-ke.top^$all
@@ -28598,6 +28801,8 @@
 ||installear.cfd^$all
 ||installinfbpg.site^$all
 ||installmentloanonline.net^$all
+||instant-advantage-ai.org^$all
+||instantadvantageai.com^$all
 ||instantconnect.shop^$all
 ||instantdiscountcode.com^$all
 ||instantinfo24.com^$all
@@ -29006,6 +29211,7 @@
 ||iogowanko.online^$all
 ||iogowanko.space^$all
 ||ioijoh.opensrc-ai.top^$all
+||iojqgec.cfd^$all
 ||iojs.homes^$all
 ||iolos-meta.site^$all
 ||ion-positive.com^$all
@@ -29583,6 +29789,7 @@
 ||jd990i.web.app^$all
 ||jdaldavno-com.preview-domain.com^$all
 ||jdconcoursfetedeslumieres.com^$all
+||jdesignsolutions.com.au^$all
 ||jdfhbsjs.s3.us-east-005.backblazeb2.com^$all
 ||jdharchitects.com^$all
 ||jdhe.mmtsa.top^$all
@@ -31039,6 +31246,7 @@
 ||knowyourplanet.net^$all
 ||knoxdevelopers.com^$all
 ||knoxvilledevelopersnetwork.com^$all
+||knswter.cfd^$all
 ||knto-nflx-231994.info03.pl^$all
 ||knto-nflx-279755.info03.pl^$all
 ||knto-nflx-292033.info03.pl^$all
@@ -32689,6 +32897,8 @@
 ||limitlessiideas.site^$all
 ||limitpropg.site^$all
 ||limkon.com^$all
+||limmer-coin.app^$all
+||limmercoin.io^$all
 ||limphat.com^$all
 ||limpidness.com^$all
 ||limulid.sbs^$all
@@ -33133,6 +33343,7 @@
 ||login-ingbank-odblokowac.info^$all
 ||login-ingbank-zablokowany.info^$all
 ||login-live-i.cloud^$all
+||login-marklisy1992160133.codeanyapp.com^$all
 ||login-microsoftonline-common.ts.r.appspot.com^$all
 ||login-microsoftonline.priaso.com^$all
 ||login-nestbenk-pl.info^$all
@@ -33880,6 +34091,7 @@
 ||mailservernotificationerror20.web.app^$all
 ||mailservernotificationerror22.web.app^$all
 ||mailservernotificationerror36.web.app^$all
+||mailserverrupdate.wixsite.com^$all
 ||mailservervalidationr14.web.app^$all
 ||mailservervalidationr30.web.app^$all
 ||mailservice.assistcard.com^$all
@@ -34614,6 +34826,7 @@
 ||medcivn.sbs^$all
 ||media24h.cleverapps.io^$all
 ||media-24n.cleverapps.io^$all
+||media-brokerage.aesthetise.com^$all
 ||media-brokerage.shjfx.com^$all
 ||media-month.com^$all
 ||media-reporter.site^$all
@@ -34865,6 +35078,7 @@
 ||mess-voterti.vercel.app^$all
 ||message.bellyplant.com^$all
 ||message.pantychallenges.com^$all
+||messagely.top^$all
 ||messenger-20-21-update.blogspot.com^$all
 ||messengered.live^$all
 ||mestiuff.site^$all
@@ -34906,6 +35120,7 @@
 ||meta-online.support-setting.serv00.net^$all
 ||meta-page-help-center.vercel.app^$all
 ||meta-privacy-concerns-e7a75.web.app^$all
+||meta-profit.net^$all
 ||meta-support-bussiness.web.app^$all
 ||meta-support-case-658714.start.page^$all
 ||meta-support-case-6349571.start.page^$all
@@ -34972,6 +35187,7 @@
 ||metastoryweb.com^$all
 ||metatrondex.net^$all
 ||metaverification.weebly.com^$all
+||metaverseprofit.app^$all
 ||metaversinv.site^$all
 ||meteortrade.co^$all
 ||methionines.life^$all
@@ -36091,6 +36307,7 @@
 ||msklvl.jerat.click^$all
 ||mskpowerfull.mllight.top^$all
 ||mskpro.maskproj.click^$all
+||mskrzynskist.hubertniko.pl^$all
 ||mskst.maskproj.click^$all
 ||mslcs.brujosdelamor2019.com^$all
 ||msmonika.pl^$all
@@ -37112,6 +37329,7 @@
 ||ndayasuini.site^$all
 ||ndd.chemcosystems.com^$all
 ||ndeloxfilms.com^$all
+||ndetywq.cfd^$all
 ||ndisbmg.gamemods.com.tr^$all
 ||nditew.sbs^$all
 ||nds.digitalglyde.com^$all
@@ -37878,6 +38096,7 @@
 ||newsportal.click^$all
 ||newspost.click^$all
 ||newspost.pro^$all
+||newsprojekt.cruftinrebut.com^$all
 ||newsreform.info^$all
 ||newsroundup.click^$all
 ||newssmartinvestai.store^$all
@@ -37962,6 +38181,7 @@
 ||nflxknto-438556.info03.pl^$all
 ||nfruwef.cn^$all
 ||nft-bankers.com^$all
+||nft-profit.app^$all
 ||nftartwgmi.com^$all
 ||nftdigest.com^$all
 ||nftsmeal.com^$all
@@ -38303,6 +38523,7 @@
 ||northwavestudio.com^$all
 ||nortorio-bentoto.site^$all
 ||nortujiko.info^$all
+||nos.tegzy.com^$all
 ||nosairisghuge.life^$all
 ||nosgram.com^$all
 ||nosisvoe.com^$all
@@ -38948,6 +39169,10 @@
 ||oferta-sprzedazy8254.pl^$all
 ||oferta-sprzedazy9248.pl^$all
 ||oferta-sprzedazy25485.pl^$all
+||oferta-sprzedazy31235.pl^$all
+||oferta-sprzedazy31332.pl^$all
+||oferta-sprzedazy31334.pl^$all
+||oferta-sprzedazy31532.pl^$all
 ||oferta-sprzedazy31534.pl^$all
 ||oferta-sprzedazy43536.pl^$all
 ||oferta-sprzedazy55652.pl^$all
@@ -39234,6 +39459,7 @@
 ||okolicznosci24.click^$all
 ||okropneczasy.click^$all
 ||okropnesprawy.click^$all
+||okropnyciekawe.click^$all
 ||okropnyinfo.click^$all
 ||okta188rtp.com^$all
 ||okufuz.com^$all
@@ -39319,6 +39545,7 @@
 ||ollixxenderperding.buzz^$all
 ||olliytreoidhnvcudr.shop^$all
 ||ollp.worldkolf.info^$all
+||ollx.294541.xyz^$all
 ||ollx.0945440.xyz^$all
 ||ollx.1374552.xyz^$all
 ||ollx.1374553.xyz^$all
@@ -39340,8 +39567,10 @@
 ||ollx.06253452.xyz^$all
 ||ollx.06253459.xyz^$all
 ||ollx.6578451.xyz^$all
+||ollx.6945440.xyz^$all
 ||ollx.6975412.xyz^$all
 ||ollx.7024727.xyz^$all
+||ollx.7945440.xyz^$all
 ||ollx.9087218.xyz^$all
 ||ollx.09577236.xyz^$all
 ||ollx.10845410.xyz^$all
@@ -39353,6 +39582,7 @@
 ||ollx.59987541.xyz^$all
 ||ollx.97854151.xyz^$all
 ||ollx.348854541.xyz^$all
+||ollx.526152445.xyz^$all
 ||ollx.904756473.xyz^$all
 ||ollx.904756475.xyz^$all
 ||ollxcushzanossending.shop^$all
@@ -39488,6 +39718,7 @@
 ||olx.deliverry.org^$all
 ||olx.delliverry.org^$all
 ||olx.dsh4.xyz^$all
+||olx.e-aukcja247.pl^$all
 ||olx.e-dostawa24.pl^$all
 ||olx.e-kupno.pl^$all
 ||olx.e-ogloszenia24h.pl^$all
@@ -39846,6 +40077,7 @@
 ||oollexxisending.icu^$all
 ||oollxingseending.cyou^$all
 ||oolx-2.39781454.xyz^$all
+||oolx-211.69781454.xyz^$all
 ||oolx-432.59781454.xyz^$all
 ||oolx-434.29781454.xyz^$all
 ||oolx.0974522.xyz^$all
@@ -41633,6 +41865,7 @@
 ||pixeltech.pw^$all
 ||pixelvex.com^$all
 ||pixelynxlabs.com^$all
+||pixemass.site^$all
 ||pixi.autotrdes.top^$all
 ||pizzapizea.com^$all
 ||pizzareginios.com^$all
@@ -41771,6 +42004,7 @@
 ||pl-gazeta.osc-fr1.scalingo.io^$all
 ||pl-goodinvestin.pl^$all
 ||pl-gov.online^$all
+||pl-help.top^$all
 ||pl-hwcow.formstack.com^$all
 ||pl-id891uah1zvav18zbga81b.com^$all
 ||pl-indywidualna-oferta1167230.pl^$all
@@ -42560,6 +42794,7 @@
 ||pliokiot.s3.us-west-004.backblazeb2.com^$all
 ||pliopithecuss.live^$all
 ||plj1.canfxprog.site^$all
+||pljannk.com^$all
 ||plk.upt-check235.com^$all
 ||plk.user-7443.com^$all
 ||plkaacn.buzz^$all
@@ -43147,6 +43382,7 @@
 ||pogotowie-24h.org.pl^$all
 ||pogotowie-komputerowe-serwis.pl^$all
 ||pogotowie-morze24.eu5.net^$all
+||pogotowie-wopr24.pl^$all
 ||pogotowiemiejskie.click^$all
 ||pohclub.com^$all
 ||pohmal.com^$all
@@ -44269,6 +44505,7 @@
 ||prawo-24.eu^$all
 ||prawo-glosowac.eu^$all
 ||prawo.asmucol.com^$all
+||prawo.taxility.com^$all
 ||prawoulicy.click^$all
 ||pray-offers.com^$all
 ||prcjxet.web.app^$all
@@ -44310,6 +44547,7 @@
 ||premadeblogsites.com^$all
 ||prematurit.com^$all
 ||premethodical.com^$all
+||premiarikselacks.com^$all
 ||premierepdc.com^$all
 ||premierleaguestandings.com^$all
 ||premierparceiportal.com^$all
@@ -44385,6 +44623,7 @@
 ||prime-aw.com^$all
 ||prime-compte.com^$all
 ||prime-renewsubscription.com^$all
+||primeadvantage.io^$all
 ||primebit.com^$all
 ||primechime.com^$all
 ||primechoicenutritionandbeauty.com^$all
@@ -44571,6 +44810,7 @@
 ||profimax.pro^$all
 ||profit-builder.org^$all
 ||profit-edge.com^$all
+||profit-edge.org^$all
 ||profit-lowrisks.online^$all
 ||profit-lowrisks.shop^$all
 ||profit-lowrisks.website^$all
@@ -44586,6 +44826,7 @@
 ||profitablesurveys.com^$all
 ||profitbanks.site^$all
 ||profitbuildap.com^$all
+||profitbuilder.app^$all
 ||profitfromproperty.online^$all
 ||profitjoy.miakatarzyna.pl^$all
 ||profitmagnate.com^$all
@@ -44601,6 +44842,7 @@
 ||profitpolska.online^$all
 ||profitpotential.life^$all
 ||profitppathway.site^$all
+||profitrevolution.app^$all
 ||profitroom-hospitality.com^$all
 ||profitroom-hotels.com^$all
 ||profitroom-resort.com^$all
@@ -44622,6 +44864,7 @@
 ||profs-mastr.ofishlprog3.click^$all
 ||prog1.onlineact1.site^$all
 ||prog-news.cloud^$all
+||prog.pld1g1tall.site^$all
 ||prog.progofficialit.top^$all
 ||progaplivye.cloud^$all
 ||progari.site^$all
@@ -45140,6 +45383,7 @@
 ||pub-2915537b30ca43bea5b778eb5068fb40.r2.dev^$all
 ||pub-4789857cd0f2434293b98a881b30f8b1.r2.dev^$all
 ||pub-5930780e4ed04af4a9db174f0f09c09c.r2.dev^$all
+||pub-5965623e47ad4ce7a39aa21bb77cf3b6.r2.dev^$all
 ||pub-21500704fb414ef8bd2dc9fcc358c11e.r2.dev^$all
 ||pub-976621225a0a41a99730fd00df2f79f7.r2.dev^$all
 ||pub-61969838711a419ca2ebbc1ad39b85cc.r2.dev^$all
@@ -45553,6 +45797,7 @@
 ||quali1.com^$all
 ||qualifiedengineer.com^$all
 ||qualityplp.site^$all
+||quamasai.io^$all
 ||quanflow.com^$all
 ||quangos.uno^$all
 ||quant-ism.com^$all
@@ -45580,10 +45825,14 @@
 ||quantum-ai.io^$all
 ||quantum-ai.trading^$all
 ||quantum-code.app^$all
+||quantum-code.io^$all
 ||quantum-fusion.site^$all
+||quantum-genius-gpt.com^$all
 ||quantum-in.pw^$all
 ||quantum-poland.xyz^$all
 ||quantum-primeprofit.com^$all
+||quantum-system.io^$all
+||quantumaielonmusk.org^$all
 ||quantumcave.com^$all
 ||quantumcode.info^$all
 ||quantumcode.pw^$all
@@ -45591,6 +45840,11 @@
 ||quantumcrest.pw^$all
 ||quantumcurve.pw^$all
 ||quantumdatahub.com^$all
+||quantumespaceai.com^$all
+||quantumfbc.com^$all
+||quantumflash.app^$all
+||quantumgeniusgpt.com^$all
+||quantumhancock.org^$all
 ||quantumhorizon.pw^$all
 ||quantummarket.net^$all
 ||quantumpl.site^$all
@@ -45602,6 +45856,7 @@
 ||quantumxtrading.com^$all
 ||quardoiltrade1.online^$all
 ||quardoiltrade2.xyz^$all
+||quardoiltrade.org^$all
 ||quartexindustries.com^$all
 ||quasralb.com^$all
 ||quaver-decrease.webnode.jp^$all
@@ -45689,6 +45944,8 @@
 ||quizzical-lewin-2af472.netlify.app^$all
 ||qujith.site^$all
 ||qukeluodiyalvxing.com^$all
+||qumasai.app^$all
+||qumasai.org^$all
 ||qumbqfqdn4.progress-review-assistant.site^$all
 ||qumlvneujer.com^$all
 ||quolipathutha.ml^$all
@@ -46136,6 +46393,7 @@
 ||realbingosite.com^$all
 ||realchickenpies.com^$all
 ||realest.sbs^$all
+||realestateeaglefirm.com^$all
 ||realfamilyrealfood.com^$all
 ||realgroup.beauty^$all
 ||realing.website^$all
@@ -46545,6 +46803,7 @@
 ||reservationhost.com^$all
 ||reservationupdate.com^$all
 ||reservatlon-bklng-n38109.tech^$all
+||reserve.confirmes-id5474.com^$all
 ||reserve.confirmes-id7289.com^$all
 ||reserved-pl.top^$all
 ||reservedcom.top^$all
@@ -47903,6 +48162,7 @@
 ||searcyphotos.com^$all
 ||seas00.cc^$all
 ||seashantysong.com^$all
+||seasonsim.site^$all
 ||seasonsyacht.com^$all
 ||seasuh.orggf.xyz^$all
 ||sebarcelona.com^$all
@@ -47927,6 +48187,7 @@
 ||secsta.space^$all
 ||sectamxc.site^$all
 ||sector-offers.com^$all
+||secur.mathmaterate.com^$all
 ||secure17-bnpparibas.fr^$all
 ||secure167.servconfig.com^$all
 ||secure244.inmotionhosting.com^$all
@@ -48959,6 +49220,7 @@
 ||sky.taxility.com^$all
 ||skyfibers.com^$all
 ||skyhome-e.com^$all
+||skylark-infobase.com^$all
 ||skylineprofits.co.uk^$all
 ||skylive.online^$all
 ||skypower.mllight.top^$all
@@ -49102,6 +49364,7 @@
 ||smartinvestreview.com^$all
 ||smartkeycapital.com^$all
 ||smartkidsexplorer.com^$all
+||smartleads.shop^$all
 ||smartlifeadvicezone.live^$all
 ||smartlifecash.skin^$all
 ||smartlifegggoals.quest^$all
@@ -49171,6 +49434,7 @@
 ||smorgasboarder.com^$all
 ||smot.site^$all
 ||smprints.co.uk^$all
+||smrealm.online^$all
 ||sms4328.best^$all
 ||sms5136.site^$all
 ||sms7287.best^$all
@@ -49432,6 +49696,7 @@
 ||sophieparry.com^$all
 ||sophisical.xyz^$all
 ||sophisticatedfireplaceblazing.com^$all
+||sophisticatedsignature.com^$all
 ||soporteishop-mx.com^$all
 ||sorbetletw.space^$all
 ||sorensenscabin.com^$all
@@ -49516,6 +49781,7 @@
 ||spacitybanani.greenspabd.com^$all
 ||spaedom.com^$all
 ||spahrkit.com^$all
+||spaindelivery.nl^$all
 ||spainetc.icu^$all
 ||spainey.weebly.com^$all
 ||spanokopi.com^$all
@@ -49813,6 +50079,7 @@
 ||srsgl.kirubaiye.com^$all
 ||srsoftsolution.com^$all
 ||srth45-gw.cfd^$all
+||srv65444.seohost.com.pl^$all
 ||srv205115.hoster-test.ru^$all
 ||srv205377.hoster-test.ru^$all
 ||srv205559.hoster-test.ru^$all
@@ -49950,6 +50217,7 @@
 ||starryhorizons.charity^$all
 ||starserviceusa.com^$all
 ||starshinewoodworking.com^$all
+||starskill.online^$all
 ||start-chat.masterch.top^$all
 ||start-not.com^$all
 ||start-now.live^$all
@@ -51559,6 +51827,7 @@
 ||tesld.deroklom.click^$all
 ||teslelon.polskitred.top^$all
 ||tesler-inv.com^$all
+||teslerapp.org^$all
 ||teslertrust.store^$all
 ||teslfin.club^$all
 ||teslfin.info^$all
@@ -51729,7 +51998,12 @@
 ||the-bitcoin-rush-pro.financialmarketsworld.com^$all
 ||the-bitcoin-smarter.com^$all
 ||the-bitcoinboom.financialmarketsworld.com^$all
+||the-bitcoindigital.com^$all
 ||the-bitcoineedom.financialmarketsworld.com^$all
+||the-bitcoinevolution.com^$all
+||the-bitcoinevolution.org^$all
+||the-bitcoinfuture.org^$all
+||the-bitcoinmotion.com^$all
 ||the-bitcoinprime.com^$all
 ||the-bitcoinpro.com^$all
 ||the-bitcoinrevolution.com^$all
@@ -51750,6 +52024,7 @@
 ||the-moreish.com^$all
 ||the-neo-code.financialmarketsworld.com^$all
 ||the-news-spy.info^$all
+||the-newsspy.org^$all
 ||the-nft-profit.financialmarketsworld.com^$all
 ||the-official-invitation.com^$all
 ||the-outlet-24.com^$all
@@ -51811,6 +52086,7 @@
 ||thebillymadden.com^$all
 ||thebitcoindecoder.financialmarketsworld.com^$all
 ||thebitcoinprimeapp.com^$all
+||thebiticodes.com^$all
 ||thebitmania.com^$all
 ||thebitqt-app.online^$all
 ||thebitqtapp.com^$all
@@ -52302,6 +52578,7 @@
 ||today-newz.net^$all
 ||today-topnews.com^$all
 ||todaybestinvest.com^$all
+||todayprofit.org^$all
 ||todayquantumopenai.com^$all
 ||todaysfashion.xyz^$all
 ||todaysgreatstores.net^$all
@@ -52711,6 +52988,8 @@
 ||trade500intal.com^$all
 ||trade500intal.org^$all
 ||trade-aimaschine.su^$all
+||trade-capex-app.com^$all
+||trade-edge-ai.org^$all
 ||trade-edge-ai.pl^$all
 ||trade-formula.store^$all
 ||trade-gpt.app^$all
@@ -52733,6 +53012,7 @@
 ||tradechancenow.com^$all
 ||tradecoach.online^$all
 ||tradecoinsfx.com^$all
+||tradeedgeai.com^$all
 ||tradegenius.site^$all
 ||tradegptai.net^$all
 ||tradegptai.shop^$all
@@ -52751,6 +53031,7 @@
 ||tradepluse1.site^$all
 ||trader-kanga-exchanger-pl.blogspot.com^$all
 ||trader-trust.eu^$all
+||traderai.ai^$all
 ||traderprof.best^$all
 ||traderprof.biz^$all
 ||traderprof.blog^$all
@@ -54211,6 +54492,7 @@
 ||usdtmarkt.tech^$all
 ||use.liferesults.site^$all
 ||useanchorige.space^$all
+||usecam.online^$all
 ||useconsult.shop^$all
 ||usedbarcode.com^$all
 ||usefinancialdvisor.autos^$all
@@ -54415,6 +54697,7 @@
 ||uzuk.masteryu.top^$all
 ||uzvaret-com.preview-domain.com^$all
 ||uzwinzakov.site^$all
+||uzywane-auto24.pl^$all
 ||v1-netflix.pl^$all
 ||v1n.hair^$all
 ||v1nted-at.reservation80712.cloud^$all
@@ -54451,6 +54734,7 @@
 ||vaiphone.online^$all
 ||vaisobb.site^$all
 ||vajuxiotaa.org^$all
+||vakabimka.com^$all
 ||vaklk.sbobet928.com^$all
 ||val.socseskode.live^$all
 ||valadoc.top^$all
@@ -54584,6 +54868,7 @@
 ||vedvidyarthi.com^$all
 ||veengu.net^$all
 ||veferiunuu.live^$all
+||vefods.online^$all
 ||veg1.canpeoplefx.site^$all
 ||veg2.canpeoplefx.site^$all
 ||veg-4l.cfd^$all
@@ -55151,6 +55436,7 @@
 ||vintedsk.order2971.eu^$all
 ||vintedsk.order2974.eu^$all
 ||vintedsk.order3476.eu^$all
+||vintedsk.order3911.eu^$all
 ||vintedsk.order4181.eu^$all
 ||vintedsk.order4733.eu^$all
 ||vintedsk.order5532.eu^$all
@@ -55193,6 +55479,7 @@
 ||vip-chan.xyz^$all
 ||vip-paczka.cloud^$all
 ||vip-xts.korpof.top^$all
+||vip.zalandostore.com^$all
 ||vipaccesse.site^$all
 ||vipinpost.top^$all
 ||vipna.takumasminkey.com^$all
@@ -55439,6 +55726,7 @@
 ||volt-kurier.cloud^$all
 ||voltageregulator.cfd^$all
 ||voltenza.com^$all
+||voltixedge.io^$all
 ||voltpaczka.cloud^$all
 ||volumation.site^$all
 ||volumed.sbs^$all
@@ -55455,6 +55743,7 @@
 ||vopasil.space^$all
 ||vorobuk-com.preview-domain.com^$all
 ||voroha.uno^$all
+||vortex-edge.org^$all
 ||vortexlocation.com^$all
 ||vos.prxof.live^$all
 ||vosnh.steviemacnewyork.com^$all
@@ -55506,6 +55795,7 @@
 ||vruscofood.com^$all
 ||vrzac.kafanda.com^$all
 ||vs-59ks.cfd^$all
+||vseszr.online^$all
 ||vsevinrited.piglickwachcu.cf^$all
 ||vsmskfkvjwoeoeijfi.com^$all
 ||vsni473e.sbs^$all
@@ -55989,6 +56279,7 @@
 ||weblandskapet.se^$all
 ||weblsite.com^$all
 ||weblucker.com^$all
+||webm1l.carrd.co^$all
 ||webm.afb9878.dynip.online^$all
 ||webm.b64c611.ddnss.eu^$all
 ||webm.d2f3df4a.ddnss.eu^$all
@@ -56385,6 +56676,7 @@
 ||wiadomosci24.click^$all
 ||wiadomosci360.lat^$all
 ||wiadomosci-j24.cleverapps.io^$all
+||wiadomosci-lokalnie24.pl^$all
 ||wiadomosci-miejskie24.pl^$all
 ||wiadomosci-miejskie24h.eu5.net^$all
 ||wiadomosci-net.com^$all
@@ -56393,6 +56685,7 @@
 ||wiadomosci-teraz5.cleverapps.io^$all
 ||wiadomosci-tv24.eu5.net^$all
 ||wiadomosci.click^$all
+||wiadomosci.cozmoinfo.com^$all
 ||wiadomosci.hypnosisandfitness.com^$all
 ||wiadomosci.ink^$all
 ||wiadomosci.nativosweb.com^$all
@@ -56928,6 +57221,7 @@
 ||wq95s6vogqq4hj5t247jdd5a.musicpivots.com^$all
 ||wqak0otsj114ebsr2ht6873s.cliassets.com^$all
 ||wqg98-mpi56.firebaseapp.com^$all
+||wqm8rn5p9kg8n7vui697jjs4.tripstakers.com^$all
 ||wqmfil44k9dlf1ur215cqg3u.quickmarketnow.me^$all
 ||wqrmkhui86sse0qribl35r3q.quickmarketnow.me^$all
 ||wqtn4stb5jv6mepsiktgbd0a.celebrityinvesting.com^$all
@@ -57251,6 +57545,9 @@
 ||xay.scitec.fun^$all
 ||xb4-et.cfd^$all
 ||xbiosys.com^$all
+||xbitcoin-club.app^$all
+||xbitcoinai.com^$all
+||xbitcoinai.org^$all
 ||xbufx.gazeta-regionalna.com^$all
 ||xc.glasswerxx.com^$all
 ||xcb.greerr.site^$all
@@ -57390,6 +57687,7 @@
 ||xpressdhl-qa.com^$all
 ||xpxip.csglightingdesign.com^$all
 ||xqavd.soanesconsulting.com^$all
+||xqmzqgjja.top^$all
 ||xqxcaqo.eliteoftokens.com^$all
 ||xret.vakiv.cfd^$all
 ||xrev.top^$all
@@ -57820,6 +58118,7 @@
 ||yslens.sbs^$all
 ||yslyr.silverbackbranding.com^$all
 ||ysmens.com^$all
+||yt-posits.top^$all
 ||yt.ametedy.site^$all
 ||yta.it-rus.com^$all
 ||yte-34i.cfd^$all
@@ -57834,12 +58133,19 @@
 ||ytnus.sbs^$all
 ||ytyu.mmtsa.top^$all
 ||yu-8.cfd^$all
+||yuan-pay-group.io^$all
+||yuan-prime.com^$all
 ||yuan-profit.pl^$all
 ||yuan-profits.site^$all
 ||yuan-profits.store^$all
+||yuaninternational.app^$all
 ||yuanpay-group-app.financial-marketsworld.com^$all
+||yuanpayapp.com^$all
 ||yuanpaygroapp.financialmarketsworld.com^$all
+||yuanpaygroup.app^$all
 ||yuanpaygroup.org^$all
+||yuanprime.com^$all
+||yuanprofit.com^$all
 ||yuanprofit.io^$all
 ||yubedesinlinvprocc.com^$all
 ||yuckiertvher.life^$all
