@@ -7,6 +7,10 @@ ____________________________________
 ## Checking For Existing Mirror File
 ## Checking For Github Mirror File
 ## Checking For Existing Parsed File
-### Reverse Searching For Invalid Top Level Domains
 ## Checking If Multiple Sources
-0 Lines After Reverse Searching For Invalid Top Level Domains
+## The Source In The File To Download Is
+## Checking For HTTPS
+## Pinging Source To Check Host Availability
+## Checking File Header
+## Determining Host Availability
+## Checking If List Updated Online

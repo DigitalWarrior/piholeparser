@@ -4,7 +4,11 @@
 ____________________________________
 # Spam-Assassin-Bill-Stearns
 ## Setting Temporary Parsing Variables
+### Punycode Translate
+ Lines After Punycode Translate
+### Removing Duplicate Lines
 ## Checking For Existing Mirror File
+ Lines After Removing Duplicate Lines
 ## Checking For Github Mirror File
 ## Checking For Existing Parsed File
 ## Checking If Multiple Sources

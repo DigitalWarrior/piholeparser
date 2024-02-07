@@ -12,5 +12,11 @@ ____________________________________
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
 ## Checking File Header
+## Checking File Header
+## Checking File Header
+## Determining Host Availability
+* Tofu-Filter List Marked As Dead. Wed Feb  7 00:33:11 MST 2024
+## Determining Host Availability
+## Checking If List Updated Online
 ## Determining Host Availability
 ## Checking If List Updated Online

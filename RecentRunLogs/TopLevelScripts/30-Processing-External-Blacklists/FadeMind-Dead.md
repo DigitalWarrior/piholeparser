@@ -12,14 +12,6 @@ ____________________________________
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
 ## Checking File Header
+* FadeMind-Dead List Was An Empty File After Download. Wed Feb  7 00:26:38 MST 2024
 ## Determining Host Availability
 ## Checking If List Updated Online
-## Determining Download Attempt
-## Attempting To Download List
-## Checking File Size
-## Attempting Creation Of Mirror File
-## Parsing List
-## Checking Parsed File Size
-## Attempting Creation Of Parsed List
-## Calculating Parse Time
-## Clearing Temp Vars

@@ -164,7 +164,6 @@ a.weareknitters.de
 a.weareknitters.dk
 a.weareknitters.fr
 a0ib.ebs-geneve.com
-a1.api.bbc.co.uk
 a10053.actonservice.com
 a10053.actonsoftware.com
 a10222.actonsoftware.com
@@ -384,7 +383,6 @@ adac02.webtrekk.net
 adaied.vegas.com
 adamhall01.webtrekk.net
 adb-secured.kijk.nl
-adc.emp.co.uk
 adc.emp.de
 adc.xxxlshop.de
 adclear.baur.de
@@ -426,7 +424,6 @@ advantic01.webtrekk.net
 advertiser.wbtrk.net
 advertisingbait.postaffiliatepro.com
 adviser.legalandgeneral.com
-advisers.kingstonsmith.co.uk
 adviso-ca.eulerian.net
 advisor.pearlmeyer.com
 advocacy.ahip.org
@@ -534,7 +531,6 @@ analytics.nordea.fi
 analytics.nordea.no
 analytics.nordea.se
 analytics.pnc.com
-analytics.simplyhealth.co.uk
 analytics.sprint.com
 analytics.surfline.com
 analytics.tbs.com
@@ -545,12 +541,10 @@ analytics.underarmour.com
 analytics.verizon.com
 analytics.webtrekk.com
 analyticsssl.forcepoint.com
-andoveradvertiser-gb.andoveradvertiser.co.uk
 anglo.email
 annwwu.guitarcenter.com
 ans.milb.com
 ans.mlb.com
-ans.sny.tv
 answers.incrowdnow.com
 anz7.allianz-voyage.fr
 ao-mail1.logility.com
@@ -566,10 +560,8 @@ ap1-esp.wacom.com
 api-analytics.4patientcare.com
 api-analytics.missguided.com
 api-analytics.pelikan.sk
-api-analytics.rozetka.com.ua
 api-analytics.sazka.cz
 api-analytics.t-mobile.cz
-api-exp.dfs.uk
 api-exponea.o2.sk
 api.actonservice.com
 api.actonsoftware.com
@@ -580,7 +572,6 @@ api.ea.eulerian.com
 api.ea.eulerian.eu
 api.ea.eulerian.fr
 api.ea.eulerian.net
-api.exp.sofology.co.uk
 api.par.vip.prod.criteo.com
 api.relevantonline.eu
 api.weltevree.eu
@@ -654,7 +645,6 @@ astroway.eulerian.net
 at.alltricks.de
 at.alltricks.it
 atconnect.npo.nl
-ati-a1.946d001b783803c1.xhst.bbci.co.uk
 atlas.r.akipam.com
 ato.eulerian.com
 ato.eulerian.fr
@@ -690,7 +680,6 @@ avo01.eulerian.net
 avo02.eulerian.net
 avo03.eulerian.net
 awuapj.landwatch.com
-ax-mms.autoexpress.co.uk
 axalta.wt-eu02.net
 axonstechnology.actonservice.com
 aydtkb.pikabu.ru
@@ -737,7 +726,6 @@ baptist-health.hrm.healthgrades.com
 baptisthealth.hrm.healthgrades.com
 barp3.bordeaux.aeroport.fr
 barrbennett-cbd.lee-associates.com
-basingstokegazette-gb.basingstokegazette.co.uk
 batoncorp.com
 baunetz01.webtrekk.net
 baunetzprod01.wt-eu02.net
@@ -746,7 +734,6 @@ bb.blackberry.com
 bc.law.com
 bc.trucks.nl
 bc.trucksnl.com
-bcd.esprit.co.uk
 bcd.esprit.de
 bcd.esprit.nl
 bch8.destinia.co
@@ -835,7 +822,6 @@ borsaitalia01.wt-eu02.net
 boss01.wt-eu02.net
 boucou.fr
 bounce.mail.lifemiles.com
-bournemouthecho-gb.bournemouthecho.co.uk
 box.bossdata.be
 boydgaming.com.102.112.2o7.net
 bpe.mlb.com
@@ -848,7 +834,6 @@ brainsell.actonservice.com
 branch.chelseafc.com
 branchlink.adobespark.com
 branchtrk.lendingtree.com
-brands.coxauto.co.uk
 brasil2.studentsforliberty.org
 brax01.webtrekk.net
 brc.emails.rakuten.com
@@ -876,7 +861,6 @@ btmp.tcheen.com
 buchch02.webtrekk.net
 buchde01.webtrekk.net
 buchde02.webtrekk.net
-bucksfreepress-gb.bucksfreepress.co.uk
 budibu.saksfifthavenue.com
 buf.lemonde.fr
 build.level5.com
@@ -885,13 +869,11 @@ buildwith.guildquality.com
 bulkbookstore.actonservice.com
 bulkmail.acadian-asset.com
 bum7.bymycar.fr
-burytimes-gb.burytimes.co.uk
 business.guinnessworldrecords.com
 business.samsungusa.com
 businessengage.comcast.com
 businessmaking.progress.com
 bvubje.leboncoin.fr
-bvz5.destinia.com.tr
 bymycar-fr.eulerian.net
 byubroadcasting.hb.omtrdc.net
 c.snow.com
@@ -993,20 +975,12 @@ cdn.cbtrk.net
 cdn.mateti.net
 cdn.missguided.com
 cdn.net.elogia.net
-cdn.rozetka.com.ua
 cdn.tt.omtrdc.net
 cdn.wbtrk.net
 cdn4.crindel.nl
 cdn7.baunetz.de
 cds.nationaldecisionsupport.com
-cem.bankofscotland.co.uk
-cem.halifax-online.co.uk
-cem.halifax.co.uk
-cem.lloydsbank.co.uk
 cem.lloydsbank.com
-cem.mbna.co.uk
-cembusiness.bankofscotland.co.uk
-cembusiness.lloydsbank.co.uk
 cengagebrain.com.102.112.2o7.net
 census.misterspex.de
 census.misterspex.se
@@ -1163,7 +1137,6 @@ click.outreach.io
 click.redditmail.com
 click.surfrider.org
 click.web.thornburg.com
-click.zoom.us
 click1.e.radio.com
 click1.e.thechive.com
 click1.email.audacy.com
@@ -1181,20 +1154,16 @@ cls7.theushuaiaexperience.com
 cls9.mimale.com
 clwebinars.actonsoftware.com
 cmp.arnnet.com.au
-cmp.autotrader.co.uk
 cmp.cio.co.nz
 cmp.cio.com
 cmp.computerwoche.de
 cmp.computerworld.com
 cmp.computerworld.com.au
 cmp.csoonline.com
-cmp.digitalartsonline.co.uk
-cmp.inews.co.uk
 cmp.infoworld.com
 cmp.itworld.com
 cmp.javaworld.com
 cmp.macwelt.de
-cmp.macworld.co.uk
 cmp.macworld.com
 cmp.networkworld.com
 cmp.pcwelt.de
@@ -1209,7 +1178,6 @@ cmp.zeit.de
 cn.cyclingnews.com
 cn1.stadiumgoods.com
 cn2.stadiumgoods.com
-cnlbxi.zoopla.co.uk
 cnmq.sens-original.com
 cnpxwl.cheapcaribbean.com
 cnsynt.thirdlove.com
@@ -1228,7 +1196,6 @@ comcastentertainmentgroup.hb.omtrdc.net
 comm.revspringinc.com
 comm2.jeld-wen.com
 commercial.davey.com
-commercialprop.oneadv.co.uk
 commerzreal01.wt-eu02.net
 commondreams.actonservice.com
 comms.cision.com
@@ -1247,7 +1214,6 @@ communication.jkseva.com
 communications.adpinfo.com
 communications.agi.com
 communications.cmdagency.com
-communications.excitech.co.uk
 communications.lapiana.org
 communications.law360.com
 communications.manatt.com
@@ -1301,26 +1267,15 @@ consent.berliner-kurier.de
 consent.berliner-zeitung.de
 consent.computerweekly.com
 consent.dumont.de
-consent.eadt.co.uk
-consent.edp24.co.uk
-consent.eveningnews24.co.uk
 consent.express.de
-consent.hamhigh.co.uk
-consent.hertsad.co.uk
-consent.ipswichstar.co.uk
-consent.islingtongazette.co.uk
 consent.ksta.de
 consent.mopo.de
 consent.mz-web.de
-consent.newhamrecorder.co.uk
 consent.notebookreview.com
 consent.pinkun.com
-consent.romfordrecorder.co.uk
 consent.techtarget.com
 consent.thecomet.net
-consent.theresident.co.uk
 consent.theserverside.com
-consent.whtimes.co.uk
 consign.therealreal.com
 consobaby-com.eulerian.net
 consobaby-de.eulerian.net
@@ -1334,7 +1289,6 @@ contact.riseinteractive.com
 contact.samsungsds.com
 contact.tphco.com
 content-strl.courses-en-ligne.carrefour.fr
-content.360resourcing.co.uk
 content.aerohive.com
 content.barracuda.com
 content.bondbrothers.com
@@ -1378,7 +1332,6 @@ cosmos01.webtrekk.net
 cosmos01ssl.webtrekk.net
 cotemaison.np6.com
 count.ing-diba.at
-countypress-gb.countypress.co.uk
 covusde01.wt-eu02.net
 coxnet.hb.omtrdc.net
 cp.eulerian.com
@@ -1417,7 +1370,6 @@ cpgo.avatacar.com
 cpk.princessetamtam.com
 cpr.comptoirdescotonniers.com
 cqishr.mobile.de
-cqubdd.metro.co.uk
 cr.jpmchase.com
 cr1.nbg.webtrekk.com
 cr2.nbg.webtrekk.com
@@ -1478,7 +1430,6 @@ da.hornbach.de
 da.hornbach.nl
 dafitibr.widget.criteo.com
 daifez.thebay.com
-dailyecho-gb.dailyecho.co.uk
 darty-com.eulerian.net
 data-inbank01.wt-eu02.net
 data-leipzig.wt-eu02.net
@@ -1623,7 +1574,6 @@ digital1.kornit.com
 digitalmarketing.nglantz.com
 digitre.eulerian.net
 dignityhealth.hrm.healthgrades.com
-dii2.zooplus.co.uk
 dii2.zooplus.de
 dii2.zooplus.nl
 dikhsb.vividseats.com
@@ -1680,7 +1630,6 @@ doctipharma-fr.eulerian.net
 dolcitalia01.wt-eu02.net
 donate.cfbnj.org
 doodle-com.doodle.com
-dorsetecho-gb.dorsetecho.co.uk
 dosfarma-data.wt-eu02.net
 dot.discovery.org
 douglas01.webtrekk.net
@@ -1733,10 +1682,8 @@ e.grci.group
 e.hanleywood.com
 e.hellermann.tyton.com
 e.hertzusa.brierleycrm.com
-e.itgovernance.co.uk
 e.mail-pg.hu
 e.mail.amtrak.com
-e.marketing.dpd.co.uk
 e.mer.org
 e.preipobuzz.com
 e.prospertrading.com
@@ -1780,7 +1727,6 @@ ea.entradas.com
 ea.etam.de
 ea.fleurancenature.com
 ea.fleurancenature.fr
-ea.greenweez.co.uk
 ea.greenweez.com
 ea.habitat.de
 ea.habitat.fr
@@ -1880,7 +1826,6 @@ ecdn29.eulerian.net
 ecdn30.eulerian.net
 ecdn31.eulerian.net
 ecdn32.eulerian.net
-echo-news-gb.echo-news.co.uk
 ecm.email.descubrapg.com.br
 ecm.email.marylandlivecasino.com
 ecm.loyalty.qantas.com
@@ -1972,7 +1917,6 @@ email.descubrapg.com.br
 email.devchat.ru
 email.emarketing.mutualofamerica.com
 email.evan-moor.com
-email.everydayme.com.tr
 email.everydayme.hu
 email.everydayme.pl
 email.everydayme.ru
@@ -1993,7 +1937,6 @@ email.marylandlivecasino.com
 email.member.theknot.com
 email.napster.com
 email.nl.pampers.com
-email.olay.co.uk
 email.olaz.de
 email.oralb.com
 email.oralb.de
@@ -2001,13 +1944,11 @@ email.pac-12.com
 email.pampers-club.ru
 email.pampers-egypt.com
 email.pampers-la.com
-email.pampers.co.za
 email.pampers.com.hr
 email.pampers.cz
 email.pampers.hu
 email.pampers.ph
 email.pampers.pl
-email.pampers.ua
 email.pampersarabia.com
 email.pamperskz.com
 email.pamperspakistan.com
@@ -2029,7 +1970,6 @@ email.takemefishing.org
 email.thislife.com
 email.ua.pampers.com
 email.uk.pampers.com
-email.victoria.co.uk
 email.victoria50.de
 email.victoria50.fr
 email.victoria50.ie
@@ -2058,7 +1998,6 @@ emails.clarityconsultants.com
 emails.docutrend.com
 emails.hisco.com
 emails.jwpepper.com
-emails.labc.co.uk
 emails.lernerbooks.com
 emails.luxurylink.com
 emails.netatwork.com
@@ -2143,10 +2082,10 @@ er22.eulerian.net
 erb.tremblant.ca
 ereflect.postaffiliatepro.com
 erepublic.actonservice.com
+erian.eu
 eroski01.wt-eu02.net
 erp.qwic.nl
 erstegroup01.webtrekk.net
-ert5.rmcsport.tv
 erutinmos.snagajob.com
 ery6.anaca3.com
 es.adpinfo.com
@@ -2326,7 +2265,6 @@ eulerian.structube.com
 eulerian.tgv-europe.com
 eulerian.tgv-europe.nl
 eulerian.thalasseo.com
-eulerian.wiki
 euleriancdn.net
 eultech.fnac.com
 eurex01.webtrekk.net
@@ -2339,11 +2277,9 @@ evb.eulerian.net
 evb01.eulerian.net
 evb02.eulerian.net
 evb03.eulerian.net
-eveningtimes-gb.eveningtimes.co.uk
 event.global-cosmetics.com
 event.imagicle.com
 event.motivrunning.com
-events.camm-hooper.co.uk
 events.constellation.com
 events.omrf.org
 events.splunk.com
@@ -2361,7 +2297,6 @@ exd4.destinia.com.au
 execreps.actonsoftware.com
 execution-360-cicolusp.cxtrvl.com
 exhibit.emeraldexpo.com
-exp.sofology.co.uk
 experience.erblearn.org
 experience.goudengids.be
 experience.rrd.com
@@ -2388,7 +2323,6 @@ f1.mailperf.com
 f1.mailperformance.com
 f7ds.liberation.fr
 fabfurnish01.webtrekk.net
-fahmta.metoffice.gov.uk
 fahmta.pocket-lint.com
 fahmta.theaa.com
 fandango.hb.omtrdc.net
@@ -2482,7 +2416,6 @@ foodspring01.wt-eu02.net
 footway.postaffiliatepro.com
 forbesinfo.forbes.com
 forbesmags.forbes.com
-forbusiness.benenden.co.uk
 fordci1.ez-touch.net
 fordci2.ez-touch.net
 fordci3.ez-touch.net
@@ -2503,7 +2436,6 @@ forms.elkayplastics.com
 forms.juniper.net
 forms.lkpkg.com
 forms.progress.com
-forms.share.works
 forms.web.roberthalf.com
 forpci1.actonsoftware.com
 forpci11.actonsoftware.com
@@ -2696,7 +2628,6 @@ fzp1.pretapousser.de
 g1be.swisslife-direct.fr
 galerieslafayette.eulerian.net
 gannett.hb.omtrdc.net
-gazette-news-gb.gazette-news.co.uk
 gbc.criteo.com
 gbc.fr3.vip.prod.criteo.com
 gbc.nl3.vip.prod.criteo.com
@@ -2777,7 +2708,6 @@ gbr.pg.com
 gbs1.supdecreation.com
 gbs8.evelop.com
 gcacs.lg.com
-gcowhi.thesalarycalculator.co.uk
 gcxiyx.inspireuplift.com
 gcy3.czescwyspykanaryjskie.com
 gdm1.toner.fr
@@ -2794,7 +2724,6 @@ genius01.webtrekk.net
 gentside-br.gentside.com.br
 gentside-de.gentside.de
 gentside-fr.gentside.com
-gentside-uk.gentside.co.uk
 gerryweb02.webtrekk.net
 get.anthem.com
 get.diamanti.com
@@ -2809,7 +2738,6 @@ get.siriuscom.com
 get.stratifyd.io
 getstarted.championteamwear.com
 gfn1.ugap.fr
-gfv4.destinia.co.za
 gi7a.structube.com
 gif.eulerian.com
 gif.eulerian.eu
@@ -2821,7 +2749,6 @@ gif03.eulerian.net
 gif04.eulerian.net
 gizsyj.thegrommet.com
 gjr5.yoigo.com
-gkfdkf.jdsports.co.uk
 gksqdt.reitmans.com
 gkz4.pepephone.com
 gl.eulerian.com
@@ -2944,6 +2871,7 @@ go.avvo.com
 go.awcwire.com
 go.awspartner.com
 go.axon.com
+go.axon.coonnect.oculusit.com
 go.axsiumgroup.com
 go.azalead.com
 go.azcommerce.com
@@ -3046,7 +2974,6 @@ go.chrobinson.com
 go.ciab.com
 go.cibse.org
 go.cingroup.com
-go.citysprint.co.uk
 go.cj.com
 go.clarifyhealth.com
 go.classlink.com
@@ -3123,7 +3050,6 @@ go.econsultancy.com
 go.edcast.com
 go.edology.com
 go.edreports.org
-go.eduspot.co.uk
 go.efaxcorporate.com
 go.eidebailly.com
 go.eiffeltrading.com
@@ -3197,8 +3123,6 @@ go.frazierdeeter.com
 go.freedomhouse.org
 go.frontstream.com
 go.fundera.com
-go.funeralguide.co.uk
-go.funeralzone.co.uk
 go.g100.com
 go.gapnsw.com.au
 go.garda.com
@@ -3334,7 +3258,6 @@ go.isometrix.com
 go.issuerdirect.com
 go.isystemsweb.com
 go.itmedia.co.jp
-go.itpro.tv
 go.jaarbeurs.nl
 go.jabil.com
 go.jabmo.com
@@ -3360,9 +3283,7 @@ go.kepplerspeakers.com
 go.kevinbarryfineart.com
 go.kgi.edu
 go.kidsoutandabout.com
-go.kingsbridge.co.uk
 go.kisacoresearch.com
-go.kma625.work
 go.knowledgematters.com
 go.kognity.com
 go.komen.org
@@ -3384,7 +3305,6 @@ go.leadspace.com
 go.learningsciences.com
 go.learnplatform.com
 go.legacybuildingsolutions.com
-go.legrand.us
 go.lennox.com
 go.leoforce.com
 go.levvel.io
@@ -3486,7 +3406,6 @@ go.netcraftsmen.com
 go.netgaincloud.com
 go.networkmediapartners.com
 go.neverware.com
-go.newable.co.uk
 go.newbaymedia.com
 go.nexcelom.com
 go.nextep.com
@@ -3504,7 +3423,6 @@ go.northsideentertainmentholdings.com
 go.nrchealth.com
 go.nttcomsecurity.com
 go.nttsecurity.com
-go.nufarm.us
 go.nzb.co.nz
 go.oaktreecapital.com
 go.ocoeebikes.com
@@ -3555,7 +3473,6 @@ go.pericom.com
 go.petroskills.com
 go.philau.edu
 go.phly.com
-go.phs.co.uk
 go.picturemarketing.com
 go.pierhor-gasser.ch
 go.plansource.com
@@ -3745,7 +3662,6 @@ go.thayerleaderdevelopment.com
 go.theadvisorinsider.com
 go.theagencyre.com
 go.theblueground.com
-go.thecarcreditcentre.co.uk
 go.theexpogroup.com
 go.thefork.com
 go.thehortongroup.com
@@ -3829,7 +3745,6 @@ go.vitalyst.com
 go.vivaldifunds.com
 go.vlocity.com
 go.voyagersopris.com
-go.vtecsolutions.co.uk
 go.wabco-auto.com
 go.walsworth.com
 go.washingtongas.com
@@ -3844,7 +3759,6 @@ go.whatfix.com
 go.wheaton.com
 go.whip-around.com
 go.whiparound.com
-go.wibu.us
 go.wildlandtrekking.com
 go.wilshirefp.com
 go.wiremasters.net
@@ -3857,7 +3771,6 @@ go.workforcelogiq.com
 go.worldbook.com
 go.worldwideerc.org
 go.wrmeadows.com
-go.xello.world
 go.xentegra.com
 go.yamada-cg.co.jp
 go.yretirement.org
@@ -3865,7 +3778,6 @@ go.zacksadvantage.com
 go.zackspro.com
 go.zaner-bloser.com
 go.zayo.com
-go.zen.co.uk
 go.zendesk.com
 go.zerocater.com
 go.zeromotorcycles.com
@@ -3886,7 +3798,6 @@ go2.extensisgroup.com
 go2.hexarmor.com
 go2.invmetrics.com
 go2.manta.com
-go2.martech.training
 go2.nipgroup.com
 go2.spectrumreach.com
 go2.store.car.org
@@ -3928,7 +3839,6 @@ grade-a-253.wt-eu02.net
 grade-a-254.wt-eu02.net
 greatrentals.com.102.122.2o7.net
 greencharge.actonservice.com
-greenocktelegraph-gb.greenocktelegraph.co.uk
 greenpeace01.webtrekk.net
 greenweez-uk.eulerian.net
 greenweez.eulerian.net
@@ -3952,7 +3862,6 @@ gti3.culture.leclerc
 gti3.hightech.leclerc
 gti3.sport.leclerc
 gtwxpq.restaurant.com
-guardian-series-gb.guardian-series.co.uk
 guillaumeplayground.net
 guitartricks.postaffiliatepro.com
 gum.am5.vip.prod.criteo.com
@@ -4053,7 +3962,6 @@ hrm.healthgrades.com
 hrmann01.webtrekk.net
 hrz8.muchoviaje.com
 hs.healthstream.com
-hte5.pretapousser.co.uk
 hub.firestonecompleteautocare.com
 hubmetrics.samsclub.com
 hugoboss01.webtrekk.net
@@ -4079,21 +3987,17 @@ iluz.keepcool.fr
 im.etr.im
 im.eulerian.biz
 im.eulerian.ca
-im.eulerian.co.uk
 im.eulerian.com
 im.eulerian.eu
 im.eulerian.fr
 im.eulerian.net
-im.eulerian.uk
 im.eurelian.com
 im2.etr.im
 im2.eulerian.biz
-im2.eulerian.co.uk
 im2.eulerian.com
 im2.eulerian.eu
 im2.eulerian.fr
 im2.eulerian.net
-im2.eulerian.uk
 im2.eurelian.com
 imap.a.shortest-route.com
 imap.c.shortest-route.com
@@ -4205,7 +4109,6 @@ iptrack29.webtrekk-system.com
 iptrack30.webtrekk-system.com
 iptrack31.webtrekk-system.com
 iqrt.searchadvertising.it
-ireland.travel
 ireport.com.102.122.2o7.net
 iso.smartdealsemail.com
 isreportde01.webtrekk.net
@@ -4217,12 +4120,10 @@ iyd5.wecanimal.it
 jabber.etr.im
 jabber.eulerian.biz
 jabber.eulerian.ca
-jabber.eulerian.co.uk
 jabber.eulerian.com
 jabber.eulerian.eu
 jabber.eulerian.fr
 jabber.eulerian.net
-jabber.eulerian.uk
 jabber.eurelian.com
 jade01.webtrekk.net
 jamie.m.shortest-route.com
@@ -4326,6 +4227,7 @@ lrd09.eulerian.net
 lrd10.eulerian.net
 lrd11.eulerian.net
 ltm6.destinia.se
+luehornet.com
 lufthansa01.webtrekk.net
 luxotticaitalia01.wt-eu02.net
 lwverlag01.webtrekk.net
@@ -4370,7 +4272,6 @@ mail.bravardag.se
 mail.bridgetowermedia.info
 mail.bridgetowermedia.press
 mail.bswiftmail.com
-mail.cafonline.org.uk
 mail.calnexinfo.com
 mail.cobweb.com
 mail.contactithaka.org
@@ -4426,7 +4327,6 @@ mail.neogensend.com
 mail.officeworksoftwaremail.com
 mail.olay.es
 mail.olaz.de
-mail.oralb.co.uk
 mail.oralb.com
 mail.oralb.de
 mail.oralb.es
@@ -4442,13 +4342,11 @@ mail.pantene.de
 mail.pg.com
 mail.pgeveryday.ca
 mail.pgeveryday.com
-mail.prima.com.tr
 mail.procterandgamble.com
 mail.procterandgamble.ru
 mail.prospectemailsystem.com
 mail.proximaati.com
 mail.rallypoint.com
-mail.realization.us
 mail.realstorygroupemail.com
 mail.roxio.com
 mail.rrm-mail.com
@@ -4473,7 +4371,6 @@ mail.webtrekk-tech.de
 mail.webtrekk.com
 mail.wt-eu02.net
 mail.yeslifecyclemarketing-email.com
-mail.zaplo.us
 mail1.aabacosmallbusiness.com
 mail1.actsys-mail.com
 mail1.amexopen.americanexpress.com
@@ -5282,7 +5179,6 @@ marketing.pwcfo.com
 marketing.roundtablelearning.com
 marketing.schock-na.com
 marketing.theppigroup.com
-marketing.unistrut.us
 marketing.vokuz.com
 marketing2.nagaworld.biz
 marketingemails.marsh.com
@@ -7678,7 +7574,6 @@ ns8.criteo.com
 ntc3.nutriandco.com
 nuernberger02.webtrekk.net
 nwbmvq.jockey.com
-oal2.destinia.co.uk
 ob0.aoscufe.com
 ob1.aoscufe.com
 ob10.aoscufe.com
@@ -10582,7 +10477,6 @@ pb.eulerian.com
 pb.eulerian.eu
 pb.eulerian.fr
 pb.eulerian.net
-pb.petit-bateau.co.uk
 pb.petit-bateau.de
 pb01.eulerian.net
 pb02.eulerian.net
@@ -10595,7 +10489,6 @@ pbox.photobox.at
 pbox.photobox.be
 pbox.photobox.ch
 pbox.photobox.co.nz
-pbox.photobox.co.uk
 pbox.photobox.com.au
 pbox.photobox.de
 pbox.photobox.dk
@@ -10629,7 +10522,6 @@ pg.ch.pampers.com
 pg.de.pampers.com
 pg.dentalcare-de.de
 pg.dentalcare.ca
-pg.dentalcare.co.uk
 pg.dentalcare.com
 pg.dentalcare.com.br
 pg.dentalcare.com.mx
@@ -10650,7 +10542,6 @@ pg.everydayme.pl
 pg.fi.pampers.com
 pg.for-me-online.de
 pg.fr.pampers.com
-pg.gillette.com.tr
 pg.gillette.de
 pg.gr.pampers.com
 pg.ie.pampers.com
@@ -10674,8 +10565,6 @@ pg.pampers.com
 pg.pampers.com.hk
 pg.pampers.com.hr
 pg.pampers.com.ng
-pg.pampers.com.tw
-pg.pampers.com.vn
 pg.pampers.cz
 pg.pampers.fi
 pg.pampers.gr
@@ -10685,19 +10574,15 @@ pg.pampers.no
 pg.pampers.pl
 pg.pampers.ro
 pg.pampers.se
-pg.pampers.ua
 pg.pampersarabia.com
 pg.pamperskz.com
 pg.pamperspakistan.com
 pg.paramim.com.pt
-pg.prima.com.tr
 pg.proximaati.com
 pg.se.pampers.com
-pg.supersavvyme.co.uk
 pg.uk.pampers.com
 pg.us.braun.com
 pg.us.pampers.com
-pg.victoria.co.uk
 pg.victoria50.fr
 pg.victoria50.ie
 pg.victoria50.it
@@ -10781,7 +10666,6 @@ primagas01.webtrekk.net
 printvenue01.wt-eu02.net
 privacy.am5.vip.prod.criteo.com
 privacy.da1.vip.prod.criteo.com
-privacy.idxmail.us
 privacy.jp2.vip.prod.criteo.com
 privacy.par.vip.prod.criteo.com
 privacy.va1.vip.prod.criteo.com
@@ -10931,7 +10815,6 @@ rm09.eulerian.net
 rm10.eulerian.net
 rmcsport-tv.eulerian.net
 rmkk.selfierhouse.com
-rmp4.destinia.uy
 rnzh.dietbon.fr
 rockolitalia01.wt-eu02.net
 rqz4.supdigital.fr
@@ -10942,6 +10825,7 @@ rtb.da1.vip.prod.criteo.com
 rtb.jp2.vip.prod.criteo.com
 rtb.par.vip.prod.criteo.com
 rtb.va1.vip.prod.criteo.com
+rts1.eulapply.floridapoly.edu
 rts1.eulerian.com
 rts1.eulerian.eu
 rts1.eulerian.fr
@@ -11160,7 +11044,6 @@ smetrics.kbb.com
 smetrics.mikasa.com
 smetrics.sephora.com
 smetrics.sfr.fr
-smetrics.tnt.tv
 smetrics.ubi.com
 smetrics.versionone.com
 smetrics.yola.com
@@ -13490,7 +13373,6 @@ sstats.aatbs.com
 sstats.adobe.com
 sstats.optionsxpress.com
 sstats.vizergy.com
-ssy7.destinia.com.ua
 static.am5.vip.prod.criteo.net
 static.criteo.com
 static.criteo.net
@@ -13543,7 +13425,6 @@ t-locasun-fr.eulerian.net
 t-locasun-it.eulerian.net
 t-locasun-nl.eulerian.net
 t-systems01.webtrekk.net
-t.locasun.co.uk
 t.locasun.de
 t.locasun.es
 t.locasun.fr
@@ -13561,7 +13442,6 @@ tdep.growwwdigital.com
 tdep.mijnurgentie.nl
 tdep.suncamp.be
 tdep.suncamp.ch
-tdep.suncamp.co.uk
 tdep.suncamp.de
 tdep.suncamp.fr
 tdep.suncamp.it
@@ -13636,16 +13516,13 @@ twzu.lerunning.fr
 txv0.destinia.hu
 uatpamperstestdomain.pg.com
 ucg4.hejkanarieoarna.com
-ueb4.destinia.tw
 ued8.destinia.sg
-ufw5.lagomera.travel
 ugap.fr.eulerian.net
 uhg3.animalcity.es
 ujq1.destinia.is
 uk.srglobal.com
 ukmail.olay.com
 ultimatebundles.postaffiliatepro.com
-ume0.ekosport.co.uk
 umh0.teamekosport.com
 unioninvestment-de01.wt-eu02.net
 unitaitalia01.wt-eu02.net
@@ -13695,7 +13572,6 @@ vente-unique.eulerian.net
 verivox01.webtrekk.net
 versionone.com.102.122.2o7.net
 vet0.carrefour-banque.fr
-vfo.voyage-prive.co.uk
 vgo.vegaoo.de
 vgo.vegaoo.es
 vgo.vegaoo.it
@@ -13762,7 +13638,6 @@ vps01.eulerian.net
 vps02.eulerian.net
 vps03.eulerian.net
 vps04.eulerian.net
-vqp3.madeindesign.co.uk
 vry9.destinia.com
 vs.webtrekk.net
 vsc.eulerian.net
@@ -13812,7 +13687,6 @@ webconomy01.webtrekk.net
 webmail.webtrekk-system.com
 webmail2.webtrekk-system.com
 webranking01.wt-eu02.net
-webstats.garanti.com.tr
 weekendesk.eulerian.net
 wegow.postaffiliatepro.com
 wellnessresort01.wt-eu02.net
@@ -13843,7 +13717,6 @@ wjji.villagroupresorts.com
 wnd2.destinia.cat
 wnsn.mcommemutuelle.com
 worldstoresuk.widget.criteo.com
-wph2.destinia.us
 wqs4.destinia.pt
 wt-ara.wt-eu02.net
 wt01.webtrekk.net
@@ -13871,7 +13744,6 @@ www.email.be.pampers.com
 www.email.be.pg.com
 www.email.ca.pampers.com
 www.email.de.pampers.com
-www.email.everydayme.com.tr
 www.email.everydayme.hu
 www.email.everydayme.pl
 www.email.extramileloyalty.com
@@ -13898,7 +13770,6 @@ www.email.procterandgamble.com
 www.email.supersavvyme.com
 www.email.ua.pampers.com
 www.email.uk.pampers.com
-www.email.victoria.co.uk
 www.email.victoria50.de
 www.email.victoria50.fr
 www.email.wiseupmexico.com
@@ -13929,7 +13800,6 @@ www.mail.for-me-online.de
 www.mail.francescas.com
 www.mail.olay.es
 www.mail.olaz.de
-www.mail.oralb.co.uk
 www.mail.oralb.es
 www.mail.oralb.nl
 www.mail.oralb.pl
@@ -13939,7 +13809,6 @@ www.mail.pampers.ro
 www.mail.pamperskz.com
 www.mail.pg.com
 www.mail.pgeveryday.com
-www.mail.prima.com.tr
 www.mail.procterandgamble.com
 www.mail.procterandgamble.ru
 www.mail.proximaati.com
@@ -13965,7 +13834,6 @@ www.pg.ch.pampers.com
 www.pg.de.pampers.com
 www.pg.dentalcare-de.de
 www.pg.dentalcare.ca
-www.pg.dentalcare.co.uk
 www.pg.dentalcare.com
 www.pg.dentalcare.com.br
 www.pg.dentalcare.com.mx
@@ -13986,7 +13854,6 @@ www.pg.everydayme.pl
 www.pg.fi.pampers.com
 www.pg.for-me-online.de
 www.pg.fr.pampers.com
-www.pg.gillette.com.tr
 www.pg.gillette.de
 www.pg.gr.pampers.com
 www.pg.ie.pampers.com
@@ -14010,8 +13877,6 @@ www.pg.pampers.com
 www.pg.pampers.com.hk
 www.pg.pampers.com.hr
 www.pg.pampers.com.ng
-www.pg.pampers.com.tw
-www.pg.pampers.com.vn
 www.pg.pampers.cz
 www.pg.pampers.fi
 www.pg.pampers.gr
@@ -14021,19 +13886,15 @@ www.pg.pampers.no
 www.pg.pampers.pl
 www.pg.pampers.ro
 www.pg.pampers.se
-www.pg.pampers.ua
 www.pg.pampersarabia.com
 www.pg.pamperskz.com
 www.pg.pamperspakistan.com
 www.pg.paramim.com.pt
-www.pg.prima.com.tr
 www.pg.proximaati.com
 www.pg.se.pampers.com
-www.pg.supersavvyme.co.uk
 www.pg.uk.pampers.com
 www.pg.us.braun.com
 www.pg.us.pampers.com
-www.pg.victoria.co.uk
 www.pg.victoria50.fr
 www.pg.victoria50.ie
 www.pg.victoria50.it
@@ -14066,7 +13927,6 @@ www2.ichkannkochen.de
 www2.jamescapitaladvisors.com
 www2.jebbit.com
 www2.kemcosystems.com
-www2.lone-star.uk
 www2.ltcwebsitesolutions.com
 www2.mccain-foodservice.de
 www2.mossa.net

@@ -11,6 +11,4 @@ ____________________________________
 ## The Source In The File To Download Is
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
-## Checking File Header
-## Determining Host Availability
-## Checking If List Updated Online
+* Hufilter List Was An Empty File After Download. Wed Feb  7 00:28:07 MST 2024

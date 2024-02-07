@@ -12,10 +12,7 @@ ____________________________________
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
 ## Checking File Header
-## Checking File Header
 ## Determining Host Availability
-## Determining Host Availability
-## Checking If List Updated Online
 ## Checking If List Updated Online
 ## Checking File Header
 ## Determining Host Availability

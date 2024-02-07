@@ -4,4 +4,3 @@
 ____________________________________
 # KowabitBOD
 ## Setting Temporary Parsing Variables
-## Checking For Existing Mirror File

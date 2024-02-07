@@ -11,6 +11,24 @@ ____________________________________
 ## The Source In The File To Download Is
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
+### Removing Comments
+255391 Lines After Removing Comments
+### Removing Content Filtering
+255391 Lines After Removing Content Filtering
+### Trimming HOSTS Format IP Addresses
+255391 Lines After Trimming HOSTS Format IP Addresses
+### Removing Empty Space
+255391 Lines After Removing Empty Space
+### Removing Invalid FQDN Characters
+255386 Lines After Removing Invalid FQDN Characters
+### Converting All Text To Lower Case
+255386 Lines After Converting All Text To Lower Case
+### Checking For Fully Qualified Domain Name Requirements
 ## Checking File Header
+### Punycode Translate
 ## Determining Host Availability
 ## Checking If List Updated Online
+73382 Lines After Punycode Translate
+### Removing Duplicate Lines
+73356 Lines After Removing Duplicate Lines
+ Lines After Checking For Fully Qualified Domain Name Requirements

@@ -17,3 +17,5 @@ ____________________________________
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
+## Attempting Creation Of Mirror File
+## Parsing List
