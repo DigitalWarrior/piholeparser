@@ -37,3 +37,8 @@ ____________________________________
 ### Checking For Fully Qualified Domain Name Requirements
  Lines After Checking For Fully Qualified Domain Name Requirements
 ### Reverse Searching For Invalid Top Level Domains
+ Lines After Reverse Searching For Invalid Top Level Domains
+## Checking Parsed File Size
+## Attempting Creation Of Parsed List
+## Calculating Parse Time
+## Clearing Temp Vars
