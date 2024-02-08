@@ -1,10 +1,4 @@
-webmail1.sonapost.bf
+dgecolesdepolice.bf
+spong.bf
 tk.airfrance.bf
-pyramide.bf
-pyramide.bf
-dgecolesdepolice.bf
-edifice.bf
-spong.bf
-dgecolesdepolice.bf
-spong.bf
-adservice.google.bf
+webmail1.sonapost.bf

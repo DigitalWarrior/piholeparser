@@ -11,20 +11,12 @@ ____________________________________
 ## The Source In The File To Download Is
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
-### Removing Comments
-2189 Lines After Removing Comments
-### Removing Content Filtering
-2189 Lines After Removing Content Filtering
-### Trimming HOSTS Format IP Addresses
-2189 Lines After Trimming HOSTS Format IP Addresses
 ## Checking File Header
-### Removing Empty Space
-2189 Lines After Removing Empty Space
-### Removing Invalid FQDN Characters
-2189 Lines After Removing Invalid FQDN Characters
-### Converting All Text To Lower Case
-2189 Lines After Converting All Text To Lower Case
-### Checking For Fully Qualified Domain Name Requirements
 ## Determining Host Availability
 ## Checking If List Updated Online
- Lines After Checking For Fully Qualified Domain Name Requirements
+## Determining Download Attempt
+## Attempting To Download List
+## Checking File Size
+## Attempting Creation Of Mirror File
+## Parsing List
+## Checking Parsed File Size

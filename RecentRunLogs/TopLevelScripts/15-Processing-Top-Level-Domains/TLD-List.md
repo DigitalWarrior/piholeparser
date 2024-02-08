@@ -1,37 +1,52 @@
-____________________________________
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-# TLD-List
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-## Processing TLD-List List.
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
+____________________________________
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+# TLD-List
+# TLD-List
+____________________________________
+## Processing TLD-List List.
+## Processing TLD-List List.
 # TLD-List
 ## Processing TLD-List List.
 ## Setting Temporary Parsing Variables
 ## Setting Temporary Parsing Variables
-## Checking File Size
-* TLD-List List Was An Empty File After Download. Wed Feb  7 00:20:18 MST 2024
+## Setting Temporary Parsing Variables
 ## Checking If Multiple Sources
-## Attempting Creation Of Mirror File
+## Checking If Multiple Sources
 ## Checking If Multiple Sources
 ## The Source In The File To Download Is
-## Clearing Temp Vars
 ## The Source In The File To Download Is
+## The Source In The File To Download Is
+## Checking For HTTPS
 ## Checking For HTTPS
 ## Checking For HTTPS
 ## Checking For Existing Mirror File
 ## Checking For Existing Mirror File
+## Checking For Existing Mirror File
+## Pinging Source To Check Host Availability
 ## Pinging Source To Check Host Availability
 ## Pinging Source To Check Host Availability
 ## Checking If List Updated Online
 ## Checking If List Updated Online
-## Determining Download Attempt
+## Checking If List Updated Online
 ## Determining Download Attempt
 ## Attempting To Download List
+## Determining Download Attempt
+## Attempting To Download List
+## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
-## Checking File Size
-## Attempting Creation Of Mirror File
 ## Attempting Creation Of Mirror File
 ## Clearing Temp Vars
+## Checking File Size
+## Attempting Creation Of Mirror File
+## Clearing Temp Vars
+## Checking File Size
+## Attempting Creation Of Mirror File
 ## Clearing Temp Vars

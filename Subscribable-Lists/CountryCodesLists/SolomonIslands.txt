@@ -1,7 +1,5 @@
-m.food.sb
-stat.u.sb
 darknet.sb
+m.food.sb
 mmm.sb
 siwiba.com.sb
-siwiba.com.sb
-adservice.google.com.sb
+stat.u.sb

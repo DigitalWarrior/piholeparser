@@ -11,6 +11,7 @@ ____________________________________
 ## The Source In The File To Download Is
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
+* Quidsup-Malicious List Marked As Dead. Thu Feb  8 00:27:28 MST 2024
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online

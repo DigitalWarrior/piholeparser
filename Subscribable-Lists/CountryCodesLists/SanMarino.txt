@@ -1,7 +1,3 @@
-store.v-power.sm
+eway.sm
 go.twi.sm
-jammer.sm
-profumi.sm
-eway.sm
-eway.sm
-adservice.google.sm
+store.v-power.sm

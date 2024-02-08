@@ -11,9 +11,12 @@ ____________________________________
 ## The Source In The File To Download Is
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
+### Punycode Translate
+ Lines After Punycode Translate
+### Removing Duplicate Lines
+ Lines After Removing Duplicate Lines
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
-## Checking File Header
-## Determining Host Availability
-## Checking If List Updated Online
+## Determining Download Attempt
+## Attempting To Download List

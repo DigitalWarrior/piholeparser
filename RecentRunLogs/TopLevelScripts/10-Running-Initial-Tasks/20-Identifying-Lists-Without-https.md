@@ -6,10 +6,10 @@ ____________________________________
 ### Checking For Old https-Less File.
 * Old https-less List Does Not Exist.
 
-___________________________________________________________________
-### Lists That Do NOT use https.
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+___________________________________________________________________
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+### Lists That Do NOT use https.
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
 ____________________________________
 # 
@@ -24,38 +24,39 @@ ___________________________________________________________________
 ____________________________________
 # 
 ### Checking For Old https-Less File.
-* Old https-less List Purged.
+* Old https-less List Does Not Exist.
 
 ___________________________________________________________________
 ### Lists That Do NOT use https.
-* BLOGRAM-Analysis-Block-Filter-List-for-Japan
 * Adblock-Filters-by-Gurudee
-* BLOGRAM-Basic-Filter-List-for-Japan
+* Adblock-Filters-by-Gurudee
 * Adblock-Filters-by-Gurudee
 * BLOGRAM-Analysis-Block-Filter-List-for-Japan
 * BLOGRAM-Basic-Filter-List-for-Japan
 * BLOGRAM-Analysis-Block-Filter-List-for-Japan
 * BLOGRAM-Basic-Filter-List-for-Japan
+* BLOGRAM-Analysis-Block-Filter-List-for-Japan
+* BLOGRAM-Basic-Filter-List-for-Japan
+* Finnish-AntiSocial
 * Finnish-AntiSocial
 * JABCreations
-* Finnish-AntiSocial
 * Finnish-AntiSocial
 * JABCreations
 * JABCreations
 * Spam-Assassin-Bill-Stearns
 * Spam-Assassin-Bill-Stearns
 * Spam-Assassin-Bill-Stearns
-
-___________________________________________________________________
-### TLD Lists That Do NOT use https.
-* Internet-Assigned-Numbers-Authority
 All Lists Use https.
 
 ___________________________________________________________________
+
+### TLD Lists That Do NOT use https.
+___________________________________________________________________
 ### TLD Lists That Do NOT use https.
 * Internet-Assigned-Numbers-Authority
+* Internet-Assigned-Numbers-Authority
+All Lists Use https.
 
-All TLD Lists Use https.
 ___________________________________________________________________
 ### TLD Lists That Do NOT use https.
 * Internet-Assigned-Numbers-Authority

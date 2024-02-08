@@ -1,12 +1,2 @@
-ustm.mr
-wpad.mr
-www.wpad.mr
-diplomatie.gov.mr
-wpad.mr
-www.wpad.mr
-wpad.mr
-www.wpad.mr
-wpad.mr
-www.wpad.mr
 wpad.mr
 www.wpad.mr

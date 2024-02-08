@@ -14,13 +14,5 @@ ____________________________________
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
-### Punycode Translate
- Lines After Punycode Translate
-### Removing Duplicate Lines
- Lines After Removing Duplicate Lines
 ## Determining Download Attempt
 ## Attempting To Download List
-## Checking File Size
-## Attempting Creation Of Mirror File
-## Parsing List
-## Checking Parsed File Size

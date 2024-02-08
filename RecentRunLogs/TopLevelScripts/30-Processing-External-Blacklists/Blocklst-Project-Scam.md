@@ -14,3 +14,49 @@ ____________________________________
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
+## Determining Download Attempt
+## Attempting To Download List
+## Checking File Size
+## Attempting Creation Of Mirror File
+## Parsing List
+### Removing Comments
+### Removing Comments
+2548 Lines After Removing Comments
+### Removing Content Filtering
+2548 Lines After Removing Comments
+### Removing Content Filtering
+2548 Lines After Removing Content Filtering
+### Trimming HOSTS Format IP Addresses
+2548 Lines After Removing Content Filtering
+### Trimming HOSTS Format IP Addresses
+2548 Lines After Trimming HOSTS Format IP Addresses
+ Lines After Trimming HOSTS Format IP Addresses
+### Removing Empty Space
+### Removing Empty Space
+1116 Lines After Removing Empty Space
+2548 Lines After Removing Empty Space
+### Removing Invalid FQDN Characters
+### Removing Invalid FQDN Characters
+0 Lines After Removing Invalid FQDN Characters
+0 Lines After Removing Invalid FQDN Characters
+### Converting All Text To Lower Case
+### Converting All Text To Lower Case
+0 Lines After Converting All Text To Lower Case
+0 Lines After Converting All Text To Lower Case
+### Checking For Fully Qualified Domain Name Requirements
+### Checking For Fully Qualified Domain Name Requirements
+0 Lines After Checking For Fully Qualified Domain Name Requirements
+0 Lines After Checking For Fully Qualified Domain Name Requirements
+### Reverse Searching For Invalid Top Level Domains
+### Reverse Searching For Invalid Top Level Domains
+### Punycode Translate
+0 Lines After Punycode Translate
+### Removing Duplicate Lines
+0 Lines After Removing Duplicate Lines
+* Blocklst-Project-Scam List Was Killed By The Parsing Process. It will be skipped in the future. Thu Feb  8 00:26:46 MST 2024
+0 Lines After Reverse Searching For Invalid Top Level Domains
+0 Lines After Reverse Searching For Invalid Top Level Domains
+## Checking Parsed File Size
+## Attempting Creation Of Parsed List
+## Calculating Parse Time
+## Clearing Temp Vars

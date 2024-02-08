@@ -1,43 +1,18 @@
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+### Removing Duplicate Lines
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
-____________________________________
 ____________________________________
 # ABP-Bulgarian-List
-# ABP-Bulgarian-List
 ## Setting Temporary Parsing Variables
-## Setting Temporary Parsing Variables
-## Checking For Existing Mirror File
+ Lines After Removing Duplicate Lines
 ## Checking For Existing Mirror File
 ## Checking For Github Mirror File
-## Checking For Github Mirror File
-## Checking For Existing Parsed File
-## Checking For Existing Parsed File
 ## Checking For Existing Parsed File
 ## Checking If Multiple Sources
-## Checking If Multiple Sources
-## Checking If Multiple Sources
-## The Source In The File To Download Is
-## The Source In The File To Download Is
 ## The Source In The File To Download Is
 ## Checking For HTTPS
-## Checking For HTTPS
-## Checking For HTTPS
-## Pinging Source To Check Host Availability
-## Pinging Source To Check Host Availability
 ## Pinging Source To Check Host Availability
 ## Checking File Header
-## Checking File Header
-## Checking File Header
 ## Determining Host Availability
-## Determining Host Availability
-* ABP-Bulgarian-List List Unavailable To Download. Wed Feb  7 00:20:22 MST 2024
-## Checking If List Updated Online
-* ABP-Bulgarian-List List Unavailable To Download. Wed Feb  7 00:20:22 MST 2024
-## Checking If List Updated Online
-## Determining Host Availability
-* ABP-Bulgarian-List List Unavailable To Download. Wed Feb  7 00:20:22 MST 2024
 ## Checking If List Updated Online

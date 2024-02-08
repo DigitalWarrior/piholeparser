@@ -14,11 +14,3 @@ ____________________________________
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
-### Punycode Translate
-### Punycode Translate
- Lines After Punycode Translate
-### Removing Duplicate Lines
- Lines After Punycode Translate
-### Removing Duplicate Lines
- Lines After Removing Duplicate Lines
- Lines After Removing Duplicate Lines

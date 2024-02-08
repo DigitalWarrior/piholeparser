@@ -11,6 +11,4 @@ ____________________________________
 ## The Source In The File To Download Is
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
-## Checking File Header
-## Determining Host Availability
-## Checking If List Updated Online
+* RUAdListBitBlock List Was An Empty File After Download. Thu Feb  8 00:27:31 MST 2024

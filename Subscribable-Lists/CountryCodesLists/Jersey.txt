@@ -1,4 +1,2 @@
 cpm.je
-factory.je
 kut.je
-adservice.google.je

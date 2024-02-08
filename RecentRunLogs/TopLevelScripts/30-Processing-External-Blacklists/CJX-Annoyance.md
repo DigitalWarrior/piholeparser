@@ -14,17 +14,3 @@ ____________________________________
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
-### Removing Comments
-1742 Lines After Removing Comments
-### Removing Content Filtering
-1742 Lines After Removing Content Filtering
-### Trimming HOSTS Format IP Addresses
-1742 Lines After Trimming HOSTS Format IP Addresses
-### Removing Empty Space
-1683 Lines After Removing Empty Space
-### Removing Invalid FQDN Characters
-111 Lines After Removing Invalid FQDN Characters
-### Converting All Text To Lower Case
-111 Lines After Converting All Text To Lower Case
-### Checking For Fully Qualified Domain Name Requirements
- Lines After Checking For Fully Qualified Domain Name Requirements

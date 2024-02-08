@@ -1,4 +1,2 @@
-canfam.euro.tm
 intangible.tm
 www.intangible.tm
-adservice.google.tm

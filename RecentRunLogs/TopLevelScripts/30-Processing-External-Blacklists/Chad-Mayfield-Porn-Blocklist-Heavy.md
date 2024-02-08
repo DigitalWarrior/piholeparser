@@ -7,7 +7,6 @@ ____________________________________
 ## Checking For Existing Mirror File
 ## Checking For Github Mirror File
 ## Checking For Existing Parsed File
-### Reverse Searching For Invalid Top Level Domains
 ## Checking If Multiple Sources
 ## The Source In The File To Download Is
 ## Checking For HTTPS
@@ -15,11 +14,3 @@ ____________________________________
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
-## Determining Download Attempt
-## Attempting To Download List
-706064 Lines After Reverse Searching For Invalid Top Level Domains
-### Punycode Translate
-24383 Lines After Punycode Translate
-### Removing Duplicate Lines
-24383 Lines After Removing Duplicate Lines
-## Checking File Size
