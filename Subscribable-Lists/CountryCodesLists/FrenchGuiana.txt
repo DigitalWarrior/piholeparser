@@ -1,4 +1,4 @@
-allegro.info.gf
 tk.airfrance.gf
 wtttk.airfrance.gf
+allegro.info.gf
 www.allegro.info.gf

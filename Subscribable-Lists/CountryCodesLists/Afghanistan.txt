@@ -1,12 +1,9 @@
-badam.af
 barg.af
 caf.org.af
 ewa.org.af
 i.af
 inertia.af
 munib.ash.af
-pwn.af
-razi.edu.af
 suntech.af
 turkishmall.af
 www.caf.org.af
@@ -15,3 +12,7 @@ www.i.af
 www.inertia.af
 www.suntech.af
 www.turkishmall.af
+inertia.af
+badam.af
+razi.edu.af
+pwn.af

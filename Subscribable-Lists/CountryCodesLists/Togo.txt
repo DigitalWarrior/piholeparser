@@ -1,7 +1,7 @@
 glnt.tg
 orvert.tg
 radiojva.tg
-valeurscitoyennes.tg
 www.glnt.tg
 www.orvert.tg
 www.radiojva.tg
+valeurscitoyennes.tg

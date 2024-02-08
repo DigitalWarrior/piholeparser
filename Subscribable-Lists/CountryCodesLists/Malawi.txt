@@ -1,11 +1,11 @@
-avis.co.mw
-biu.ac.mw
 comsip.org.mw
-insignia.co.mw
 mitc.mw
-puritymalawi.mw
-teveta.mw
 trade.mitc.mw
 www.comsip.org.mw
 www.mitc.mw
 www.trade.mitc.mw
+puritymalawi.mw
+teveta.mw
+avis.co.mw
+biu.ac.mw
+insignia.co.mw

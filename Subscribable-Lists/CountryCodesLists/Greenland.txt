@@ -1,6 +1,6 @@
-ds1-eude-ss.host.gl
-han.gl
 mercury.gl
-myetherwallet.com.gl
-wp.gl
 www.mercury.gl
+ds1-eude-ss.host.gl
+wp.gl
+han.gl
+myetherwallet.com.gl

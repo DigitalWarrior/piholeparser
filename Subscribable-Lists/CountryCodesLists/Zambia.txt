@@ -1,13 +1,11 @@
+zaqa.gov.zm
 cyberacademy.ac.zm
 destinationzambia.co.zm
-erb.org.zm
 iconhotel.co.zm
 invesco.co.zm
 ltc-ucz.org.zm
 mvc.org.zm
-norwichtrading.co.zm
 progtech.co.zm
-stbg.stanbicbank.co.zm
 www.africangrey.co.zm
 www.cyberacademy.ac.zm
 www.destinationzambia.co.zm
@@ -15,5 +13,11 @@ www.iconhotel.co.zm
 www.moh.gov.zm
 www.progtech.co.zm
 www.test-77.co.zm
-zaqa.gov.zm
+stbg.stanbicbank.co.zm
+norwichtrading.co.zm
+cyberacademy.ac.zm
 ziale.org.zm
+cyberacademy.ac.zm
+cyberacademy.ac.zm
+ziale.org.zm
+erb.org.zm

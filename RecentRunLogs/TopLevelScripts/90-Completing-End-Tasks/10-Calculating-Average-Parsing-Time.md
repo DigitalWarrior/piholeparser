@@ -3,4 +3,4 @@
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/.md)
 ____________________________________
 # 10-Calculating-Average-Parsing-Time
-* Average Parsing Time Of 40 Lists Was 3.5 Seconds.
+* Average Parsing Time Of 5 Lists Was 7.8 Seconds.

@@ -1,9 +1,12 @@
-58.wf
-bin.wf
 bradesconetempresas.desenv.dev.servicos.wf
 io1.wf
-lekcje.wf
-vm948040.had.wf
 www.bradesconetempresas.desenv.dev.servicos.wf
 www.io1.wf
+58.wf
+io1.wf
+58.wf
+bin.wf
+bin.wf
+vm948040.had.wf
+lekcje.wf
 www.lekcje.wf

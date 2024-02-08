@@ -14,5 +14,3 @@ ____________________________________
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
-### Reverse Searching For Invalid Top Level Domains
-0 Lines After Reverse Searching For Invalid Top Level Domains

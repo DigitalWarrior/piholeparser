@@ -1,4 +1,3 @@
-aloha.sr
 basketball.sr
 expresswood.sr
 soekhoezonen.sr
@@ -8,3 +7,4 @@ www.basketball.sr
 www.expresswood.sr
 www.soekhoezonen.sr
 www.timeless-uptime.sr
+aloha.sr

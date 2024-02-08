@@ -1,11 +1,11 @@
 bayancollege.edu.om
-dl.elaw.om
-fordoman.om
-myetherwallet.om
-rekaz.om
-smetrics.kone.om
-tamrah.om
 www.bayancollege.edu.om
 www.muscatcollege.edu.om
+tamrah.om
 www.tamrah.om
 www.therrawood.com.om
+dl.elaw.om
+smetrics.kone.om
+fordoman.om
+rekaz.om
+myetherwallet.om

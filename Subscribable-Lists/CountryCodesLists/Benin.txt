@@ -1,2 +1,2 @@
-reisl.uac.bj
 tk.airfrance.bj
+reisl.uac.bj

@@ -1,2 +1,4 @@
 wpad.mr
 www.wpad.mr
+wpad.mr
+www.wpad.mr

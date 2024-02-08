@@ -1,8 +1,8 @@
 6.gp
-gear.gp
 globaldailycash.a.gp
-myp.gp
 www.6.gp
-www.gear.gp
 www.globaldailycash.a.gp
+gear.gp
+myp.gp
+www.gear.gp
 www.myp.gp

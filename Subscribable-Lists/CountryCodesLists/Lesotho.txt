@@ -1,7 +1,6 @@
 clientcare.co.ls
 cloudhub.co.ls
 dpe.org.ls
-haelesotho.org.ls
 hfhl.org.ls
 khotsonglodge.co.ls
 ldams.org.ls
@@ -26,3 +25,5 @@ www.print-corp.co.ls
 www.sefikengfarm.co.ls
 www.visionclinic.co.ls
 www.volare.co.ls
+haelesotho.org.ls
+volare.co.ls

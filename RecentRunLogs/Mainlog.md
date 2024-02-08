@@ -113,3 +113,22 @@ Process Took 1 Minutes.
 Process Took 1 Minutes.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks.md)
 
+Process Took 14 Minutes.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
+
+##    Compiling Combined Blacklist Thu Feb  8 00:34:21 MST 2024
+Process Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/40-Compiling-Combined-Blacklist.md)
+
+##    Compiling Combined Whitelist Thu Feb  8 00:34:22 MST 2024
+Process Took 0 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/45-Compiling-Combined-Whitelist.md)
+
+##    Writing Additional Lists Thu Feb  8 00:34:22 MST 2024
+Process Took 34 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/60-Writing-Additional-Lists.md)
+
+##    Completing End Tasks Thu Feb  8 00:34:56 MST 2024
+Process Took 1 Minutes.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks.md)
+

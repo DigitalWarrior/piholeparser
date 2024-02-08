@@ -1,8 +1,9 @@
-airstest.gov.bm
+www.bfab.bm
+www.gands.bm
+www.seniorislanders.bm
 dwd.bm
 qualityair.bm
-www.bfab.bm
 www.dwd.bm
-www.gands.bm
 www.qualityair.bm
-www.seniorislanders.bm
+qualityair.bm
+airstest.gov.bm

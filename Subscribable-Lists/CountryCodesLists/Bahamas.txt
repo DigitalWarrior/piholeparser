@@ -1,7 +1,7 @@
 go2.we.bs
 pub.we.bs
-upline.we.bs
 wellnessclinic.bs
 www.go2.we.bs
 www.pub.we.bs
 www.wellnessclinic.bs
+upline.we.bs
