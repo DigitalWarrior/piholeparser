@@ -4,3 +4,4 @@
 ____________________________________
 # 71-Compiling-Deathbybandaid-Combined-List-without-porn
 * All Parsed List (edited without porn) Removed. Fri Feb  9 00:25:10 MST 2024
+* Allparsedlist list was an empty file Fri Feb  9 00:25:10 MST 2024
