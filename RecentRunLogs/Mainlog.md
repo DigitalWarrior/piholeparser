@@ -118,3 +118,10 @@ Process Took 0 Seconds.
 
 
 ##    Compiling Combined Whitelist Fri Feb  9 00:25:09 MST 2024
+Process Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/45-Compiling-Combined-Whitelist.md)
+
+##    Writing Additional Lists Fri Feb  9 00:25:10 MST 2024
+Process Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks.md)
+
