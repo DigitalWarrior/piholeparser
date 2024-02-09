@@ -3,3 +3,8 @@
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
 ____________________________________
 # TakoYachty-Gift-Card-Killer
+## Checking For Existing Parsed File
+## Setting Temporary Parsing Variables
+## Checking If Multiple Sources
+## Checking For Existing Mirror File
+## The Source In The File To Download Is

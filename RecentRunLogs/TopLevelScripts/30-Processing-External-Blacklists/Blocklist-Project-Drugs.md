@@ -3,18 +3,10 @@
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
 ____________________________________
 # Blocklist-Project-Drugs
-## Setting Temporary Parsing Variables
-## Checking For Existing Mirror File
-## Checking For Github Mirror File
+ Lines After Reverse Searching For Invalid Top Level Domains
 ### Punycode Translate
-## Checking For Existing Parsed File
  Lines After Punycode Translate
 ### Removing Duplicate Lines
-## Checking If Multiple Sources
  Lines After Removing Duplicate Lines
-## The Source In The File To Download Is
-## Checking For HTTPS
-## Pinging Source To Check Host Availability
-## Checking File Header
-## Determining Host Availability
-## Checking If List Updated Online
+ Lines After Checking For Fully Qualified Domain Name Requirements
+## Checking Parsed File Size

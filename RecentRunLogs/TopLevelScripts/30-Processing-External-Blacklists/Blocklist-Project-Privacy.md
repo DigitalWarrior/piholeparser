@@ -3,5 +3,7 @@
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
 ____________________________________
 # Blocklist-Project-Privacy
-## Setting Temporary Parsing Variables
-## Checking For Existing Mirror File
+## Checking File Size
+## Attempting Creation Of Mirror File
+## Parsing List
+## Checking Parsed File Size

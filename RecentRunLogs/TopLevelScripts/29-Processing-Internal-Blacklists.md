@@ -3,43 +3,43 @@
 ____________________________________
 # 
 ### Checking For Script Blacklist File.
-* Script Blacklist File not there, not removing. Thu Feb  8 00:20:19 MST 2024
+* Script Blacklist File not there, not removing. Fri Feb  9 00:20:20 MST 2024
 ### Pulling Domains From Individual Lists.
-7 In AlexaVoiceAssistant
+1 In AlexaVoiceAssistant
 122 In BlogPostAds
 1 In Pandora
 1 In Twitch
 1 In UserSubmitted
-132 To Blacklist
+125 To Blacklist
 ### Deduplicating Merged List.
-132 After Deduplicating Merged List.
+125 After Deduplicating Merged List.
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
 # 
 ### Checking For Script Blacklist File.
-* Blacklist File removed Thu Feb  8 00:20:20 MST 2024
+* Blacklist File removed Fri Feb  9 00:20:21 MST 2024
 ### Pulling Domains From Individual Lists.
-7 In AlexaVoiceAssistant
+1 In AlexaVoiceAssistant
 122 In BlogPostAds
 1 In Pandora
 1 In Twitch
 1 In UserSubmitted
-132 To Blacklist
+126 To Blacklist
 ### Deduplicating Merged List.
-132 After Deduplicating Merged List.
+125 After Deduplicating Merged List.
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
 # 
 ### Checking For Script Blacklist File.
-* Blacklist File removed Thu Feb  8 00:20:21 MST 2024
+* Blacklist File removed Fri Feb  9 00:20:21 MST 2024
 ### Pulling Domains From Individual Lists.
-7 In AlexaVoiceAssistant
+1 In AlexaVoiceAssistant
 122 In BlogPostAds
 1 In Pandora
 1 In Twitch
 1 In UserSubmitted
-132 To Blacklist
+126 To Blacklist
 ### Deduplicating Merged List.
-132 After Deduplicating Merged List.
+125 After Deduplicating Merged List.

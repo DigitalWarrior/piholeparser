@@ -4,9 +4,9 @@
 ____________________________________
 # Internet-Assigned-Numbers-Authority
 ## Processing Internet-Assigned-Numbers-Authority List.
-## Checking If Multiple Sources
 ## Setting Temporary Parsing Variables
 ## Checking If Multiple Sources
+## Checking If Multiple Sources
 ## The Source In The File To Download Is
 ## The Source In The File To Download Is
 ## Checking If Multiple Sources
@@ -23,18 +23,17 @@ ____________________________________
 ## Checking If List Updated Online
 ## Checking If List Updated Online
 ## Determining Download Attempt
-## Determining Download Attempt
 ## Checking If List Updated Online
-## Attempting To Download List
-## Attempting To Download List
+## Determining Download Attempt
 ## Determining Download Attempt
 ## Attempting To Download List
-## Checking File Size
+## Attempting To Download List
+## Attempting To Download List
 ## Checking File Size
 ## Checking File Size
 ## Attempting Creation Of Mirror File
 ## Attempting Creation Of Mirror File
-* Internet-Assigned-Numbers-Authority List Was An Empty File After Download. Thu Feb  8 00:20:16 MST 2024
+## Checking File Size
 ## Clearing Temp Vars
 ## Clearing Temp Vars
 ## Attempting Creation Of Mirror File

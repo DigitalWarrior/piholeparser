@@ -3,17 +3,12 @@
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
 ____________________________________
 # Chad-Mayfield-Porn-Blocklist-Light
-## Determining Host Availability
+## Pinging Source To Check Host Availability
+## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
-## Checking If List Updated Online
-## Determining Download Attempt
 ## Determining Download Attempt
 ## Attempting To Download List
-## Attempting To Download List
-## Checking File Size
-## Attempting Creation Of Mirror File
-## Parsing List
 ## Checking File Size
 ## Attempting Creation Of Mirror File
 ## Parsing List
