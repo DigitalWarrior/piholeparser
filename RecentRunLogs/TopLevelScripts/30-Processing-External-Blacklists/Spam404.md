@@ -10,15 +10,7 @@ ____________________________________
 ## Checking If Multiple Sources
 ## The Source In The File To Download Is
 ## Checking For HTTPS
-## Checking For Existing Parsed File
-## Pinging Source To Check Host Availability
-## Checking If Multiple Sources
-## The Source In The File To Download Is
-## Checking For HTTPS
 ## Pinging Source To Check Host Availability
 ## Checking File Header
-## Checking File Header
 ## Determining Host Availability
-## Determining Host Availability
-## Checking If List Updated Online
 ## Checking If List Updated Online
