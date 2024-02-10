@@ -1,9 +1,12 @@
-____________________________________
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-# Steven-Blacks-Porn
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
 ____________________________________
+____________________________________
+# Steven-Blacks-Porn
 # Steven-Blacks-Porn
 ## Setting Temporary Parsing Variables
 ## Setting Temporary Parsing Variables
