@@ -16,3 +16,4 @@ ____________________________________
 ## Checking If List Updated Online
 ## Determining Download Attempt
 ## Attempting To Download List
+## Checking File Size

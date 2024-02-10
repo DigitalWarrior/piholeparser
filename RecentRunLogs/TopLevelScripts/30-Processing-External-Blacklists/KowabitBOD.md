@@ -6,6 +6,7 @@ ____________________________________
 ## Setting Temporary Parsing Variables
 ## Checking For Existing Mirror File
 ## Checking For Github Mirror File
+* KowabitBOD List Was An Empty File After Download. Sat Feb 10 00:24:27 MST 2024
 ## Checking For Existing Parsed File
 ## Checking If Multiple Sources
 ## The Source In The File To Download Is

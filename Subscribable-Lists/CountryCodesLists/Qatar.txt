@@ -1,6 +1,3 @@
-www.healthandmedical.qa
-healthassistance.qa
-www.healthassistance.qa
 cvi6.destinia.qa
 engage.3m.com.qa
 smetrics.qatarairways.com.qa
@@ -8,8 +5,3 @@ smetrics.vodafone.qa
 vpmdiq.propertyfinder.qa
 cvi6.destinia.qa
 link.pulse.qa
-guidelineservices.com.qa
-swattradingco.name.qa
-swattradingco.name.qa
-arconint.com.qa
-fareast.qa
