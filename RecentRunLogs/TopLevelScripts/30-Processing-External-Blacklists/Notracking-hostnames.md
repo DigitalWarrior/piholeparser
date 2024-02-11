@@ -6,11 +6,22 @@ ____________________________________
 ## Setting Temporary Parsing Variables
 ## Checking For Existing Mirror File
 ## Checking For Github Mirror File
+### Punycode Translate
+ Lines After Punycode Translate
+### Removing Duplicate Lines
+ Lines After Removing Duplicate Lines
 ## Checking For Existing Parsed File
+### Punycode Translate
+ Lines After Punycode Translate
 ## Checking If Multiple Sources
+### Removing Duplicate Lines
 ## The Source In The File To Download Is
+ Lines After Removing Duplicate Lines
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
+## Determining Download Attempt
+## Attempting To Download List
+## Checking File Size

@@ -10,10 +10,7 @@ ____________________________________
 ## Checking If Multiple Sources
 ## The Source In The File To Download Is
 ## Checking For HTTPS
-* EasyList-Italy List Unavailable To Download. Sat Feb 10 00:22:05 MST 2024
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
-* EasyList-Italy List Unavailable To Download. Sat Feb 10 00:22:07 MST 2024
-* EasyList-Italy List Unavailable To Download. Sat Feb 10 00:22:07 MST 2024
 ## Checking If List Updated Online

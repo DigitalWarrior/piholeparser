@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202402100404
+! Version: 202402110601
 ! Title: EasyPrivacy
-! Last modified: 10 Feb 2024 04:04 UTC
+! Last modified: 11 Feb 2024 06:01 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 ! 
@@ -5540,7 +5540,6 @@ omni.soundestlink.com$image
 ||trackkas.com^$third-party
 ||trackmethod.com^$third-party
 ||trackmytarget.com^$third-party
-||trackmyusers.com^$third-party
 ||trackmyweb.net^$third-party
 ||trackonomics.net^$third-party
 ||trackset.com^$third-party
@@ -5950,7 +5949,6 @@ omni.soundestlink.com$image
 ||mepirtedic.com^$third-party
 ||mi-de-ner-nis3.info^
 ||mine.nahnoji.cz^
-||mine.torrent.pw^$third-party
 ||minerad.com^
 ||minero-proxy-*.sh^$third-party
 ||minero.cc^$third-party
@@ -6145,7 +6143,6 @@ omni.soundestlink.com$image
 ||averageamusement.com^
 ||awakebird.com^
 ||awarealley.com^
-||awesomeagreement.com^
 ||awzbijw.com^
 ||axiomaticalley.com^
 ||axiomaticanger.com^
@@ -6811,7 +6808,6 @@ omni.soundestlink.com$image
 ||hosenews.com^
 ||hospitablehall.com^
 ||hospitablehat.com^
-||hothydrant.com^
 ||humdrumhat.com^
 ||humdrumhobbies.com^
 ||humdrumtouch.com^
@@ -8186,7 +8182,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ranking-links.de^$third-party
 ||redretarget.com^$third-party
 ||refinedads.com^$third-party
-||research.de.com^$third-party
 ||reshin.de^$third-party
 ||retailads.net^$third-party
 ||rightstats.com^$third-party
@@ -9040,7 +9035,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ampproject.org/preconnect.gif
 ||ams-pageview-public.s3.amazonaws.com^
 ||analyse.bcovery.com^
-||analyse.lnearn.com^
 ||analytic.rollout.io^
 ||analytic.xingcloud.com^$third-party
 ||analyticcdn.globalmailer.com^
@@ -9493,6 +9487,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
 ||collect.alphastream.io^
+||collect.analyse.lnearn.com^
 ||collect.bannercrowd.net^
 ||collect.cloudsponge.com^
 ||collect.igodigital.com^
@@ -9914,7 +9909,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||geo.gorillanation.com^
 ||geo.mezr.com^
 ||geo.ngtv.io^
-||geo.q5media.net^
 ||geo.query.yahoo.com^$~xmlhttprequest,domain=~mail.yahoo.com
 ||geo.thehindu.com^
 ||geobar.ziffdavisinternational.com^
@@ -11219,7 +11213,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||usizy.com/external/pageview
 ||utils.global-e.com/set?
 ||utt.pm/utm/
-||v-h.tv/pixel/
 ||v.shopify.com^
 ||va.tawk.to/log
 ||validate.onecount.net^$image
@@ -11401,7 +11394,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d191y0yd6d0jy4.cloudfront.net^
 ||d196fri2z18sm.cloudfront.net^
 ||d1af033869koo7.cloudfront.net^
-||d1clfvuu2240eh.cloudfront.net^
 ||d1cr9zxt7u0sgu.cloudfront.net^
 ||d1f0tbk1v3e25u.cloudfront.net^
 ||d1f1eryiqyjs0r.cloudfront.net^*/track.
@@ -11681,7 +11673,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cgicounter.onlinehome.de^
 ||clipkit.de/metrics?
 ||cloudfront.net/customers/24868.min.js
-||collector.ozeex.com^
 ||com.econa.com^
 ||counter.1i.kz^
 ||counter.blogoscoop.net^
@@ -13125,7 +13116,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fortune.com/comscore-json/
 ||foursquare.com/v2/private/logactions
 ||foxsports.com.au/akam/
-||fp.heavybit.com^
 ||fp.measure.office.com^
 ||fpa-cdn.adweek.com^
 ||fpa-cdn.arstechnica.com^
@@ -13733,7 +13723,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stat.tildacdn.com^
 ||stat.turb.pw^
 ||stat.vulkanvegas.com^
-||stategg.cdngeek.com^
 ||statista.com/data/ptm.gif
 ||statistics.streamdav.com^
 ||stats-jobstreet-sg-en-prod.supercharge-srp.co^$domain=jobstreet.com.sg
@@ -13987,7 +13976,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||vanityfair.com/user-context?referrer
 ||video.mobile.yahoo.com/log|$xmlhttprequest
 ||views.arabnews.com^
-||views.asura.gg^
 ||views.asurascans.com^
 ||vimeo.com/ablincoln/
 ||vimeocdn.com/js_opt/logging_combined.min.js
@@ -14494,7 +14482,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||gvmomuqjv1.swyftx.com^
 ||hht8m6w8mnug.quine.sh^
 ||ilkk97e98lvg.www.sidsplumbing.ie^
-||ipz51x.kvest.ee^
 ||ivrnfvlcgubm.www.cefirates.com^
 ||iwl2d7pa4yx1.www.logology.co^
 ||ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com^
@@ -15327,7 +15314,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||a8cv.atgp.jp^
 ||a8cv.auhikari-bykddi.com^
 ||a8cv.b-concept.tokyo^
-||a8cv.b-e-l.jp^
 ||a8cv.b-noix.jp^
 ||a8cv.babybjorn.jp^
 ||a8cv.baku-art.jp^
@@ -16121,7 +16107,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ! Removed:
 ! ||stats.trimbles.ie^
 ! ||stats.suenicholls.com^
-||custom.plausible.io^
 ! 
 ! Company name: Plausible Analytics https://github.com/AdguardTeam/cname-trackers/blob/master/data/trackers/plausible-analytics.txt
 ! 
@@ -16141,7 +16126,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||also.greatsecuritydebate.net^
 ||an.xavierrosee.com^
 ||analytics.adam.page^
-||analytics.adonisjs.com^
 ||analytics.andrewsmith.com.au^
 ||analytics.angelina-fieber.com^
 ||analytics.arunraghavan.net^
@@ -16220,7 +16204,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||counter.subtitlebee.com^
 ||counter.websitevoice.com^
 ||cp.phiilu.com^
-||data.blog.swicket.io^
 ||datum.appfleet.com^
 ||ds.webprojectslab.com^
 ||eliteclng.ericksonbuilt.com^
@@ -16267,7 +16250,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||noushe.zevvle.com^
 ||numbers.monthlyphotos.com^
 ||nums.upscale.app^
-||p.aj-foster.com^
 ||p.classroombookings.com^
 ||p.ejs.dev^
 ||p.fairspot.host^
@@ -16276,7 +16258,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||p.logbox.io^
 ||p.marqueplace.com^
 ||p.meilentrio.de^
-||p.nqueue.io^
 ||p.ryanhalliday.com^
 ||p.versacommerce.de^
 ||p.victoria.dev^
@@ -16289,7 +16270,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||peards.zevvle.com^
 ||pine.clk.click^
 ||pine.nervecentral.com^
-||ping.cavelab.dev^
 ||ping.hedlund.xyz^
 ||ping.naturadapt.com^
 ||ping.resoluteoil.com^
@@ -16508,7 +16488,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||stats.amiibo.life^
 ||stats.andrewlevinson.me^
 ||stats.appcessible.org^
-||stats.arma.coffee^
 ||stats.arquido.com^
 ||stats.artisansfiables.fr^
 ||stats.artistchristinacarmel.com^
@@ -16579,7 +16558,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||stats.cloud-backup-for-podio.com^
 ||stats.coachinghive.com^
 ||stats.code-it-studio.de^
-||stats.codeexposed.com^
 ||stats.codinginfinity.me^
 ||stats.codis.io^
 ||stats.coditia.com^
@@ -16627,7 +16605,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||stats.dmail.co.nz^
 ||stats.dmarcdigests.com^
 ||stats.doana-r.com^
-||stats.domhabersack.com^
 ||stats.doors.live^
 ||stats.dotnetos.org^
 ||stats.dotplan.io^
@@ -16687,7 +16664,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||stats.galeb.org^
 ||stats.galleriacortona.com^
 ||stats.gbc.uk^
-||stats.genoplev.dk^
 ||stats.geobox.app^
 ||stats.gerard.fun^
 ||stats.gesund-vital-lebensfreude.com^
@@ -16909,7 +16885,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||stats.polekatfitness.com^
 ||stats.poochplaces.dog^
 ||stats.portalmonitor.io^
-||stats.portalzero.net^
 ||stats.postcollectors.com^
 ||stats.poweringpastcoal.org^
 ||stats.preeventualist.org^
@@ -16947,7 +16922,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||stats.revitfamily.app^
 ||stats.rideinpeace.ie^
 ||stats.rightourhistoryhawaii.com^
-||stats.robhope.com^
 ||stats.robotika.ax^
 ||stats.rocketvalidator.com^
 ||stats.roderickduenas.com^
@@ -16963,7 +16937,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||stats.scailable.net^
 ||stats.scalesql.com^
 ||stats.scottbartell.com^
-||stats.screen-play.app^
 ||stats.screenagers.com^
 ||stats.screenwavemedia.com^
 ||stats.seanbailey.dev^
@@ -17559,7 +17532,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||adobeanalytics.easi.com^
 ||adobeanalytics.geico.com^
 ||adobeanalytics.gettinghired.com^
-||adobeanalytics.girlscouts.org^
 ||adobeanalytics.medline.com^
 ||adobeanalytics.mlaglobal.com^
 ||adobeanalytics.populusgroup.com^
@@ -19034,7 +19006,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||mdws.sdcu.com^
 ||mdws.shellcu.com^
 ||mdws.southwestcu.com^
-||mdws.sprucecu.bc.ca^
 ||mdws.stellamariscreditu.com^
 ||mdws.stridecu.ca^
 ||mdws.sudburycu.com^
@@ -20602,7 +20573,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||metrix.avon.uk.com^
 ||metrix.publix.com^
 ||metrix.youravon.com^
-||minerva.healthcommunities.com^
 ||mix-omniture.rbs.com^
 ||mixomniture.rbs.com^
 ||mktg.aa.f5.com^
@@ -21535,7 +21505,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||sanalytics.verizonenterprise.com^
 ||sanalytics.verizonwireless.com^
 ||sanalytics.visible.com^
-||sanalytics.warnermediasales.co.uk^
 ||sanalytics.warnertv.de^
 ||sanalytics.warnertv.fr^
 ||sanalytics.warnertv.pl^
@@ -21571,8 +21540,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||sanl.footlocker.pl^
 ||sanl.footlocker.pt^
 ||sanl.footlocker.se^
-||sanl.sidestepstore.be^
-||sanl.sidestepstore.es^
 ||sanl.six02.com^
 ||sanmet.originenergy.com.au^
 ||sappmetrics.sprint.com^
@@ -23432,7 +23399,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||smetrics.maplesoft.com^
 ||smetrics.marathonthegame.com^
 ||smetrics.marcus.com^
-||smetrics.maritimeintelligence.informa.com^
 ||smetrics.markandgraham.ca^
 ||smetrics.markandgraham.com^
 ||smetrics.markantalo.fi^
@@ -23893,7 +23859,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||smetrics.pflege-onkologie.de^
 ||smetrics.pgford.ca^
 ||smetrics.pgi.com^
-||smetrics.pharmaintelligence.informa.com^
 ||smetrics.phesgo.com^
 ||smetrics.phoenix.edu^
 ||smetrics.phoenixinwest.de^
@@ -25720,7 +25685,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||sstats.paloaltonetworks.com^
 ||sstats.paymypremiums.com^
 ||sstats.paypal-metrics.com^
-||sstats.perficientdigital.com^
 ||sstats.pitchfork.com^
 ||sstats.portauthorityclothing.com^
 ||sstats.postechnologygroup.com^
@@ -26234,7 +26198,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||sw88.espnplayer.com^
 ||sw88.foxtv.es^
 ||sw88.foxtv.pt^
-||sw88.foxtv.rs^
 ||sw88.freeform.com^
 ||sw88.fxchannel.pl^
 ||sw88.fxnetworks.com^
@@ -30023,10 +29986,7 @@ abema.tv##+js(rmnt, script, NREUM)
 ||lyonsdown.actonservice.com^
 ||m-m.actonservice.com^
 ||m.acmgloballab.com^
-||m.evolutiondigital.com^
 ||m.smartmatch.email^
-||m.transfix.io^
-||m.unitedmedicareadvisors.com^
 ||m.vistaresourcegroup.com^
 ||m2t.actonservice.com^
 ||ma.a3.se^
@@ -30147,7 +30107,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||marketing.alphastarcm.com^
 ||marketing.alsearsmd.com^
 ||marketing.am.jll.com^
-||marketing.amalto.com^
 ||marketing.americanairlinescenter.com^
 ||marketing.americanbathgroup.com^
 ||marketing.americanweathertechsoffers.com^
@@ -32301,21 +32260,10 @@ abema.tv##+js(rmnt, script, NREUM)
 ||ww2.ads-on-line.com^
 ||ww2.businessgrouphealth.org^
 ||ww2.vinhwellness.com^
-||www.absolutelybryce.com^
-||www.anritsu-apsr-response.com^
-||www.bca.auto^
-||www.bcaeurope.eu^
-||www.continuenow.miami.edu^
-||www.globalinfoportal.com^
 ||www.healthcare-distribution.com^
-||www.info.dotvox.com^
-||www.marketing-bmiimaging.com^
 ||www.marketing.aftermath.com^
 ||www.marketing.linguamatics.com^
-||www.marketing.notifymd.com^
-||www.paydashboardinfo.com^
 ||www.solutions.claremontcompanies.com^
-||www.wescam.info^
 ||www1.cynergysolutions.net^
 ||www1.mcsrentalsoftware.com^
 ||www1.symmons.com^
@@ -33011,7 +32959,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||tr.clients.europrogres.fr^
 ||tr.clients.gemy.fr^
 ||tr.clients.idaia.group^
-||tr.clients.yellow-agence-internet.com^
 ||tr.cnaf.espmp-nifr.net^
 ||tr.cogedim.espmp-agfr.net^
 ||tr.collectif.groupe-vyv.fr^
@@ -33188,7 +33135,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||tr.emc.moethennessy.com^
 ||tr.enedis-infos.fr^
 ||tr.enews.customsolutions.fr^
-||tr.enquete-cpf.ifop.com^
 ||tr.enquetes.actionlogement.fr^
 ||tr.entreprise-pro.info^
 ||tr.entreprise.axa.fr^
@@ -33431,7 +33377,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||tr.melhores-propostas.pt^
 ||tr.membres.boursorama.info^
 ||tr.mep.enkiapp.io^
-||tr.merit-summit.com^
 ||tr.mes-bonsplans.be^
 ||tr.mes-prestataires.fr^
 ||tr.message.maaf.fr^
@@ -33751,7 +33696,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||tr.politicolive.eu^
 ||tr.politicomarketing.eu^
 ||tr.portail.afpa.fr^
-||tr.premierembatour.com^
 ||tr.prevention.harmonie-mutuelle.fr^
 ||tr.preventivo.risparmiazienda.it^
 ||tr.pro-renov.be^
@@ -33849,7 +33793,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||tr.uk.icicibank.com^
 ||tr.uk.katun.com^
 ||tr.unaoffertaalgiorno.com^
-||tr.unimy-beyond.com^
 ||tr.update.groupon.be^
 ||tr.urfk.espmp-agfr.net^
 ||tr.urfk02r.espmp-nifr.net^
@@ -34137,7 +34080,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||bqoulb.nowo.pt^
 ||bqvndd.ifood.com.br^
 ||brgrwd.dansko.com^
-||brizxe.dior.com^
 ||brjjkd.calzedonia.com^
 ||brqory.notino.sk^
 ||brycys.24mx.se^
@@ -34409,7 +34351,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||dwtpxq.karaca-home.com^
 ||dxpxgy.jdsports.com^
 ||dyghye.fashionesta.com^
-||dynamic-content.croquetteland.com^
 ||dyqebg.aboutyou.hr^
 ||dysbvu.bodyandfit.com^
 ||dyzmpx.speedway.fr^
@@ -34616,7 +34557,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||fudezz.gridoto.com^
 ||fudezz.kompas.com^
 ||fudezz.kompas.tv^
-||fudezz.kompasiana.com^
 ||fudezz.motorplus-online.com^
 ||fudezz.sonora.id^
 ||fufbgj.pazzo.com.tw^
@@ -35781,7 +35721,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||qfwfbo.decofurnsa.co.za^
 ||qgbnjd.coches.net^
 ||qgmikp.fleurdumal.com^
-||qgscbx.renote.jp^
 ||qgumjp.asiae.co.kr^
 ||qgumjp.joins.com^
 ||qgutin.crocs.co.kr^
@@ -37521,7 +37460,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||cenbrandlab.acspubs.org^
 ||cenjobs.acspubs.org^
 ||challengeh.carte-gr.total.fr^
-||channel.arubanetworks.com^
 ||channel.cummins.com^
 ||channel.informaengage.com^
 ||channelevents.partnermcafee.com^
@@ -38785,7 +38723,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||go.wacom.com^
 ||go.west.com^
 ||go.www4.earlywarning.com^
-||go.yescomusa.com^
 ||go.zendesk.com^
 ||go2.kofax.com^
 ||go2.mathworks.com^
@@ -40561,7 +40498,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||seminte.pioneer.com^
 ||sendmoney.americanexpress.co.uk^
 ||seniorlifestyles.amica.ca^
-||sensors.balluff.com^
 ||sentiment.icis.com^
 ||service.athlon.com^
 ||service.bechtle.com^
@@ -42461,7 +42397,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ! 
 ||0sbm.consobaby.co.uk^
 ||16ao.mathon.fr^
-||1bva.societegenerale.fr^
 ||1ctc.sfr.fr^
 ||2efj.economies.cheque-dejeuner.com^
 ||2efj.up.coop^
@@ -42797,7 +42732,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||o68c.sfr.fr^
 ||oae6.carrefour-banque.fr^
 ||oal2.destinia.co.uk^
-||oek7.april-moto.com^
 ||ogb2.biopur-leanature.fr^
 ||ogb2.biovie.com^
 ||ogb2.eauthermalejonzac.com^
@@ -42949,8 +42883,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||wnd2.destinia.cat^
 ||wph2.destinia.us^
 ||www.dataholics.tech^
-||www.fasttrack.fr^
-||www.fasttracker.fr^
 ||xay5o.toscane-boutique.fr^
 ||xjq5.belambra.be^
 ||xuc.monteleone.fr^
@@ -44951,7 +44883,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||app.pandasuite.io^
 ||app.panomoments.com^
 ||app.pawsket.com^
-||app.payk.com.au^
 ||app.payomatic.com^
 ||app.payon.mn^
 ||app.pdf.ac^
@@ -45272,10 +45203,8 @@ abema.tv##+js(rmnt, script, NREUM)
 ||bnc.findlife.com.tw^
 ||bnc.luxurysportsrelocation.com^
 ||bnc.mksp.io^
-||bnc.nakedhub.cn^
 ||bnc.oustme.com^
 ||bnc.squaretrade.com^
-||bnc.test.nakedhub.cn^
 ||bnc.thewaya.com^
 ||bnc.tripcody.com^
 ||book.londonsoundacademy.com^
@@ -45748,7 +45677,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||dev-link.aira.io^
 ||dev-link.getprizepool.com^
 ||dev-link.myoptimity.com^
-||dev-links.notarize.com^
 ||dev-share.beaconlearningapp.com^
 ||dev-share.haloedapp.com^
 ||dev-share.smartfashion.ai^
@@ -46418,7 +46346,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||go.panda-click.com^
 ||go.panda.sa^
 ||go.parents.mingle.com^
-||go.payr.app^
 ||go.peak.net^
 ||go.petmire.com^
 ||go.piccolo.mobi^
@@ -46762,7 +46689,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||l.itribe.in^
 ||l.jayshetty.me^
 ||l.kodika.io^
-||l.lottery.com^
 ||l.lyfshort.com^
 ||l.m.tradiecore.com.au^
 ||l.mydoki.app^
@@ -46982,7 +46908,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||link.email.almosafer.com^
 ||link.email.bnext.es^
 ||link.email.myfitnesspal.com^
-||link.email.ninetynine.com^
 ||link.email.soothe.com^
 ||link.email.tajawal.com^
 ||link.emblyapp.com^
@@ -47229,7 +47154,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||link.point.app^
 ||link.poputi.coffee^
 ||link.portal.icanbwell.com^
-||link.possiblefinance.com^
 ||link.pray.com^
 ||link.prenuvo.com^
 ||link.prokure.it^
@@ -47675,35 +47599,29 @@ abema.tv##+js(rmnt, script, NREUM)
 ||m-test.papertrail.io^
 ||m.aecrimecentral.com^
 ||m.aetv.com^
-||m.alto.com^
 ||m.bell.ca^
 ||m.bigroad.com^
 ||m.bitmo.com^
 ||m.bookis.com^
 ||m.brain.ai^
-||m.brandbassador.com^
 ||m.d11.io^
 ||m.dagym-manager.com^
 ||m.dq.ca^
 ||m.dq.com^
-||m.enlivenhaircare.my^
 ||m.equinoxplus.com^
 ||m.fontself.com^
-||m.food.sb^
 ||m.fyi.tv^
 ||m.giftry.com^
 ||m.go4.io^
 ||m.happ.social^
 ||m.history.com^
 ||m.historyvault.com^
-||m.icares.app^
 ||m.ioicommunity.com.my^
 ||m.irl.com^
 ||m.irlmail.org^
 ||m.jarvisinvest.com^
 ||m.kaikuhealth.com^
 ||m.lifetimemovieclub.com^
-||m.lssquare.com^
 ||m.luckym.ca^
 ||m.moomoo.com^
 ||m.mylifetime.com^
@@ -47714,10 +47632,8 @@ abema.tv##+js(rmnt, script, NREUM)
 ||m.papertrail.io^
 ||m.pcmobile.ca^
 ||m.petmire.com^
-||m.plateiq.com^
 ||m.providers.alto.com^
 ||m.realself.com^
-||m.reunionliveseafood.my^
 ||m.rifird.com^
 ||m.riipay.my^
 ||m.rsvy.io^
@@ -47725,13 +47641,10 @@ abema.tv##+js(rmnt, script, NREUM)
 ||m.shopprecouriers.com^
 ||m.shoppreparcels.com^
 ||m.showaddict.com^
-||m.spaceplus.my^
-||m.staging.plateiq.com^
 ||m.suda.io^
 ||m.topya.com^
 ||m.varagesale.com^
 ||m.vpc.ca^
-||m.washmen.com^
 ||m.wishmindr.com^
 ||m1.stadiumgoods.com^
 ||m2.washmen.com^
@@ -48200,7 +48113,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||share.talkit.app^
 ||share.tessie.com^
 ||share.theladbible.com^
-||share.theloopapp.org^
 ||share.titanvest.com^
 ||share.tops.co.th^
 ||share.tornado.com^
@@ -48476,7 +48388,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||uptvmovies.uptv.com^
 ||ur.b.inhaabit.com^
 ||url.density.exchange^
-||url.ultimax.cf^
 ||url1020.keycollectorcomics.com^
 ||url1445.affirm.com^
 ||url1451.careerkarma.info^
@@ -48698,7 +48609,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||ss.photospecialist.de^
 ||statistic2.reichelt.de^
 ||statistics.riskommunal.net^
-||statistik.mitmischen.de^
 ||stats.autoscout24.ch^
 ||stats.rocketbeans.tv^
 ||stats.sumikai.com^
@@ -48812,10 +48722,10 @@ abema.tv##+js(rmnt, script, NREUM)
 ||easeus.com/default/js/aff_buy_tracking.js
 ||ecranlarge.com/stat
 ||email.nautiljon.com/oo/$image
-||eum2.caisse-epargne.fr^
 ||events-logs.doctolib.com^
 ||flow.kiloutou.fr^
 ||fourchette-et-bikini.fr/core/modules/statistics/
+||fr.shopping.rakuten.com/rakuten-static-deliver/mob/*/js/track.js
 ||fsm.lapresse.ca^
 ||gamergen.com/ajax/actualites/addVue
 ||hits.porn.fr^
@@ -48861,7 +48771,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||serv.letudiant.fr^
 ||shemsfm.net/ar/setStats/
 ||shemsfm.net/fr/setStats/
-||shopping.rakuten.com/rakuten-static-deliver/mob/*/js/track.js
 ||sncf-connect.com/apm
 ||sncf-connect.com/bff/api/v1/t/events
 ||space-blogs.net/include/counter/
@@ -48916,7 +48825,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||alicdn.com/f/pcdn/i.php?
 ||ams.lelong.com.my^
 ||analytics-gw.games.wanmei.com^
-||analytics.126.net^
 ||analytics.163.com^
 ||analytics.cnblogs.com^
 ||analytics.oceanengine.com^
@@ -48963,6 +48871,7 @@ abema.tv##+js(rmnt, script, NREUM)
 ||gentian-frd.hjapi.com^
 ||gia.jd.com^
 ||gk.sina.cn^
+||h5.analytics.126.net^
 ||h5log.zongheng.com^
 ||hisense.com/ta.js
 ||hktvmall.com/api/event
@@ -48982,7 +48891,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||js.ea3w.com/pv.js
 ||kn007.net/snmp.php
 ||le.com/op/
-||log.aliyuncs.com^
 ||log.bitauto.com^
 ||log.flight.qunar.com^
 ||log.m.sm.cn^
@@ -49108,7 +49016,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||track.tom.com^
 ||trackcommon.hujiang.com^
 ||tracker.ai.xiaomi.com^
-||trackjay.cool3c.com^
 ||trail.53kf.com^
 ||uestat.video.qiyi.com^
 ||utrack.hexun.com^
@@ -49152,12 +49059,10 @@ abema.tv##+js(rmnt, script, NREUM)
 ||cc.dalten.cz^
 ||jslog.post.cz^
 ||o2.cz^*-ga_o2cz_bundle.js?
-||report.novinky.cz^
 ||stat.super.cz^
 ||statistics.csob.cz^
 ! Dutch
 ||2dehands.be/px/
-||aa.hwigroup.com^$domain=hardware.info
 ||analytics.rambla.be^
 ||api.rtl.nl/monitoring/
 ||bc34.wijnvoordeel.nl^
@@ -49335,7 +49240,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ||ppcdn.it/iol/tracklib.3.js
 ||raiplay.it/tracking/
 ||repstatic.it^*/nielsen_static_mapping_repubblica_
-||sa.sky.it^
 ||seat.it/cgi-bin/getcod.cgi?
 ||servizi.unionesarda.it/controlli/
 ||smsaffari.it/count_new.php?
@@ -49779,7 +49683,6 @@ abema.tv##+js(rmnt, script, NREUM)
 ! Swedish
 ||aftonbladet.se/cnp-assets/glimr-sdk.js
 ||ai.idg.se^
-||analytics.elx.cloud^
 ||ax.idg.se^
 ||blocket.se/js/trafikfonden.js
 ||falkenbergtorget.se/sc.gif?
@@ -49919,6 +49822,7 @@ abema.tv##+js(rmnt, script, NREUM)
 @@||cohesionapps.com/cohesion/$domain=bankrate.com|frontier.com
 @@||cohesionapps.com/preamp/$subdocument,xmlhttprequest,domain=frontier.com
 @@||collusion.com/static/newrelic.js$script,~third-party
+@@||commerce.adobe.io^$xmlhttprequest,domain=superbrightleds.com
 @@||community.brave.com/t/$xmlhttprequest
 @@||connatix.com/min/connatix.renderer.infeed.min.js$domain=accuweather.com|collider.com|gamepress.gg|salon.com
 @@||console.statsig.com/_next/$~third-party
@@ -49988,7 +49892,7 @@ abema.tv##+js(rmnt, script, NREUM)
 @@||js.monitor.azure.com/scripts/$script,domain=genya.it|microsoft.com|rubex.efilecabinet.net
 @@||js.sentry-cdn.com^$script,domain=app.homebinder.com|book.dmm.com|etsy.com|interacty.me|jobs.ch|pizzahut.com.au
 @@||jsrdn.com/s/$script,domain=distro.tv
-@@||kameleoon.eu/kameleoon.js$script,domain=buttercloth.com
+@@||kameleoon.eu/kameleoon.js$script,domain=buttercloth.com|jules.com
 @@||kaptcha.com/collect/sdk?$domain=palmettostatearmory.com|wyze.com
 @@||kaxsdc.com/collect/sdk$xmlhttprequest,domain=vanillaereward.com
 @@||kohls.com/ecustservice/js/sitecatalyst.js$script,~third-party
@@ -50009,6 +49913,7 @@ abema.tv##+js(rmnt, script, NREUM)
 @@||logging.apache.org^$~third-party
 @@||logo.clearbit.com^$image,third-party
 @@||lr-ingest.io/LogRocket.min.js$domain=smartcare.com
+@@||magento-recs-sdk.adobe.net/v2/index.js$script,domain=superbrightleds.com
 @@||mapquestapi.com/logger/$domain=hertz.com
 @@||maptiles.ping-admin.ru^$image,domain=ping-admin.com
 @@||matomo.miraheze.org/matomo.js$script,~third-party
@@ -50128,6 +50033,7 @@ abema.tv##+js(rmnt, script, NREUM)
 @@||thomas.co/sites/default/files/google_tag/primary/google_tag.script.js$script,~third-party
 @@||tinypass.com^*/logAutoMicroConversion?$domain=chicago.suntimes.com
 @@||tms.oracle.com/main/prod/utag.sync.js$~third-party
+@@||tntdrama.com/modules/custom/ten_video/js/analytics_v2.js$~third-party
 @@||tokbox.com/prod/logging/ClientEvent$domain=examroom.ai
 @@||toyota.com/recall/static/js/custom/facebookPixel.js$~third-party
 @@||traceparts.com/lib/piano-analytics/piano-analytics.js$script,~third-party
