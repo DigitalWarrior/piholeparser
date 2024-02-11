@@ -1,10 +1,2 @@
-analytics.metro.pk
-engage.3m.com.pk
-invite-test.sadapay.pk
-invite.sadapay.pk
-marketing.net.daraz.pk
-smetrics.marketing.lighting.philips.com.pk
-smetrics.medxperts.pk
-smetrics.pwc.com.pk
 adclick.pk
 resonance.pk

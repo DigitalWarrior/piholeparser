@@ -1,7 +1,1 @@
-app.belbet.by
-omn.rockwool.by
-pudalz.gismeteo.by
-eyes.by
-infra.by
-www.eyes.by
-www.infra.by
+buyeasy.by

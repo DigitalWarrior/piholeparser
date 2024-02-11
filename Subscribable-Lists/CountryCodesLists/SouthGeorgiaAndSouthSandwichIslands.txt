@@ -1,1 +1,1 @@
-my.showin.gs
+pnd.gs

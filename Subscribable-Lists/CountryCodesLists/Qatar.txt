@@ -1,7 +1,2 @@
 cvi6.destinia.qa
-engage.3m.com.qa
-smetrics.qatarairways.com.qa
-smetrics.vodafone.qa
-vpmdiq.propertyfinder.qa
-cvi6.destinia.qa
 link.pulse.qa

@@ -1,12 +1,4 @@
-direct-events-collector.spot.im
-event-stream.spot.im
-i.shelf.im
-log-api.cli.im
-metrics-logger.spot.im
-pix.spot.im
-stats.frantic.im
-t.spot.im
-visitor-microservice.ext.p-a.im
+ngegas.files.im
 ae.etr.im
 aim.etr.im
 et1.etr.im

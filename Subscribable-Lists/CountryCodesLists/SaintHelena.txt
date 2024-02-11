@@ -1,5 +1,5 @@
-get.weme.sh
-go.rate.sh
-hht8m6w8mnug.quine.sh
-meter.bref.sh
-plausible.bearer.sh
+ad.kisscartoon.sh
+epu.sh
+nativepu.sh
+propu.sh
+wpu.sh

@@ -1,4 +1,2 @@
-analytics.midas.re
-g.pathsha.re
-g.staging.pathsha.re
-tk.airfrance.re
+adsco.re
+starszoom.re

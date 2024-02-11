@@ -1,3 +1,1 @@
-stats.connect.pm
-stats.staging.hex.pm
 wfthumty.pm

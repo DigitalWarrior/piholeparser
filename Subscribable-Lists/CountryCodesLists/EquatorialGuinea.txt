@@ -1,2 +1,1 @@
-fgame.gq
-www.fgame.gq
+onerror.gq

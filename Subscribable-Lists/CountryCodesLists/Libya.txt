@@ -1,11 +1,2 @@
-analytics.adobe.ly
-app.brain.ly
-app.nursef.ly
-b.whee.ly
-data.minute.ly
-get.mndbdy.ly
-invite.juke.ly
-lnk.raceful.ly
-rjg2.destinia.ly
 enterprise-go.generalassemb.ly
 rjg2.destinia.ly

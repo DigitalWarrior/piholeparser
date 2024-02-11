@@ -1,14 +1,2 @@
-crm.toyotago.com.ec
-engage.3m.com.ec
-marketing.tsc.com.ec
-marketing.urbanprojects.ec
-smetrics.bayer.ec
-smetrics.pwc.ec
-smetrics.sony.com.ec
-tr.mail.cdiscount.com.ec
-trk.blueband.com.ec
-trk.bonella.com.ec
-trk.info.puntonet.ec
-ysl3.destinia.ec
 diners.servicios.com.ec
 discover.servicios.com.ec

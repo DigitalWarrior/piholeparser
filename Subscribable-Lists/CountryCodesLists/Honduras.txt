@@ -1,9 +1,1 @@
 prf.hn
-beneficios.davivienda.hn
-data.comunicaciones.ficohsa.hn
-data.comunicaciones.solvenza.hn
-data.info.solvenza.hn
-engage.3m.com.hn
-smetrics.amway.com.hn
-smetrics.elgallomasgallo.com.hn
-smetrics.sony.com.hn

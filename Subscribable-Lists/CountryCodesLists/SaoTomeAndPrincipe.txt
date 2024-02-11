@@ -1,8 +1,2 @@
 adr.st
-adebis.juku.st
-adebis02.juku.st
-analytics.shorte.st
-br.sprbl.st
-link.qanva.st
-t.av.st
-t.kck.st
+affili.st

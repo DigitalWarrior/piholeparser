@@ -1,3 +1,1 @@
-digital.bebold.cx
-snowplowjs.darwin.cx
-tw.cx
+adf.uhn.cx

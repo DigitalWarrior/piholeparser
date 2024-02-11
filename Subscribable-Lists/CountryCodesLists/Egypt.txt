@@ -1,11 +1,1 @@
-engage.3megypt.com.eg
-metric.vodafone.com.eg
-metrics.vodafone.com.eg
-mud4.destinia.com.eg
-net.jumia.com.eg
-smetrics.kone.eg
-smetrics.marketing.lighting.philips.com.eg
-smetrics.schindler.eg
-spt.ahram.org.eg
-zgfilz.propertyfinder.eg
 mud4.destinia.com.eg

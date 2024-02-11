@@ -1,4 +1,2 @@
 brand.ad
-smetrics.pwc.ad
-wt.ara.ad
 bonzai.ad

@@ -1,13 +1,3 @@
 jade.rxi.cat
 proxiteer.patatabrava.cat
 server.gay.cat
-adtarget.fcbarcelona.cat
-audiencies.ccma.cat
-ebis.rabo.cat
-metrics.ccma.cat
-sadbmetrics.pisos.cat
-smetrics.ccma.cat
-smetrics.fcbarcelona.cat
-wnd2.destinia.cat
-wt.ara.cat
-wt.arabalears.cat

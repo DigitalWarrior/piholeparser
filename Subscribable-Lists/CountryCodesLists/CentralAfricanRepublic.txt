@@ -1632,6 +1632,5 @@ ythgfhgdf.cf
 ytprox.cf
 zzproxy.cf
 zzzproxy.cf
-app.cmnet.cf
-url.ultimax.cf
-window-close.cf
+onerror.cf
+replase.cf
