@@ -7,18 +7,18 @@ ____________________________________
 ## Setting Temporary Parsing Variables
 ## Checking If Multiple Sources
 ## Checking If Multiple Sources
-## The Source In The File To Download Is
-## The Source In The File To Download Is
 ## Checking If Multiple Sources
-## Checking For HTTPS
-## Checking For HTTPS
 ## The Source In The File To Download Is
-## Checking For Existing Mirror File
-## Checking For Existing Mirror File
+## The Source In The File To Download Is
+## The Source In The File To Download Is
 ## Checking For HTTPS
-## Pinging Source To Check Host Availability
-## Pinging Source To Check Host Availability
+## Checking For HTTPS
+## Checking For HTTPS
 ## Checking For Existing Mirror File
+## Checking For Existing Mirror File
+## Checking For Existing Mirror File
+## Pinging Source To Check Host Availability
+## Pinging Source To Check Host Availability
 ## Pinging Source To Check Host Availability
 ## Checking If List Updated Online
 ## Checking If List Updated Online
@@ -32,6 +32,7 @@ ____________________________________
 ## Checking File Size
 ## Checking File Size
 ## Attempting Creation Of Mirror File
+* Internet-Assigned-Numbers-Authority List Was An Empty File After Download. Mon Feb 12 00:20:15 MST 2024
 ## Attempting Creation Of Mirror File
 ## Clearing Temp Vars
 ## Clearing Temp Vars

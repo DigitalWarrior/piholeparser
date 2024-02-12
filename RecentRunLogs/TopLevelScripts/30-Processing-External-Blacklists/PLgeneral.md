@@ -7,19 +7,26 @@ ____________________________________
 ## Checking For Existing Mirror File
 ## Checking For Github Mirror File
 ## Checking For Existing Parsed File
+### Removing Comments
 ## Checking If Multiple Sources
+180 Lines After Removing Comments
+### Removing Content Filtering
 ## The Source In The File To Download Is
+180 Lines After Removing Content Filtering
 ## Checking For HTTPS
+### Trimming HOSTS Format IP Addresses
 ## Pinging Source To Check Host Availability
+180 Lines After Trimming HOSTS Format IP Addresses
+### Removing Empty Space
+178 Lines After Removing Empty Space
+### Removing Invalid FQDN Characters
+13 Lines After Removing Invalid FQDN Characters
+### Converting All Text To Lower Case
+13 Lines After Converting All Text To Lower Case
+### Checking For Fully Qualified Domain Name Requirements
+13 Lines After Checking For Fully Qualified Domain Name Requirements
+### Reverse Searching For Invalid Top Level Domains
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
-## Determining Download Attempt
-## Attempting To Download List
-## Checking File Size
-## Attempting Creation Of Mirror File
-## Parsing List
-## Checking Parsed File Size
-## Attempting Creation Of Parsed List
-## Calculating Parse Time
-## Clearing Temp Vars
+0 Lines After Reverse Searching For Invalid Top Level Domains

@@ -1,34 +1,34 @@
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
-____________________________________
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-# 
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-### Checking For Old TempVars File.
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
-* Old TempVars File Purged.
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
-
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
+____________________________________
+# 
 # 
 ### Checking For Old TempVars File.
-### Checking For Other Temp Vars Files.
+### Checking For Old TempVars File.
 * Old TempVars File Purged.
-* Other Temp Vars Files Purged.
+* Old TempVars File Not Present.
 
 
 ### Checking For Other Temp Vars Files.
-### Checking For TempVars File.
+### Checking For Other Temp Vars Files.
 * Other Temp Vars Files Purged.
-* TempVars File Recreated.
-
-### Checking For TempVars File.
-* TempVars File Recreated.
+* Other Temp Vars Files Purged.
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
 ____________________________________
+### Checking For TempVars File.
+### Checking For TempVars File.
 # 
+* TempVars File Recreated.
+* TempVars File Recreated.
 ### Checking For Old TempVars File.
 * Old TempVars File Purged.
 

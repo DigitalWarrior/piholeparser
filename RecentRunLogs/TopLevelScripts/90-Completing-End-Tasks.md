@@ -2,107 +2,52 @@
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
 # 
-## Calculating Average Parsing Time Sun Feb 11 00:24:11 MST 2024
+## Calculating Average Parsing Time Mon Feb 12 00:25:56 MST 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/10-Calculating-Average-Parsing-Time.md)
 
-## Calculating Average Parsing Lines Sun Feb 11 00:24:11 MST 2024
-Process Took 1 Seconds.
+## Calculating Average Parsing Lines Mon Feb 12 00:25:56 MST 2024
+Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/15-Calculating-Average-Parsing-Lines.md)
 
-## Calculating Total Runtime Of Script Sun Feb 11 00:24:12 MST 2024
+## Calculating Total Runtime Of Script Mon Feb 12 00:25:56 MST 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/20-Calculating-Total-Runtime-Of-Script.md)
 
-## Calculating TLD Percentages Sun Feb 11 00:24:12 MST 2024
+## Calculating TLD Percentages Mon Feb 12 00:25:56 MST 2024
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
 # 
-## Calculating Average Parsing Time Sun Feb 11 00:24:53 MST 2024
+## Calculating Average Parsing Time Mon Feb 12 00:26:05 MST 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/10-Calculating-Average-Parsing-Time.md)
 
-## Calculating Average Parsing Lines Sun Feb 11 00:24:53 MST 2024
+## Calculating Average Parsing Lines Mon Feb 12 00:26:05 MST 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/15-Calculating-Average-Parsing-Lines.md)
 
-## Calculating Total Runtime Of Script Sun Feb 11 00:24:53 MST 2024
+## Calculating Total Runtime Of Script Mon Feb 12 00:26:05 MST 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/20-Calculating-Total-Runtime-Of-Script.md)
 
-## Calculating TLD Percentages Sun Feb 11 00:24:53 MST 2024
-Process Took 42 Seconds.
+## Calculating TLD Percentages Mon Feb 12 00:26:05 MST 2024
+Process Took 13 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/65-Calculating-TLD-Percentages.md)
 
-## Looking At What Did Not Pass TLD Test Sun Feb 11 00:24:54 MST 2024
+## Looking At What Did Not Pass TLD Test Mon Feb 12 00:26:09 MST 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/68-Looking-At-What-Did-Not-Pass-TLD-Test.md)
 
-## Adjusting README Sun Feb 11 00:24:54 MST 2024
+## Adjusting README Mon Feb 12 00:26:09 MST 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/70-Adjusting-README.md)
 
-## Removing Temporary Script Files Sun Feb 11 00:24:54 MST 2024
+## Removing Temporary Script Files Mon Feb 12 00:26:09 MST 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/75-Removing-Temporary-Script-Files.md)
 
-## Pushing Lists To Locally Hosted Location Sun Feb 11 00:24:54 MST 2024
-Process Took 0 Seconds.
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/80-Pushing-Lists-To-Locally-Hosted-Location.md)
-
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-____________________________________
-# 
-## Calculating Average Parsing Time Sun Feb 11 00:25:12 MST 2024
-Process Took 0 Seconds.
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/10-Calculating-Average-Parsing-Time.md)
-
-## Calculating Average Parsing Lines Sun Feb 11 00:25:12 MST 2024
-Process Took 0 Seconds.
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/15-Calculating-Average-Parsing-Lines.md)
-
-## Calculating Total Runtime Of Script Sun Feb 11 00:25:12 MST 2024
-Process Took 0 Seconds.
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/20-Calculating-Total-Runtime-Of-Script.md)
-
-## Calculating TLD Percentages Sun Feb 11 00:25:12 MST 2024
-Process Took 50 Seconds.
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/65-Calculating-TLD-Percentages.md)
-
-## Looking At What Did Not Pass TLD Test Sun Feb 11 00:25:43 MST 2024
-Process Took 1 Seconds.
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/68-Looking-At-What-Did-Not-Pass-TLD-Test.md)
-
-## Adjusting README Sun Feb 11 00:25:44 MST 2024
-Process Took 0 Seconds.
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/70-Adjusting-README.md)
-
-## Removing Temporary Script Files Sun Feb 11 00:25:44 MST 2024
-Process Took 0 Seconds.
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/75-Removing-Temporary-Script-Files.md)
-
-## Pushing Lists To Locally Hosted Location Sun Feb 11 00:25:44 MST 2024
-Process Took 0 Seconds.
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/80-Pushing-Lists-To-Locally-Hosted-Location.md)
-
-Process Took 51 Seconds.
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/65-Calculating-TLD-Percentages.md)
-
-## Looking At What Did Not Pass TLD Test Sun Feb 11 00:26:03 MST 2024
-Process Took 0 Seconds.
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/68-Looking-At-What-Did-Not-Pass-TLD-Test.md)
-
-## Adjusting README Sun Feb 11 00:26:03 MST 2024
-Process Took 0 Seconds.
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/70-Adjusting-README.md)
-
-## Removing Temporary Script Files Sun Feb 11 00:26:03 MST 2024
-Process Took 0 Seconds.
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/75-Removing-Temporary-Script-Files.md)
-
-## Pushing Lists To Locally Hosted Location Sun Feb 11 00:26:03 MST 2024
+## Pushing Lists To Locally Hosted Location Mon Feb 12 00:26:09 MST 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/80-Pushing-Lists-To-Locally-Hosted-Location.md)
 
