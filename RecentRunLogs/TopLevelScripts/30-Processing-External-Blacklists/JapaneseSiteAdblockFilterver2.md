@@ -6,11 +6,7 @@ ____________________________________
 ## Setting Temporary Parsing Variables
 ## Checking For Existing Mirror File
 ## Checking For Github Mirror File
-### Punycode Translate
- Lines After Punycode Translate
-### Removing Duplicate Lines
 ## Checking For Existing Parsed File
- Lines After Removing Duplicate Lines
 ## Checking If Multiple Sources
 ## The Source In The File To Download Is
 ## Checking For HTTPS
@@ -23,4 +19,46 @@ ____________________________________
 ## Checking File Size
 ## Attempting Creation Of Mirror File
 ## Parsing List
+### Removing Comments
+379 Lines After Removing Comments
+### Removing Content Filtering
+379 Lines After Removing Content Filtering
+### Trimming HOSTS Format IP Addresses
+379 Lines After Trimming HOSTS Format IP Addresses
+### Removing Empty Space
+355 Lines After Removing Empty Space
+### Removing Invalid FQDN Characters
+161 Lines After Removing Invalid FQDN Characters
+### Converting All Text To Lower Case
+161 Lines After Converting All Text To Lower Case
+### Checking For Fully Qualified Domain Name Requirements
+### Removing Comments
+758 Lines After Removing Comments
+### Removing Content Filtering
+758 Lines After Checking For Fully Qualified Domain Name Requirements
+758 Lines After Removing Content Filtering
+### Reverse Searching For Invalid Top Level Domains
+### Trimming HOSTS Format IP Addresses
+758 Lines After Trimming HOSTS Format IP Addresses
+### Removing Empty Space
+710 Lines After Removing Empty Space
+### Removing Invalid FQDN Characters
+322 Lines After Removing Invalid FQDN Characters
+### Converting All Text To Lower Case
+322 Lines After Converting All Text To Lower Case
+### Checking For Fully Qualified Domain Name Requirements
+320 Lines After Checking For Fully Qualified Domain Name Requirements
+### Reverse Searching For Invalid Top Level Domains
+## Checking File Header
+## Determining Host Availability
+## Checking If List Updated Online
+638 Lines After Reverse Searching For Invalid Top Level Domains
+### Punycode Translate
+638 Lines After Punycode Translate
+### Removing Duplicate Lines
+155 Lines After Removing Duplicate Lines
 ## Checking Parsed File Size
+## Attempting Creation Of Parsed List
+## Calculating Parse Time
+## Clearing Temp Vars
+0 Lines After Reverse Searching For Invalid Top Level Domains

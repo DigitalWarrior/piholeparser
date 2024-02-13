@@ -10,7 +10,21 @@ ____________________________________
 ## Checking If Multiple Sources
 ## The Source In The File To Download Is
 ## Checking For HTTPS
+## Checking For Existing Parsed File
 ## Pinging Source To Check Host Availability
+## Checking If Multiple Sources
+## The Source In The File To Download Is
+## Checking For HTTPS
+## Pinging Source To Check Host Availability
+## Checking File Header
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
+## Determining Host Availability
+## Checking If List Updated Online
+## Determining Download Attempt
+## Attempting To Download List
+## Checking File Size
+## Attempting Creation Of Mirror File
+## Parsing List
+## Checking Parsed File Size

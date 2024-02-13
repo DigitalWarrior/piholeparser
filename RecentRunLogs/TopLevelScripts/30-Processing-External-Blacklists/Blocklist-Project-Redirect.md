@@ -14,12 +14,17 @@ ____________________________________
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
+### Removing Comments
+415941 Lines After Removing Comments
+### Removing Content Filtering
 ## Determining Download Attempt
 ## Attempting To Download List
+ Lines After Removing Content Filtering
 ## Checking File Size
+### Trimming HOSTS Format IP Addresses
+ Lines After Trimming HOSTS Format IP Addresses
+### Removing Empty Space
+0 Lines After Removing Empty Space
 ## Attempting Creation Of Mirror File
-## Parsing List
-## Checking Parsed File Size
-## Attempting Creation Of Parsed List
-## Calculating Parse Time
-## Clearing Temp Vars
+* Blocklist-Project-Redirect List Was Killed By The Parsing Process. It will be skipped in the future. Tue Feb 13 00:20:41 MST 2024
+* Blocklist-Project-Redirect List Was Killed By The Parsing Process. It will be skipped in the future. Tue Feb 13 00:20:41 MST 2024

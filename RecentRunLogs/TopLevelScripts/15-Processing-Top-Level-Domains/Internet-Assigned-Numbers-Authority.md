@@ -1,9 +1,21 @@
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
+____________________________________
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+# Internet-Assigned-Numbers-Authority
+# Internet-Assigned-Numbers-Authority
+____________________________________
+## Processing Internet-Assigned-Numbers-Authority List.
+## Processing Internet-Assigned-Numbers-Authority List.
 # Internet-Assigned-Numbers-Authority
 ## Processing Internet-Assigned-Numbers-Authority List.
+## Setting Temporary Parsing Variables
+## Setting Temporary Parsing Variables
 ## Setting Temporary Parsing Variables
 ## Checking If Multiple Sources
 ## Checking If Multiple Sources
@@ -31,11 +43,10 @@ ____________________________________
 ## Attempting To Download List
 ## Checking File Size
 ## Checking File Size
-## Attempting Creation Of Mirror File
-* Internet-Assigned-Numbers-Authority List Was An Empty File After Download. Mon Feb 12 00:20:15 MST 2024
-## Attempting Creation Of Mirror File
-## Clearing Temp Vars
-## Clearing Temp Vars
 ## Checking File Size
 ## Attempting Creation Of Mirror File
+## Attempting Creation Of Mirror File
+## Attempting Creation Of Mirror File
+## Clearing Temp Vars
+## Clearing Temp Vars
 ## Clearing Temp Vars

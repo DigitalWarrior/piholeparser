@@ -3,10 +3,3 @@
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
 ____________________________________
 # FadeMind-Dead
-## Setting Temporary Parsing Variables
-## Checking For Existing Mirror File
-## Checking For Github Mirror File
-## Checking For Existing Parsed File
-## Checking If Multiple Sources
-## Calculating Parse Time
-## Clearing Temp Vars

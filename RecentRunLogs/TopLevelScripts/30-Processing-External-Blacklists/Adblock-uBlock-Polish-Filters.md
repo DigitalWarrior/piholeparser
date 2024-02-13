@@ -14,3 +14,8 @@ ____________________________________
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
+0 Lines After Reverse Searching For Invalid Top Level Domains
+## Checking Parsed File Size
+## Attempting Creation Of Parsed List
+## Calculating Parse Time
+## Clearing Temp Vars
