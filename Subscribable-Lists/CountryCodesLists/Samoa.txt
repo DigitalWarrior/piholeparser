@@ -1,4 +1,3 @@
 antek.ws
 redirecting.ws
 zanox.ws
-a-delivery.rmbl.ws

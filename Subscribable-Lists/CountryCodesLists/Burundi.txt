@@ -1,2 +1,1 @@
-events.newsroom.bi
-smetrics.kone.bi
+www.bi

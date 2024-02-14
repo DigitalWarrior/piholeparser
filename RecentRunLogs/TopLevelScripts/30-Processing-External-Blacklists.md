@@ -492,3 +492,49 @@ List Took 2 Seconds.
 
 ## lightswitch05-ads-tracking
 ## uAssetsPrivacy
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/lightswitch05-ads-tracking.md)
+
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uAssetsPrivacy.md)
+
+## lightswitch05-tracking-aggresive
+## uBOPersonalFilters
+List Took 1 Seconds.
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/lightswitch05-tracking-aggresive.md)
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uBOPersonalFilters.md)
+
+
+## lightswith05-amp-hots
+## xorcan-Turkish-aio
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/xorcan-Turkish-aio.md)
+
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/lightswith05-amp-hots.md)
+
+## yoyo-adlist
+## uAssetsFilters
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uAssetsFilters.md)
+
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/yoyo-adlist.md)
+
+## uAssetsPrivacy
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uAssetsPrivacy.md)
+
+## uBOPersonalFilters
+List Took 0 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uBOPersonalFilters.md)
+
+## xorcan-Turkish-aio
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/xorcan-Turkish-aio.md)
+
+## yoyo-adlist
+List Took 4 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/yoyo-adlist.md)
+

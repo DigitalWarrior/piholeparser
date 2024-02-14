@@ -1,6 +1,1 @@
-analytics.wienerberger.ba
-hearob.klix.ba
-insight.olx.ba
-kampanja.bhtelecom.ba
-ot.obi.ba
-stats.faluninfo.ba
+www.ba

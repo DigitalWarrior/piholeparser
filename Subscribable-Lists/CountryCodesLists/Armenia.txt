@@ -1,9 +1,3 @@
 statigr.am
-digital.fr.am
-digital.mm.am
-digital.nl.am
-dl.am
-go.aa.am
-myspace.dre.am
-privacy.classmates.am
-proxies.am
+bittorrent.am
+www.bittorrent.am
