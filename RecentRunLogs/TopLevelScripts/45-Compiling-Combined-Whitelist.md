@@ -2,23 +2,7 @@
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
 # 
-## Compiling Combined List Tue Feb 13 00:23:47 MST 2024
-Process Took 0 Seconds.
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/45-Compiling-Combined-Whitelist/60-Compiling-Combined-List.md)
-
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-____________________________________
-# 
-## Compiling Combined List Tue Feb 13 00:23:53 MST 2024
-Process Took 0 Seconds.
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/45-Compiling-Combined-Whitelist/60-Compiling-Combined-List.md)
-
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-____________________________________
-# 
-## Compiling Combined List Tue Feb 13 00:23:53 MST 2024
+## Compiling Combined List Wed Feb 14 00:22:53 MST 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/45-Compiling-Combined-Whitelist/60-Compiling-Combined-List.md)
 
