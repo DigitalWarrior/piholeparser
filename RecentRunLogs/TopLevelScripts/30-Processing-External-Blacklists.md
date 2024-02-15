@@ -347,3 +347,39 @@ List Took 3 Seconds.
 List Took 4 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/yoyo-adlist.md)
 
+List Took 1 Minutes.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Spam-Assassin-Bill-Stearns.md)
+
+## Spam404-Domain-Blacklist
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Spam404-Domain-Blacklist.md)
+
+## TeslaCrypt-Ransomware-C2-Domain-Blocklist
+List Took 4 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/TeslaCrypt-Ransomware-C2-Domain-Blocklist.md)
+
+## TeslaCrypt-Ransomware-Payment-Sites-Domain-Blocklist
+List Took 3 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/TeslaCrypt-Ransomware-Payment-Sites-Domain-Blocklist.md)
+
+## Thoughtconverge-AdBlock-Filters
+List Took 8 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Thoughtconverge-AdBlock-Filters.md)
+
+## Turk-adlist
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Turk-adlist.md)
+
+## Tyzbit
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Tyzbit.md)
+
+## WindowsSpyBlocker
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/WindowsSpyBlocker.md)
+
+## WindowsSpyBlocker81
+List Took 3 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/WindowsSpyBlocker81.md)
+
+## XFilesHWSHarmfulWebSites
