@@ -383,3 +383,38 @@ List Took 3 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/WindowsSpyBlocker81.md)
 
 ## XFilesHWSHarmfulWebSites
+List Took 13 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/XFilesHWSHarmfulWebSites.md)
+
+## Yhonay-AntiPopAds
+List Took 3 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/Yhonay-AntiPopAds.md)
+
+## lightswitch05-ads-tracking
+List Took 8 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/lightswitch05-ads-tracking.md)
+
+## lightswitch05-tracking-aggresive
+List Took 3 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/lightswitch05-tracking-aggresive.md)
+
+## lightswith05-amp-hots
+List Took 3 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/lightswith05-amp-hots.md)
+
+## uAssetsFilters
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uAssetsFilters.md)
+
+## uAssetsPrivacy
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uAssetsPrivacy.md)
+
+## xorcan-Turkish-aio
+List Took 3 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/xorcan-Turkish-aio.md)
+
+## yoyo-adlist
+List Took 9 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/yoyo-adlist.md)
+
