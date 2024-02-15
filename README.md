@@ -2,13 +2,13 @@
 
 ### Last Run Stats
 
-* Error Setting Start Time.
-* Script Ended Wed Feb 14 00:23:17 MST 2024
-* [Error Calculating Script Run Time.](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-* Error Calculating Size of AllParsed File.
-* Average Parsing Of unknown lines in unknown BlackLists was unknown Seconds.
-* Error Setting The Amount Of Valid TLD's.
-* [Error Setting https-less Link]()
+* Script Started Thu Feb 15 00:20:14 MST 2024
+* Script Ended Thu Feb 15 00:25:02 MST 2024
+* [Script Took 4 Minutes To Filter 90 Lists. See Log Here.](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+* The Edited AllParsed File is 17 MB And Contains 750344 Domains.
+* Average Parsing Of 401143 lines in 8 BlackLists was 7.375 Seconds.
+* 1601 Valid Top Level Domains. No New TLD's.
+* [3 Lists That Do NOT Use https](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/20-Identifying-Lists-Without-https.md)
 
 ### This Project Aims To Universally take ANY Blacklist, and ensure that it is formatted to be compatible with [Pi-hole(tm)](https://pi-hole.net/)
 
