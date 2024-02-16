@@ -12,10 +12,10 @@ ____________________________________
 ____________________________________
 # Internet-Assigned-Numbers-Authority
 # Internet-Assigned-Numbers-Authority
+## Processing Internet-Assigned-Numbers-Authority List.
 # Internet-Assigned-Numbers-Authority
 ## Processing Internet-Assigned-Numbers-Authority List.
 ## Processing Internet-Assigned-Numbers-Authority List.
-## Processing Internet-Assigned-Numbers-Authority List.
 ## Setting Temporary Parsing Variables
 ## Setting Temporary Parsing Variables
 ## Setting Temporary Parsing Variables
@@ -47,8 +47,8 @@ ____________________________________
 ## Checking File Size
 ## Attempting Creation Of Mirror File
 ## Attempting Creation Of Mirror File
-## Clearing Temp Vars
-## Clearing Temp Vars
 ## Checking File Size
+## Clearing Temp Vars
+## Clearing Temp Vars
 ## Attempting Creation Of Mirror File
 ## Clearing Temp Vars
