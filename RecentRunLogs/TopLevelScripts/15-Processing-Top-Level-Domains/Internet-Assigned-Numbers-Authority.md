@@ -12,10 +12,10 @@ ____________________________________
 ____________________________________
 # Internet-Assigned-Numbers-Authority
 # Internet-Assigned-Numbers-Authority
-## Processing Internet-Assigned-Numbers-Authority List.
 # Internet-Assigned-Numbers-Authority
 ## Processing Internet-Assigned-Numbers-Authority List.
 ## Processing Internet-Assigned-Numbers-Authority List.
+## Processing Internet-Assigned-Numbers-Authority List.
 ## Setting Temporary Parsing Variables
 ## Setting Temporary Parsing Variables
 ## Setting Temporary Parsing Variables
@@ -36,12 +36,12 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking If List Updated Online
 ## Checking If List Updated Online
+## Checking If List Updated Online
+## Determining Download Attempt
 ## Determining Download Attempt
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Attempting To Download List
-## Checking If List Updated Online
-## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
 ## Checking File Size

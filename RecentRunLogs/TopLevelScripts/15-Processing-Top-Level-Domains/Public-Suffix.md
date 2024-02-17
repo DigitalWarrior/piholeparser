@@ -4,8 +4,8 @@
 ____________________________________
 # Public-Suffix
 ## Processing Public-Suffix List.
-## The Source In The File To Download Is
 ## Setting Temporary Parsing Variables
+## The Source In The File To Download Is
 ## The Source In The File To Download Is
 ## Checking For HTTPS
 ## Checking For HTTPS
@@ -20,20 +20,19 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking If List Updated Online
 ## Checking If List Updated Online
+## Determining Download Attempt
+## Determining Download Attempt
+## Attempting To Download List
+## Attempting To Download List
 ## Checking If List Updated Online
 ## Determining Download Attempt
-## Determining Download Attempt
-## Attempting To Download List
-## Attempting To Download List
-## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
 ## Checking File Size
 ## Attempting Creation Of Mirror File
-## Checking File Size
 ## Attempting Creation Of Mirror File
+## Checking File Size
 ## Clearing Temp Vars
-* Public-Suffix List Was An Empty File After Download. Fri Feb 16 00:20:17 MST 2024
 ## Clearing Temp Vars
 ## Attempting Creation Of Mirror File
 ## Clearing Temp Vars

@@ -1,5 +1,4 @@
 http://www.sa-blacklist.stearns.org/sa-blacklist/sa-blacklist.current.domains
-https://easylist-downloads.adblockplus.org/easylistitaly.txt
 https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt
@@ -19,7 +18,6 @@ https://raw.githubusercontent.com/gioxx/xfiles/master/siteblock.txt
 https://raw.githubusercontent.com/ilyakatz/adblock_filters/master/inpage_popups.txt
 https://raw.githubusercontent.com/liamja/Prebake/master/obtrusive.txt
 https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/ads-and-tracking-extended.txthttps://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/tracking-aggressive-extended.txthttps://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/amp-hosts-extended.txthttps://raw.githubusercontent.com/k2jp/abp-japanese-filters/master/abpjf.txt
-https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
 https://raw.githubusercontent.com/thoughtconverge/abf/master/abf.txt
 https://raw.githubusercontent.com/tyzbit/hosts/master/data/tyzbit/hosts
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
@@ -27,7 +25,6 @@ https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
 https://satterly.neocities.org/abp_filters.txt
 https://v.firebog.net/hosts/Admiral.txthttps://easylist-downloads.adblockplus.org/adwarefilters.txt
 http://www.sa-blacklist.stearns.org/sa-blacklist/sa-blacklist.current.domains
-https://easylist-downloads.adblockplus.org/easylistitaly.txt
 https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt
@@ -47,7 +44,6 @@ https://raw.githubusercontent.com/gioxx/xfiles/master/siteblock.txt
 https://raw.githubusercontent.com/ilyakatz/adblock_filters/master/inpage_popups.txt
 https://raw.githubusercontent.com/liamja/Prebake/master/obtrusive.txt
 https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/ads-and-tracking-extended.txthttps://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/tracking-aggressive-extended.txthttps://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/amp-hosts-extended.txthttps://raw.githubusercontent.com/k2jp/abp-japanese-filters/master/abpjf.txt
-https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
 https://raw.githubusercontent.com/thoughtconverge/abf/master/abf.txt
 https://raw.githubusercontent.com/tyzbit/hosts/master/data/tyzbit/hosts
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
@@ -55,7 +51,6 @@ https://raw.githubusercontent.com/xorcan/hosts/master/xhosts.txt
 https://satterly.neocities.org/abp_filters.txt
 https://v.firebog.net/hosts/Admiral.txthttps://easylist-downloads.adblockplus.org/adwarefilters.txt
 http://www.sa-blacklist.stearns.org/sa-blacklist/sa-blacklist.current.domains
-https://easylist-downloads.adblockplus.org/easylistitaly.txt
 https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 https://ransomwaretracker.abuse.ch/downloads/TC_C2_DOMBL.txt
@@ -75,7 +70,6 @@ https://raw.githubusercontent.com/gioxx/xfiles/master/siteblock.txt
 https://raw.githubusercontent.com/ilyakatz/adblock_filters/master/inpage_popups.txt
 https://raw.githubusercontent.com/liamja/Prebake/master/obtrusive.txt
 https://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/ads-and-tracking-extended.txthttps://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/tracking-aggressive-extended.txthttps://raw.githubusercontent.com/lightswitch05/hosts/master/docs/lists/amp-hosts-extended.txthttps://raw.githubusercontent.com/k2jp/abp-japanese-filters/master/abpjf.txt
-https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
 https://raw.githubusercontent.com/thoughtconverge/abf/master/abf.txt
 https://raw.githubusercontent.com/tyzbit/hosts/master/data/tyzbit/hosts
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt

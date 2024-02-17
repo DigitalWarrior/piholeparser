@@ -1,6 +1,12 @@
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/.md)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/.md)
+____________________________________
 ____________________________________
 # 10-Calculating-Average-Parsing-Time
-* Average Parsing Time Of 1 Lists Was 0 Seconds.
+# 10-Calculating-Average-Parsing-Time
+* Average Parsing Time Of 4 Lists Was 0 Seconds.
+* Average Parsing Time Of 4 Lists Was 0 Seconds.
