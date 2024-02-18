@@ -34,3 +34,12 @@ ____________________________________
 ### Checking For Fully Qualified Domain Name Requirements
 718 Lines After Checking For Fully Qualified Domain Name Requirements
 ### Reverse Searching For Invalid Top Level Domains
+0 Lines After Reverse Searching For Invalid Top Level Domains
+### Punycode Translate
+ Lines After Punycode Translate
+### Removing Duplicate Lines
+ Lines After Removing Duplicate Lines
+## Checking Parsed File Size
+## Attempting Creation Of Parsed List
+## Calculating Parse Time
+## Clearing Temp Vars
