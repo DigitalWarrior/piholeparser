@@ -34,16 +34,13 @@ ___________________________________________________________________
 * Spam-Assassin-Bill-Stearns
 * Spam-Assassin-Bill-Stearns
 * Spam-Assassin-Bill-Stearns
-* Spam-Assassin-Bill-Stearns
-* Spam-Assassin-Bill-Stearns
-* Spam-Assassin-Bill-Stearns
-
 
 
 ___________________________________________________________________
-___________________________________________________________________
+
 ___________________________________________________________________
 ### TLD Lists That Do NOT use https.
+___________________________________________________________________
 ### TLD Lists That Do NOT use https.
 ### TLD Lists That Do NOT use https.
 * Internet-Assigned-Numbers-Authority

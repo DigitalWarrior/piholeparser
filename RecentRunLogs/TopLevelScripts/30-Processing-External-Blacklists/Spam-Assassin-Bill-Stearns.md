@@ -6,27 +6,28 @@ ____________________________________
 ## Setting Temporary Parsing Variables
 ## Checking For Existing Mirror File
 ## Checking For Github Mirror File
-## Checking For Existing Mirror File
-## Checking For Github Mirror File
-## Checking For Existing Parsed File
 ## Checking For Existing Parsed File
 ## Checking If Multiple Sources
-## Checking If Multiple Sources
-## The Source In The File To Download Is
 ## The Source In The File To Download Is
 ## Checking For HTTPS
-## Checking For HTTPS
-## Pinging Source To Check Host Availability
 ## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Checking File Header
 ## Determining Host Availability
+* Spam-Assassin-Bill-Stearns List Unavailable To Download. Sun Feb 18 00:20:22 MST 2024
 ## Checking If List Updated Online
 ## Determining Download Attempt
 ## Attempting To Download List
-## Determining Host Availability
-## Checking If List Updated Online
-## Determining Download Attempt
-## Attempting To Download List
-* Spam-Assassin-Bill-Stearns List Was An Empty File After Download. Sat Feb 17 00:20:58 MST 2024
+## Checking File Header
 ## Checking File Size
+* Spam-Assassin-Bill-Stearns List Was An Empty File After Download. Sun Feb 18 00:20:22 MST 2024
+## Attempting Creation Of Mirror File
+## Parsing List
+## Determining Host Availability
+* Spam-Assassin-Bill-Stearns List Unavailable To Download. Sun Feb 18 00:20:22 MST 2024
+## Checking If List Updated Online
+## Checking Parsed File Size
+## Determining Download Attempt
+* Spam-Assassin-Bill-Stearns List Was Killed By The Parsing Process. It will be skipped in the future. Sun Feb 18 00:20:22 MST 2024
+## Determining Host Availability
+## Checking If List Updated Online
