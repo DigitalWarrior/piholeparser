@@ -6,72 +6,15 @@ ____________________________________
 ## Setting Temporary Parsing Variables
 ## Checking For Existing Mirror File
 ## Checking For Github Mirror File
+### Punycode Translate
+ Lines After Punycode Translate
+### Removing Duplicate Lines
+ Lines After Removing Duplicate Lines
 ## Checking For Existing Parsed File
 ## Checking If Multiple Sources
 ## The Source In The File To Download Is
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
 ## Checking File Header
-### Removing Comments
-63 Lines After Removing Comments
-### Removing Content Filtering
-63 Lines After Removing Content Filtering
-### Trimming HOSTS Format IP Addresses
-63 Lines After Trimming HOSTS Format IP Addresses
-### Removing Empty Space
-62 Lines After Removing Empty Space
-### Removing Invalid FQDN Characters
-62 Lines After Removing Invalid FQDN Characters
-### Converting All Text To Lower Case
-62 Lines After Converting All Text To Lower Case
-### Checking For Fully Qualified Domain Name Requirements
 ## Determining Host Availability
 ## Checking If List Updated Online
-62 Lines After Checking For Fully Qualified Domain Name Requirements
-### Reverse Searching For Invalid Top Level Domains
-## Determining Download Attempt
-## Attempting To Download List
-## Checking File Size
-## Attempting Creation Of Mirror File
-## Parsing List
-### Removing Comments
-### Removing Comments
-191 Lines After Removing Comments
-191 Lines After Removing Comments
-### Removing Content Filtering
-### Removing Content Filtering
-191 Lines After Removing Content Filtering
-191 Lines After Removing Content Filtering
-### Trimming HOSTS Format IP Addresses
-### Trimming HOSTS Format IP Addresses
-191 Lines After Trimming HOSTS Format IP Addresses
-191 Lines After Trimming HOSTS Format IP Addresses
-### Removing Empty Space
-### Removing Empty Space
-186 Lines After Removing Empty Space
-186 Lines After Removing Empty Space
-### Removing Invalid FQDN Characters
-### Removing Invalid FQDN Characters
-186 Lines After Removing Invalid FQDN Characters
-186 Lines After Removing Invalid FQDN Characters
-### Converting All Text To Lower Case
-### Converting All Text To Lower Case
-186 Lines After Converting All Text To Lower Case
-186 Lines After Converting All Text To Lower Case
-### Checking For Fully Qualified Domain Name Requirements
-### Checking For Fully Qualified Domain Name Requirements
-186 Lines After Checking For Fully Qualified Domain Name Requirements
-186 Lines After Checking For Fully Qualified Domain Name Requirements
-### Reverse Searching For Invalid Top Level Domains
-### Reverse Searching For Invalid Top Level Domains
-561 Lines After Reverse Searching For Invalid Top Level Domains
-### Punycode Translate
-561 Lines After Punycode Translate
-### Removing Duplicate Lines
-63 Lines After Removing Duplicate Lines
-0 Lines After Reverse Searching For Invalid Top Level Domains
-0 Lines After Reverse Searching For Invalid Top Level Domains
-## Checking Parsed File Size
-## Attempting Creation Of Parsed List
-## Calculating Parse Time
-## Clearing Temp Vars

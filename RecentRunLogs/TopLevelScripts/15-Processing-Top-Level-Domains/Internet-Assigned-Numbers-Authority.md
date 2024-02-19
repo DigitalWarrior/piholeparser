@@ -1,15 +1,15 @@
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 ____________________________________
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 # Internet-Assigned-Numbers-Authority
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-____________________________________
-____________________________________
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
 ## Processing Internet-Assigned-Numbers-Authority List.
+____________________________________
+____________________________________
 # Internet-Assigned-Numbers-Authority
 # Internet-Assigned-Numbers-Authority
 ## Processing Internet-Assigned-Numbers-Authority List.
@@ -37,17 +37,16 @@ ____________________________________
 ## Checking If List Updated Online
 ## Determining Download Attempt
 ## Determining Download Attempt
+## Attempting To Download List
+## Attempting To Download List
 ## Determining Download Attempt
 ## Attempting To Download List
-## Attempting To Download List
-## Attempting To Download List
-## Checking File Size
 ## Checking File Size
 ## Checking File Size
 ## Attempting Creation Of Mirror File
 ## Attempting Creation Of Mirror File
-* Internet-Assigned-Numbers-Authority List Was An Empty File After Download. Sun Feb 18 00:20:16 MST 2024
 ## Clearing Temp Vars
 ## Clearing Temp Vars
+## Checking File Size
 ## Attempting Creation Of Mirror File
 ## Clearing Temp Vars

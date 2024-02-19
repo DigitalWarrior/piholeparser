@@ -28,19 +28,16 @@ ___________________________________________________________________
 ### Lists That Do NOT use https.
 ### Lists That Do NOT use https.
 ### Lists That Do NOT use https.
-* Spam-Assassin-Bill-Stearns
-* Spam-Assassin-Bill-Stearns
-* Spam-Assassin-Bill-Stearns
-* Spam-Assassin-Bill-Stearns
-* Spam-Assassin-Bill-Stearns
-* Spam-Assassin-Bill-Stearns
+All Lists Use https.
+All Lists Use https.
+All Lists Use https.
+
 
 
 ___________________________________________________________________
-
+___________________________________________________________________
 ___________________________________________________________________
 ### TLD Lists That Do NOT use https.
-___________________________________________________________________
 ### TLD Lists That Do NOT use https.
 ### TLD Lists That Do NOT use https.
 * Internet-Assigned-Numbers-Authority
