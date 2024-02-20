@@ -12,70 +12,71 @@ ____________________________________
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
 ## Checking File Header
+### Removing Comments
 ## Determining Host Availability
+19824 Lines After Removing Comments
 ## Checking If List Updated Online
+### Removing Content Filtering
+### Removing Comments
+4382 Lines After Removing Content Filtering
+### Trimming HOSTS Format IP Addresses
+ Lines After Removing Comments
+### Removing Content Filtering
+ Lines After Trimming HOSTS Format IP Addresses
+### Removing Empty Space
+ Lines After Removing Content Filtering
+### Trimming HOSTS Format IP Addresses
+ Lines After Removing Empty Space
+### Removing Invalid FQDN Characters
+ Lines After Trimming HOSTS Format IP Addresses
+### Removing Empty Space
+ Lines After Removing Invalid FQDN Characters
+### Converting All Text To Lower Case
+ Lines After Removing Empty Space
+### Removing Invalid FQDN Characters
+ Lines After Converting All Text To Lower Case
+### Checking For Fully Qualified Domain Name Requirements
+ Lines After Removing Invalid FQDN Characters
+ Lines After Checking For Fully Qualified Domain Name Requirements
+### Converting All Text To Lower Case
+### Reverse Searching For Invalid Top Level Domains
+ Lines After Converting All Text To Lower Case
+### Checking For Fully Qualified Domain Name Requirements
+ Lines After Checking For Fully Qualified Domain Name Requirements
+### Reverse Searching For Invalid Top Level Domains
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
-### Removing Comments
 ## Attempting Creation Of Mirror File
-2478 Lines After Removing Comments
 ## Parsing List
-### Removing Content Filtering
 ### Removing Comments
-2772 Lines After Removing Content Filtering
-### Trimming HOSTS Format IP Addresses
-2478 Lines After Removing Comments
- Lines After Trimming HOSTS Format IP Addresses
+39648 Lines After Removing Comments
 ### Removing Content Filtering
-### Removing Empty Space
-508 Lines After Removing Content Filtering
- Lines After Removing Empty Space
+39648 Lines After Removing Content Filtering
 ### Trimming HOSTS Format IP Addresses
-### Removing Invalid FQDN Characters
-0 Lines After Trimming HOSTS Format IP Addresses
-0 Lines After Removing Invalid FQDN Characters
+39648 Lines After Trimming HOSTS Format IP Addresses
 ### Removing Empty Space
-### Converting All Text To Lower Case
-0 Lines After Removing Empty Space
-0 Lines After Converting All Text To Lower Case
+36928 Lines After Removing Empty Space
 ### Removing Invalid FQDN Characters
-### Checking For Fully Qualified Domain Name Requirements
-0 Lines After Removing Invalid FQDN Characters
+352 Lines After Removing Invalid FQDN Characters
 ### Converting All Text To Lower Case
-0 Lines After Converting All Text To Lower Case
+352 Lines After Converting All Text To Lower Case
 ### Checking For Fully Qualified Domain Name Requirements
-0 Lines After Checking For Fully Qualified Domain Name Requirements
+352 Lines After Checking For Fully Qualified Domain Name Requirements
 ### Reverse Searching For Invalid Top Level Domains
- Lines After Checking For Fully Qualified Domain Name Requirements
-### Reverse Searching For Invalid Top Level Domains
-### Removing Comments
-4956 Lines After Removing Comments
-### Removing Content Filtering
-4956 Lines After Removing Content Filtering
-### Trimming HOSTS Format IP Addresses
-4956 Lines After Trimming HOSTS Format IP Addresses
-### Removing Empty Space
-4616 Lines After Removing Empty Space
-### Removing Invalid FQDN Characters
-44 Lines After Removing Invalid FQDN Characters
-### Converting All Text To Lower Case
-44 Lines After Converting All Text To Lower Case
-### Checking For Fully Qualified Domain Name Requirements
-44 Lines After Checking For Fully Qualified Domain Name Requirements
-### Reverse Searching For Invalid Top Level Domains
-72 Lines After Reverse Searching For Invalid Top Level Domains
+1056 Lines After Reverse Searching For Invalid Top Level Domains
 ### Punycode Translate
-72 Lines After Punycode Translate
-### Removing Duplicate Lines
-11 Lines After Removing Duplicate Lines
 0 Lines After Reverse Searching For Invalid Top Level Domains
+ Lines After Punycode Translate
 ### Punycode Translate
-0 Lines After Punycode Translate
 ### Removing Duplicate Lines
+0 Lines After Punycode Translate
 0 Lines After Removing Duplicate Lines
+### Removing Duplicate Lines
+ Lines After Removing Duplicate Lines
+* Hakame-kun-uBlock-Indonesia List Was Killed By The Parsing Process. It will be skipped in the future. Tue Feb 20 00:21:19 MST 2024
+0 Lines After Reverse Searching For Invalid Top Level Domains
 ## Checking Parsed File Size
 ## Attempting Creation Of Parsed List
 ## Calculating Parse Time
 ## Clearing Temp Vars
-0 Lines After Reverse Searching For Invalid Top Level Domains

@@ -4,36 +4,31 @@
 ____________________________________
 # Public-Suffix
 ## Processing Public-Suffix List.
-## The Source In The File To Download Is
 ## Setting Temporary Parsing Variables
-## The Source In The File To Download Is
-## Checking For HTTPS
-## Checking For HTTPS
 ## Checking If Multiple Sources
-## Checking For Existing Mirror File
-## Checking For Existing Mirror File
 ## The Source In The File To Download Is
-## Pinging Source To Check Host Availability
-## Pinging Source To Check Host Availability
 ## Checking For HTTPS
 ## Checking For Existing Mirror File
 ## Pinging Source To Check Host Availability
 ## Checking If List Updated Online
 ## Determining Download Attempt
-## Checking If List Updated Online
 ## Attempting To Download List
-## Determining Download Attempt
-## Checking If List Updated Online
-## Attempting To Download List
-## Determining Download Attempt
-## Attempting To Download List
-## Checking File Size
+### Removing Comments
+15159 Lines After Removing Comments
+### Removing Content Filtering
+15159 Lines After Removing Content Filtering
+### Trimming HOSTS Format IP Addresses
+15159 Lines After Trimming HOSTS Format IP Addresses
+### Removing Empty Space
+9602 Lines After Removing Empty Space
+### Removing Invalid FQDN Characters
+9466 Lines After Removing Invalid FQDN Characters
+### Converting All Text To Lower Case
+9466 Lines After Converting All Text To Lower Case
+### Checking For Fully Qualified Domain Name Requirements
 ## Checking File Size
 ## Attempting Creation Of Mirror File
-* Public-Suffix List Was An Empty File After Download. Mon Feb 19 00:20:17 MST 2024
 ## Clearing Temp Vars
-## Attempting Creation Of Mirror File
-## Clearing Temp Vars
-## Checking File Size
-## Attempting Creation Of Mirror File
-## Clearing Temp Vars
+ Lines After Checking For Fully Qualified Domain Name Requirements
+### Reverse Searching For Invalid Top Level Domains
+ Lines After Reverse Searching For Invalid Top Level Domains
