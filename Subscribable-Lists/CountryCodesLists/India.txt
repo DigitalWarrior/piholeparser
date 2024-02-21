@@ -3,4 +3,3 @@ pixplug.in
 rightlyads.in
 searchfun.in
 zilionfast.in
-spyappforallsky.in
