@@ -12,5 +12,17 @@ ____________________________________
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
 ## Checking File Header
+### Punycode Translate
+### Punycode Translate
+ Lines After Punycode Translate
+ Lines After Punycode Translate
+### Removing Duplicate Lines
+### Removing Duplicate Lines
+ Lines After Removing Duplicate Lines
+ Lines After Removing Duplicate Lines
+## Checking Parsed File Size
+## Attempting Creation Of Parsed List
+## Calculating Parse Time
+## Clearing Temp Vars
 ## Determining Host Availability
 ## Checking If List Updated Online

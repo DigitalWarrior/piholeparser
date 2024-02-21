@@ -3,15 +3,22 @@
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
 ____________________________________
 # BreakingTheNews
+## Checking If Multiple Sources
 ## Setting Temporary Parsing Variables
+## The Source In The File To Download Is
+## Checking For HTTPS
 ## Checking For Existing Mirror File
+## Pinging Source To Check Host Availability
 ## Checking For Github Mirror File
+## Checking File Header
 ## Checking For Existing Parsed File
 ## Checking If Multiple Sources
 ## The Source In The File To Download Is
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
+## Determining Host Availability
 ## Checking File Header
+## Checking If List Updated Online
 ## Determining Host Availability
 ## Checking If List Updated Online
 ## Determining Download Attempt
@@ -19,26 +26,6 @@ ____________________________________
 ## Checking File Size
 ## Attempting Creation Of Mirror File
 ## Parsing List
-### Removing Comments
-1 Lines After Removing Comments
-### Removing Content Filtering
-1 Lines After Removing Content Filtering
-### Trimming HOSTS Format IP Addresses
-1 Lines After Trimming HOSTS Format IP Addresses
-### Removing Empty Space
-1 Lines After Removing Empty Space
-### Removing Invalid FQDN Characters
-1 Lines After Removing Invalid FQDN Characters
-### Converting All Text To Lower Case
-1 Lines After Converting All Text To Lower Case
-### Checking For Fully Qualified Domain Name Requirements
-1 Lines After Checking For Fully Qualified Domain Name Requirements
-### Reverse Searching For Invalid Top Level Domains
-### Punycode Translate
-1 Lines After Punycode Translate
-### Removing Duplicate Lines
-1 Lines After Removing Duplicate Lines
-0 Lines After Reverse Searching For Invalid Top Level Domains
 ## Checking Parsed File Size
 ## Attempting Creation Of Parsed List
 ## Calculating Parse Time

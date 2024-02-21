@@ -18,18 +18,6 @@ ___________________________________________________________________
 ___________________________________________________________________
 ### Lists That Do NOT use https.
 ### Lists That Do NOT use https.
-All Lists Use https.
-All Lists Use https.
-
-
-___________________________________________________________________
-___________________________________________________________________
-### TLD Lists That Do NOT use https.
-### TLD Lists That Do NOT use https.
-* Internet-Assigned-Numbers-Authority
-* Internet-Assigned-Numbers-Authority
-* Internet-Assigned-Numbers-Authority
-* Internet-Assigned-Numbers-Authority
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
@@ -41,7 +29,17 @@ ____________________________________
 ___________________________________________________________________
 ### Lists That Do NOT use https.
 All Lists Use https.
+All Lists Use https.
+
+
+___________________________________________________________________
+___________________________________________________________________
+### TLD Lists That Do NOT use https.
+### TLD Lists That Do NOT use https.
+All TLD Lists Use https.
+All TLD Lists Use https.
+All Lists Use https.
 
 ___________________________________________________________________
 ### TLD Lists That Do NOT use https.
-* Internet-Assigned-Numbers-Authority
+All TLD Lists Use https.
