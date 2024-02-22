@@ -14,3 +14,30 @@ ____________________________________
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
+## Determining Download Attempt
+## Attempting To Download List
+## Checking File Size
+## Attempting Creation Of Mirror File
+## Parsing List
+### Removing Comments
+38652 Lines After Removing Comments
+### Removing Content Filtering
+38652 Lines After Removing Content Filtering
+### Trimming HOSTS Format IP Addresses
+38652 Lines After Trimming HOSTS Format IP Addresses
+### Removing Empty Space
+38648 Lines After Removing Empty Space
+### Removing Invalid FQDN Characters
+38648 Lines After Removing Invalid FQDN Characters
+### Converting All Text To Lower Case
+38648 Lines After Converting All Text To Lower Case
+### Checking For Fully Qualified Domain Name Requirements
+38640 Lines After Checking For Fully Qualified Domain Name Requirements
+### Reverse Searching For Invalid Top Level Domains
+0 Lines After Reverse Searching For Invalid Top Level Domains
+### Punycode Translate
+0 Lines After Punycode Translate
+### Removing Duplicate Lines
+0 Lines After Removing Duplicate Lines
+## Checking Parsed File Size
+* yoyo-adlist List Was Killed By The Parsing Process. It will be skipped in the future. Thu Feb 22 00:21:58 MST 2024

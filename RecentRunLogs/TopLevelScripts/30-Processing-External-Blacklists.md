@@ -144,3 +144,25 @@ List Took 1 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/lightswith05-amp-hots.md)
 
 ## uAssetsPrivacy
+List Took 12 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uAssetsPrivacy.md)
+
+## xorcan-Turkish-aio
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/xorcan-Turkish-aio.md)
+
+## yoyo-adlist
+List Took 11 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/uAssetsPrivacy.md)
+
+## xorcan-Turkish-aio
+List Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/yoyo-adlist.md)
+
+List Took 0 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/xorcan-Turkish-aio.md)
+
+## yoyo-adlist
+List Took 13 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists/yoyo-adlist.md)
+
