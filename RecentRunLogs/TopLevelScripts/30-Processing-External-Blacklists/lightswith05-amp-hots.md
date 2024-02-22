@@ -11,6 +11,13 @@ ____________________________________
 ## The Source In The File To Download Is
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
+### Removing Invalid FQDN Characters
+ Lines After Removing Invalid FQDN Characters
+### Converting All Text To Lower Case
+ Lines After Converting All Text To Lower Case
+### Checking For Fully Qualified Domain Name Requirements
+ Lines After Checking For Fully Qualified Domain Name Requirements
 ## Checking File Header
+### Reverse Searching For Invalid Top Level Domains
 ## Determining Host Availability
 ## Checking If List Updated Online
