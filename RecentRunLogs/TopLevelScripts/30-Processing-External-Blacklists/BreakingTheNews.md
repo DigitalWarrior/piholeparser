@@ -1,34 +1,35 @@
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-## Checking File Header
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
 ____________________________________
 # BreakingTheNews
-## Setting Temporary Parsing Variables
-## Determining Host Availability
-## Checking For Existing Mirror File
-## Checking If List Updated Online
 ## Checking For Github Mirror File
-## Determining Download Attempt
-## Attempting To Download List
+## Setting Temporary Parsing Variables
+## Checking For Existing Mirror File
+## Checking For Github Mirror File
+## Checking For Existing Mirror File
+## Checking For Github Mirror File
 ## Checking For Existing Parsed File
-## Checking File Size
 ## Checking If Multiple Sources
-## Attempting Creation Of Mirror File
+## Checking For Existing Parsed File
+## Checking For Existing Parsed File
 ## The Source In The File To Download Is
-## Parsing List
+## Checking If Multiple Sources
+## Checking If Multiple Sources
+## Checking For HTTPS
+## The Source In The File To Download Is
+## The Source In The File To Download Is
+## Pinging Source To Check Host Availability
+## Checking For HTTPS
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
+## Pinging Source To Check Host Availability
+## Checking File Header
+## Checking File Header
 ## Checking File Header
 ## Determining Host Availability
+## Determining Host Availability
+## Determining Host Availability
 ## Checking If List Updated Online
-## Determining Download Attempt
-## Attempting To Download List
-## Checking File Size
-## Attempting Creation Of Mirror File
-## Parsing List
-## Checking Parsed File Size
-## Attempting Creation Of Parsed List
-## Calculating Parse Time
-## Clearing Temp Vars
-## Checking Parsed File Size
+## Checking If List Updated Online
+## Checking If List Updated Online

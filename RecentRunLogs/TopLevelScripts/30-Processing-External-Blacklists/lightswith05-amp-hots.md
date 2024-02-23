@@ -11,18 +11,15 @@ ____________________________________
 ## The Source In The File To Download Is
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
-### Removing Invalid FQDN Characters
- Lines After Removing Invalid FQDN Characters
-### Converting All Text To Lower Case
- Lines After Converting All Text To Lower Case
-### Checking For Fully Qualified Domain Name Requirements
- Lines After Checking For Fully Qualified Domain Name Requirements
 ## Checking File Header
-### Reverse Searching For Invalid Top Level Domains
 ## Determining Host Availability
 ## Checking If List Updated Online
-0 Lines After Reverse Searching For Invalid Top Level Domains
-### Punycode Translate
- Lines After Punycode Translate
-### Removing Duplicate Lines
- Lines After Removing Duplicate Lines
+## Determining Download Attempt
+## Attempting To Download List
+## Checking File Size
+## Attempting Creation Of Mirror File
+## Parsing List
+## Checking Parsed File Size
+## Attempting Creation Of Parsed List
+## Calculating Parse Time
+## Clearing Temp Vars

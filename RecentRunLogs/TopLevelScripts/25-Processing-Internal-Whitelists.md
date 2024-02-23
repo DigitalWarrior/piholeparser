@@ -3,7 +3,7 @@
 ____________________________________
 # 
 ### Checking For Script Whitelist File.
-* Script Whitelist File not there, not removing. Thu Feb 22 00:20:17 MST 2024
+* Script Whitelist File not there, not removing. Fri Feb 23 00:20:17 MST 2024
 ### Pulling Domains From Individual Lists.
 122 In Backupbitlockerrecoverykey
 124 In BildDE
@@ -15,19 +15,19 @@ ____________________________________
 36 In Script
 112 In Skype
 113 In Spotify
-122 In TargetsWeeklyAds
+124 In TargetsWeeklyAds
 124 In UserSubmitted
 122 In appleappstore
 122 In dropbox
 124 In electronicarts
 122 In github
-124 In googlecontent
+97 In googlecontent
 96 In googlemaps
 40 In googleplay
 36 In kickstarter
 111 In netflix
 112 In no-ip
-112 In plex
+113 In plex
 124 In reddit
 124 In sonarr
 122 In spiceworks
@@ -35,7 +35,7 @@ ____________________________________
 122 In surveymonkey
 122 In windows-xboxstore
 96 In youtube
-3121 To Whitelist
+3097 To Whitelist
 ### Deduplicating Merged List.
 212 After Deduplicating Merged List.
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
@@ -43,7 +43,7 @@ ____________________________________
 ____________________________________
 # 
 ### Checking For Script Whitelist File.
-* Whitelist File removed Thu Feb 22 00:20:18 MST 2024
+* Whitelist File removed Fri Feb 23 00:20:18 MST 2024
 ### Pulling Domains From Individual Lists.
 122 In Backupbitlockerrecoverykey
 124 In BildDE
@@ -55,14 +55,14 @@ ____________________________________
 36 In Script
 112 In Skype
 113 In Spotify
-122 In TargetsWeeklyAds
+124 In TargetsWeeklyAds
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
 # 
 124 In UserSubmitted
 ### Checking For Script Whitelist File.
-* Whitelist File removed Thu Feb 22 00:20:19 MST 2024
+* Whitelist File removed Fri Feb 23 00:20:18 MST 2024
 122 In appleappstore
 ### Pulling Domains From Individual Lists.
 122 In dropbox
@@ -71,7 +71,7 @@ ____________________________________
 124 In BildDE
 122 In github
 122 In DirectTV
-124 In googlecontent
+97 In googlecontent
 124 In Facebook
 96 In googlemaps
 97 In Jackbox
@@ -79,8 +79,8 @@ ____________________________________
 36 In MicrosoftOffice
 36 In kickstarter
 36 In MicrosoftWebPages
+113 In netflix
 36 In Script
-111 In netflix
 112 In Skype
 112 In no-ip
 113 In plex
@@ -95,17 +95,17 @@ ____________________________________
 122 In dropbox
 124 In electronicarts
 122 In surveymonkey
-122 In github
 122 In windows-xboxstore
-96 In youtube
-118 In googlecontent
-3610 To Whitelist
+122 In github
+97 In youtube
+97 In googlecontent
+3565 To Whitelist
 96 In googlemaps
 ### Deduplicating Merged List.
 40 In googleplay
-212 After Deduplicating Merged List.
+213 After Deduplicating Merged List.
 36 In kickstarter
-111 In netflix
+88 In netflix
 112 In no-ip
 113 In plex
 124 In reddit
@@ -114,7 +114,7 @@ ____________________________________
 122 In steam
 122 In surveymonkey
 122 In windows-xboxstore
-96 In youtube
-1294 To Whitelist
+97 In youtube
+1395 To Whitelist
 ### Deduplicating Merged List.
-212 After Deduplicating Merged List.
+213 After Deduplicating Merged List.
