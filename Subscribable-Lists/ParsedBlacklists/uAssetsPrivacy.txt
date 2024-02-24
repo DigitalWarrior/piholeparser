@@ -1,0 +1,5 @@
+counter.darkreader.app
+prod-mhaa.mhtr.be
+statistics.darkreader.app
+stats.darkreader.app
+turbotrck.art

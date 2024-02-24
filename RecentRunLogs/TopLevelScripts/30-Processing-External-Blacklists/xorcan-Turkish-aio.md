@@ -19,16 +19,25 @@ ____________________________________
 ## Checking File Size
 ## Attempting Creation Of Mirror File
 ## Parsing List
-## Checking Parsed File Size
-## Attempting Creation Of Parsed List
-## Calculating Parse Time
-## Clearing Temp Vars
+### Removing Comments
+104748 Lines After Removing Comments
+### Removing Content Filtering
+104748 Lines After Removing Content Filtering
+### Trimming HOSTS Format IP Addresses
+104748 Lines After Trimming HOSTS Format IP Addresses
+### Removing Empty Space
+104664 Lines After Removing Empty Space
+### Removing Invalid FQDN Characters
+104640 Lines After Removing Invalid FQDN Characters
+### Converting All Text To Lower Case
+104640 Lines After Converting All Text To Lower Case
+### Checking For Fully Qualified Domain Name Requirements
+ Lines After Checking For Fully Qualified Domain Name Requirements
+### Reverse Searching For Invalid Top Level Domains
 0 Lines After Reverse Searching For Invalid Top Level Domains
 ### Punycode Translate
- Lines After Punycode Translate
+0 Lines After Punycode Translate
 ### Removing Duplicate Lines
- Lines After Removing Duplicate Lines
+0 Lines After Removing Duplicate Lines
 ## Checking Parsed File Size
-## Attempting Creation Of Parsed List
-## Calculating Parse Time
-## Clearing Temp Vars
+* xorcan-Turkish-aio List Was Killed By The Parsing Process. It will be skipped in the future. Sat Feb 24 00:21:05 MST 2024

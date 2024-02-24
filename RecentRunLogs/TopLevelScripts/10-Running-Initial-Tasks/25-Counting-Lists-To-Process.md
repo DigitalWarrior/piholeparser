@@ -2,28 +2,28 @@
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
+____________________________________
+# 
+____________________________________
+### Checking For Big Source List File.
+# 
+### Checking For Big Source List File.
+* Old Multisource List Purged.
+### Merging Sources.
+### Merging Sources.
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-____________________________________
-____________________________________
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
-# 
-# 
+12 After Merging Sources.
 ____________________________________
-### Checking For Big Source List File.
-### Checking For Big Source List File.
+12 After Merging Sources.
 # 
 ### Checking For Big Source List File.
 * Old Multisource List Purged.
-* Old Multisource List Purged.
+* 12 Lists To Be Processed.
+* 12 Lists To Be Processed.
 ### Merging Sources.
-### Merging Sources.
-### Merging Sources.
-27 After Merging Sources.
-27 After Merging Sources.
-27 After Merging Sources.
-* 27 Lists To Be Processed.
-* 27 Lists To Be Processed.
-* 27 Lists To Be Processed.
+6 After Merging Sources.
+* 6 Lists To Be Processed.

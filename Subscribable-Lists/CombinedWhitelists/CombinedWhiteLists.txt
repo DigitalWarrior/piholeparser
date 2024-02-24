@@ -30,7 +30,6 @@ ccleaner.com
 cdn.optimizely.com
 cdn.tabnak.ir
 cdnjs.cloudflare.com
-ch
 cloudflare.com
 contra-magazin.com
 crimekalender.wordpress.com
@@ -123,6 +122,7 @@ pressefreiheit24.wordpress.com
 proxy.novafusion.ea.com
 publicsuffix.org
 qme.mydns.jp
+r.abuse.ch
 r5---sn-vgqs7ney.googlevideo.com
 ransomwaretracker.abuse.ch
 rapefugees.net

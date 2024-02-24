@@ -1,23 +1,11 @@
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-____________________________________
-____________________________________
-____________________________________
-# Public-Suffix
-# Public-Suffix
-# Public-Suffix
-## Processing Public-Suffix List.
-## Processing Public-Suffix List.
-## Processing Public-Suffix List.
 ## Setting Temporary Parsing Variables
 ## Setting Temporary Parsing Variables
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+____________________________________
+# Public-Suffix
+## Processing Public-Suffix List.
 ## Setting Temporary Parsing Variables
 ## Checking If Multiple Sources
 ## Checking If Multiple Sources
@@ -37,18 +25,19 @@ ____________________________________
 ## Checking If List Updated Online
 ## Checking If List Updated Online
 ## Checking If List Updated Online
-## Determining Download Attempt
 ## Determining Download Attempt
 ## Determining Download Attempt
 ## Attempting To Download List
+## Determining Download Attempt
 ## Attempting To Download List
 ## Attempting To Download List
 ## Checking File Size
 ## Checking File Size
 ## Checking File Size
 ## Attempting Creation Of Mirror File
-## Attempting Creation Of Mirror File
+* Public-Suffix List Was An Empty File After Download. Sat Feb 24 00:20:15 MST 2024
 ## Attempting Creation Of Mirror File
 ## Clearing Temp Vars
+## Attempting Creation Of Mirror File
 ## Clearing Temp Vars
 ## Clearing Temp Vars
