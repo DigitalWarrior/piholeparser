@@ -1,23 +1,9 @@
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-____________________________________
-____________________________________
 ____________________________________
 # Public-Suffix
-# Public-Suffix
-# Public-Suffix
 ## Processing Public-Suffix List.
-## Processing Public-Suffix List.
-## Processing Public-Suffix List.
-## Setting Temporary Parsing Variables
-## Setting Temporary Parsing Variables
 ## Setting Temporary Parsing Variables
 ## Checking If Multiple Sources
 ## Checking If Multiple Sources
