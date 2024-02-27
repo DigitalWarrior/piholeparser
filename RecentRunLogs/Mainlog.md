@@ -129,3 +129,6 @@ Process Took 22 Seconds.
 Process Took 22 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks.md)
 
+Process Took 21 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks.md)
+
