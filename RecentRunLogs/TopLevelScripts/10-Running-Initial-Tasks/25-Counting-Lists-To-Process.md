@@ -1,30 +1,29 @@
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
-____________________________________
 ____________________________________
 # 
-# 
-### Checking For Big Source List File.
 ### Checking For Big Source List File.
 * Old Multisource List Purged.
-* Old Multisource List Purged.
-### Merging Sources.
 ### Merging Sources.
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+4 After Merging Sources.
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-10 After Merging Sources.
-10 After Merging Sources.
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
 ____________________________________
 # 
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+* 4 Lists To Be Processed.
 ### Checking For Big Source List File.
-* 10 Lists To Be Processed.
-* 10 Lists To Be Processed.
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
 * Old Multisource List Purged.
+____________________________________
 ### Merging Sources.
-5 After Merging Sources.
-* 5 Lists To Be Processed.
+# 
+### Checking For Big Source List File.
+### Merging Sources.
+4 After Merging Sources.
+8 After Merging Sources.
+* 8 Lists To Be Processed.
+* 8 Lists To Be Processed.
