@@ -3,7 +3,7 @@
 ____________________________________
 # 
 ### Checking For Script Whitelist File.
-* Script Whitelist File not there, not removing. Wed Feb 28 00:20:17 MST 2024
+* Script Whitelist File not there, not removing. Thu Feb 29 00:20:17 MST 2024
 ### Pulling Domains From Individual Lists.
 122 In Backupbitlockerrecoverykey
 122 In BildDE
@@ -19,7 +19,7 @@ ____________________________________
 124 In UserSubmitted
 122 In appleappstore
 122 In dropbox
-122 In electronicarts
+124 In electronicarts
 122 In github
 97 In googlecontent
 97 In googlemaps
@@ -35,7 +35,7 @@ ____________________________________
 124 In surveymonkey
 122 In windows-xboxstore
 97 In youtube
-3193 To Whitelist
+3195 To Whitelist
 ### Deduplicating Merged List.
 184 After Deduplicating Merged List.
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
@@ -43,7 +43,7 @@ ____________________________________
 ____________________________________
 # 
 ### Checking For Script Whitelist File.
-* Whitelist File removed Wed Feb 28 00:20:18 MST 2024
+* Whitelist File removed Thu Feb 29 00:20:18 MST 2024
 ### Pulling Domains From Individual Lists.
 122 In Backupbitlockerrecoverykey
 122 In BildDE
@@ -62,44 +62,44 @@ ____________________________________
 # 
 124 In UserSubmitted
 ### Checking For Script Whitelist File.
-* Whitelist File removed Wed Feb 28 00:20:19 MST 2024
+* Whitelist File removed Thu Feb 29 00:20:18 MST 2024
 122 In appleappstore
 ### Pulling Domains From Individual Lists.
 122 In dropbox
 122 In Backupbitlockerrecoverykey
-122 In electronicarts
+124 In electronicarts
 122 In BildDE
 122 In github
 122 In DirectTV
-97 In Facebook
 97 In googlecontent
+97 In Facebook
 97 In googlemaps
 97 In Jackbox
 96 In googleplay
 96 In MicrosoftOffice
 36 In kickstarter
 36 In MicrosoftWebPages
-76 In Script
 76 In netflix
+76 In Script
 113 In no-ip
 113 In Skype
 113 In plex
 113 In Spotify
 124 In reddit
 124 In TargetsWeeklyAds
-124 In UserSubmitted
 124 In sonarr
+124 In UserSubmitted
 122 In spiceworks
 122 In appleappstore
 122 In steam
 122 In dropbox
 124 In surveymonkey
 124 In electronicarts
-122 In windows-xboxstore
 122 In github
-97 In googlecontent
+122 In windows-xboxstore
 97 In youtube
-3536 To Whitelist
+97 In googlecontent
+3660 To Whitelist
 97 In googlemaps
 ### Deduplicating Merged List.
 96 In googleplay
