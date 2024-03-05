@@ -4,17 +4,19 @@
 ____________________________________
 # BreakingTheNews
 ## Setting Temporary Parsing Variables
+## The Source In The File To Download Is
+## Checking For HTTPS
 ## Checking For Existing Mirror File
+## Pinging Source To Check Host Availability
 ## Checking For Github Mirror File
-## Determining Host Availability
-* BreakingTheNews List Unavailable To Download. Mon Mar  4 00:20:19 MST 2024
-## Checking If List Updated Online
-## Determining Host Availability
-* BreakingTheNews List Unavailable To Download. Mon Mar  4 00:20:19 MST 2024
-## Checking If List Updated Online
+## Checking File Header
 ## Checking For Existing Parsed File
 ## Checking If Multiple Sources
 ## The Source In The File To Download Is
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
 ## Checking File Header
+## Determining Host Availability
+## Checking If List Updated Online
+## Determining Host Availability
+## Checking If List Updated Online
