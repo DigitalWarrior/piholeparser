@@ -4,19 +4,22 @@
 ____________________________________
 # BreakingTheNews
 ## Setting Temporary Parsing Variables
-## The Source In The File To Download Is
-## Checking For HTTPS
 ## Checking For Existing Mirror File
-## Pinging Source To Check Host Availability
 ## Checking For Github Mirror File
-## Checking File Header
 ## Checking For Existing Parsed File
 ## Checking If Multiple Sources
 ## The Source In The File To Download Is
 ## Checking For HTTPS
 ## Pinging Source To Check Host Availability
+## Checking For Existing Parsed File
+## Checking If Multiple Sources
+## Checking File Header
+## The Source In The File To Download Is
+## Checking For HTTPS
+## Pinging Source To Check Host Availability
 ## Checking File Header
 ## Determining Host Availability
 ## Checking If List Updated Online
-## Determining Host Availability
-## Checking If List Updated Online
+## Determining Download Attempt
+## Attempting To Download List
+## Checking File Size

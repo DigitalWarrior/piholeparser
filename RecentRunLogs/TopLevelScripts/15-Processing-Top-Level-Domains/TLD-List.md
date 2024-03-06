@@ -1,11 +1,16 @@
-## Setting Temporary Parsing Variables
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-## Setting Temporary Parsing Variables
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+____________________________________
 ____________________________________
 # TLD-List
+# TLD-List
 ## Processing TLD-List List.
+## Processing TLD-List List.
+## Setting Temporary Parsing Variables
 ## Setting Temporary Parsing Variables
 ## Checking If Multiple Sources
 ## Checking If Multiple Sources
