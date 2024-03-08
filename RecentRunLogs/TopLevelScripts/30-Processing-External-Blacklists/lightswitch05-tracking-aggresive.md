@@ -4,32 +4,26 @@
 ____________________________________
 # lightswitch05-tracking-aggresive
 ## Setting Temporary Parsing Variables
+## Checking Parsed File Size
 ## Checking For Existing Mirror File
+## Attempting Creation Of Parsed List
 ## Checking For Github Mirror File
-## Checking For Existing Parsed File
-## Checking For Existing Parsed File
+## Calculating Parse Time
+## Clearing Temp Vars
 ## Checking For Existing Parsed File
 ## Checking If Multiple Sources
-## Checking If Multiple Sources
-## Checking If Multiple Sources
-## The Source In The File To Download Is
-## The Source In The File To Download Is
 ## The Source In The File To Download Is
 ## Checking For HTTPS
-## Checking For HTTPS
-## Checking For HTTPS
-## Pinging Source To Check Host Availability
-## Pinging Source To Check Host Availability
 ## Pinging Source To Check Host Availability
 ## Checking File Header
-## Checking File Header
-## Checking File Header
 ## Determining Host Availability
-## Determining Host Availability
-## Determining Host Availability
-* lightswitch05-tracking-aggresive List Unavailable To Download. Thu Mar  7 00:20:21 MST 2024
-* lightswitch05-tracking-aggresive List Unavailable To Download. Thu Mar  7 00:20:21 MST 2024
-* lightswitch05-tracking-aggresive List Unavailable To Download. Thu Mar  7 00:20:21 MST 2024
 ## Checking If List Updated Online
-## Checking If List Updated Online
-## Checking If List Updated Online
+## Determining Download Attempt
+## Attempting To Download List
+## Checking File Size
+## Attempting Creation Of Mirror File
+## Parsing List
+## Checking Parsed File Size
+## Attempting Creation Of Parsed List
+## Calculating Parse Time
+## Clearing Temp Vars

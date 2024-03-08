@@ -4,7 +4,6 @@
 ____________________________________
 # Public-Suffix
 ## Processing Public-Suffix List.
-## Clearing Temp Vars
 ## Setting Temporary Parsing Variables
 ## Checking If Multiple Sources
 ## The Source In The File To Download Is

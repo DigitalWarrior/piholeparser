@@ -11,15 +11,8 @@ ____________________________________
 ## Checking For Existing Mirror File
 ## Pinging Source To Check Host Availability
 ## Checking If List Updated Online
-## Checking File Size
-* TLD-List List Was An Empty File After Download. Thu Mar  7 00:20:18 MST 2024
-## Attempting Creation Of Mirror File
-## Clearing Temp Vars
 ## Determining Download Attempt
 ## Attempting To Download List
-## Checking File Size
-## Attempting Creation Of Mirror File
-## Clearing Temp Vars
 ## Checking File Size
 ## Attempting Creation Of Mirror File
 ## Clearing Temp Vars
