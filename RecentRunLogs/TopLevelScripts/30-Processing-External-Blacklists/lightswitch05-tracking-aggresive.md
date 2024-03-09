@@ -4,12 +4,8 @@
 ____________________________________
 # lightswitch05-tracking-aggresive
 ## Setting Temporary Parsing Variables
-## Checking Parsed File Size
 ## Checking For Existing Mirror File
-## Attempting Creation Of Parsed List
 ## Checking For Github Mirror File
-## Calculating Parse Time
-## Clearing Temp Vars
 ## Checking For Existing Parsed File
 ## Checking If Multiple Sources
 ## The Source In The File To Download Is
@@ -23,7 +19,25 @@ ____________________________________
 ## Checking File Size
 ## Attempting Creation Of Mirror File
 ## Parsing List
+### Removing Comments
+171822 Lines After Removing Comments
+### Removing Content Filtering
+171822 Lines After Removing Content Filtering
+### Trimming HOSTS Format IP Addresses
+ Lines After Trimming HOSTS Format IP Addresses
+### Removing Empty Space
+ Lines After Removing Empty Space
+### Removing Invalid FQDN Characters
+ Lines After Removing Invalid FQDN Characters
+### Converting All Text To Lower Case
+ Lines After Converting All Text To Lower Case
+### Checking For Fully Qualified Domain Name Requirements
+ Lines After Checking For Fully Qualified Domain Name Requirements
+### Reverse Searching For Invalid Top Level Domains
+0 Lines After Reverse Searching For Invalid Top Level Domains
+### Punycode Translate
+0 Lines After Punycode Translate
+### Removing Duplicate Lines
+0 Lines After Removing Duplicate Lines
 ## Checking Parsed File Size
-## Attempting Creation Of Parsed List
-## Calculating Parse Time
-## Clearing Temp Vars
+* lightswitch05-tracking-aggresive List Was Killed By The Parsing Process. It will be skipped in the future. Sat Mar  9 00:21:13 MST 2024
