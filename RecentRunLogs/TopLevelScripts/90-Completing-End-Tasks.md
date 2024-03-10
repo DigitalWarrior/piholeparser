@@ -84,3 +84,6 @@ Process Took 0 Seconds.
 
 
 ## Pushing Lists To Locally Hosted Location Sun Mar 10 00:20:36 MST 2024
+Process Took 0 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/80-Pushing-Lists-To-Locally-Hosted-Location.md)
+
