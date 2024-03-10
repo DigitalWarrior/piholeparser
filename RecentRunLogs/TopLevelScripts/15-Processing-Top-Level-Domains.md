@@ -1,25 +1,25 @@
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+____________________________________
+# 
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+____________________________________
+# 
+## Public-Suffix
+## Public-Suffix
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-____________________________________
 # 
-____________________________________
-# 
-# 
-## Public-Suffix
-## Public-Suffix
 ## Public-Suffix
 List Took 1 Seconds.
-List Took 1 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/Public-Suffix.md)
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/Public-Suffix.md)
-
 
 ## TLD-List
+List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/Public-Suffix.md)
+
 ## TLD-List
 List Took 1 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/TLD-List.md)
@@ -40,7 +40,7 @@ ____________________________________
 ### Making Backup Copy of TLD List.
 ### Checking For New TLDs.
 * No New TLD's
-List Took 2 Seconds.
+List Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/TLD-List.md)
 
 ____________________________________
@@ -59,7 +59,7 @@ ____________________________________
 ### Making Backup Copy of TLD List.
 ### Checking For New TLDs.
 * No New TLD's
-List Took 43 Seconds.
+List Took 6 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/Public-Suffix.md)
 
 ## TLD-List
