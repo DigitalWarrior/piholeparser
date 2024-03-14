@@ -3,7 +3,7 @@
 ____________________________________
 # 
 ### Checking For Script Blacklist File.
-* Script Blacklist File not there, not removing. Wed Mar 13 00:20:18 MDT 2024
+* Script Blacklist File not there, not removing. Thu Mar 14 00:20:18 MDT 2024
 ### Pulling Domains From Individual Lists.
 122 In AlexaVoiceAssistant
 98 In BlogPostAds
@@ -18,14 +18,14 @@ ____________________________________
 ____________________________________
 # 
 ### Checking For Script Blacklist File.
-* Blacklist File removed Wed Mar 13 00:20:19 MDT 2024
+* Blacklist File removed Thu Mar 14 00:20:19 MDT 2024
 ### Pulling Domains From Individual Lists.
 122 In AlexaVoiceAssistant
 98 In BlogPostAds
 114 In Pandora
 122 In Twitch
 98 In UserSubmitted
-432 To Blacklist
+554 To Blacklist
 ### Deduplicating Merged List.
 180 After Deduplicating Merged List.
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
@@ -33,7 +33,7 @@ ____________________________________
 ____________________________________
 # 
 ### Checking For Script Blacklist File.
-* Blacklist File removed Wed Mar 13 00:20:20 MDT 2024
+* Blacklist File removed Thu Mar 14 00:20:19 MDT 2024
 ### Pulling Domains From Individual Lists.
 122 In AlexaVoiceAssistant
 98 In BlogPostAds
