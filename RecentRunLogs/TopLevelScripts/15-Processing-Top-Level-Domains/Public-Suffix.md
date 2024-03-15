@@ -48,8 +48,7 @@ ____________________________________
 ## Checking File Size
 ## Attempting Creation Of Mirror File
 ## Attempting Creation Of Mirror File
-* Public-Suffix List Was An Empty File After Download. Thu Mar 14 00:20:15 MDT 2024
-## Clearing Temp Vars
-## Clearing Temp Vars
 ## Attempting Creation Of Mirror File
+## Clearing Temp Vars
+## Clearing Temp Vars
 ## Clearing Temp Vars

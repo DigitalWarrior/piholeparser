@@ -1,24 +1,36 @@
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+____________________________________
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+# TLD-List
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+## Processing TLD-List List.
+____________________________________
 ____________________________________
 # TLD-List
+# TLD-List
 ## Processing TLD-List List.
+## Processing TLD-List List.
+## Setting Temporary Parsing Variables
+## Setting Temporary Parsing Variables
 ## Setting Temporary Parsing Variables
 ## Checking If Multiple Sources
 ## Checking If Multiple Sources
-## The Source In The File To Download Is
-## The Source In The File To Download Is
 ## Checking If Multiple Sources
-## Checking For HTTPS
-## Checking For HTTPS
 ## The Source In The File To Download Is
-## Checking For Existing Mirror File
-## Checking For Existing Mirror File
+## The Source In The File To Download Is
+## The Source In The File To Download Is
 ## Checking For HTTPS
-## Pinging Source To Check Host Availability
-## Pinging Source To Check Host Availability
+## Checking For HTTPS
+## Checking For HTTPS
 ## Checking For Existing Mirror File
+## Checking For Existing Mirror File
+## Checking For Existing Mirror File
+## Pinging Source To Check Host Availability
+## Pinging Source To Check Host Availability
 ## Pinging Source To Check Host Availability
 ## Checking If List Updated Online
 ## Checking If List Updated Online
