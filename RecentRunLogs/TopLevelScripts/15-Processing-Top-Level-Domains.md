@@ -16,16 +16,16 @@ ____________________________________
 List Took 1 Seconds.
 List Took 1 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/Public-Suffix.md)
-List Took 1 Seconds.
-
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/Public-Suffix.md)
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/Public-Suffix.md)
 
 
 ## TLD-List
 ## TLD-List
-## TLD-List
 List Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/Public-Suffix.md)
+
+## TLD-List
+List Took 2 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/TLD-List.md)
 
 ____________________________________
@@ -44,7 +44,7 @@ ____________________________________
 ### Making Backup Copy of TLD List.
 ### Checking For New TLDs.
 * No New TLD's
-List Took 2 Seconds.
+List Took 3 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/TLD-List.md)
 
 ____________________________________
@@ -74,11 +74,11 @@ ____________________________________
 ### Removing Old TEMP TLD If Present.
 Old TLD Comparison Removed.
 ### Formatting TLD List.
- After Formatting TLD List.
+3041 After Formatting TLD List.
 ### Removing Duplicatates From TLD List.
-0 After Removing Duplicatates From TLD List.
+1743 After Removing Duplicatates From TLD List.
 ____________________________________
-0 Valid TLD's Total.
+1743 Valid TLD's Total.
 ### Making Backup Copy of TLD List.
 ### Checking For New TLDs.
 * No New TLD's
