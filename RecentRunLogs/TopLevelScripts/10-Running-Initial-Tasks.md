@@ -10,45 +10,45 @@ ____________________________________
 # 
 # 
 # 
-## Recreating TempVar File Sat Mar 16 00:20:14 MDT 2024
-## Recreating TempVar File Sat Mar 16 00:20:14 MDT 2024
-## Recreating TempVar File Sat Mar 16 00:20:14 MDT 2024
-Process Took 0 Seconds.
-Process Took 0 Seconds.
-Process Took 0 Seconds.
+## Recreating TempVar File Sun Mar 17 00:20:13 MDT 2024
+## Recreating TempVar File Sun Mar 17 00:20:13 MDT 2024
+## Recreating TempVar File Sun Mar 17 00:20:13 MDT 2024
+Process Took 1 Seconds.
+Process Took 1 Seconds.
+Process Took 1 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/08-Recreating-TempVar-File.md)
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/08-Recreating-TempVar-File.md)
-
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/08-Recreating-TempVar-File.md)
 
 
-## Removing Temp Files Sat Mar 16 00:20:14 MDT 2024
-## Removing Temp Files Sat Mar 16 00:20:14 MDT 2024
-## Removing Temp Files Sat Mar 16 00:20:14 MDT 2024
-Process Took 0 Seconds.
+
+## Removing Temp Files Sun Mar 17 00:20:14 MDT 2024
+## Removing Temp Files Sun Mar 17 00:20:14 MDT 2024
+## Removing Temp Files Sun Mar 17 00:20:14 MDT 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/10-Removing-Temp-Files.md)
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/10-Removing-Temp-Files.md)
+Process Took 0 Seconds.
 Process Took 0 Seconds.
 
-
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/10-Removing-Temp-Files.md)
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/10-Removing-Temp-Files.md)
 
-## Setting Start Time Variable Sat Mar 16 00:20:14 MDT 2024
-## Setting Start Time Variable Sat Mar 16 00:20:14 MDT 2024
-## Setting Start Time Variable Sat Mar 16 00:20:14 MDT 2024
+
+## Setting Start Time Variable Sun Mar 17 00:20:14 MDT 2024
+## Setting Start Time Variable Sun Mar 17 00:20:14 MDT 2024
+## Setting Start Time Variable Sun Mar 17 00:20:14 MDT 2024
 Process Took 0 Seconds.
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/15-Setting-Start-Time-Variable.md)
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/15-Setting-Start-Time-Variable.md)
 Process Took 0 Seconds.
-
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/15-Setting-Start-Time-Variable.md)
 
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/15-Setting-Start-Time-Variable.md)
 
-## Identifying Lists Without https Sat Mar 16 00:20:14 MDT 2024
-## Identifying Lists Without https Sat Mar 16 00:20:14 MDT 2024
-## Identifying Lists Without https Sat Mar 16 00:20:14 MDT 2024
+
+## Identifying Lists Without https Sun Mar 17 00:20:14 MDT 2024
+## Identifying Lists Without https Sun Mar 17 00:20:14 MDT 2024
+## Identifying Lists Without https Sun Mar 17 00:20:14 MDT 2024
 Process Took 0 Seconds.
 Process Took 0 Seconds.
 Process Took 0 Seconds.
@@ -58,9 +58,9 @@ Process Took 0 Seconds.
 
 
 
-## Counting Lists To Process Sat Mar 16 00:20:14 MDT 2024
-## Counting Lists To Process Sat Mar 16 00:20:14 MDT 2024
-## Counting Lists To Process Sat Mar 16 00:20:14 MDT 2024
+## Counting Lists To Process Sun Mar 17 00:20:14 MDT 2024
+## Counting Lists To Process Sun Mar 17 00:20:14 MDT 2024
+## Counting Lists To Process Sun Mar 17 00:20:14 MDT 2024
 Process Took 0 Seconds.
 Process Took 0 Seconds.
 Process Took 0 Seconds.
@@ -70,9 +70,9 @@ Process Took 0 Seconds.
 
 
 
-## Checking For Lists With Multiple Sources Sat Mar 16 00:20:14 MDT 2024
-## Checking For Lists With Multiple Sources Sat Mar 16 00:20:14 MDT 2024
-## Checking For Lists With Multiple Sources Sat Mar 16 00:20:14 MDT 2024
+## Checking For Lists With Multiple Sources Sun Mar 17 00:20:14 MDT 2024
+## Checking For Lists With Multiple Sources Sun Mar 17 00:20:14 MDT 2024
+## Checking For Lists With Multiple Sources Sun Mar 17 00:20:14 MDT 2024
 Process Took 0 Seconds.
 Process Took 0 Seconds.
 Process Took 0 Seconds.
@@ -82,9 +82,9 @@ Process Took 0 Seconds.
 
 
 
-## Checking To See If Parsing Method Has Changed Sat Mar 16 00:20:14 MDT 2024
-## Checking To See If Parsing Method Has Changed Sat Mar 16 00:20:14 MDT 2024
-## Checking To See If Parsing Method Has Changed Sat Mar 16 00:20:14 MDT 2024
+## Checking To See If Parsing Method Has Changed Sun Mar 17 00:20:14 MDT 2024
+## Checking To See If Parsing Method Has Changed Sun Mar 17 00:20:14 MDT 2024
+## Checking To See If Parsing Method Has Changed Sun Mar 17 00:20:14 MDT 2024
 Process Took 0 Seconds.
 Process Took 0 Seconds.
 Process Took 0 Seconds.
