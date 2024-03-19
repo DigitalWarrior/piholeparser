@@ -16,10 +16,9 @@ ____________________________________
 ### Checking For Big Source List File.
 ### Checking For Big Source List File.
 ### Checking For Big Source List File.
-* Old Multisource List Purged.
-* Old Multisource List Purged.
-* Old Multisource List Purged.
 ### Merging Sources.
+* Old Multisource List Purged.
+* Old Multisource List Purged.
 ### Merging Sources.
 ### Merging Sources.
 0 After Merging Sources.
