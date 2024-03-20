@@ -1,16 +1,20 @@
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-____________________________________
-____________________________________
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-# Public-Suffix
-# Public-Suffix
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-## Processing Public-Suffix List.
-## Processing Public-Suffix List.
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+____________________________________
+____________________________________
 ____________________________________
 # Public-Suffix
+# Public-Suffix
+# Public-Suffix
+## Processing Public-Suffix List.
+## Processing Public-Suffix List.
 ## Processing Public-Suffix List.
 ## Setting Temporary Parsing Variables
 ## Setting Temporary Parsing Variables
@@ -41,10 +45,10 @@ ____________________________________
 ## Attempting To Download List
 ## Checking File Size
 ## Checking File Size
+## Attempting Creation Of Mirror File
+## Attempting Creation Of Mirror File
 ## Checking File Size
-## Attempting Creation Of Mirror File
-## Attempting Creation Of Mirror File
-## Attempting Creation Of Mirror File
 ## Clearing Temp Vars
 ## Clearing Temp Vars
+## Attempting Creation Of Mirror File
 ## Clearing Temp Vars
