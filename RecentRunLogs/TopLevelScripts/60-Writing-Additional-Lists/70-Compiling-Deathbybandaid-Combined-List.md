@@ -1,14 +1,7 @@
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/.md)
-____________________________________
 ____________________________________
 # 70-Compiling-Deathbybandaid-Combined-List
-# 70-Compiling-Deathbybandaid-Combined-List
-* All Parsed List (edited) Removed. Fri Mar 22 00:20:17 MDT 2024
-* All Parsed List (edited) Removed. Fri Mar 22 00:20:17 MDT 2024
-* Allparsedlist list was an empty file Fri Mar 22 00:20:17 MDT 2024
-* Allparsedlist list was an empty file Fri Mar 22 00:20:17 MDT 2024
+* All Parsed List (edited) Removed. Sat Mar 23 00:20:20 MDT 2024
+* Allparsedlist list was an empty file Sat Mar 23 00:20:20 MDT 2024

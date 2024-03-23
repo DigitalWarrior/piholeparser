@@ -4,4 +4,3 @@
 ____________________________________
 # 20-Calculating-Total-Runtime-Of-Script
 * 0
-* 0

@@ -1,13 +1,21 @@
-## Processing Public-Suffix List.
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-## Setting Temporary Parsing Variables
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+____________________________________
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
 # Public-Suffix
-## Setting Temporary Parsing Variables
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+# Public-Suffix
+## Processing Public-Suffix List.
+____________________________________
+## Processing Public-Suffix List.
+# Public-Suffix
 ## Processing Public-Suffix List.
 ## Setting Temporary Parsing Variables
+## Setting Temporary Parsing Variables
+## Setting Temporary Parsing Variables
 ## Checking If Multiple Sources
 ## Checking If Multiple Sources
 ## Checking If Multiple Sources
@@ -26,18 +34,18 @@ ____________________________________
 ## Checking If List Updated Online
 ## Checking If List Updated Online
 ## Checking If List Updated Online
+## Determining Download Attempt
 ## Determining Download Attempt
 ## Attempting To Download List
-## Determining Download Attempt
-## Determining Download Attempt
 ## Attempting To Download List
+## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
+## Checking File Size
+## Checking File Size
+## Attempting Creation Of Mirror File
+## Attempting Creation Of Mirror File
 ## Attempting Creation Of Mirror File
 ## Clearing Temp Vars
-## Checking File Size
-## Checking File Size
-## Attempting Creation Of Mirror File
-## Attempting Creation Of Mirror File
 ## Clearing Temp Vars
 ## Clearing Temp Vars
