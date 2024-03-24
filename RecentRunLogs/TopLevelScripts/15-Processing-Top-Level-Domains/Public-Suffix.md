@@ -1,18 +1,17 @@
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-____________________________________
+# Public-Suffix
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-____________________________________
-# Public-Suffix
+## Processing Public-Suffix List.
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-# Public-Suffix
-## Processing Public-Suffix List.
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
 ____________________________________
-## Processing Public-Suffix List.
+____________________________________
+# Public-Suffix
 # Public-Suffix
 ## Processing Public-Suffix List.
+## Processing Public-Suffix List.
 ## Setting Temporary Parsing Variables
 ## Setting Temporary Parsing Variables
 ## Setting Temporary Parsing Variables
@@ -34,11 +33,11 @@ ____________________________________
 ## Checking If List Updated Online
 ## Checking If List Updated Online
 ## Checking If List Updated Online
+## Determining Download Attempt
 ## Determining Download Attempt
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Attempting To Download List
-## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
 ## Checking File Size

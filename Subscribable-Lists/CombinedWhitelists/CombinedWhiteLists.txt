@@ -1,4 +1,5 @@
  
+.com
 0-edge-chat.facebook.com
 1-edge-chat.facebook.com
 2-edge-chat.facebook.com
@@ -26,6 +27,7 @@ cdnjs.cloudflare.com
 cloudflare.com
 contra-magazin.com
 crimekalender.wordpress.com
+d.sonarr.tv
 de.news-front.info
 de.sputniknews.com
 denken-macht-frei.info
@@ -89,6 +91,7 @@ nix.com
 noch.info
 npd-mv.de
 ocities.org
+officeclient.microsoft.com
 outlook.live.com
 ow.ly
 pi.hole
@@ -102,6 +105,7 @@ rapefugees.net
 rdpress.com
 redirector.gvt1.com
 rover.ebay.com
+s.gateway.messenger.live.com 
 s1.symcb.com
 s2.symcb.com
 s3.symcb.com
@@ -113,7 +117,9 @@ scontent-lhr3-1.xx.fbcdn.net
 scontent.xx.fbcdn.net
 scontent.xx.fbcdn.net
 secure.dshield.org
+services.sonarr.tv
 shop.lego.com
+skyhook.sonarr.tv
 someonewhocares.org
 splashtop.com
 sportcompactwarehouse.com
@@ -139,6 +145,7 @@ us-cert.gov
 v.firebog.net
 volksstimme.de
 web.archive.org
+webcache.googleusercontent.com
 www.afd.de
 www.ccleaner.com
 www.contra-magazin.com
