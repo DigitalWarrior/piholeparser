@@ -1,5 +1,4 @@
  
-.com
 0-edge-chat.facebook.com
 1-edge-chat.facebook.com
 2-edge-chat.facebook.com
@@ -45,6 +44,7 @@ ebay.fr
 ebay.it
 edge-chat.facebook.com
 einwanderungskritik.de
+eiten.net
 ely.com
 epochtimes.de
 external-lhr1-1.xx.fbcdn.net 
@@ -83,6 +83,7 @@ kulturstudio.wordpress.com
 kundencenter.telekom.de
 lego.com
 live.com
+ly.com
 m
 messenger.com
 michael-mannheimer.net
