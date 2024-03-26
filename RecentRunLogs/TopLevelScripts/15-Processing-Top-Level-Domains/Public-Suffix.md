@@ -41,14 +41,14 @@ ____________________________________
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Attempting To Download List
+## Checking File Size
+## Attempting Creation Of Mirror File
+## Checking File Size
+## Clearing Temp Vars
+## Attempting Creation Of Mirror File
+## Clearing Temp Vars
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
-## Checking File Size
-## Checking File Size
 ## Attempting Creation Of Mirror File
-## Attempting Creation Of Mirror File
-## Attempting Creation Of Mirror File
-## Clearing Temp Vars
-## Clearing Temp Vars
 ## Clearing Temp Vars
