@@ -6,15 +6,15 @@
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+____________________________________
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
 ____________________________________
+# Public-Suffix
+# Public-Suffix
 ____________________________________
-____________________________________
-# Public-Suffix
-# Public-Suffix
-# Public-Suffix
 ## Processing Public-Suffix List.
 ## Processing Public-Suffix List.
+# Public-Suffix
 ## Processing Public-Suffix List.
 ## Setting Temporary Parsing Variables
 ## Setting Temporary Parsing Variables
@@ -39,16 +39,16 @@ ____________________________________
 ## Checking If List Updated Online
 ## Determining Download Attempt
 ## Determining Download Attempt
+## Determining Download Attempt
 ## Attempting To Download List
 ## Attempting To Download List
+## Attempting To Download List
+## Checking File Size
+## Checking File Size
 ## Checking File Size
 ## Attempting Creation Of Mirror File
-## Checking File Size
+## Attempting Creation Of Mirror File
+## Attempting Creation Of Mirror File
 ## Clearing Temp Vars
-## Attempting Creation Of Mirror File
 ## Clearing Temp Vars
-## Determining Download Attempt
-## Attempting To Download List
-## Checking File Size
-## Attempting Creation Of Mirror File
 ## Clearing Temp Vars

@@ -33,7 +33,7 @@ ____________________________________
 
 ### Checking For TempVars File.
 ### Checking For TempVars File.
-### Checking For TempVars File.
 * TempVars File Recreated.
+### Checking For TempVars File.
 * TempVars File Recreated.
 * TempVars File Recreated.
