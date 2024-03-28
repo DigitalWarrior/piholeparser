@@ -17,8 +17,8 @@ ____________________________________
 ### Checking For Old TempVars File.
 ### Checking For Old TempVars File.
 * Old TempVars File Purged.
+* Old TempVars File Not Present.
 * Old TempVars File Purged.
-* Old TempVars File Purged.
 
 
 
@@ -31,9 +31,9 @@ ____________________________________
 
 
 
+### Checking For TempVars File.
 ### Checking For TempVars File.
 ### Checking For TempVars File.
 * TempVars File Recreated.
-### Checking For TempVars File.
 * TempVars File Recreated.
 * TempVars File Recreated.
