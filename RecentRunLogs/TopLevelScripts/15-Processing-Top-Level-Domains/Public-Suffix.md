@@ -36,21 +36,19 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking If List Updated Online
 ## Checking If List Updated Online
-## Determining Download Attempt
-## Determining Download Attempt
 ## Checking If List Updated Online
-## Attempting To Download List
-## Attempting To Download List
+## Determining Download Attempt
+## Determining Download Attempt
 ## Determining Download Attempt
 ## Attempting To Download List
+## Attempting To Download List
+## Attempting To Download List
 ## Checking File Size
 ## Checking File Size
 ## Checking File Size
 ## Attempting Creation Of Mirror File
-* Public-Suffix List Was An Empty File After Download. Thu Mar 28 00:20:15 MDT 2024
-* Public-Suffix List Was An Empty File After Download. Thu Mar 28 00:20:15 MDT 2024
+## Attempting Creation Of Mirror File
+## Attempting Creation Of Mirror File
 ## Clearing Temp Vars
-## Attempting Creation Of Mirror File
-## Attempting Creation Of Mirror File
 ## Clearing Temp Vars
 ## Clearing Temp Vars
