@@ -36,9 +36,9 @@ ____________________________________
 ## Pinging Source To Check Host Availability
 ## Checking If List Updated Online
 ## Checking If List Updated Online
+## Determining Download Attempt
+## Determining Download Attempt
 ## Checking If List Updated Online
-## Determining Download Attempt
-## Determining Download Attempt
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Attempting To Download List
