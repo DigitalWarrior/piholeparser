@@ -1,20 +1,12 @@
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-____________________________________
-____________________________________
-____________________________________
 # Public-Suffix
 # Public-Suffix
-# Public-Suffix
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 ## Processing Public-Suffix List.
 ## Processing Public-Suffix List.
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+____________________________________
+# Public-Suffix
 ## Processing Public-Suffix List.
 ## Setting Temporary Parsing Variables
 ## Setting Temporary Parsing Variables
@@ -48,7 +40,8 @@ ____________________________________
 ## Checking File Size
 ## Attempting Creation Of Mirror File
 ## Attempting Creation Of Mirror File
-## Attempting Creation Of Mirror File
+* Public-Suffix List Was An Empty File After Download. Tue Apr  2 00:20:15 MDT 2024
 ## Clearing Temp Vars
 ## Clearing Temp Vars
+## Attempting Creation Of Mirror File
 ## Clearing Temp Vars
