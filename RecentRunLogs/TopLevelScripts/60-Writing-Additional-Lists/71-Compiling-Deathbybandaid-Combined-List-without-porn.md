@@ -1,7 +1,8 @@
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+* Allparsedlist list was an empty file Sun Apr  7 00:20:18 MDT 2024
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/.md)
 ____________________________________
 # 71-Compiling-Deathbybandaid-Combined-List-without-porn
-* All Parsed List (edited without porn) Removed. Sat Apr  6 00:20:20 MDT 2024
-* Allparsedlist list was an empty file Sat Apr  6 00:20:20 MDT 2024
+* All Parsed List (edited without porn) Removed. Sun Apr  7 00:20:18 MDT 2024
+* Allparsedlist list was an empty file Sun Apr  7 00:20:18 MDT 2024
