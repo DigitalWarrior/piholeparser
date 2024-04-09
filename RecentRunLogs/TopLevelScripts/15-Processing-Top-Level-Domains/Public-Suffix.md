@@ -1,20 +1,18 @@
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
 ____________________________________
 ____________________________________
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+# Public-Suffix
+# Public-Suffix
 ____________________________________
-# Public-Suffix
-# Public-Suffix
-# Public-Suffix
 ## Processing Public-Suffix List.
 ## Processing Public-Suffix List.
+# Public-Suffix
 ## Processing Public-Suffix List.
 ## Setting Temporary Parsing Variables
 ## Setting Temporary Parsing Variables
@@ -47,6 +45,7 @@ ____________________________________
 ## Checking File Size
 ## Checking File Size
 ## Attempting Creation Of Mirror File
+* Public-Suffix List Was An Empty File After Download. Tue Apr  9 00:20:16 MDT 2024
 ## Attempting Creation Of Mirror File
 ## Attempting Creation Of Mirror File
 ## Clearing Temp Vars
