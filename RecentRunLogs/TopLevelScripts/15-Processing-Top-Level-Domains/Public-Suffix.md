@@ -1,51 +1,37 @@
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-____________________________________
-____________________________________
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-# Public-Suffix
-# Public-Suffix
 ____________________________________
-## Processing Public-Suffix List.
-## Processing Public-Suffix List.
 # Public-Suffix
 ## Processing Public-Suffix List.
-## Setting Temporary Parsing Variables
-## Setting Temporary Parsing Variables
+## The Source In The File To Download Is
 ## Setting Temporary Parsing Variables
 ## Checking If Multiple Sources
+## Checking For HTTPS
+## The Source In The File To Download Is
+## Checking For Existing Mirror File
 ## Checking If Multiple Sources
-## Checking If Multiple Sources
-## The Source In The File To Download Is
-## The Source In The File To Download Is
-## The Source In The File To Download Is
 ## Checking For HTTPS
-## Checking For HTTPS
-## Checking For HTTPS
-## Checking For Existing Mirror File
-## Checking For Existing Mirror File
-## Checking For Existing Mirror File
 ## Pinging Source To Check Host Availability
+## The Source In The File To Download Is
+## Checking For Existing Mirror File
+## Checking For HTTPS
 ## Pinging Source To Check Host Availability
+## Checking For Existing Mirror File
 ## Pinging Source To Check Host Availability
 ## Checking If List Updated Online
 ## Checking If List Updated Online
 ## Checking If List Updated Online
-## Determining Download Attempt
-## Determining Download Attempt
 ## Determining Download Attempt
 ## Attempting To Download List
+## Determining Download Attempt
+## Determining Download Attempt
 ## Attempting To Download List
 ## Attempting To Download List
 ## Checking File Size
 ## Checking File Size
 ## Checking File Size
 ## Attempting Creation Of Mirror File
-* Public-Suffix List Was An Empty File After Download. Tue Apr  9 00:20:16 MDT 2024
 ## Attempting Creation Of Mirror File
 ## Attempting Creation Of Mirror File
 ## Clearing Temp Vars
