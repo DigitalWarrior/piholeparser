@@ -122,7 +122,6 @@ ssl.google-analytics.com
 stanev.org
 static.kickstarter.com
 stats.t-online.de
-suriert.de
 t
 t 
 t.co
