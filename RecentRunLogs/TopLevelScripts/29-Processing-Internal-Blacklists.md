@@ -3,7 +3,7 @@
 ____________________________________
 # 
 ### Checking For Script Blacklist File.
-* Script Blacklist File not there, not removing. Mon Apr 15 00:20:19 MDT 2024
+* Script Blacklist File not there, not removing. Tue Apr 16 00:20:17 MDT 2024
 ### Pulling Domains From Individual Lists.
 124 In AlexaVoiceAssistant
 122 In BlogPostAds
@@ -18,7 +18,7 @@ ____________________________________
 ____________________________________
 # 
 ### Checking For Script Blacklist File.
-* Blacklist File removed Mon Apr 15 00:20:20 MDT 2024
+* Script Blacklist File not there, not removing. Tue Apr 16 00:20:21 MDT 2024
 ### Pulling Domains From Individual Lists.
 124 In AlexaVoiceAssistant
 122 In BlogPostAds
@@ -33,7 +33,7 @@ ____________________________________
 ____________________________________
 # 
 ### Checking For Script Blacklist File.
-* Blacklist File removed Mon Apr 15 00:20:20 MDT 2024
+* Blacklist File removed Tue Apr 16 00:20:22 MDT 2024
 ### Pulling Domains From Individual Lists.
 124 In AlexaVoiceAssistant
 122 In BlogPostAds

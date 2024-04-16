@@ -3,7 +3,7 @@
 ____________________________________
 # 
 ### Checking For Script Whitelist File.
-* Script Whitelist File not there, not removing. Mon Apr 15 00:20:18 MDT 2024
+* Script Whitelist File not there, not removing. Tue Apr 16 00:20:16 MDT 2024
 ### Pulling Domains From Individual Lists.
 124 In Backupbitlockerrecoverykey
 124 In BildDE
@@ -43,7 +43,7 @@ ____________________________________
 ____________________________________
 # 
 ### Checking For Script Whitelist File.
-* Whitelist File removed Mon Apr 15 00:20:19 MDT 2024
+* Script Whitelist File not there, not removing. Tue Apr 16 00:20:20 MDT 2024
 ### Pulling Domains From Individual Lists.
 124 In Backupbitlockerrecoverykey
 124 In BildDE
@@ -62,44 +62,44 @@ ____________________________________
 # 
 122 In UserSubmitted
 ### Checking For Script Whitelist File.
-* Whitelist File removed Mon Apr 15 00:20:19 MDT 2024
+* Whitelist File removed Tue Apr 16 00:20:21 MDT 2024
 ### Pulling Domains From Individual Lists.
 124 In appleappstore
-124 In dropbox
 124 In Backupbitlockerrecoverykey
-124 In electronicarts
+124 In dropbox
 124 In BildDE
-124 In github
+124 In electronicarts
 124 In DirectTV
-124 In googlecontent
+124 In github
 124 In Facebook
-124 In googlemaps
+124 In googlecontent
 124 In Jackbox
-124 In googleplay
+124 In googlemaps
 124 In MicrosoftOffice
-124 In kickstarter
+124 In googleplay
 124 In MicrosoftWebPages
+124 In kickstarter
 122 In Script
 122 In netflix
 124 In Skype
 124 In no-ip
-114 In plex
 114 In Spotify
-124 In reddit
+114 In plex
 124 In TargetsWeeklyAds
-122 In sonarr
+124 In reddit
 122 In UserSubmitted
-124 In spiceworks
+122 In sonarr
 124 In appleappstore
-124 In steam
+124 In spiceworks
 124 In dropbox
-124 In surveymonkey
+124 In steam
 124 In electronicarts
+124 In surveymonkey
 124 In github
 124 In windows-xboxstore
-124 In youtube
 124 In googlecontent
-4312 To Whitelist
+124 In youtube
+4188 To Whitelist
 124 In googlemaps
 ### Deduplicating Merged List.
 124 In googleplay
@@ -115,6 +115,6 @@ ____________________________________
 124 In surveymonkey
 124 In windows-xboxstore
 124 In youtube
-1402 To Whitelist
+1526 To Whitelist
 ### Deduplicating Merged List.
 176 After Deduplicating Merged List.
