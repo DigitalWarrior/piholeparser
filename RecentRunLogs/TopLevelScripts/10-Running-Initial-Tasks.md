@@ -10,9 +10,9 @@ ____________________________________
 # 
 # 
 # 
-## Recreating TempVar File Wed Apr 17 00:20:14 MDT 2024
-## Recreating TempVar File Wed Apr 17 00:20:14 MDT 2024
-## Recreating TempVar File Wed Apr 17 00:20:14 MDT 2024
+## Recreating TempVar File Thu Apr 18 00:20:14 MDT 2024
+## Recreating TempVar File Thu Apr 18 00:20:14 MDT 2024
+## Recreating TempVar File Thu Apr 18 00:20:14 MDT 2024
 Process Took 0 Seconds.
 Process Took 0 Seconds.
 Process Took 0 Seconds.
@@ -22,21 +22,21 @@ Process Took 0 Seconds.
 
 
 
-## Removing Temp Files Wed Apr 17 00:20:14 MDT 2024
-## Removing Temp Files Wed Apr 17 00:20:14 MDT 2024
-## Removing Temp Files Wed Apr 17 00:20:14 MDT 2024
+## Removing Temp Files Thu Apr 18 00:20:14 MDT 2024
+## Removing Temp Files Thu Apr 18 00:20:14 MDT 2024
+## Removing Temp Files Thu Apr 18 00:20:14 MDT 2024
 Process Took 0 Seconds.
 Process Took 0 Seconds.
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/10-Removing-Temp-Files.md)
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/10-Removing-Temp-Files.md)
+
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/10-Removing-Temp-Files.md)
 
 
-
-## Setting Start Time Variable Wed Apr 17 00:20:14 MDT 2024
-## Setting Start Time Variable Wed Apr 17 00:20:14 MDT 2024
-## Setting Start Time Variable Wed Apr 17 00:20:14 MDT 2024
+## Setting Start Time Variable Thu Apr 18 00:20:14 MDT 2024
+## Setting Start Time Variable Thu Apr 18 00:20:14 MDT 2024
+## Setting Start Time Variable Thu Apr 18 00:20:14 MDT 2024
 Process Took 0 Seconds.
 Process Took 0 Seconds.
 Process Took 0 Seconds.
@@ -46,9 +46,9 @@ Process Took 0 Seconds.
 
 
 
-## Identifying Lists Without https Wed Apr 17 00:20:14 MDT 2024
-## Identifying Lists Without https Wed Apr 17 00:20:14 MDT 2024
-## Identifying Lists Without https Wed Apr 17 00:20:14 MDT 2024
+## Identifying Lists Without https Thu Apr 18 00:20:14 MDT 2024
+## Identifying Lists Without https Thu Apr 18 00:20:14 MDT 2024
+## Identifying Lists Without https Thu Apr 18 00:20:14 MDT 2024
 Process Took 0 Seconds.
 Process Took 0 Seconds.
 Process Took 0 Seconds.
@@ -58,9 +58,9 @@ Process Took 0 Seconds.
 
 
 
-## Counting Lists To Process Wed Apr 17 00:20:14 MDT 2024
-## Counting Lists To Process Wed Apr 17 00:20:14 MDT 2024
-## Counting Lists To Process Wed Apr 17 00:20:14 MDT 2024
+## Counting Lists To Process Thu Apr 18 00:20:14 MDT 2024
+## Counting Lists To Process Thu Apr 18 00:20:14 MDT 2024
+## Counting Lists To Process Thu Apr 18 00:20:14 MDT 2024
 Process Took 0 Seconds.
 Process Took 0 Seconds.
 Process Took 0 Seconds.
@@ -70,9 +70,9 @@ Process Took 0 Seconds.
 
 
 
-## Checking For Lists With Multiple Sources Wed Apr 17 00:20:14 MDT 2024
-## Checking For Lists With Multiple Sources Wed Apr 17 00:20:14 MDT 2024
-## Checking For Lists With Multiple Sources Wed Apr 17 00:20:14 MDT 2024
+## Checking For Lists With Multiple Sources Thu Apr 18 00:20:14 MDT 2024
+## Checking For Lists With Multiple Sources Thu Apr 18 00:20:14 MDT 2024
+## Checking For Lists With Multiple Sources Thu Apr 18 00:20:14 MDT 2024
 Process Took 0 Seconds.
 Process Took 0 Seconds.
 Process Took 0 Seconds.
@@ -82,15 +82,15 @@ Process Took 0 Seconds.
 
 
 
-## Checking To See If Parsing Method Has Changed Wed Apr 17 00:20:14 MDT 2024
-## Checking To See If Parsing Method Has Changed Wed Apr 17 00:20:14 MDT 2024
-## Checking To See If Parsing Method Has Changed Wed Apr 17 00:20:14 MDT 2024
-Process Took 0 Seconds.
-Process Took 0 Seconds.
+## Checking To See If Parsing Method Has Changed Thu Apr 18 00:20:14 MDT 2024
+## Checking To See If Parsing Method Has Changed Thu Apr 18 00:20:14 MDT 2024
+## Checking To See If Parsing Method Has Changed Thu Apr 18 00:20:14 MDT 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/70-Checking-To-See-If-Parsing-Method-Has-Changed.md)
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/70-Checking-To-See-If-Parsing-Method-Has-Changed.md)
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/70-Checking-To-See-If-Parsing-Method-Has-Changed.md)
+Process Took 0 Seconds.
+Process Took 0 Seconds.
 
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/70-Checking-To-See-If-Parsing-Method-Has-Changed.md)
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/70-Checking-To-See-If-Parsing-Method-Has-Changed.md)
 
 

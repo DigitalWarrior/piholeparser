@@ -45,10 +45,10 @@ ____________________________________
 ## Attempting To Download List
 ## Checking File Size
 ## Checking File Size
+## Attempting Creation Of Mirror File
+## Attempting Creation Of Mirror File
+## Clearing Temp Vars
+## Clearing Temp Vars
 ## Checking File Size
 ## Attempting Creation Of Mirror File
-## Attempting Creation Of Mirror File
-## Attempting Creation Of Mirror File
-## Clearing Temp Vars
-## Clearing Temp Vars
 ## Clearing Temp Vars
