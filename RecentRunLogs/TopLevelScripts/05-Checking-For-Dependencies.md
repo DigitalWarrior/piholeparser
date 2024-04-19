@@ -10,48 +10,48 @@ ____________________________________
 # 
 # 
 # 
-## curl Thu Apr 18 00:20:14 MDT 2024
-## curl Thu Apr 18 00:20:14 MDT 2024
-## curl Thu Apr 18 00:20:14 MDT 2024
-curl Already Installed Thu Apr 18 00:20:14 MDT 2024
-curl Already Installed Thu Apr 18 00:20:14 MDT 2024
-curl Already Installed Thu Apr 18 00:20:14 MDT 2024
-## gawk Thu Apr 18 00:20:14 MDT 2024
-## gawk Thu Apr 18 00:20:14 MDT 2024
-## gawk Thu Apr 18 00:20:14 MDT 2024
-gawk Already Installed Thu Apr 18 00:20:14 MDT 2024
-gawk Already Installed Thu Apr 18 00:20:14 MDT 2024
-gawk Already Installed Thu Apr 18 00:20:14 MDT 2024
-## idn Thu Apr 18 00:20:14 MDT 2024
-## idn Thu Apr 18 00:20:14 MDT 2024
-## idn Thu Apr 18 00:20:14 MDT 2024
-idn Already Installed Thu Apr 18 00:20:14 MDT 2024
-idn Already Installed Thu Apr 18 00:20:14 MDT 2024
-idn Already Installed Thu Apr 18 00:20:14 MDT 2024
-## p7zip Thu Apr 18 00:20:14 MDT 2024
-## p7zip Thu Apr 18 00:20:14 MDT 2024
-## p7zip Thu Apr 18 00:20:14 MDT 2024
-Installing p7zip Thu Apr 18 00:20:14 MDT 2024
-Installing p7zip Thu Apr 18 00:20:14 MDT 2024
-Installing p7zip Thu Apr 18 00:20:14 MDT 2024
-Error Installing p7zip Thu Apr 18 00:20:14 MDT 2024
-Error Installing p7zip Thu Apr 18 00:20:14 MDT 2024
-Error Installing p7zip Thu Apr 18 00:20:14 MDT 2024
-## sed Thu Apr 18 00:20:14 MDT 2024
-## sed Thu Apr 18 00:20:14 MDT 2024
-## sed Thu Apr 18 00:20:14 MDT 2024
-sed Already Installed Thu Apr 18 00:20:14 MDT 2024
-sed Already Installed Thu Apr 18 00:20:14 MDT 2024
-sed Already Installed Thu Apr 18 00:20:14 MDT 2024
-## tar Thu Apr 18 00:20:14 MDT 2024
-## tar Thu Apr 18 00:20:14 MDT 2024
-## tar Thu Apr 18 00:20:14 MDT 2024
-tar Already Installed Thu Apr 18 00:20:14 MDT 2024
-tar Already Installed Thu Apr 18 00:20:14 MDT 2024
-tar Already Installed Thu Apr 18 00:20:14 MDT 2024
-## wget Thu Apr 18 00:20:14 MDT 2024
-## wget Thu Apr 18 00:20:14 MDT 2024
-## wget Thu Apr 18 00:20:14 MDT 2024
-wget Already Installed Thu Apr 18 00:20:14 MDT 2024
-wget Already Installed Thu Apr 18 00:20:14 MDT 2024
-wget Already Installed Thu Apr 18 00:20:14 MDT 2024
+## curl Fri Apr 19 00:20:14 MDT 2024
+## curl Fri Apr 19 00:20:14 MDT 2024
+## curl Fri Apr 19 00:20:14 MDT 2024
+curl Already Installed Fri Apr 19 00:20:14 MDT 2024
+curl Already Installed Fri Apr 19 00:20:14 MDT 2024
+curl Already Installed Fri Apr 19 00:20:14 MDT 2024
+## gawk Fri Apr 19 00:20:14 MDT 2024
+## gawk Fri Apr 19 00:20:14 MDT 2024
+## gawk Fri Apr 19 00:20:14 MDT 2024
+gawk Already Installed Fri Apr 19 00:20:14 MDT 2024
+gawk Already Installed Fri Apr 19 00:20:14 MDT 2024
+gawk Already Installed Fri Apr 19 00:20:14 MDT 2024
+## idn Fri Apr 19 00:20:14 MDT 2024
+## idn Fri Apr 19 00:20:14 MDT 2024
+## idn Fri Apr 19 00:20:14 MDT 2024
+idn Already Installed Fri Apr 19 00:20:14 MDT 2024
+idn Already Installed Fri Apr 19 00:20:14 MDT 2024
+idn Already Installed Fri Apr 19 00:20:14 MDT 2024
+## p7zip Fri Apr 19 00:20:14 MDT 2024
+## p7zip Fri Apr 19 00:20:14 MDT 2024
+## p7zip Fri Apr 19 00:20:14 MDT 2024
+Installing p7zip Fri Apr 19 00:20:14 MDT 2024
+Installing p7zip Fri Apr 19 00:20:14 MDT 2024
+Installing p7zip Fri Apr 19 00:20:14 MDT 2024
+Error Installing p7zip Fri Apr 19 00:20:14 MDT 2024
+Error Installing p7zip Fri Apr 19 00:20:14 MDT 2024
+Error Installing p7zip Fri Apr 19 00:20:14 MDT 2024
+## sed Fri Apr 19 00:20:14 MDT 2024
+## sed Fri Apr 19 00:20:14 MDT 2024
+## sed Fri Apr 19 00:20:14 MDT 2024
+sed Already Installed Fri Apr 19 00:20:14 MDT 2024
+sed Already Installed Fri Apr 19 00:20:14 MDT 2024
+sed Already Installed Fri Apr 19 00:20:14 MDT 2024
+## tar Fri Apr 19 00:20:14 MDT 2024
+## tar Fri Apr 19 00:20:14 MDT 2024
+## tar Fri Apr 19 00:20:14 MDT 2024
+tar Already Installed Fri Apr 19 00:20:14 MDT 2024
+tar Already Installed Fri Apr 19 00:20:14 MDT 2024
+tar Already Installed Fri Apr 19 00:20:14 MDT 2024
+## wget Fri Apr 19 00:20:14 MDT 2024
+## wget Fri Apr 19 00:20:14 MDT 2024
+## wget Fri Apr 19 00:20:14 MDT 2024
+wget Already Installed Fri Apr 19 00:20:14 MDT 2024
+wget Already Installed Fri Apr 19 00:20:14 MDT 2024
+wget Already Installed Fri Apr 19 00:20:14 MDT 2024

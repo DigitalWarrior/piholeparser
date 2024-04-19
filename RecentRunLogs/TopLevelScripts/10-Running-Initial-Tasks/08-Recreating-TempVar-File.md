@@ -9,15 +9,15 @@
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
 ____________________________________
 ____________________________________
+# 
 ____________________________________
 # 
-# 
-# 
 ### Checking For Old TempVars File.
+# 
 ### Checking For Old TempVars File.
 ### Checking For Old TempVars File.
 * Old TempVars File Purged.
-* Old TempVars File Purged.
+* Old TempVars File Not Present.
 * Old TempVars File Purged.
 
 
