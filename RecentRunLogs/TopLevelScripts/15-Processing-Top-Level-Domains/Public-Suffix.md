@@ -1,20 +1,18 @@
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
 ____________________________________
 ____________________________________
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+# Public-Suffix
+# Public-Suffix
 ____________________________________
-# Public-Suffix
-# Public-Suffix
-# Public-Suffix
 ## Processing Public-Suffix List.
 ## Processing Public-Suffix List.
+# Public-Suffix
 ## Processing Public-Suffix List.
 ## Setting Temporary Parsing Variables
 ## Setting Temporary Parsing Variables
@@ -37,10 +35,10 @@ ____________________________________
 ## Checking If List Updated Online
 ## Checking If List Updated Online
 ## Checking If List Updated Online
-## Determining Download Attempt
 ## Determining Download Attempt
 ## Determining Download Attempt
 ## Attempting To Download List
+## Determining Download Attempt
 ## Attempting To Download List
 ## Attempting To Download List
 ## Checking File Size
