@@ -1,19 +1,21 @@
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-____________________________________
-____________________________________
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-# Public-Suffix
-# Public-Suffix
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
 ____________________________________
-## Processing Public-Suffix List.
-## Processing Public-Suffix List.
+____________________________________
+____________________________________
+# Public-Suffix
+# Public-Suffix
 # Public-Suffix
 ## Processing Public-Suffix List.
+## Processing Public-Suffix List.
+## Processing Public-Suffix List.
 ## Setting Temporary Parsing Variables
 ## Setting Temporary Parsing Variables
 ## Setting Temporary Parsing Variables
@@ -36,17 +38,19 @@ ____________________________________
 ## Checking If List Updated Online
 ## Checking If List Updated Online
 ## Determining Download Attempt
-## Determining Download Attempt
 ## Attempting To Download List
 ## Determining Download Attempt
 ## Attempting To Download List
+## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
 ## Checking File Size
 ## Checking File Size
 ## Attempting Creation Of Mirror File
-## Attempting Creation Of Mirror File
-## Attempting Creation Of Mirror File
+* Public-Suffix List Was An Empty File After Download. Mon Apr 22 00:20:16 MDT 2024
+* Public-Suffix List Was An Empty File After Download. Mon Apr 22 00:20:16 MDT 2024
 ## Clearing Temp Vars
+## Attempting Creation Of Mirror File
+## Attempting Creation Of Mirror File
 ## Clearing Temp Vars
 ## Clearing Temp Vars
