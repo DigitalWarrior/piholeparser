@@ -4,18 +4,18 @@
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
+____________________________________
+____________________________________
+# 
+# 
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-____________________________________
-____________________________________
+### Checking For Old Temp Files.
+### Checking For Old Temp Files.
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-# 
-# 
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
-### Checking For Old Temp Files.
-### Checking For Old Temp Files.
+* No Temp Files To Purge.
+* No Temp Files To Purge.
 ____________________________________
 # 
-* No Temp Files To Purge.
 ### Checking For Old Temp Files.
-* No Temp Files To Purge.
 * No Temp Files To Purge.
