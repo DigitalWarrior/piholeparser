@@ -1,14 +1,14 @@
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+____________________________________
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-____________________________________
-____________________________________
 ____________________________________
 # 
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 # 
+____________________________________
 # 
 ## Public-Suffix
 ## Public-Suffix
@@ -25,7 +25,7 @@ List Took 1 Seconds.
 ## TLD-List
 ## TLD-List
 ## TLD-List
-List Took 1 Seconds.
+List Took 2 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/TLD-List.md)
 
 ____________________________________
@@ -44,7 +44,7 @@ ____________________________________
 ### Making Backup Copy of TLD List.
 ### Checking For New TLDs.
 * No New TLD's
-List Took 2 Seconds.
+List Took 3 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/TLD-List.md)
 
 ____________________________________
@@ -55,15 +55,15 @@ ____________________________________
 ### Removing Old TEMP TLD If Present.
 Old TLD Comparison Removed.
 ### Formatting TLD List.
- After Formatting TLD List.
+7385 After Formatting TLD List.
 ### Removing Duplicatates From TLD List.
-0 After Removing Duplicatates From TLD List.
+1752 After Removing Duplicatates From TLD List.
 ____________________________________
-0 Valid TLD's Total.
+1752 Valid TLD's Total.
 ### Making Backup Copy of TLD List.
 ### Checking For New TLDs.
 * No New TLD's
-List Took 2 Seconds.
+List Took 3 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/TLD-List.md)
 
 ____________________________________
