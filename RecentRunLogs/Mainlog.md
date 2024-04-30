@@ -1,132 +1,130 @@
-##    Checking For Dependencies Mon Apr 29 00:20:14 MDT 2024
-##    Checking For Dependencies Mon Apr 29 00:20:14 MDT 2024
-##    Checking For Dependencies Mon Apr 29 00:20:14 MDT 2024
+## Creating Main Recent Run Log. Tue Apr 30 00:20:02 MDT 2024
+## Creating Main Recent Run Log. Tue Apr 30 00:20:02 MDT 2024
+* Recent Run Log Recreated.
+* Recent Run Log Recreated.
+##    Checking For Dependencies Tue Apr 30 00:20:14 MDT 2024
+##    Checking For Dependencies Tue Apr 30 00:20:14 MDT 2024
+##    Checking For Dependencies Tue Apr 30 00:20:14 MDT 2024
+Process Took 0 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/05-Checking-For-Dependencies.md)
+
 Process Took 0 Seconds.
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/05-Checking-For-Dependencies.md)
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/05-Checking-For-Dependencies.md)
 
 
-Process Took 0 Seconds.
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/05-Checking-For-Dependencies.md)
-
-##    Running Initial Tasks Mon Apr 29 00:20:14 MDT 2024
-##    Running Initial Tasks Mon Apr 29 00:20:14 MDT 2024
-##    Running Initial Tasks Mon Apr 29 00:20:14 MDT 2024
+##    Running Initial Tasks Tue Apr 30 00:20:14 MDT 2024
+##    Running Initial Tasks Tue Apr 30 00:20:14 MDT 2024
+##    Running Initial Tasks Tue Apr 30 00:20:14 MDT 2024
 Process Took 1 Seconds.
 Process Took 1 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
-
 Process Took 1 Seconds.
+
 
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
 
-##    Processing Top Level Domains Mon Apr 29 00:20:15 MDT 2024
-##    Processing Top Level Domains Mon Apr 29 00:20:15 MDT 2024
-##    Processing Top Level Domains Mon Apr 29 00:20:15 MDT 2024
+##    Processing Top Level Domains Tue Apr 30 00:20:15 MDT 2024
+##    Processing Top Level Domains Tue Apr 30 00:20:15 MDT 2024
+##    Processing Top Level Domains Tue Apr 30 00:20:15 MDT 2024
+Process Took 2 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
+
+##    Processing Internal Whitelists Tue Apr 30 00:20:17 MDT 2024
 Process Took 3 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
 
-##    Processing Internal Whitelists Mon Apr 29 00:20:18 MDT 2024
-Process Took 4 Seconds.
+##    Processing Internal Whitelists Tue Apr 30 00:20:18 MDT 2024
+Process Took 3 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
 
-##    Processing Internal Whitelists Mon Apr 29 00:20:19 MDT 2024
+##    Processing Internal Whitelists Tue Apr 30 00:20:18 MDT 2024
 Process Took 1 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/25-Processing-Internal-Whitelists.md)
 
-##    Processing External Whitelists Mon Apr 29 00:20:19 MDT 2024
+##    Processing External Whitelists Tue Apr 30 00:20:18 MDT 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/26-Processing-External-Whitelists.md)
 
-##    Processing Internal Blacklists Mon Apr 29 00:20:19 MDT 2024
+##    Processing Internal Blacklists Tue Apr 30 00:20:18 MDT 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/29-Processing-Internal-Blacklists.md)
 
-##    Processing External Blacklists Mon Apr 29 00:20:19 MDT 2024
-Process Took 4 Seconds.
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
-
+##    Processing External Blacklists Tue Apr 30 00:20:18 MDT 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
 
-##    Processing Internal Whitelists Mon Apr 29 00:20:19 MDT 2024
-##    Compiling Combined Blacklist Mon Apr 29 00:20:19 MDT 2024
+##    Compiling Combined Blacklist Tue Apr 30 00:20:18 MDT 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/40-Compiling-Combined-Blacklist.md)
 
-##    Compiling Combined Whitelist Mon Apr 29 00:20:19 MDT 2024
-Process Took 0 Seconds.
+##    Compiling Combined Whitelist Tue Apr 30 00:20:18 MDT 2024
+Process Took 1 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/45-Compiling-Combined-Whitelist.md)
 
-##    Writing Additional Lists Mon Apr 29 00:20:19 MDT 2024
 Process Took 1 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/25-Processing-Internal-Whitelists.md)
+##    Writing Additional Lists Tue Apr 30 00:20:19 MDT 2024
 
-##    Processing External Whitelists Mon Apr 29 00:20:20 MDT 2024
+##    Processing External Whitelists Tue Apr 30 00:20:19 MDT 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/26-Processing-External-Whitelists.md)
 
-##    Processing Internal Blacklists Mon Apr 29 00:20:20 MDT 2024
+##    Processing Internal Blacklists Tue Apr 30 00:20:19 MDT 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/29-Processing-Internal-Blacklists.md)
 
-##    Processing External Blacklists Mon Apr 29 00:20:20 MDT 2024
+##    Processing External Blacklists Tue Apr 30 00:20:19 MDT 2024
 Process Took 0 Seconds.
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
-
-##    Compiling Combined Blacklist Mon Apr 29 00:20:20 MDT 2024
 Process Took 1 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/25-Processing-Internal-Whitelists.md)
 
-##    Processing External Whitelists Mon Apr 29 00:20:20 MDT 2024
+
+##    Compiling Combined Blacklist Tue Apr 30 00:20:19 MDT 2024
+##    Processing External Whitelists Tue Apr 30 00:20:19 MDT 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/26-Processing-External-Whitelists.md)
 
-##    Processing Internal Blacklists Mon Apr 29 00:20:20 MDT 2024
+##    Processing Internal Blacklists Tue Apr 30 00:20:19 MDT 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/40-Compiling-Combined-Blacklist.md)
 
-##    Compiling Combined Whitelist Mon Apr 29 00:20:20 MDT 2024
+##    Compiling Combined Whitelist Tue Apr 30 00:20:19 MDT 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/29-Processing-Internal-Blacklists.md)
 
-##    Processing External Blacklists Mon Apr 29 00:20:20 MDT 2024
+##    Processing External Blacklists Tue Apr 30 00:20:19 MDT 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/30-Processing-External-Blacklists.md)
 
+##    Compiling Combined Blacklist Tue Apr 30 00:20:19 MDT 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/45-Compiling-Combined-Whitelist.md)
 
-##    Compiling Combined Blacklist Mon Apr 29 00:20:20 MDT 2024
-##    Writing Additional Lists Mon Apr 29 00:20:20 MDT 2024
-Process Took 1 Seconds.
+##    Writing Additional Lists Tue Apr 30 00:20:19 MDT 2024
+Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/40-Compiling-Combined-Blacklist.md)
 
-##    Compiling Combined Whitelist Mon Apr 29 00:20:21 MDT 2024
+##    Compiling Combined Whitelist Tue Apr 30 00:20:19 MDT 2024
 Process Took 0 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/45-Compiling-Combined-Whitelist.md)
 
-##    Writing Additional Lists Mon Apr 29 00:20:21 MDT 2024
-Process Took 4 Seconds.
+##    Writing Additional Lists Tue Apr 30 00:20:19 MDT 2024
+Process Took 2 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/60-Writing-Additional-Lists.md)
 
-##    Completing End Tasks Mon Apr 29 00:20:23 MDT 2024
-Process Took 0 Seconds.
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks.md)
-
+##    Completing End Tasks Tue Apr 30 00:20:21 MDT 2024
 Process Took 3 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/60-Writing-Additional-Lists.md)
 
-##    Completing End Tasks Mon Apr 29 00:20:23 MDT 2024
+##    Completing End Tasks Tue Apr 30 00:20:22 MDT 2024
 Process Took 3 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/60-Writing-Additional-Lists.md)
 
-##    Completing End Tasks Mon Apr 29 00:20:24 MDT 2024
-Process Took 1 Seconds.
-[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks.md)
-
-Process Took 0 Seconds.
+##    Completing End Tasks Tue Apr 30 00:20:22 MDT 2024
+Process Took 15 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks.md)
 
