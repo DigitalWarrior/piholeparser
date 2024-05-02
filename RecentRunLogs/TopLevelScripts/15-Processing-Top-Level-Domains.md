@@ -3,7 +3,7 @@
 ____________________________________
 # 
 ## Public-Suffix
-List Took 0 Seconds.
+List Took 1 Seconds.
 [Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains/Public-Suffix.md)
 
 ## TLD-List
@@ -14,11 +14,11 @@ ____________________________________
 ### Checking For Old TLD File.
 * Old TLD List Not Present.
 ### Merging Individual TLD Lists.
-34368 After Merging Individual TLD Lists.
+18706 After Merging Individual TLD Lists.
 ### Removing Old TEMP TLD If Present.
 Old TLD Comparison Not Present.
 ### Formatting TLD List.
-5937 After Formatting TLD List.
+4489 After Formatting TLD List.
 ### Removing Duplicatates From TLD List.
 1752 After Removing Duplicatates From TLD List.
 ____________________________________
