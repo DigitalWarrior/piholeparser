@@ -5,12 +5,8 @@ ____________________________________
 # TLD-List
 ## Processing TLD-List List.
 ## Setting Temporary Parsing Variables
-## Attempting To Download List
-## Checking File Size
 ## Checking If Multiple Sources
-## Attempting Creation Of Mirror File
 ## The Source In The File To Download Is
-## Clearing Temp Vars
 ## Checking For HTTPS
 ## Checking For Existing Mirror File
 ## Pinging Source To Check Host Availability
