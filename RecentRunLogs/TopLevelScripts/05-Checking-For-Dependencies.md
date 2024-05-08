@@ -1,57 +1,19 @@
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
-____________________________________
-____________________________________
 # 
-# 
-# 
-## curl Tue May  7 00:20:14 MDT 2024
-## curl Tue May  7 00:20:14 MDT 2024
-## curl Tue May  7 00:20:14 MDT 2024
-curl Already Installed Tue May  7 00:20:14 MDT 2024
-curl Already Installed Tue May  7 00:20:14 MDT 2024
-curl Already Installed Tue May  7 00:20:14 MDT 2024
-## gawk Tue May  7 00:20:14 MDT 2024
-## gawk Tue May  7 00:20:14 MDT 2024
-## gawk Tue May  7 00:20:14 MDT 2024
-gawk Already Installed Tue May  7 00:20:14 MDT 2024
-gawk Already Installed Tue May  7 00:20:14 MDT 2024
-gawk Already Installed Tue May  7 00:20:14 MDT 2024
-## idn Tue May  7 00:20:14 MDT 2024
-## idn Tue May  7 00:20:14 MDT 2024
-## idn Tue May  7 00:20:14 MDT 2024
-idn Already Installed Tue May  7 00:20:14 MDT 2024
-idn Already Installed Tue May  7 00:20:14 MDT 2024
-idn Already Installed Tue May  7 00:20:14 MDT 2024
-## p7zip Tue May  7 00:20:14 MDT 2024
-## p7zip Tue May  7 00:20:14 MDT 2024
-## p7zip Tue May  7 00:20:14 MDT 2024
-Installing p7zip Tue May  7 00:20:14 MDT 2024
-Installing p7zip Tue May  7 00:20:14 MDT 2024
-Installing p7zip Tue May  7 00:20:14 MDT 2024
-Error Installing p7zip Tue May  7 00:20:14 MDT 2024
-Error Installing p7zip Tue May  7 00:20:14 MDT 2024
-Error Installing p7zip Tue May  7 00:20:14 MDT 2024
-## sed Tue May  7 00:20:14 MDT 2024
-## sed Tue May  7 00:20:14 MDT 2024
-## sed Tue May  7 00:20:14 MDT 2024
-sed Already Installed Tue May  7 00:20:14 MDT 2024
-sed Already Installed Tue May  7 00:20:14 MDT 2024
-sed Already Installed Tue May  7 00:20:14 MDT 2024
-## tar Tue May  7 00:20:14 MDT 2024
-## tar Tue May  7 00:20:14 MDT 2024
-## tar Tue May  7 00:20:14 MDT 2024
-tar Already Installed Tue May  7 00:20:14 MDT 2024
-tar Already Installed Tue May  7 00:20:14 MDT 2024
-tar Already Installed Tue May  7 00:20:14 MDT 2024
-## wget Tue May  7 00:20:14 MDT 2024
-## wget Tue May  7 00:20:14 MDT 2024
-## wget Tue May  7 00:20:14 MDT 2024
-wget Already Installed Tue May  7 00:20:14 MDT 2024
-wget Already Installed Tue May  7 00:20:14 MDT 2024
-wget Already Installed Tue May  7 00:20:14 MDT 2024
+## curl Wed May  8 00:00:17 MDT 2024
+curl Already Installed Wed May  8 00:00:17 MDT 2024
+## gawk Wed May  8 00:00:18 MDT 2024
+gawk Already Installed Wed May  8 00:00:18 MDT 2024
+## idn Wed May  8 00:00:18 MDT 2024
+idn Already Installed Wed May  8 00:00:18 MDT 2024
+## p7zip Wed May  8 00:00:18 MDT 2024
+Installing p7zip Wed May  8 00:00:18 MDT 2024
+Error Installing p7zip Wed May  8 00:00:18 MDT 2024
+## sed Wed May  8 00:00:18 MDT 2024
+sed Already Installed Wed May  8 00:00:18 MDT 2024
+## tar Wed May  8 00:00:18 MDT 2024
+tar Already Installed Wed May  8 00:00:18 MDT 2024
+## wget Wed May  8 00:00:18 MDT 2024
+wget Already Installed Wed May  8 00:00:18 MDT 2024
