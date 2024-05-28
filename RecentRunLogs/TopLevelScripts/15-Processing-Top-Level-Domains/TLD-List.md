@@ -10,7 +10,17 @@ ____________________________________
 ## Checking For HTTPS
 ## Checking For Existing Mirror File
 ## Pinging Source To Check Host Availability
+## Determining Download Attempt
+## Attempting To Download List
 ## Checking If List Updated Online
+## Checking File Size
+## Attempting Creation Of Mirror File
+## Clearing Temp Vars
+## Determining Download Attempt
+## Attempting To Download List
+## Checking File Size
+## Attempting Creation Of Mirror File
+## Clearing Temp Vars
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
