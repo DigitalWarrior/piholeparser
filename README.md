@@ -58,7 +58,7 @@ Just add
 
 * To request a list to be whitelisted or blacklisted, please submit an issue containing WHY it should be added or removed.
 
-    BIGAPLERAWLINK
+    https://raw.githubusercontent.com/DigitalWarrior/piholeparser/master/Subscribable-Lists/CombinedBlacklists/DeathbybandaidList.txt
 
 _______________________________________________________________________________________________________________________
 
