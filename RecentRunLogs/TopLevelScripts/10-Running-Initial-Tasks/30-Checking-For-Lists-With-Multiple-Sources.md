@@ -4,21 +4,5 @@
 ____________________________________
 # 
 No Lists to Process.
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-_________________________________________
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-All Lists Only Have One Source.
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-____________________________________
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
-# 
-____________________________________
-# 
-No Lists to Process.
-_________________________________________
-No Lists to Process.
-All Lists Only Have One Source.
 _________________________________________
 All Lists Only Have One Source.

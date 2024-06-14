@@ -3,16 +3,4 @@
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
 ____________________________________
 # 
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-* Start Time Set To Thu Jun 13 00:20:14 MDT 2024
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-____________________________________
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-# 
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
-____________________________________
-# 
-* Start Time Set To Thu Jun 13 00:20:14 MDT 2024
-* Start Time Set To Thu Jun 13 00:20:14 MDT 2024
+* Start Time Set To Fri Jun 14 00:00:15 MDT 2024
