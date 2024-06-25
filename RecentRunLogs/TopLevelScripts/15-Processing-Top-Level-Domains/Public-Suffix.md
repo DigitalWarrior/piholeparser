@@ -4,14 +4,8 @@
 ____________________________________
 # Public-Suffix
 ## Processing Public-Suffix List.
-## Checking File Size
-## Checking File Size
 ## Setting Temporary Parsing Variables
-## Attempting Creation Of Mirror File
-## Attempting Creation Of Mirror File
 ## Checking If Multiple Sources
-## Clearing Temp Vars
-## Clearing Temp Vars
 ## The Source In The File To Download Is
 ## Checking For HTTPS
 ## Checking For Existing Mirror File
