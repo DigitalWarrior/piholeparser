@@ -2,5 +2,6 @@
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/.md)
 ____________________________________
+* Localhost Web Directory Not Set. Please Fix. Fri Jul 12 00:20:35 MDT 2024
 # 80-Pushing-Lists-To-Locally-Hosted-Location
-* Localhost Web Directory Not Set. Please Fix. Fri Jul 12 00:00:47 MDT 2024
+* Localhost Web Directory Not Set. Please Fix. Fri Jul 12 00:20:35 MDT 2024
