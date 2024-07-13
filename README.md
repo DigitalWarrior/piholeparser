@@ -2,8 +2,8 @@
 
 ### Last Run Stats
 
-* Script Started Sat Jul 13 00:00:15 MDT 2024
-* Script Ended Sat Jul 13 00:00:22 MDT 2024
+* Script Started Sat Jul 13 00:20:14 MDT 2024
+* Script Ended Sat Jul 13 00:20:22 MDT 2024
 * [Script Took 0 Minutes To Filter 0 Lists. See Log Here.](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 * The Edited AllParsed File is 0 MB And Contains 3159 Domains.
 * Average Parsing Of unknown lines in unknown BlackLists was unknown Seconds.
