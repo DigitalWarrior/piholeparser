@@ -1,57 +1,19 @@
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-____________________________________
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-# 
 ____________________________________
 # 
-## curl Sat Jul 13 00:20:14 MDT 2024
-## curl Sat Jul 13 00:20:14 MDT 2024
-curl Already Installed Sat Jul 13 00:20:14 MDT 2024
-curl Already Installed Sat Jul 13 00:20:14 MDT 2024
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-____________________________________
-## gawk Sat Jul 13 00:20:14 MDT 2024
-# 
-## gawk Sat Jul 13 00:20:14 MDT 2024
-gawk Already Installed Sat Jul 13 00:20:14 MDT 2024
-gawk Already Installed Sat Jul 13 00:20:14 MDT 2024
-## curl Sat Jul 13 00:20:14 MDT 2024
-## idn Sat Jul 13 00:20:14 MDT 2024
-curl Already Installed Sat Jul 13 00:20:14 MDT 2024
-## idn Sat Jul 13 00:20:14 MDT 2024
-idn Already Installed Sat Jul 13 00:20:14 MDT 2024
-idn Already Installed Sat Jul 13 00:20:14 MDT 2024
-## gawk Sat Jul 13 00:20:14 MDT 2024
-## p7zip Sat Jul 13 00:20:14 MDT 2024
-gawk Already Installed Sat Jul 13 00:20:14 MDT 2024
-## p7zip Sat Jul 13 00:20:14 MDT 2024
-Installing p7zip Sat Jul 13 00:20:14 MDT 2024
-Installing p7zip Sat Jul 13 00:20:14 MDT 2024
-Error Installing p7zip Sat Jul 13 00:20:14 MDT 2024
-Error Installing p7zip Sat Jul 13 00:20:14 MDT 2024
-## idn Sat Jul 13 00:20:14 MDT 2024
-idn Already Installed Sat Jul 13 00:20:14 MDT 2024
-## sed Sat Jul 13 00:20:14 MDT 2024
-## sed Sat Jul 13 00:20:14 MDT 2024
-sed Already Installed Sat Jul 13 00:20:14 MDT 2024
-sed Already Installed Sat Jul 13 00:20:14 MDT 2024
-## p7zip Sat Jul 13 00:20:14 MDT 2024
-Installing p7zip Sat Jul 13 00:20:14 MDT 2024
-## tar Sat Jul 13 00:20:14 MDT 2024
-Error Installing p7zip Sat Jul 13 00:20:14 MDT 2024
-## tar Sat Jul 13 00:20:14 MDT 2024
-tar Already Installed Sat Jul 13 00:20:14 MDT 2024
-tar Already Installed Sat Jul 13 00:20:14 MDT 2024
-## sed Sat Jul 13 00:20:14 MDT 2024
-## wget Sat Jul 13 00:20:14 MDT 2024
-sed Already Installed Sat Jul 13 00:20:14 MDT 2024
-## wget Sat Jul 13 00:20:14 MDT 2024
-wget Already Installed Sat Jul 13 00:20:14 MDT 2024
-wget Already Installed Sat Jul 13 00:20:14 MDT 2024
-## tar Sat Jul 13 00:20:14 MDT 2024
-tar Already Installed Sat Jul 13 00:20:14 MDT 2024
-## wget Sat Jul 13 00:20:14 MDT 2024
-wget Already Installed Sat Jul 13 00:20:14 MDT 2024
+## curl Sun Jul 14 00:00:14 MDT 2024
+curl Already Installed Sun Jul 14 00:00:14 MDT 2024
+## gawk Sun Jul 14 00:00:14 MDT 2024
+gawk Already Installed Sun Jul 14 00:00:14 MDT 2024
+## idn Sun Jul 14 00:00:14 MDT 2024
+idn Already Installed Sun Jul 14 00:00:14 MDT 2024
+## p7zip Sun Jul 14 00:00:14 MDT 2024
+Installing p7zip Sun Jul 14 00:00:14 MDT 2024
+Error Installing p7zip Sun Jul 14 00:00:14 MDT 2024
+## sed Sun Jul 14 00:00:14 MDT 2024
+sed Already Installed Sun Jul 14 00:00:14 MDT 2024
+## tar Sun Jul 14 00:00:14 MDT 2024
+tar Already Installed Sun Jul 14 00:00:14 MDT 2024
+## wget Sun Jul 14 00:00:14 MDT 2024
+wget Already Installed Sun Jul 14 00:00:14 MDT 2024
