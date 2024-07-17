@@ -8,19 +8,9 @@ ____________________________________
 ## Checking If Multiple Sources
 ## The Source In The File To Download Is
 ## Checking For HTTPS
-## Determining Download Attempt
 ## Checking For Existing Mirror File
-## Attempting To Download List
 ## Pinging Source To Check Host Availability
-## Determining Download Attempt
-## Checking File Size
-## Attempting To Download List
-## Attempting Creation Of Mirror File
-## Checking File Size
-## Clearing Temp Vars
-## Attempting Creation Of Mirror File
 ## Checking If List Updated Online
-## Clearing Temp Vars
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
