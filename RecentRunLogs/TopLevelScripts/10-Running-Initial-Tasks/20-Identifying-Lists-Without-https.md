@@ -5,41 +5,11 @@ ____________________________________
 # 
 ### Checking For Old https-Less File.
 * Old https-less List Does Not Exist.
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-___________________________________________________________________
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
-### Lists That Do NOT use https.
-____________________________________
-# 
-### Checking For Old https-Less File.
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-All Lists Use https.
-* Old https-less List Does Not Exist.
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
-
-___________________________________________________________________
-____________________________________
 ___________________________________________________________________
 ### Lists That Do NOT use https.
-# 
-### TLD Lists That Do NOT use https.
-### Checking For Old https-Less File.
-All Lists Use https.
-* Old https-less List Does Not Exist.
-
-
-___________________________________________________________________
-___________________________________________________________________
-### Lists That Do NOT use https.
-### TLD Lists That Do NOT use https.
-All TLD Lists Use https.
 All Lists Use https.
 
 ___________________________________________________________________
 ### TLD Lists That Do NOT use https.
-All TLD Lists Use https.
 All TLD Lists Use https.
