@@ -2,13 +2,13 @@
 
 ### Last Run Stats
 
-* Script Started Wed Aug  7 00:20:14 MDT 2024
-* Script Ended Wed Aug  7 00:20:22 MDT 2024
-* [Script Took 0 Minutes To Filter 0 Lists. See Log Here.](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-* The Edited AllParsed File is 0 MB And Contains 3159 Domains.
-* Average Parsing Of unknown lines in unknown BlackLists was unknown Seconds.
-* 1752 Valid Top Level Domains. No New TLD's.
-* [No Lists That Do NOT Use https](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/20-Identifying-Lists-Without-https.md)
+* Error Setting Start Time.
+* 
+* [Error Calculating Script Run Time.](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+* Error Calculating Size of AllParsed File.
+* Error Setting Average Parse Time.
+* Error Setting The Amount Of Valid TLD's.
+* [LISTSWITHOUTHTTPSLINKA](LISTSWITHOUTHTTPSLINKB)
 
 ### This Project Aims To Universally take ANY Blacklist, and ensure that it is formatted to be compatible with [Pi-hole(tm)](https://pi-hole.net/)
 
@@ -52,13 +52,13 @@ Simply copy the RAW format url for the list and add them.
 
 Just add
 
-    https://raw.githubusercontent.com/DigitalWarrior/piholeparser/master/Subscribable-Lists/CombinedBlacklists/CombinedBlackLists.txt
+    BIGAPLRAWLINK
 
 ###### I also have a list that is driven by the userbase.
 
 * To request a list to be whitelisted or blacklisted, please submit an issue containing WHY it should be added or removed.
 
-    https://raw.githubusercontent.com/DigitalWarrior/piholeparser/master/Subscribable-Lists/CombinedBlacklists/DeathbybandaidList.txt
+    BIGAPLERAWLINK
 
 _______________________________________________________________________________________________________________________
 
