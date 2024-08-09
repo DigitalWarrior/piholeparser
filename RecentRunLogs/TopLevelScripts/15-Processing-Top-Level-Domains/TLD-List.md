@@ -3,35 +3,14 @@
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/15-Processing-Top-Level-Domains.md)
 ____________________________________
 # TLD-List
-## Checking If Multiple Sources
 ## Processing TLD-List List.
-## The Source In The File To Download Is
 ## Setting Temporary Parsing Variables
-## The Source In The File To Download Is
-## Checking For HTTPS
 ## Checking If Multiple Sources
-## Checking For HTTPS
-## Checking For Existing Mirror File
-## Checking For Existing Mirror File
-## Pinging Source To Check Host Availability
 ## The Source In The File To Download Is
-## Pinging Source To Check Host Availability
 ## Checking For HTTPS
 ## Checking For Existing Mirror File
 ## Pinging Source To Check Host Availability
 ## Checking If List Updated Online
-## Checking If List Updated Online
-## Checking If List Updated Online
-## Determining Download Attempt
-## Attempting To Download List
-## Checking File Size
-## Attempting Creation Of Mirror File
-## Clearing Temp Vars
-## Determining Download Attempt
-## Attempting To Download List
-## Checking File Size
-## Attempting Creation Of Mirror File
-## Clearing Temp Vars
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
