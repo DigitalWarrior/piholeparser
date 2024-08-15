@@ -7,6 +7,32 @@ ____________________________________
 * Old TempVars File Purged.
 
 ### Checking For Other Temp Vars Files.
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
+* Other Temp Vars Files Purged.
+____________________________________
+# 
+
+### Checking For Old TempVars File.
+### Checking For TempVars File.
+* Old TempVars File Purged.
+* TempVars Files Missing, Script Exited.
+
+[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
+### Checking For Other Temp Vars Files.
+[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
+[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
+* Other Temp Vars Files Purged.
+____________________________________
+# 
+
+### Checking For Old TempVars File.
+* Old TempVars File Not Present.
+### Checking For TempVars File.
+
+* TempVars File Recreated.
+### Checking For Other Temp Vars Files.
 * Other Temp Vars Files Purged.
 
 ### Checking For TempVars File.
