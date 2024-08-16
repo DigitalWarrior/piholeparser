@@ -3,4 +3,4 @@
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/.md)
 ____________________________________
 # 80-Pushing-Lists-To-Locally-Hosted-Location
-* Localhost Web Directory Not Set. Please Fix. Thu Aug 15 00:20:34 MDT 2024
+* Localhost Web Directory Not Set. Please Fix. Fri Aug 16 00:00:35 MDT 2024
