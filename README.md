@@ -2,10 +2,10 @@
 
 ### Last Run Stats
 
-* Script Started Sun Aug 25 00:00:14 MDT 2024
-* Script Ended Sun Aug 25 00:00:21 MDT 2024
+* Script Started Sun Aug 25 00:20:14 MDT 2024
+* Script Ended Sun Aug 25 00:20:21 MDT 2024
 * [Script Took 0 Minutes To Filter 0 Lists. See Log Here.](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-* The Edited AllParsed File is 0 MB And Contains 3159 Domains.
+* The Edited AllParsed File is 0 MB And Contains 422 Domains.
 * Average Parsing Of unknown lines in unknown BlackLists was unknown Seconds.
 * 1752 Valid Top Level Domains. No New TLD's.
 * [No Lists That Do NOT Use https](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks/20-Identifying-Lists-Without-https.md)
