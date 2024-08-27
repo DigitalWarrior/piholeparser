@@ -4,4 +4,3 @@
 ____________________________________
 # 15-Calculating-Average-Parsing-Lines
 * Average Parsing Lines was unknown.
-* Average Parsing Lines was unknown.

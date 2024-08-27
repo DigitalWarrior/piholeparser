@@ -4,4 +4,3 @@
 ____________________________________
 # 10-Calculating-Average-Parsing-Time
 * Average Parsing Time Of unknown Lists Was unknown Seconds.
-* Average Parsing Time Of unknown Lists Was unknown Seconds.
