@@ -7,8 +7,8 @@
 * [Error Calculating Script Run Time.](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 * Error Calculating Size of AllParsed File.
 * Error Setting Average Parse Time.
-* THEAMOUNTOFVALIDTLDS
-* [LISTSWITHOUTHTTPSLINKA](LISTSWITHOUTHTTPSLINKB)
+* Error Setting The Amount Of Valid TLD's.
+* [Error Setting https-less Link]()
 
 ### This Project Aims To Universally take ANY Blacklist, and ensure that it is formatted to be compatible with [Pi-hole(tm)](https://pi-hole.net/)
 
@@ -52,13 +52,13 @@ Simply copy the RAW format url for the list and add them.
 
 Just add
 
-    BIGAPLRAWLINK
+    https://raw.githubusercontent.com/DigitalWarrior/piholeparser/master/Subscribable-Lists/CombinedBlacklists/CombinedBlackLists.txt
 
 ###### I also have a list that is driven by the userbase.
 
 * To request a list to be whitelisted or blacklisted, please submit an issue containing WHY it should be added or removed.
 
-    BIGAPLERAWLINK
+    https://raw.githubusercontent.com/DigitalWarrior/piholeparser/master/Subscribable-Lists/CombinedBlacklists/DeathbybandaidList.txt
 
 _______________________________________________________________________________________________________________________
 
