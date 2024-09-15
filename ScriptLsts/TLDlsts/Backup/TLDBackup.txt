@@ -817,6 +817,7 @@ memorial
 men
 menu
 meo
+merck
 merckmsd
 metlife
 mf
