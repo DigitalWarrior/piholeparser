@@ -3,5 +3,4 @@
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/.md)
 ____________________________________
 # 60-Compiling-Combined-List
-* All Parsed List Removed. Thu Sep 26 00:20:18 MDT 2024
-* Allparsedlist list was an empty file Thu Sep 26 00:20:18 MDT 2024
+* All Parsed List Removed. Fri Sep 27 00:00:19 MDT 2024
