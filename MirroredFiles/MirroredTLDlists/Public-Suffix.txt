@@ -495,6 +495,7 @@ ato.br
 b.br
 barueri.br
 belem.br
+bet.br
 bhz.br
 bib.br
 bio.br
@@ -582,6 +583,7 @@ joinville.br
 jor.br
 jus.br
 leg.br
+leilao.br
 lel.br
 log.br
 londrina.br
@@ -12432,10 +12434,6 @@ objects.rma.cloudscale.ch
 // Submitted by Patrick Nielsen <patrick@clovyr.io>
 wnext.app
 
-// CNPY : https://cnpy.gdn
-// Submitted by Angelo Gladding <angelo@lahacker.net>
-cnpy.gdn
-
 // Co & Co : https://co-co.nl/
 // Submitted by Govert Versluis <govert@co-co.nl>
 *.otap.co
@@ -14289,6 +14287,15 @@ routingthecloud.org
 // minion.systems : http://minion.systems
 // Submitted by Robert Böttinger <r@minion.systems>
 csx.cc
+
+// Mittwald CM Service GmbH & Co. KG : https://mittwald.de
+// Submitted by Marco Rieger <security@mittwald.de>
+mydbserver.com
+webspaceconfig.de
+mittwald.info
+mittwaldserver.info
+typo3server.info
+project.space
 
 // MODX Systems LLC : https://modx.com
 // Submitted by Elizabeth Southwell <elizabeth@modx.com>
