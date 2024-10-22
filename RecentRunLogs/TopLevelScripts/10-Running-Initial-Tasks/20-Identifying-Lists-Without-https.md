@@ -1,44 +1,14 @@
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
 [Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-____________________________________
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
-# 
 ____________________________________
 # 
 ### Checking For Old https-Less File.
 * Old https-less List Does Not Exist.
-### Checking For Old https-Less File.
-
-* Old https-less List Does Not Exist.
-___________________________________________________________________
-
-### Lists That Do NOT use https.
-___________________________________________________________________
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-### Lists That Do NOT use https.
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-All Lists Use https.
-[Go Up One Level](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/10-Running-Initial-Tasks.md)
-____________________________________
-All Lists Use https.
-
-# 
-___________________________________________________________________
-
-### TLD Lists That Do NOT use https.
-### Checking For Old https-Less File.
-___________________________________________________________________
-* Old https-less List Does Not Exist.
-### TLD Lists That Do NOT use https.
 
 ___________________________________________________________________
 ### Lists That Do NOT use https.
 All Lists Use https.
-All TLD Lists Use https.
-All TLD Lists Use https.
 
 ___________________________________________________________________
 ### TLD Lists That Do NOT use https.
