@@ -1,57 +1,19 @@
 [Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 [Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
 ____________________________________
-[Return To Repository](https://github.com/DigitalWarrior/piholeparser/)
-____________________________________
 # 
-[Return To Main](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/Mainlog.md)
-# 
-____________________________________
-# 
-## curl Wed Oct 30 00:20:14 MDT 2024
-## curl Wed Oct 30 00:20:14 MDT 2024
-curl Already Installed Wed Oct 30 00:20:14 MDT 2024
-curl Already Installed Wed Oct 30 00:20:14 MDT 2024
-## curl Wed Oct 30 00:20:14 MDT 2024
-curl Already Installed Wed Oct 30 00:20:14 MDT 2024
-## gawk Wed Oct 30 00:20:14 MDT 2024
-## gawk Wed Oct 30 00:20:14 MDT 2024
-gawk Already Installed Wed Oct 30 00:20:14 MDT 2024
-## gawk Wed Oct 30 00:20:14 MDT 2024
-gawk Already Installed Wed Oct 30 00:20:14 MDT 2024
-gawk Already Installed Wed Oct 30 00:20:14 MDT 2024
-## idn Wed Oct 30 00:20:14 MDT 2024
-## idn Wed Oct 30 00:20:14 MDT 2024
-idn Already Installed Wed Oct 30 00:20:14 MDT 2024
-## idn Wed Oct 30 00:20:14 MDT 2024
-idn Already Installed Wed Oct 30 00:20:14 MDT 2024
-idn Already Installed Wed Oct 30 00:20:14 MDT 2024
-## p7zip Wed Oct 30 00:20:14 MDT 2024
-## p7zip Wed Oct 30 00:20:14 MDT 2024
-Installing p7zip Wed Oct 30 00:20:14 MDT 2024
-## p7zip Wed Oct 30 00:20:14 MDT 2024
-Installing p7zip Wed Oct 30 00:20:14 MDT 2024
-Installing p7zip Wed Oct 30 00:20:14 MDT 2024
-Error Installing p7zip Wed Oct 30 00:20:14 MDT 2024
-Error Installing p7zip Wed Oct 30 00:20:14 MDT 2024
-Error Installing p7zip Wed Oct 30 00:20:14 MDT 2024
-## sed Wed Oct 30 00:20:14 MDT 2024
-## sed Wed Oct 30 00:20:14 MDT 2024
-## sed Wed Oct 30 00:20:14 MDT 2024
-sed Already Installed Wed Oct 30 00:20:14 MDT 2024
-sed Already Installed Wed Oct 30 00:20:14 MDT 2024
-sed Already Installed Wed Oct 30 00:20:14 MDT 2024
-## tar Wed Oct 30 00:20:14 MDT 2024
-## tar Wed Oct 30 00:20:14 MDT 2024
-## tar Wed Oct 30 00:20:14 MDT 2024
-tar Already Installed Wed Oct 30 00:20:14 MDT 2024
-tar Already Installed Wed Oct 30 00:20:14 MDT 2024
-tar Already Installed Wed Oct 30 00:20:14 MDT 2024
-## wget Wed Oct 30 00:20:14 MDT 2024
-## wget Wed Oct 30 00:20:14 MDT 2024
-## wget Wed Oct 30 00:20:14 MDT 2024
-wget Already Installed Wed Oct 30 00:20:14 MDT 2024
-wget Already Installed Wed Oct 30 00:20:14 MDT 2024
-wget Already Installed Wed Oct 30 00:20:14 MDT 2024
+## curl Thu Oct 31 00:00:15 MDT 2024
+curl Already Installed Thu Oct 31 00:00:15 MDT 2024
+## gawk Thu Oct 31 00:00:15 MDT 2024
+gawk Already Installed Thu Oct 31 00:00:15 MDT 2024
+## idn Thu Oct 31 00:00:15 MDT 2024
+idn Already Installed Thu Oct 31 00:00:15 MDT 2024
+## p7zip Thu Oct 31 00:00:15 MDT 2024
+Installing p7zip Thu Oct 31 00:00:15 MDT 2024
+Error Installing p7zip Thu Oct 31 00:00:15 MDT 2024
+## sed Thu Oct 31 00:00:15 MDT 2024
+sed Already Installed Thu Oct 31 00:00:15 MDT 2024
+## tar Thu Oct 31 00:00:15 MDT 2024
+tar Already Installed Thu Oct 31 00:00:15 MDT 2024
+## wget Thu Oct 31 00:00:15 MDT 2024
+wget Already Installed Thu Oct 31 00:00:15 MDT 2024
