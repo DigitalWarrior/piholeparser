@@ -4,34 +4,13 @@
 ____________________________________
 # TLD-List
 ## Processing TLD-List List.
-## The Source In The File To Download Is
-## Checking If Multiple Sources
 ## Setting Temporary Parsing Variables
-## Checking For HTTPS
-## The Source In The File To Download Is
 ## Checking If Multiple Sources
-## Checking For Existing Mirror File
-## Checking For HTTPS
 ## The Source In The File To Download Is
-## Pinging Source To Check Host Availability
-## Checking For Existing Mirror File
 ## Checking For HTTPS
-## Pinging Source To Check Host Availability
 ## Checking For Existing Mirror File
 ## Pinging Source To Check Host Availability
 ## Checking If List Updated Online
-## Checking If List Updated Online
-## Checking If List Updated Online
-## Determining Download Attempt
-## Attempting To Download List
-## Checking File Size
-## Attempting Creation Of Mirror File
-## Clearing Temp Vars
-## Determining Download Attempt
-## Attempting To Download List
-## Checking File Size
-## Attempting Creation Of Mirror File
-## Clearing Temp Vars
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
