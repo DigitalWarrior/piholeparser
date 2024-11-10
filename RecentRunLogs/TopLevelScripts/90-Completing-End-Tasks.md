@@ -76,3 +76,22 @@ Process Took 0 Seconds.
 
 
 ## Adjusting README Sun Nov 10 00:20:35 MST 2024
+Process Took 0 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/70-Adjusting-README.md)
+
+## Removing Temporary Script Files Sun Nov 10 00:20:35 MST 2024
+Process Took 0 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/75-Removing-Temporary-Script-Files.md)
+
+Process Took 14 Seconds.
+## Pushing Lists To Locally Hosted Location Sun Nov 10 00:20:35 MST 2024
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/65-Calculating-TLD-Percentages.md)
+
+## Looking At What Did Not Pass TLD Test Sun Nov 10 00:20:35 MST 2024
+Process Took 0 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/80-Pushing-Lists-To-Locally-Hosted-Location.md)
+
+Process Took 0 Seconds.
+[Details If Any](https://github.com/DigitalWarrior/piholeparser/blob/master/RecentRunLogs/TopLevelScripts/90-Completing-End-Tasks/68-Looking-At-What-Did-Not-Pass-TLD-Test.md)
+
+## Adjusting README Sun Nov 10 00:20:35 MST 2024
