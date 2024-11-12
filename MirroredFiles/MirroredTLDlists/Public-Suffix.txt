@@ -5,8 +5,8 @@
 // Please pull this list from, and only from https://publicsuffix.org/list/public_suffix_list.dat,
 // rather than any other VCS sites. Pulling from any other URL is not guaranteed to be supported.
 
-// VERSION: 2024-11-07_17-56-52_UTC
-// COMMIT: e65bca4146a494d60dd4d3beb4a244376fb3825b
+// VERSION: 2024-11-11_07-05-13_UTC
+// COMMIT: 2733c1c9d0dad52c58e1fd04ea33952751a1f2fb
 
 // Instructions on pulling and using this list can be found at https://publicsuffix.org/list/.
 
@@ -13679,7 +13679,6 @@ häkkinen.fi
 
 // Harrison Network : https://hrsn.net
 // Submitted by William Harrison <psl@hrsn.net>
-wdh.app
 hrsn.dev
 
 // Hashbang : https://hashbang.sh
@@ -15630,6 +15629,10 @@ pages.wiardweb.com
 toolforge.org
 wmcloud.org
 wmflabs.org
+
+// William Harrison : https://wdh.gg
+// Submitted by William Harrison <william@harrison.id.au>
+wdh.app
 
 // WISP : https://wisp.gg
 // Submitted by Stepan Fedotov <stepan@wisp.gg>
