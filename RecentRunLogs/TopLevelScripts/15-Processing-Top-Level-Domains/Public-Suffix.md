@@ -7,22 +7,10 @@ ____________________________________
 ## Setting Temporary Parsing Variables
 ## Checking If Multiple Sources
 ## The Source In The File To Download Is
-## Checking If List Updated Online
 ## Checking For HTTPS
-## Checking If List Updated Online
 ## Checking For Existing Mirror File
 ## Pinging Source To Check Host Availability
-## Determining Download Attempt
 ## Checking If List Updated Online
-## Determining Download Attempt
-## Attempting To Download List
-## Attempting To Download List
-## Checking File Size
-## Checking File Size
-## Attempting Creation Of Mirror File
-## Attempting Creation Of Mirror File
-## Clearing Temp Vars
-## Clearing Temp Vars
 ## Determining Download Attempt
 ## Attempting To Download List
 ## Checking File Size
