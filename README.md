@@ -52,13 +52,13 @@ Simply copy the RAW format url for the list and add them.
 
 Just add
 
-    BIGAPLRAWLINK
+    https://raw.githubusercontent.com/DigitalWarrior/piholeparser/master/Subscribable-Lists/CombinedBlacklists/CombinedBlackLists.txt
 
 ###### I also have a list that is driven by the userbase.
 
 * To request a list to be whitelisted or blacklisted, please submit an issue containing WHY it should be added or removed.
 
-    BIGAPLERAWLINK
+    https://raw.githubusercontent.com/DigitalWarrior/piholeparser/master/Subscribable-Lists/CombinedBlacklists/DeathbybandaidList.txt
 
 _______________________________________________________________________________________________________________________
 
